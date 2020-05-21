@@ -1,0 +1,39 @@
+[
+
+  {
+    "Name": "White Pine Logs",
+    "Description": "It's a very soft wood.",
+    "gatherString": "You chop some white pine logs.",
+    "value": 3,
+    "gatherSpeed": 10,
+    "experienceGained": "Woodcutting:8",
+    "icon": "Log",
+    "requirements": [
+      {
+        "skill": "Woodcutting",
+        "skillLevel": 1
+      },
+      {
+        "action": "Woodcutting"
+      }
+    ]
+  },
+  {
+    "Name": "Poplar Logs",
+    "Description": "It's a less soft wood.",
+    "gatherString": "You chop some poplar logs.",
+    "value": 9,
+    "gatherSpeed": 30,
+    "experienceGained": "Woodcutting:24",
+    "icon": "Log",
+    "requirements": [
+      {
+        "skill": "Woodcutting",
+        "skillLevel": 8
+      },
+      {
+        "action": "Woodcutting"
+      }
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "Name": "Copper Ore",
+    "Description": "It's a very soft, green ore.",
+    "gatherString": "You mine some copper ore.",
+    "value": 10,
+    "gatherSpeed": 15,
+    "requiredLevel": 1,
+    "experienceGained": "Mining:8",
+    "icon": "Ore",
+    "smithingInfo": {
+      "smeltsIntoString": "Copper Bar",
+      "smeltingExperience": 12
+    },
+    "requirements": [
+      {
+        "skill": "Mining",
+        "skillLevel": 1
+      },
+      {
+        "action": "Mining"
+      }
+    ]
+  },
+  {
+    "Name": "Tin Ore",
+    "Description": "A beautiful ore with ditetragonal dipramidal crystals.",
+    "gatherString": "You mine some tin ore.",
+    "value": 10,
+    "gatherSpeed": 15,
+    "experienceGained": "Mining:8",
+    "icon": "Ore",
+    "smithingInfo": {
+      "smeltsIntoString": "Tin Bar",
+      "smeltingExperience": 18
+    },
+    "requirements": [
+      {
+        "skill": "Mining",
+        "skillLevel": 1
+      },
+      {
+        "action": "Mining"
+      }
+    ]
+  },
+  {
+    "Name": "Copper Bar",
+    "Description": "The squishiest metal bar.",
+    "gatherString": "You smelt a copper bar.",
+    "value": 50,
+    "gatherSpeed": 15,
+    "experienceGained": "Smithing:15",
+    "icon": "Bar",
+    "smithingInfo": {
+      "smeltsIntoString": "Copper Bar",
+      "smithsIntoString": [
+        "Copper Knife",
+        "Copper Sword",
+        "Copper Hammer",
+        "Copper Axe"
+      ],
+      "smithingExperience": 15
+    },
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 1
+      }
+    ]
+  },
+  {
+    "Name": "Tin Bar",
+    "Description": "A beautiful, soft metal bar.",
+    "gatherString": "You smelt a tin bar.",
+    "value": 50,
+    "gatherSpeed": 15,
+    "requiredLevel": 4,
+    "experienceGained": "Smithing:18",
+    "requiredAction": "Smithing",
+    "icon": "Bar",
+    "smithingInfo": {
+      "smeltsIntoString": "Tin Bar",
+      "smithsIntoString": [
+        "Tin Knife",
+        "Tin Sword",
+        "Tin Hammer",
+        "Tin Axe"
+      ],
+      "smithingExperience": 20
+    },
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 4
+      }
+    ]
+  }
+]

@@ -1,12 +1,23 @@
 [
   {
     "Name": "White Belt",
-    "id": 200000,
     "value": 500,
     "Description": "A white belt that proves you don't know anything yet.",
-    "armorBonus": 1,
-    "damage": 3,
     "icon": "Belt",
-    "equipSlot": "Waist"
+    "equipSlot": "Waist",
+    "armorInfo": {
+      "damage": 3,
+      "armorBonus": 1
+    }
+  },
+  {
+    "name": "Bandit's Boots",
+    "value": 30,
+    "description": "A pair of boots taken from a bandit who probably won't be using them anymore.",
+    "icon": "Boots",
+    "armorInfo": {
+      "armorBonus": 1
+    }
+
   }
 ]

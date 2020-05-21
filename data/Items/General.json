@@ -2,21 +2,56 @@
   {
     "Name": "Coins",
     "Description": "Cash Money.",
-    "id": 0,
     "value": 1,
     "isStackable": true,
     "icon": "Gold"
   },
   {
-    "Name": "White Pine Logs",
-    "Description": "It's a very soft wood.",
-    "gatherString": "You chop some white pine logs.",
-    "id": 1,
-    "value": 3,
-    "gatherSpeed": 10,
-    "requiredLevel": 1,
-    "experienceGained": "Woodcutting:8",
-    "skillRequired": "Woodcutting",
-    "icon": "Log"
+    "Name": "Shuniku Berries",
+    "Description": "Disgusting tasting berries that will stain your mouth red.",
+    "gatherString": "You gather some berries.",
+    "value": 2,
+    "gatherSpeed": 8,
+    "icon": "Berries"
+  },
+  {
+    "Name": "No Soliciting Sign",
+    "Description": "A poorly written sign.",
+    "gatherString": "You get an ugly sign.",
+    "value": 0,
+    "gatherSpeed": 8,
+    "icon": "Sign"
+  },
+  {
+    "Name": "Wood Carving Knife",
+    "Description": "A specially designed knife for carving wood.",
+    "value": 60,
+    "icon": "Knife"
+  },
+  {
+    "name": "Feather",
+    "description": "Soft, fluffy, and useful for making arrows with.",
+    "value": 1,
+    "icon": "Feather",
+    "isStackable": true
+  },
+  {
+    "name": "Chicken Egg",
+    "description": "A small egg from a chicken.",
+    "value": 10,
+    "icon": "Egg"
+  },
+  {
+    "name": "Chicken Meat",
+    "description": "The meat of a chicken.",
+    "value": 10,
+    "icon": "Bird"
+  },
+  {
+    "name": "Rooster Plumage",
+    "description": "A bunch of feathers from a male chicken.",
+    "value": 15,
+    "icon": "Feather",
+    "isStackable": true
   }
 ]
