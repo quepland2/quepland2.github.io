@@ -7,7 +7,8 @@
       "Teppas",
       "Lower Mt Queple Trail",
       "Upper Mt Queple Trail",
-      "Eastern Trail"
+      "Eastern Trail",
+      "Northern Trail"
     ],
     "isUnlocked": true
   },
@@ -24,7 +25,84 @@
     "name": "Sawabe Swamp",
     "areaNames": [
       "Swampedge",
-      "Swampwood"
+      "Swampwood",
+      "Sawoka"
+    ]
+  },
+  {
+    "name": "Higashi Woods",
+    "areaNames": [
+      "Cochee Clearing",
+      "Higashi Woods",
+      "Deep Higashi Woods",
+      "Higashi Bridge",
+      "East Higashi Woods",
+      "Higashi Canyon Floor"
+    ]
+  },
+  {
+    "name": "Cantila Coast",
+    "areaNames": [
+      "Cantila Beach",
+      "Uragota Town",
+      "Darkbourne Bridge",
+      "West Uragota Docks",
+      "East Uragota Docks"
+    ]
+  },
+  {
+    "name": "Cantila Coast",
+    "areaNames": [
+      "Cantila Beach",
+      "Uragota Town",
+      "Darkbourne Bridge",
+      "West Uragota Docks",
+      "East Uragota Docks"
+    ]
+  },
+  {
+    "name": "Tackure Islet",
+    "areaNames": [
+      "Koya Hasa",
+      "Manayo Village",
+      "Wana Tona Lake",
+      "Sotu Nran"
+    ]
+  },
+  {
+    "name": "Sabbach Waste",
+    "areaNames": [
+      "Southern Trail",
+      "Route 7",
+      "Desert's Mouth",
+      "Bunkten's Crossing",
+      "Abandoned Shack",
+      "Oasis",
+      "Leupp",
+      "North Leupp"
+    ]
+  },
+  {
+    "name": "Hojkma Isles",
+    "areaNames": [
+      "Kogoe Docks",
+      "Kogoe Town",
+      "Fjellover Pass",
+      "Foot of Mt Yama",
+      "Mt Yama",
+      "Mt Yama Cave",
+      "Mt Yama Mine"
+    ]
+  },
+  {
+    "name": "Hoin River Valley",
+    "areaNames": [
+      "Hoin Riverbank",
+      "Hoin River",
+      "Plantrain Plains",
+      "Sun's Harbor",
+      "Guttermouth",
+      "Ricechild"
     ]
   }
 ]

@@ -32,5 +32,57 @@
         "experienceGain": 50
       }
     ]
+  },
+  {
+    "name": "Mound Is Missing",
+    "id": 2,
+    "completionText": "Congratulations! You solved the mystery!",
+    "progressToComplete": 29,
+    "rewards": [
+      {
+        "skill": "Fishing",
+        "experienceGain": 1000
+      }
+    ]
+  },
+  {
+    "name": "Case of the Dead Pirate",
+    "id": 3,
+    "completionText": "Congratulations! You discovered the murderer! Probably. You can talk to the crew on the island to see if you were right. You spent the remaining time at sea learning from the pirate crew.",
+    "progressToComplete": 100,
+    "rewards": [
+      {
+        "skill": "Swordsmanship",
+        "experienceGain": 10000
+      },
+      {
+        "skill": "Archery",
+        "experienceGain": 5000
+      },
+      {
+        "skill": "Culinary Arts",
+        "experienceGain": 3000
+      },
+      {
+        "skill": "Woodworking",
+        "experienceGain": 5000
+      }
+    ]
+  },
+  {
+    "name": "Chrysopoeian Crisis",
+    "id": 4,
+    "completionText": "Congratulations! You solved the crisis!",
+    "progressToComplete": 1000,
+    "rewards": [
+      {
+        "skill": "Alchemy",
+        "experienceGain": 3000
+      },
+      {
+        "skill": "Knifesmanship",
+        "experienceGain": 2000
+      }
+      ]
   }
 ]

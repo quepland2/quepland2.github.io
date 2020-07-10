@@ -4,14 +4,15 @@
     "Description": "Cash Money.",
     "value": 1,
     "isStackable": true,
-    "icon": "Gold"
+    "icon": "Coins",
+    "isSellable": false
   },
   {
     "Name": "Shuniku Berries",
     "Description": "Disgusting tasting berries that will stain your mouth red.",
     "gatherString": "You gather some berries.",
     "value": 2,
-    "gatherSpeed": 8,
+    "gatherSpeed": 15,
     "icon": "Berries"
   },
   {
@@ -31,6 +32,7 @@
   {
     "name": "Feather",
     "description": "Soft, fluffy, and useful for making arrows with.",
+    "gatherString": "You separate the feathers into a pile.",
     "value": 1,
     "icon": "Feather",
     "isStackable": true
@@ -45,13 +47,43 @@
     "name": "Chicken Meat",
     "description": "The meat of a chicken.",
     "value": 10,
-    "icon": "Bird"
+    "icon": "PreppedBird"
   },
   {
     "name": "Rooster Plumage",
     "description": "A bunch of feathers from a male chicken.",
     "value": 15,
-    "icon": "Feather",
+    "icon": "Feathers",
     "isStackable": true
+  },
+  {
+    "name": "Cheese",
+    "description": "Some stinky cheese.",
+    "gatherString": "You pick up some old cheese.",
+    "value": 5,
+    "gatherSpeed": 20,
+    "icon": "Cheese"
+  },
+  {
+    "name": "Bone Shard",
+    "description": "A shard of bone dropped by a gashadokuro. You could form this into some kind of weapon.",
+    "value": 150,
+    "icon": "Bone Shard"
+  },
+  {
+    "name": "Treasure Map",
+    "description": "A map leading to an island north of Quepland. Mound gave it to you.",
+    "value": 0,
+    "icon": "Map",
+    "isSellable": false
+  },
+  {
+    "name": "Hemp",
+    "description": "A fast-growing weed useful for turning into fiber.",
+    "value": 10,
+    "isStackable": true,
+    "gatherSpeed": 20,
+    "gatherString": "You gather some hemp.",
+    "icon": "Hemp"
   }
 ]

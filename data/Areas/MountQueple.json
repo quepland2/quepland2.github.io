@@ -33,21 +33,19 @@
     "name": "Quepland Woods",
     "id": 1,
     "isUnlocked": false,
-    "description": "You enter a thick woods consisting of mostly poplar trees. The path meanders up the mountain along a brook full of sunfish. In the distance you can see the smokestacks of a small village.",
+    "description": "You enter a thick woods consisting of mostly poplar trees. The path meanders up the mountain along a brook full of minnows and sunfish. In the distance you can see the smokestacks of a small village.",
     "areaURL": "QueplandWoods",
     "image": "Forest",
     "actions": [
-      "Gather Red Berries:Shuniku Berries"
+      "Gather Red Berries:Shuniku Berries",
+      "Go Fishing:Minnows,Sunfish",
+      "Chop Poplar Trees:Poplar Logs"
     ],
     "unlockableAreas": [
       {
         "AreaURL": "Teppas",
         "ButtonText": "Continue into the village"
       }
-    ],
-    "monsters": [
-      "Chicken",
-      "Rooster"
     ],
     "npcs": [
       "Tuto"
@@ -69,6 +67,25 @@
         "npcs": [
           "The Mayor"
         ]
+      },
+      {
+        "name": "Teppas General Store",
+        "buttonText": "General Store",
+        "url": "GeneralStore",
+        "description": "You find a clean, orderly shop stocked with a number of useful supplies for an adventurer. The man behind the counter welcomes you as you enter.",
+        "npcs": [
+          "Jumbo"
+        ],
+        "shops": [
+          {
+            "name": "Jumbo's Supply Store",
+            "itemNames": [
+              "Minnow Net",
+              "Stone Axe"
+            ]
+
+          }
+        ]
       }
     ],
     "unlockableAreas": [
@@ -77,6 +94,10 @@
         "ButtonText": "Continue Through Town"
       }
 
+    ],
+    "monsters": [
+      "Chicken",
+      "Rooster"
     ]
   },
   {
@@ -86,6 +107,9 @@
     "description": "Beyond the village you find a rocky terrain, sparse with trees or wildlife.  You spot a rocky overhang that appears to cover a cave entrance. There is a small shack with a sign on the top that reads, \"Signs\"",
     "areaURL": "LowerMtQuepleTrail",
     "image": "Mountain",
+    "actions": [
+      "Mine Pentlandite:Pentlandite"
+    ],
     "buildings": [
       {
         "name": "Sign Man's Signs",
@@ -119,17 +143,36 @@
     "trappingLocation": true,
     "unlockableAreas": [
       {
-        "AreaURL": "EasternTrail",
-        "ButtonText": "Continue Down into the Valley"
+        "areaURL": "EasternTrail",
+        "buttonText": "Continue Down into the Valley"
       }
 
     ]
   },
   {
-    "name": "Eastern Trail",
+    "name": "Mt Queple Peak",
     "id": 5,
+    "image": "MountainPeak",
+    "isUnlocked": false,
+    "description": "A lone, dilapidated building stands near the mountain's peak. Harsh winds eminate outward from its shattered windows and broken doors.",
+    "areaURL": "MtQueplePeak",
+    "buildings": [
+      {
+        "name": "Wind Hall",
+        "buttonText": "Enter the Building",
+        "url": "WindHall",
+        "description": "The roaring wind grows stronger as you approach the innermost room of the building. Inside you find a pool, swirling with air.",
+        "npcs": [
+          "Oikaaz"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Eastern Trail",
+    "id": 6,
     "image": "Trail",
-    "description": "The trail winds down into the woods below. The smell of the swamp ahead greets you before you can even see it.",
+    "description": "There is a split in the trail ahead. One path winds down into the woods below. The smell of the swamp ahead greets you before you can even see it. The other path rounds the mountain to the north.",
     "areaURL": "EasternTrail",
     "actions": [
       "Chop Oak Trees:Oak Logs"
@@ -138,6 +181,31 @@
       {
         "AreaURL": "Swampedge",
         "ButtonText": "Enter the Swamp"
+      },
+      {
+        "areaURL": "NorthernTrail",
+        "buttonText": "Follow the Trail North"
+      }
+
+    ],
+    "monsters": [
+      "Bandit",
+      "Big Bandit"
+    ]
+  },
+  {
+    "name": "Northern Trail",
+    "id": 7,
+    "image": "Trail",
+    "description": "As you come around the side of the mountain you spy the ocean beyond a large field. The path will lead you straight down to the water.",
+    "areaURL": "NorthernTrail",
+    "actions": [
+      "Chop Oak Trees:Oak Logs"
+    ],
+    "unlockableAreas": [
+      {
+        "areaURL": "CantilaBeach",
+        "buttonText": "Continue Down the Mountain"
       }
 
     ],

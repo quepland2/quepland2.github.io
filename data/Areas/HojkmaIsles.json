@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Kogoe Docks",
+    "id": 70,
+    "image": "Docks",
+    "description": "",
+    "areaURL": "KogoeDocks",
+    "unlockableAreas": [
+      {
+        "areaURL": "KogoeTown",
+        "buttonText": "Enter Town"
+      }
+    ]
+  },
+  {
+    "name": "Kogoe Town",
+    "id": 71,
+    "image": "Village",
+    "description": "",
+    "areaURL": "KogoeTown",
+    "unlockableAreas": [
+      {
+        "areaURL": "FjelloverPass",
+        "buttonText": "Head to the Mountain"
+      }
+    ]
+  },
+  {
+    "name": "Fjellover Pass",
+    "id": 72,
+    "image": "Trail",
+    "description": "The trail leads through a deep valley. Mt. Yama towers in the distance, glowing in the sun. There are deposits of iron ore lying along the sides of the path.",
+    "areaURL": "FjelloverPass",
+    "unlockableAreas": [
+      {
+        "areaURL": "MtYamaFoot",
+        "buttonText": "Continue up the Path"
+      }
+    ],
+    "actions": [
+      "Mine Iron:Iron Ore"
+    ]
+  },
+  {
+    "name": "Foot of Mt Yama",
+    "id": 73,
+    "image": "MountainPath",
+    "description": "",
+    "areaURL": "MtYamaFoot",
+    "unlockableAreas": [
+      {
+        "areaURL": "MtYama",
+        "buttonText": "Climb the Mountain"
+      }
+    ],
+    "actions": [
+      "Mine Calamine:Calamine"
+    ]
+  },
+  {
+    "name": "Mt Yama",
+    "id": 74,
+    "image": "Mountain",
+    "description": "",
+    "areaURL": "MtYama",
+    "unlockableAreas": [
+      {
+        "areaURL": "MtYamaCave",
+        "buttonText": "Enter the Cave"
+      }
+    ]
+  },
+  {
+    "name": "Mt Yama Cave",
+    "id": 75,
+    "image": "Cave",
+    "description": "",
+    "areaURL": "MtYamaCave"
+  },
+  {
+    "name": "Mt Yama Mine",
+    "id": 76,
+    "image": "Mine",
+    "description": "",
+    "areaURL": "MtYamaMine",
+    "actions": [
+      "Mine Gold:Gold Ore"
+    ]
+  }
+]
