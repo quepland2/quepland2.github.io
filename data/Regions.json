@@ -18,7 +18,10 @@
       "Queple Cave Entrance",
       "Copper Mine",
       "Tin Mine",
-      "Queple Cave Smithy"
+      "Queple Cave Smithy",
+      "Grumpy's Gnome Home",
+      "Queple Cave River",
+      "Stone Door"
     ]
   },
   {
@@ -47,17 +50,8 @@
       "Uragota Town",
       "Darkbourne Bridge",
       "West Uragota Docks",
-      "East Uragota Docks"
-    ]
-  },
-  {
-    "name": "Cantila Coast",
-    "areaNames": [
-      "Cantila Beach",
-      "Uragota Town",
-      "Darkbourne Bridge",
-      "West Uragota Docks",
-      "East Uragota Docks"
+      "East Uragota Docks",
+      "Ocean Fishing Platform"
     ]
   },
   {
@@ -65,6 +59,7 @@
     "areaNames": [
       "Koya Hasa",
       "Manayo Village",
+      "Laau Kaila",
       "Wana Tona Lake",
       "Sotu Nran"
     ]
@@ -91,7 +86,8 @@
       "Foot of Mt Yama",
       "Mt Yama",
       "Mt Yama Cave",
-      "Mt Yama Mine"
+      "Mt Yama Mine",
+      "Upper Mt Yama Mine"
     ]
   },
   {
@@ -103,6 +99,43 @@
       "Sun's Harbor",
       "Guttermouth",
       "Ricechild"
+    ]
+  },
+  {
+    "name": "Togaru Hills",
+    "areaNames": [
+      "Great Shoe Lake",
+      "Tsu Valley",
+      "Tree Nursery",
+      "West Tsu City",
+      "Central Tsu City",
+      "East Tsu City",
+      "North Tsu City",
+      "Tangei Gardens"
+    ]
+  },
+  {
+    "name": "Sahota Tir",
+    "areaNames": [
+      "Sahota Ice Fields",
+      "Sahota Caverns",
+      "Sahota Clearing",
+      "Sahota Dungeon"
+    ]
+  },
+  {
+    "name": "Koncave Caverns",
+    "areaNames": [
+      "Koncave Falls",
+      "Koncave Falls Mine",
+      "Koncave City Gate",
+      "Koncave City Square"
+    ]
+  },
+  {
+    "name": "Ufagari Islands",
+    "areaNames": [
+      "South Ufagari Shore"
     ]
   }
 ]

@@ -5,6 +5,9 @@
     "image": "MountainPath",
     "description": "The path leads out of the woods into an open plain. The road continues uphill, winding up out of sight. A solitary knight guards the way forward.",
     "areaURL": "SouthernTrail",
+    "actions": [
+      "Harvest Wheat:Wheat"
+    ],
     "unlockableAreas": [
       {
         "areaURL": "Route7",
@@ -39,6 +42,35 @@
         "buttonText": "Enter the Desert"
       }
 
+    ],
+    "buildings": [
+      {
+        "name": "Camelpalooza",
+        "buttonText": "Enter the Camel Shop",
+        "url": "Camelpalooza",
+        "description": "You enter building to find a number of camels for sale. You can buy one and ride it to cross the desert.",
+        "npcs": [
+          "Camel Carl"
+        ],
+        "requirements": [
+          {
+            "quest": "Grand Theft Camel",
+            "minimumQuestProgress": 24
+          }
+        ],
+        "shops": [
+          {
+            "name": "Camelpalooza",
+            "itemNames": [
+              "Camel"
+            ]
+
+          }
+        ]
+      }
+    ],
+    "npcs": [
+      "Camel Carl"
     ]
   },
   {
@@ -60,6 +92,14 @@
         "areaURL": "Leupp",
         "buttonText": "Go West"
       }
+    ],
+    "requirements": [
+      {
+        "action": "Desert Travel"
+      }
+    ],
+    "monsters": [
+      "Serpopard"
     ]
   },
   {
@@ -67,14 +107,34 @@
     "id": 64,
     "image": "House",
     "description": "The road fades into the desert landscape as you arrive at a small shack. The door swings open in the dusty wind.",
-    "areaURL": "AbandonedShack"
+    "areaURL": "AbandonedShack",
+    "requirements": [
+      {
+        "action": "Desert Travel"
+      }
+    ]
   },
   {
     "name": "Oasis",
     "id": 65,
     "image": "Oasis",
-    "description": "A large pool of water supports a number of very rare trees here. To the south you see another mountain range.",
-    "areaURL": "Oasis"
+    "description": "A large pool of water supports a number of trees here. To the south you see another mountain range.",
+    "areaURL": "Oasis",
+    "actions": [
+      "Chop Trees:Lignum Vitae Logs,Mesquite Logs,Birch Logs"
+    ],
+    "unlockableAreas": [
+      {
+        "areaURL": "GreatShoeLake",
+        "buttonText": "Continue southward"
+      }
+
+    ],
+    "requirements": [
+      {
+        "action": "Desert Travel"
+      }
+    ]
   },
   {
     "name": "Leupp",
@@ -82,12 +142,27 @@
     "image": "Village",
     "description": "A small village resides in the wastes. A dried up creek bed runs past the edge of town.",
     "areaURL": "Leupp",
+    "dojoURL": "OnoDojo",
     "unlockableAreas": [
       {
         "areaURL": "NorthLeupp",
         "buttonText": "Continue to the North Gate"
       }
 
+    ],
+    "requirements": [
+      {
+        "action": "Desert Travel"
+      }
+    ],
+    "buildings": [
+      {
+        "name": "Public Oven",
+        "buttonText": "Public Oven",
+        "url": "LeuppOven",
+        "description": "You enter the public oven. You can bake bread here, if you have the dough.",
+        "hasOven": true
+      }
     ]
   },
   {
@@ -95,6 +170,15 @@
     "id": 67,
     "image": "Village",
     "description": "A sturdy fence surrounds the northern half of the city. A lumberjack supply store has been built into part of the wall. A guard stands watch at the gate.",
-    "areaURL": "NorthLeupp"
+    "areaURL": "NorthLeupp",
+    "actions": [
+      "Chop Basla Trees:Balsa Logs",
+      "Chop Mahogany Trees:Mahogany Logs"
+    ],
+    "requirements": [
+      {
+        "action": "Desert Travel"
+      }
+    ]
   }
 ]

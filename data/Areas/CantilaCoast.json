@@ -6,7 +6,7 @@
     "description": "You reach the water's edge. The stones almost sing as they roll back and forth in the waves. A large lighthouse towers in the west, while the path continues eastward into a small fishing town.",
     "areaURL": "CantilaBeach",
     "actions": [
-      "Go Fishing:Crab,Angry Crab"
+      "Go Fishing:Crab,Angry Crab,Manta Ray"
     ],
     "unlockableAreas": [
       {
@@ -58,6 +58,9 @@
           "Kazkagrin"
         ]
       }
+    ],
+    "npcs": [
+      "Camel Carl"
     ],
     "monsters": [
       "Bandit",
@@ -123,13 +126,20 @@
           "Two Legs Jack"
         ]
       }
+    ],
+    "npcs": [
+      "Kai"
     ]
   },
   {
     "name": "Darkbourne Bridge",
     "id": 54,
     "image": "Bridge",
-    "description": "",
+    "description": "The river is muddied by runoff from the nearby farmland. It's shallow and wide, a great place to catch carp or other river fish. You can see a wooded area beyond the bridge to the east.",
+    "dojoURL": "IttouDojo",
+    "actions": [
+      "Fish from the bridge:Carp,Puffer Fish,Salmon,Crab"
+    ],
     "areaURL": "DarkbourneBridge",
     "unlockableAreas": [
       {
@@ -150,6 +160,21 @@
         "npcs": [
           "Mound's House"
         ]
+      }
+    ]
+  },
+  {
+    "name": "Ocean Fishing Platform",
+    "id": 55,
+    "image": "Ocean",
+    "description": "The fishing platform floats out in the ocean, just barely in sight of shore. Many large fish gather beneath here for some reason.",
+    "actions": [
+      "Go Fishing:Squid,Tuna,Yellowtail"
+    ],
+    "areaURL": "OceanFishingPlatform",
+    "requirements": [
+      {
+        "action": "Shallow Ocean Travel"
       }
     ]
   }

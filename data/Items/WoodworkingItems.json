@@ -4,7 +4,6 @@
     "Description": "They're like skinny, baby logs. Feathers can be attached to the end.",
     "gatherString": "You make $ arrow shafts from the white pine wood.",
     "value": 1,
-    "experienceGained": "Woodworking:2",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -12,14 +11,14 @@
         "skillLevel": 1
       }
     ],
-    "isStackable": true
+    "isStackable": true,
+    "secondaryColor": "#FFE5C4"
   },
   {
     "Name": "Headless White Pine Arrows",
     "Description": "Skinny, wobbly sticks with feathers on the end. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless arrows.",
     "value": 2,
-    "experienceGained": "Woodworking:3",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -27,14 +26,14 @@
         "skillLevel": 1
       }
     ],
-    "isStackable": true
+    "isStackable": true,
+    "secondaryColor": "#FFE5C4"
   },
   {
     "Name": "Poplar Arrow Shafts",
     "Description": "They're like skinny, baby logs. Feathers can be attached to the end.",
     "gatherString": "You make $ arrow shafts from the poplar wood.",
     "value": 2,
-    "experienceGained": "Woodworking:5",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -42,6 +41,7 @@
         "skillLevel": 4
       }
     ],
+    "secondaryColor": "#FFDA8A",
     "isStackable": true
   },
   {
@@ -49,7 +49,6 @@
     "Description": "Skinny, wobbly sticks with feathers on the end. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless poplar arrows.",
     "value": 4,
-    "experienceGained": "Woodworking:7",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -57,6 +56,7 @@
         "skillLevel": 4
       }
     ],
+    "secondaryColor": "#FFDA8A",
     "isStackable": true
   },
   {
@@ -64,7 +64,6 @@
     "Description": "Thin bits of wood from oak logs. Feathers can be attached to the end.",
     "gatherString": "You make $ arrow shafts from the oak wood.",
     "value": 6,
-    "experienceGained": "Woodworking:15",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -72,6 +71,7 @@
         "skillLevel": 12
       }
     ],
+    "secondaryColor": "#FFD5B0",
     "isStackable": true
   },
   {
@@ -79,7 +79,6 @@
     "Description": "Skinny sticks with feathers on the end. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless oak arrows.",
     "value": 8,
-    "experienceGained": "Woodworking:17",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -87,6 +86,7 @@
         "skillLevel": 12
       }
     ],
+    "secondaryColor": "#FFD5B0",
     "isStackable": true
   },
   {
@@ -94,7 +94,6 @@
     "Description": "Thin bits of wood from maple logs. Feathers can be attached to the end.",
     "gatherString": "You make $ arrow shafts from the maple wood.",
     "value": 10,
-    "experienceGained": "Woodworking:45",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -102,6 +101,7 @@
         "skillLevel": 19
       }
     ],
+    "secondaryColor": "#FFBD96",
     "isStackable": true
   },
   {
@@ -109,7 +109,6 @@
     "Description": "Skinny sticks with feathers on the end. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless maple arrows.",
     "value": 12,
-    "experienceGained": "Woodworking:47",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -117,6 +116,7 @@
         "skillLevel": 19
       }
     ],
+    "secondaryColor": "#FFBD96",
     "isStackable": true
   },
   {
@@ -124,7 +124,7 @@
     "Description": "Thin bits of wood from birch logs. Feathers can be attached to the end.",
     "gatherString": "You make $ arrow shafts from the birch wood.",
     "value": 7,
-    "experienceGained": "Woodworking:55",
+    "secondaryColor": "#FFF6E0",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -139,7 +139,7 @@
     "Description": "Skinny sticks with feathers on the end. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless birch arrows.",
     "value": 10,
-    "experienceGained": "Woodworking:57",
+    "secondaryColor": "#FFF6E0",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -154,7 +154,7 @@
     "Description": "Sturdy arrow shafts. Feathers can be attached to the end.",
     "gatherString": "You make $ arrow shafts from the mesquite wood.",
     "value": 15,
-    "experienceGained": "Woodworking:85",
+    "secondaryColor": "#BD8F57",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -169,7 +169,7 @@
     "Description": "Sturdy sticks with feathers on the end. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless mesquite arrows.",
     "value": 18,
-    "experienceGained": "Woodworking:87",
+    "secondaryColor": "#BD8F57",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -184,7 +184,6 @@
     "Description": "You could have made furniture out of these. Add some arrow heads to make arrows.",
     "gatherString": "You make $ arrow shafts out of the mahogany wood.",
     "value": 30,
-    "experienceGained": "Woodworking:70",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -192,6 +191,7 @@
         "skillLevel": 52
       }
     ],
+    "secondaryColor": "#AB5F29",
     "isStackable": true
   },
   {
@@ -199,7 +199,6 @@
     "Description": "Wasted potential with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless mahogany arrows.",
     "value": 35,
-    "experienceGained": "Woodworking:72",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -207,6 +206,7 @@
         "skillLevel": 52
       }
     ],
+    "secondaryColor": "#AB5F29",
     "isStackable": true
   },
   {
@@ -214,7 +214,7 @@
     "Description": "Arrow shafts as hard as iron, supposedly. Add some arrow heads to make arrows.",
     "gatherString": "You make $ arrow shafts out of the ironwood.",
     "value": 21,
-    "experienceGained": "Woodworking:100",
+    "secondaryColor": "#9C491F",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -229,7 +229,7 @@
     "Description": "Hard, sturdy arrow shafts with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless ironwood arrows.",
     "value": 23,
-    "experienceGained": "Woodworking:103",
+    "secondaryColor": "#9C491F",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -244,7 +244,6 @@
     "Description": "Wibbly wobbly snakewood arrow shafts. Add some arrow heads to make arrows.",
     "gatherString": "You struggle with the snakewood to produce $ somewhat straight arrow shafts.",
     "value": 28,
-    "experienceGained": "Woodworking:180",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -252,6 +251,7 @@
         "skillLevel": 75
       }
     ],
+    "secondaryColor": "#824121",
     "isStackable": true
   },
   {
@@ -259,7 +259,6 @@
     "Description": "Wibbly wobbly wood with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless snakewood arrows.",
     "value": 30,
-    "experienceGained": "Woodworking:183",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -267,6 +266,7 @@
         "skillLevel": 75
       }
     ],
+    "secondaryColor": "#824121",
     "isStackable": true
   },
   {
@@ -274,7 +274,6 @@
     "Description": "Heavy, desnse arrow shafts. Add some arrow heads to make arrows.",
     "gatherString": "You make $ arrow shafts out of the lignum vitae.",
     "value": 35,
-    "experienceGained": "Woodworking:240",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -282,6 +281,7 @@
         "skillLevel": 83
       }
     ],
+    "secondaryColor": "#612901",
     "isStackable": true
   },
   {
@@ -289,7 +289,6 @@
     "Description": "Extremely heavy arrow shafts with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless lignum vitae arrows.",
     "value": 38,
-    "experienceGained": "Woodworking:243",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -297,6 +296,7 @@
         "skillLevel": 83
       }
     ],
+    "secondaryColor": "#612901",
     "isStackable": true
   },
   {
@@ -304,7 +304,6 @@
     "Description": "The hardest naturally occuring wood, cut into sticks. Add some arrow heads to make arrows.",
     "gatherString": "You make $ arrow shafts out of the buloke wood.",
     "value": 50,
-    "experienceGained": "Woodworking:380",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -312,6 +311,7 @@
         "skillLevel": 92
       }
     ],
+    "secondaryColor": "#875B24",
     "isStackable": true
   },
   {
@@ -319,7 +319,6 @@
     "Description": "Very dense arrow shafts with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless buloke arrows.",
     "value": 53,
-    "experienceGained": "Woodworking:383",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -327,6 +326,7 @@
         "skillLevel": 92
       }
     ],
+    "secondaryColor": "#875B24",
     "isStackable": true
   },
   {
@@ -334,7 +334,6 @@
     "Description": "Arrow shafts made from ice wood. Add some arrow heads to make arrows.",
     "gatherString": "You quickly make $ arrow shafts out of the ice logs before your fingers freeze.",
     "value": 45,
-    "experienceGained": "Woodworking:410",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -342,6 +341,7 @@
         "skillLevel": 98
       }
     ],
+    "secondaryColor": "#D2FFF5",
     "isStackable": true
   },
   {
@@ -349,7 +349,6 @@
     "Description": "Frozen ice wood with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless ice arrows.",
     "value": 48,
-    "experienceGained": "Woodworking:413",
     "icon": "HeadlessArrows",
     "requirements": [
       {
@@ -357,6 +356,7 @@
         "skillLevel": 98
       }
     ],
+    "secondaryColor": "#D2FFF5",
     "isStackable": true
   },
   {
@@ -364,7 +364,7 @@
     "Description": "These are magical arrow shafts crafted from wood from the Great Tree. Add some arrow heads to make arrows.",
     "gatherString": "You make $ arrow shafts out of the Great Tree wood.",
     "value": 90,
-    "experienceGained": "Woodworking:580",
+    "secondaryColor": "#9F6F4F",
     "icon": "ArrowShafts",
     "requirements": [
       {
@@ -379,7 +379,7 @@
     "Description": "Magical arrow shafts from the Great Tree with feathers attached. Add some arrow heads to make arrows.",
     "gatherString": "You make $ headless Great arrows.",
     "value": 93,
-    "experienceGained": "Woodworking:583",
+    "secondaryColor": "#9F6F4F",
     "icon": "HeadlessArrows",
     "requirements": [
       {

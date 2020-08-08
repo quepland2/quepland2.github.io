@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Quepland_2</title>
     <base href="/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
-    <link href="css/site.css" rel="stylesheet" />
+    <link href="css/app.css" rel="stylesheet" />
 </head>
 
-<body>
+<body style="background-color:#2d2d2d">
     <app>Loading...</app>
 
     <div id="blazor-error-ui">
@@ -22,6 +22,9 @@
     <script type="text/javascript">
         window.getWidth = function () {
             return window.innerWidth;
+        };
+        window.getHeight = function () {
+            return window.innerHeight;
         };
     </script>
 </body>

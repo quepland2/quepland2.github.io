@@ -7,7 +7,7 @@
     "areaURL": "QueplandFields",
     "image": "Field",
     "actions": [
-      "Chop White Pine:White Pine Logs"
+      "Chop White Pine:White Pine Logs:You swing your axe at a tree."
     ],
     "unlockableAreas": [
       {
@@ -37,9 +37,9 @@
     "areaURL": "QueplandWoods",
     "image": "Forest",
     "actions": [
-      "Gather Red Berries:Shuniku Berries",
-      "Go Fishing:Minnows,Sunfish",
-      "Chop Poplar Trees:Poplar Logs"
+      "Gather Red Berries:Shuniku Berries:You begin gathering berries.",
+      "Go Fishing:Minnows,Sunfish:You begin catching fish.",
+      "Chop Poplar Trees:Poplar Logs:You swing your axe at a tree."
     ],
     "unlockableAreas": [
       {
@@ -79,9 +79,11 @@
         "shops": [
           {
             "name": "Jumbo's Supply Store",
+            "limitBoughtItemsToSoldItems": false,
             "itemNames": [
               "Minnow Net",
-              "Stone Axe"
+              "Stone Axe",
+              "Wood Carving Knife"
             ]
 
           }
@@ -104,11 +106,11 @@
     "name": "Lower Mt Queple Trail",
     "id": 3,
     "isUnlocked": false,
-    "description": "Beyond the village you find a rocky terrain, sparse with trees or wildlife.  You spot a rocky overhang that appears to cover a cave entrance. There is a small shack with a sign on the top that reads, \"Signs\"",
+    "description": "Beyond the village you find a rocky terrain, sparse with trees or wildlife.  You spot a rocky overhang that appears to cover a cave entrance. There is a small shack with a sign on the top that reads, \"Signs\", though some of the letters are written backwards...",
     "areaURL": "LowerMtQuepleTrail",
     "image": "Mountain",
     "actions": [
-      "Mine Pentlandite:Pentlandite"
+      "Mine Pentlandite:Pentlandite:You start mining."
     ],
     "buildings": [
       {
@@ -141,12 +143,16 @@
     "description": "High up on the mountain you can see down into the valley below. Beyond the hilly forest there appears to be a desert to the east, and a swamp to the west. The path only leads higher up the mountain.",
     "areaURL": "UpperMtQuepleTrail",
     "trappingLocation": true,
+    "dojoURL": "HouchouDojo",
     "unlockableAreas": [
       {
         "areaURL": "EasternTrail",
         "buttonText": "Continue Down into the Valley"
       }
 
+    ],
+    "npcs": [
+      "Fojimafa"
     ]
   },
   {
@@ -171,11 +177,11 @@
   {
     "name": "Eastern Trail",
     "id": 6,
-    "image": "Trail",
+    "image": "ReversedTrail",
     "description": "There is a split in the trail ahead. One path winds down into the woods below. The smell of the swamp ahead greets you before you can even see it. The other path rounds the mountain to the north.",
     "areaURL": "EasternTrail",
     "actions": [
-      "Chop Oak Trees:Oak Logs"
+      "Chop Oak Trees:Oak Logs:You swing your axe at a tree."
     ],
     "unlockableAreas": [
       {
@@ -190,6 +196,7 @@
     ],
     "monsters": [
       "Bandit",
+      "Two Bandits",
       "Big Bandit"
     ]
   },
@@ -197,21 +204,34 @@
     "name": "Northern Trail",
     "id": 7,
     "image": "Trail",
-    "description": "As you come around the side of the mountain you spy the ocean beyond a large field. The path will lead you straight down to the water.",
+    "description": "As you come around the side of the mountain you spy the ocean beyond a large field. The path will lead you straight down to the water. Or, it would, if the bridge weren't out. You'll have to find some way across.",
     "areaURL": "NorthernTrail",
-    "actions": [
-      "Chop Oak Trees:Oak Logs"
-    ],
     "unlockableAreas": [
       {
         "areaURL": "CantilaBeach",
-        "buttonText": "Continue Down the Mountain"
+        "buttonText": "Jump the Gap",
+        "requirements": [
+          {
+            "skill": "Deftness",
+            "skillLevel": 15
+          }
+        ]
+      },
+      {
+        "areaURL": "CantilaBeach",
+        "buttonText": "Fix the Bridge",
+        "requirements": [
+          {
+            "skill": "Woodworking",
+            "skillLevel": 15
+          },
+          {
+            "item": "White Pine Logs",
+            "itemAmount": 7
+          }
+        ]
       }
 
-    ],
-    "monsters": [
-      "Bandit",
-      "Big Bandit"
     ]
   }
 ]
