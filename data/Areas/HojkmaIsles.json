@@ -3,13 +3,27 @@
     "name": "Kogoe Docks",
     "id": 70,
     "image": "Docks",
-    "description": "You step onto the dock of a small, chilly village. Ice floes surround this snowy wasteland, the whole island is covered in a frosty shroud.",
+    "description": "You step onto the dock of a small, chilly village. Ice floes surround this snowy wasteland, the whole island is covered in a frosty shroud.  Just at the edge of the docks is a little shack. Smoke is pouring out of its small chimney.",
     "areaURL": "KogoeDocks",
     "unlockableAreas": [
       {
         "areaURL": "KogoeTown",
         "buttonText": "Enter Town"
       }
+    ],
+    "buildings": [
+      {
+        "name": "Sturdy Shack",
+        "buttonText": "Enter shack",
+        "url": "SturdyShack",
+        "description": "The shack is quite warm. A strange man sits by the fire, though it's not apparent if he noticed you enter.",
+        "npcs": [
+          "Ureoh"
+        ]
+      }
+    ],
+    "actions": [
+      "Fish off the docks:Icefish,Abalone,Saury"
     ]
   },
   {
@@ -34,7 +48,9 @@
           {
             "name": "House of Fish",
             "itemNames": [
-              "Fishing Bait"
+              "Fishing Bait",
+              "Small Fishing Rod",
+              "Small Net"
             ]
 
           }
@@ -52,6 +68,32 @@
               "Gym Membership Card"
             ]
 
+          }
+        ],
+        "afkActions": [
+          {
+            "buttonText": "Lift Weights",
+            "expPerHour": 10000,
+            "skillTrained": "Strength",
+            "bonusExp": 3000,
+            "requirements": [
+              {
+                "item": "Gym Membership Card",
+                "itemAmount": 1
+              }
+            ]
+          },
+          {
+            "buttonText": "Run Laps",
+            "expPerHour": 10000,
+            "skillTrained": "Deftness",
+            "bonusExp": 3000,
+            "requirements": [
+              {
+                "item": "Gym Membership Card",
+                "itemAmount": 1
+              }
+            ]
           }
         ]
       }
@@ -89,8 +131,8 @@
       }
     ],
     "actions": [
-      "Mine Iron:Iron Ore",
-      "Chop Maple Trees:Sugar Maple Logs"
+      "Mine iron:Iron Ore",
+      "Chop maple trees:Sugar Maple Logs"
     ],
     "monsters": [
       "Ice Spider",
@@ -113,7 +155,7 @@
       }
     ],
     "actions": [
-      "Mine Calamine:Calamine"
+      "Mine calamine:Calamine"
     ],
     "huntingTripInfo": {
       "dropTable": {
@@ -155,7 +197,7 @@
     "unlockableAreas": [
       {
         "areaURL": "MtYamaCave",
-        "buttonText": "Enter the Cave"
+        "buttonText": "Enter the cave"
       }
     ]
   },
@@ -168,7 +210,7 @@
     "unlockableAreas": [
       {
         "areaURL": "SahotaIceFields",
-        "buttonText": "Enter the Underworld",
+        "buttonText": "Enter the underworld",
         "connectsLands": true
       }
     ]
@@ -180,12 +222,12 @@
     "description": "Through the gap you find a few large ore veins. There appears to be gold and bauxite higher up, but you'll need a way to reach them.",
     "areaURL": "MtYamaMine",
     "actions": [
-      "Mine for ores:Galena,Cinnabar,Penlandite"
+      "Mine for ores:Galena,Cinnabar,Pentlandite"
     ],
     "unlockableAreas": [
       {
-        "areaURL": "UpperMtLevelMine",
-        "buttonText": "Build a Ladder",
+        "areaURL": "UpperMtYamaMine",
+        "buttonText": "Build a ladder",
         "requirements": [
           {
             "skill": "Woodworking",
@@ -206,8 +248,8 @@
     "description": "The upper level of the mine contains large gold and bauxite deposits. You can mine either here.",
     "areaURL": "UpperMtYamaMine",
     "actions": [
-      "Mine Gold:Gold Ore",
-      "Mine Bauxite:Bauxite"
+      "Mine gold:Gold Ore",
+      "Mine bauxite:Bauxite"
     ]
   }
 ]

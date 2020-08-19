@@ -11,6 +11,7 @@
     "Name": "Shuniku Berries",
     "Description": "Disgusting tasting berries that will stain your mouth red.",
     "gatherString": "You gather some berries.",
+    "secondaryColor": "red",
     "value": 2,
     "gatherSpeed": 15,
     "icon": "Berries"
@@ -22,16 +23,60 @@
     "icon": "Knife"
   },
   {
+    "Name": "No Soliciting Sign",
+    "Description": "A nicely written sign.",
+    "gatherString": "You paint letters neatly onto the sign.",
+    "value": 2,
+    "gatherSpeed": 8,
+    "icon": "Sign"
+  },
+  {
     "Name": "Rock Tumbler",
     "Description": "A round box full of hard rocks. You can smooth gemstones down with it.",
     "value": 5000,
     "icon": "Tumbler"
   },
   {
+    "Name": "Small Red Library Key",
+    "Description": "A small key from the Sawoka dungeon library. It looks very fragile, but maybe it can open something.",
+    "value": 10,
+    "secondaryColor": "#cf5353",
+    "icon": "Key"
+  },
+  {
+    "Name": "Small Orange Library Key",
+    "Description": "A small key from the Sawoka dungeon library. It looks very fragile, but maybe it can open something.",
+    "value": 10,
+    "secondaryColor": "#d9a668",
+    "icon": "Key"
+  },
+  {
+    "Name": "Small Green Library Key",
+    "Description": "A small key from the Sawoka dungeon library. It looks very fragile, but maybe it can open something.",
+    "value": 10,
+    "secondaryColor": "#6cd665",
+    "icon": "Key"
+  },
+  {
+    "Name": "Yoga Mat",
+    "Description": "A soft mat to do yoga on. You wouldn't want to have to just use the ground, would you?",
+    "value": 1000,
+    "icon": "Mat"
+  },
+  {
     "name": "Feather",
     "description": "Soft, fluffy, and useful for making arrows with.",
     "gatherString": "You separate the feathers into a pile.",
     "value": 1,
+    "icon": "Feather",
+    "isStackable": true
+  },
+  {
+    "name": "Ice Feather",
+    "description": "Soft, fluffy, cold, and useful for making arrows with.",
+    "gatherString": "You separate the feathers into a pile.",
+    "value": 8,
+    "secondaryColor": "#D2FFF5",
     "icon": "Feather",
     "isStackable": true
   },
@@ -45,7 +90,10 @@
     "name": "Chicken Meat",
     "description": "The meat of a chicken.",
     "value": 10,
-    "icon": "PreppedBird"
+    "icon": "PreppedBird",
+    "tanningInfo": {
+      "tansIntoString": "Chicken Jerky"
+    }
   },
   {
     "name": "Rooster Plumage",
@@ -67,13 +115,6 @@
     "description": "A shard of bone dropped by a gashadokuro. You could form this into some kind of weapon.",
     "value": 150,
     "icon": "Bone Shard"
-  },
-  {
-    "name": "Treasure Map",
-    "description": "A map leading to an island north of Quepland. Mound gave it to you.",
-    "value": 0,
-    "icon": "Map",
-    "isSellable": false
   },
   {
     "name": "Hemp",
@@ -136,6 +177,13 @@
     "enabledActions": "River Travel"
   },
   {
+    "Name": "Tiny Rowboat",
+    "Description": "A small boat you can take out to sea. You can't go out of sight of land with it, though.",
+    "value": 80000,
+    "icon": "Boat",
+    "enabledActions": "Shallow Ocean Travel"
+  },
+  {
     "Name": "Gym Membership Card",
     "Description": "This card will let you into the gym in Kogoe.",
     "value": 500,
@@ -145,7 +193,15 @@
     "Name": "Ice",
     "Description": "It's cold water.",
     "value": 5,
+    "secondaryColor": "#D2FFF5",
     "icon": "Ice"
+  },
+  {
+    "Name": "Ice Essence",
+    "Description": "It's the essence of cold.",
+    "value": 1000,
+    "secondaryColor": "#D2FFF5",
+    "icon": "Essence"
   },
   {
     "Name": "Bandit's Blade",
@@ -158,14 +214,14 @@
     "description": "Pokey spines from a cactus.",
     "gatherString": "You get some cactus spines.",
     "value": 2,
-    "icon": "Spine",
+    "icon": "Spike",
     "isStackable": true
   },
   {
     "name": "Cactus Club (Empty)",
     "description": "A club made from a special living cactus. If you covered it in spines, it would really do some damage.",
     "value": 50,
-    "icon": "CactusClub"
+    "icon": "CactusClubEmpty"
   },
   {
     "name": "Sand",
@@ -180,7 +236,7 @@
     "description": "Is it stone? Is it sand?",
     "gatherString": "You get some sandstone.",
     "value": 20,
-    "icon": "Brick",
+    "icon": "Sandstone",
     "isStackable": true
   },
   {
@@ -211,7 +267,7 @@
     "name": "Great Tree Seed",
     "description": "A seed from the Great Tree. It's a prized possesion among the citizens of Koncave.",
     "value": 5000,
-    "icon": "Seed"
+    "icon": "Seeds"
   },
   {
     "name": "Steelflame Axe Handle",
@@ -237,5 +293,21 @@
     "value": 1,
     "icon": "Token",
     "isStackable": true
+  },
+  {
+    "Name": "Sweet Berries",
+    "Description": "Delicious berries.",
+    "gatherString": "You gather some berries.",
+    "value": 5,
+    "secondaryColor": "paleblue",
+    "gatherSpeed": 15,
+    "icon": "Berries",
+    "foodInfo": {
+      "healDuration": 10,
+      "healAmount": 1,
+      "healSpeed": 10,
+      "buffedSkill": "Deftness",
+      "buffAmount": 1
+    }
   }
 ]

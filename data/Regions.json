@@ -7,6 +7,7 @@
       "Teppas",
       "Lower Mt Queple Trail",
       "Upper Mt Queple Trail",
+      "Mt Queple Peak",
       "Eastern Trail",
       "Northern Trail"
     ],
@@ -16,7 +17,7 @@
     "name": "Queple Cave",
     "areaNames": [
       "Queple Cave Entrance",
-      "Copper Mine",
+      "Pentlandite Mine",
       "Tin Mine",
       "Queple Cave Smithy",
       "Grumpy's Gnome Home",
@@ -29,7 +30,10 @@
     "areaNames": [
       "Swampedge",
       "Swampwood",
-      "Sawoka"
+      "Sawoka",
+      "Strange Wall",
+      "Sawoka Library",
+      "Sawoka Vault"
     ]
   },
   {

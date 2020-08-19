@@ -149,6 +149,20 @@
     "experienceGained": "Hunting:70"
   },
   {
+    "Name": "Chicken",
+    "Description": "The carcass of a chicken.",
+    "value": 30,
+    "icon": "Bird",
+    "secondaryColor": "#f7ab3e",
+    "requirements": [
+      {
+        "skill": "Hunting",
+        "skillLevel": 1
+      }
+    ],
+    "experienceGained": "Hunting:70"
+  },
+  {
     "Name": "Wild Boar",
     "Description": "The carcass of an angry pig.",
     "value": 30,

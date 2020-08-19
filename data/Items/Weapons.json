@@ -1139,7 +1139,7 @@
     "value": 5000,
     "enabledActions": "Axemanship",
     "equipSlot": "R Hand",
-    "icon": "CactusClub",
+    "icon": "CactusClubFull",
     "weaponInfo": {
       "attackSpeed": 15,
       "damage": 60,
@@ -1175,9 +1175,9 @@
     "Description": "A flaming axe. You can use it to chop down trees or enemies very quickly.",
     "value": 32800,
     "enabledActions": "Axemanship",
-    "secondaryColor": "#red",
+    "secondaryColor": "#a51414",
     "equipSlot": "R Hand",
-    "icon": "FlameAxe",
+    "icon": "SteelflameAxe",
     "gatherSpeedBonus": 0.8,
     "weaponInfo": {
       "attackSpeed": 14,
@@ -1196,6 +1196,45 @@
           "duration": 20,
           "message": "The axe burns your opponent!",
           "procOdds": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "Name": "Iron Knuckles",
+    "Description": "They're like metal gloves for your knuckles. ",
+    "value": 350,
+    "secondaryColor": "#434341",
+    "equipSlot": "R Hand",
+    "icon": "Knuckles",
+    "weaponInfo": {
+      "attackSpeed": 7,
+      "damage": 55,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 45
+        }
+      ]
+    }
+  },
+  {
+    "Name": "Magic Iron Sword",
+    "Description": "A sharp metal sword, but magical. It mostly swings itself.",
+    "secondaryColor": "#434341",
+    "value": 1280,
+    "enabledActions": "Swordsmanship",
+    "equipSlot": "R Hand",
+    "experienceGainBonus": -0.25,
+    "experienceBonusSkill": "Swordsmanship",
+    "icon": "Sword",
+    "weaponInfo": {
+      "attackSpeed": 8,
+      "damage": 90,
+      "wearRequirements": [
+        {
+          "skill": "Swordsmanship",
+          "skillLevel": 55
         }
       ]
     }
