@@ -17,53 +17,38 @@
       },
       {
         "areaURL": "SahotaCaverns",
-        "buttonText": "Chop the roots away",
-        "connectsLands": true
+        "buttonText": "Chop the roots away"
       },
       {
         "areaURL": "SahotaDungeon",
         "buttonText": "Continue along the main cave path"
       }
 
-    ],
-    "monsters": [
-      "Bandit",
-      "Big Bandit"
     ]
   },
   {
     "name": "Sahota Caverns",
     "id": 101,
-    "image": "Snowflake",
-    "description": "",
+    "image": "Stalactites",
+    "description": "The caverns all seem to converge into one large tunnel. The path ahead is frozen solid. But beneath the ice you can hear flowing water.",
     "areaURL": "SahotaCaverns",
     "actions": [
-      "Mine Ice:Ice",
-      "Chop Ice Trees:Ice Logs"
+      "Ice Fish:Giant Clam,Halibut,Sleeper Shark,Flounder,Icefish"
     ],
     "unlockableAreas": [
       {
         "areaURL": "SahotaClearing",
-        "buttonText": "Continue further into the caves",
-        "connectsLands": true
+        "buttonText": "Continue further into the caves"
       }
 
-    ],
-    "monsters": [
-      "Bandit",
-      "Big Bandit"
     ]
   },
   {
     "name": "Sahota Clearing",
     "id": 102,
-    "image": "Snowflake",
-    "description": "",
+    "image": "FrozenFloor",
+    "description": "The tunnel opens up into a bright clearing. A mysterious orb lights the whole area, making it almost indistinguishable from being out on the surface. You spot a small camp a little ways ahead.",
     "areaURL": "SahotaClearing",
-    "actions": [
-      "Mine Ice:Ice",
-      "Chop Ice Trees:Ice Logs"
-    ],
     "unlockableAreas": [
       {
         "areaURL": "KoncaveCityGate",
@@ -71,24 +56,38 @@
       }
 
     ],
+    "buildings": [
+      {
+        "name": "Hunting Camp",
+        "buttonText": "Visit the camp",
+        "url": "HuntingCamp",
+        "description": "The camp is home a few tents, all surrounding a large fire. Men with long spears are sitting around it. They seem to be planning something.",
+        "npcs": [
+          "Hunter"
+        ]
+      }
+    ],
     "monsters": [
-      "Bandit",
-      "Big Bandit"
+      "Mercurial Beast",
+      "Mercurial Giant",
+      "Chenoo",
+      "Akhlut",
+      "Frost Fighter"
     ]
   },
   {
     "name": "Sahota Dungeon",
-    "image": "Snowflake",
+    "image": "Stalactites2",
     "id": 103,
-    "description": "",
+    "description": "The path leads into an ancient fortress. It seems to span for miles, and is full of the same mercurial creatures that also guard the surface of Mt. Yama cave.",
     "areaURL": "SahotaDungeon",
-    "actions": [
-      "Mine Ice:Ice",
-      "Chop Ice Trees:Ice Logs"
-    ],
-    "monsters": [
-      "Bandit",
-      "Big Bandit"
-    ]
+    "dungeonName": "Sahota Dungeon"
+  },
+  {
+    "name": "Sahota Castle",
+    "image": "Castle",
+    "id": 104,
+    "description": "You happen upon a part of the dungeon made entirely from ice. The castle here is filled with mercurial creatures.",
+    "areaURL": "SahotaCastle"
   }
 ]
