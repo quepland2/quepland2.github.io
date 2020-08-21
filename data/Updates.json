@@ -1,5 +1,26 @@
 [
   {
+    "versionNumber": "0.0.14",
+    "updates": [
+      "Added drops to the sawoka vault.",
+      "Fixed a bug where you could get too many keys.",
+      "Fixed a bug with library keys.",
+      "Fixed a crash in Koncave Caverns.",
+      "Mound will now take any extra keys you might have taking up bank space.",
+      "Combat followers no longer run to and from the bank while you are skilling.",
+      "Fixed a few bugs involving non-gathering followers.",
+      "Added ice fishing.",
+      "Added missing images to Sahota.",
+      "Added hunting camp.",
+      "Added ability to hunt polar bears and mammoths.",
+      "Fixed a bug that broke saves when hunting polar bears and mammoths.",
+      "Made a backup for if you somehow load a save that was on a schrodinger's hunting trip.",
+      "Added an NPC to explain how to upgrade gear.",
+      "Made it possible to open the Experience Tracker menu without gaining experience."
+
+    ]
+  },
+  {
     "versionNumber": "0.0.13",
     "updates": [
       "Fixed a typo in Queple Cave.",
