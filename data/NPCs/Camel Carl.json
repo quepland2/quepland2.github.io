@@ -1,4 +1,5 @@
 {
+  "$schema": "npc-schema.json#",
   "name": "Camel Carl",
   "id": 22,
   "dialogs": [
@@ -235,6 +236,21 @@
     {
       "buttonText": "I can get you armor",
       "responseText": "You could? I'm not very strong or skilled, but if you could find a leather shirt made from boar skin, I could probably use it...",
+      "quest": "Grand Theft Camel",
+      "requirements": [
+        {
+          "quest": "Grand Theft Camel",
+          "minimumQuestProgress": 10,
+          "maximumQuestProgress": 10
+        },
+        {
+          "location": "UragotaTown"
+        }
+      ]
+    },
+    {
+      "buttonText": "Where can I find a boar?",
+      "responseText": "Hmm... I'm not sure. I did see a few on the way here, in Higashi Woods. Maybe you can trap one there.",
       "quest": "Grand Theft Camel",
       "requirements": [
         {

@@ -1,5 +1,6 @@
 {
-  "name": "Anthretago",
+  "$schema": "npc-schema.json#",
+  "name": "Anthretagro",
   "id": 38,
   "dialogs": [
     {
