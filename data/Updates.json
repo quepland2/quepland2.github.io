@@ -1,6 +1,6 @@
 [
   {
-    "versionNumber": "0.0.19",
+    "versionNumber": "0.0.19b",
     "updates": [
       "Fixed a crash with alchemy if using an item that shouldn't be alchemicable.",
       "Reworked Oikaaz's dialogue to be more in line with the newer dialogue system.",
@@ -10,7 +10,8 @@
       "Fixed a bug that made hunting traps show when they weren't ready, instead of when they were.",
       "Added some NPCs to explain sushi and jerky.",
       "Added an icon to help distinguish molten metal from metal.",
-      "Jerky now requires a culinary arts level to make."
+      "Jerky now requires a culinary arts level to make.",
+      "Actually fixed trapping issues."
     ]
   },
   {
