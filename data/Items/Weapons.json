@@ -1366,6 +1366,7 @@
     "value": 5000,
     "enabledActions": "Axemanship",
     "equipSlot": "R Hand",
+    "secondaryColor": "#45bf2a",
     "icon": "CactusClubFull",
     "weaponInfo": {
       "attackSpeed": 15,
@@ -1462,6 +1463,25 @@
         {
           "skill": "Swordsmanship",
           "skillLevel": 55
+        }
+      ]
+    }
+  },
+  {
+    "name": "Queple's Sword",
+    "description": "A magical sword that once belonged to a hero. It glows with a soft purple light.",
+    "value": 29880,
+    "enabledActions": "Swordsmanship",
+    "secondaryColor": "#B787DC",
+    "equipSlot": "R Hand",
+    "icon": "Sword",
+    "weaponInfo": {
+      "attackSpeed": 9,
+      "damage": 525,
+      "wearRequirements": [
+        {
+          "skill": "Swordsmanship",
+          "skillLevel": 100
         }
       ]
     }

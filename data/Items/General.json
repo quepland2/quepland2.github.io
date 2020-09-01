@@ -213,13 +213,6 @@
     "icon": "Ice"
   },
   {
-    "name": "Ice Essence",
-    "description": "It's the essence of cold.",
-    "value": 1000,
-    "secondaryColor": "#D2FFF5",
-    "icon": "Essence"
-  },
-  {
     "name": "Bandit's Blade",
     "description": "The sharp part of a sword. You could probably reattach it to a hilt and make a working weapon with it.",
     "value": 5,
@@ -231,12 +224,14 @@
     "gatherString": "You get some cactus spines.",
     "value": 2,
     "icon": "Spike",
+    "secondaryColor": "#45bf2a",
     "isStackable": true
   },
   {
     "name": "Cactus Club (Empty)",
     "description": "A club made from a special living cactus. If you covered it in spines, it would really do some damage.",
     "value": 50,
+    "secondaryColor": "#45bf2a",
     "icon": "CactusClubEmpty"
   },
   {
@@ -284,7 +279,8 @@
     "description": "A seed from the Great Tree. It's a prized possesion among the root dwellers of Koncave.",
     "value": 5000,
     "icon": "Seeds",
-    "isStackable": true
+    "isStackable": true,
+    "secondaryColor": "#9F6F4F"
   },
   {
     "name": "Steelflame Axe Handle",

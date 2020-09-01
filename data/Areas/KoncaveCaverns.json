@@ -82,6 +82,8 @@
             "name": "Jason's Jewelry",
             "limitBoughtItemsToSoldItems": true,
             "itemNames": [
+              "Lapidary Toolkit",
+              "Rock Tumbler",
               "Silver Necklace",
               "Gold Necklace",
               "Platinum Necklace",
