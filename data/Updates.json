@@ -1,5 +1,14 @@
 [
   {
+    "versionNumber": "1.0.0",
+    "updates": [
+      "Release day! I'll be monitoring the discord and reddit post to make sure any bugs that pop up are fixed ASAP.",
+      "Fixed a bug that let you deposit locked items.",
+      "Fixed a bug that made some effect weapons not last like they should.",
+      "Fixed alignment issue with experience rate tracker."
+    ]
+  },
+  {
     "versionNumber": "0.0.23",
     "updates": [
       "Added more ways to get seaweed.",
