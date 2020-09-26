@@ -1,6 +1,6 @@
 [
   {
-    "versionNumber": "1.0.12",
+    "versionNumber": "1.0.12b",
     "updates": [
       "Added some error checking for hunting trips, maybe fixed the hunting save issue.",
       "Fixed a bug with item locks staying locked for all duplicate items created or acquired.",
@@ -12,7 +12,11 @@
       "The spine shooter should no longer shoot arrows.",
       "You can now smith iron pickaxes.",
       "Animations are slightly sped up to look less laggy in certain instances.",
-      "Food now has a progress bar above the player's HP. You can mouse over it to see how much time is left and what food it is."
+      "Food now has a progress bar above the player's HP. You can mouse over it to see how much time is left and what food it is.",
+      "Fixed a bug that prevented depositing coins into your bank.",
+      "Fixed some issues with loot text so it is now more clear what you got.",
+      "You can now gain combat experience again."
+
     ]
   },
   {
