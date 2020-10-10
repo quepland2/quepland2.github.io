@@ -1,6 +1,6 @@
 [
   {
-    "versionNumber": "1.0.14",
+    "versionNumber": "1.0.14b",
     "updates": [
       "Followers now have a levelling system. A follower will gain experience every time they bank items for you. A higher level follower will have a larger inventory. There will be more that levelling will do in the future. Big thanks to Patreon Subscriber Moonbreak for the suggestions!",
       "The requirements for cancelling an artisan task have been changed to 10 Artisan and under 50 artisan points.",
@@ -18,7 +18,8 @@
       "Fixed some typos.",
       "Low level bars and high value bars now have different icons to make telling them apart a little bit easier.",
       "Added a gem identifier who will identify all the gems in your inventory for a price.",
-      "Library books now tell you your page number."
+      "Library books now tell you your page number.",
+      "Fixed the bug making followers depositing create duplicate item slots."
     ]
   },
   {
