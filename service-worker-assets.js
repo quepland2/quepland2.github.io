@@ -1713,7 +1713,7 @@
       "url": "data\/Tooltips.json"
     },
     {
-      "hash": "sha256-GsxEirzx7n0pcwpR8f9Sc3vACERvj50CZ7OcZa\/Rk3c=",
+      "hash": "sha256-DeBXsnvs+1RVMqUb+5UWyygRtXf8bkFnRdoa69rvZNY=",
       "url": "data\/Updates.json"
     },
     {
@@ -1841,7 +1841,7 @@
       "url": "_framework\/System.Security.Permissions.dll"
     },
     {
-      "hash": "sha256-lf\/4ue6QEGJnkE\/zZeuIgAjsbu8iiOK1dQ9xgfNf9Ws=",
+      "hash": "sha256-R6dzc173cE60pIR72H50bP4+7cKsNsZIJkN2iQq4tio=",
       "url": "_framework\/Quepland_2.dll"
     },
     {
@@ -2013,7 +2013,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-Kuti5VsuHgzZWF\/HxPdBRGQ69z4r1vPVm6wF8qdyhD4=",
+      "hash": "sha256-7cLjFXatXaczs+20g4ytueiIcvuH8Z4MKJ\/QN9vlFZU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -2021,5 +2021,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "1nF0cin6"
+  "version": "fxYmsqI8"
 };

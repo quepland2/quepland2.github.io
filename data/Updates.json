@@ -8,7 +8,8 @@
       "Added Sanbon Wood.",
       "Added Transit Branches.",
       "You can now extract the yeast from bread dough.",
-      "Updated to a new version of Blazor, the whole game should be more performant now, particularly banking and combat. Please let me know if this somehow broke something!"
+      "Updated to a new version of Blazor, the whole game should be more performant now, particularly banking and combat. Please let me know if this somehow broke something!",
+      "This is a small update because of the Blazor change, hoping to get more done on it later this week."
 
     ]
   },
