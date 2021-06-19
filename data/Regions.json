@@ -174,12 +174,34 @@
     ]
   },
   {
+    "name": "Pansoph Plains",
+    "areaNames": [
+      "Greenever Hills",
+      "Eightsfret Glen",
+      "Threebury Hayes",
+      "Fithcaster Stead",
+      "Wavering Woods",
+      "Lunacrest Bridge"
+
+    ]
+  },
+  {
     "name": "Sanbon Wood",
     "areaNames": [
       "Great Tree",
       "Overgrown Trail",
       "Magician's Camp",
       "Sanbon Clearing"
+    ]
+  },
+  {
+    "name": "Crossmare Cove",
+    "areaNames": [
+      "Chelonia",
+      "Subfenton Stows",
+      "Ancient Docks",
+      "Graingilt Castle",
+      "Graingilt Courtyard"
     ]
   }
 ]

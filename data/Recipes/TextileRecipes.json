@@ -1,0 +1,297 @@
+[
+  {
+    "outputItemName": "Red Dye",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Madder Root",
+        "amount": 1
+      },
+      {
+        "itemName": "Oil of Vitriol",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You mix the root into the liquid and watch it turn a deep red color.",
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "Blue Dye",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Woad Leaves",
+        "amount": 1
+      },
+      {
+        "itemName": "Bottle of Water",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You mix the leaves into the water and watch it turn a deep blue color.",
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "Green Dye",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Chelonic Powder",
+        "amount": 1
+      },
+      {
+        "itemName": "Bottle of Water",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You mix the powder into the water and watch it turn a deep green color.",
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "White Wool Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Wool Fabric",
+        "amount": 3
+      },
+      {
+        "itemName": "Needle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "recipeActionString": "You carefully sew the fabric into a cape.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:100",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 35
+      }
+    ]
+  },
+  {
+    "outputItemName": "Red Wool Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "White Wool Cape",
+        "amount": 1
+      },
+      {
+        "itemName": "Red Dye",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You pour the dye onto the cape and it turns a bright red.",
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Blue Wool Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "White Wool Cape",
+        "amount": 1
+      },
+      {
+        "itemName": "Blue Dye",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You pour the dye onto the cape and it turns a bright blue.",
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Green Wool Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "White Wool Cape",
+        "amount": 1
+      },
+      {
+        "itemName": "Green Dye",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You pour the dye onto the cape and it turns a bright green.",
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "White Cotton Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Cotton Fabric",
+        "amount": 3
+      },
+      {
+        "itemName": "Needle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "recipeActionString": "You carefully sew the fabric into a cape.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:170",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 45
+      }
+    ]
+  },
+  {
+    "outputItemName": "White Silk Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Silk Fabric",
+        "amount": 3
+      },
+      {
+        "itemName": "Needle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "recipeActionString": "You carefully sew the fabric into a cape.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:250",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 55
+      }
+    ]
+  },
+  {
+    "outputItemName": "Baobhan Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Baobhan Fabric",
+        "amount": 3
+      },
+      {
+        "itemName": "Needle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "recipeActionString": "You carefully sew the fabric into a cape.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:550",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 75
+      }
+    ]
+  },
+  {
+    "outputItemName": "Wool Thread",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Wool",
+        "amount": 2
+      },
+      {
+        "itemName": "Spindle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "CraftingSpeed": 18,
+    "recipeActionString": "You spin the wool into thread.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:15",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 1
+      }
+    ]
+  },
+  {
+    "outputItemName": "Cotton Thread",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Cotton",
+        "amount": 2
+      },
+      {
+        "itemName": "Spindle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "CraftingSpeed": 18,
+    "recipeActionString": "You spin the cotton into thread.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:25",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 10
+      }
+    ]
+  },
+  {
+    "outputItemName": "Silk Thread",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Silk",
+        "amount": 2
+      },
+      {
+        "itemName": "Spindle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "CraftingSpeed": 18,
+    "recipeActionString": "You spin the cotton into thread.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:35",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 20
+      }
+    ]
+  },
+  {
+    "outputItemName": "Baobhan Thread",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Baobhan Hair",
+        "amount": 2
+      },
+      {
+        "itemName": "Spindle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "CraftingSpeed": 18,
+    "recipeActionString": "You spin the hair into thread.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:55",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 40
+      }
+    ]
+  }
+]

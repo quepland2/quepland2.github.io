@@ -1,5 +1,36 @@
 [
   {
+    "versionNumber": "1.0.16",
+    "updates": [
+      "There are a few changes I failed to document well and have totally forgotten them. Hopefully I didn't break anything here.",
+      "Added the area of Crossmare near Sanbon Woods.",
+      "Fixed an issue with the bank when set to the smallest window width setting. Scrolling should now work as expected.",
+      "Unidentified gems should now work with the compact inventory view.",
+      "Fixed the item icon for Abalones.",
+      "You can no longer lock fishing bait and fish for free.",
+      "Added shields.",
+      "Added rings.",
+      "Added QR Codes for the upcoming mobile release.",
+      "Added Textile Arts",
+      "Added capes",
+      "Added Pansoph Plains",
+      "The game now tracks monster KC in the Beastiary menu at the bottom of the skills tab. I don't love its location so if you think of a better one let me know. Also, your old kills weren't being tracked so this is just for going forward.",
+      "Reworked how the bank works. Let me know if I accidentally broke everything, but it should run quite a bit faster.",
+      "Fixed a UI misalignment with worm hunting.",
+      "Added Hardcore and Ultimate game modes. These work on separate save files and have special rules. Hardcores will erase the save file when you die, Ultimates aren't allowed to access a bank. Followers also work differently for Ultimate accounts.",
+      "Follower inventories are now saved.",
+      "The bank now updates searches per key press.",
+      "Fixed a bug that made converting items slower for the first item.",
+      "Tomes now scroll to allow more items to be added to them, just like real books do.",
+      "Added a few textile arts items around various shops.",
+      "Fixed a bug concerning tooltips sometimes showing some nonsense about lacking a skill limit of over 2 billion",
+      "Fixed a bug where the first item you gather was actually rolling for gather speed twice, which usually didn't do anything, but it would sometimes cause the first gather to be either extremely fast or painfully slow.",
+      "Reworked a bunch of engine stuff to hopefully work more smoothly. This should mean fewer calls to garbage collection, which was a major factor in the game feeling jittery at times. Let me know if I totally broke something.",
+      "Fixed a bug that made armor with status effects not work properly. I have no idea if there were any armors with status effects before, but if there were they should work now?",
+      "I'll be monitoring the discord server for the next few days to respond to any major bugs that pop up. I did just get a new job that begins next month. I have no idea what that means for the game, it may mean more time to make updates because I am less focused on other things, or it may mean I run out of time to update the game. Only time will tell. Regardless, the next large update to come out will be the Android mobile port when it is finished."
+    ]
+  },
+  {
     "versionNumber": "1.0.15",
     "updates": [
       "Fixed a typo in Lumpy's banking message.",
@@ -7,9 +38,7 @@
       "Follower levels now save properly.",
       "Added Sanbon Wood.",
       "Added Transit Branches.",
-      "You can now extract the yeast from bread dough.",
-      "Updated to a new version of Blazor, the whole game should be more performant now, particularly banking and combat. Please let me know if this somehow broke something!",
-      "This is a small update because of the Blazor change, hoping to get more done on it later this week."
+      "You can now extract the yeast from bread dough."
 
     ]
   },

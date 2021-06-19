@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Needle",
+    "value": 100,
+    "description": "A little pokey piece of metal, for poking things.",
+    "icon": "Needle",
+    "secondaryColor": "#adadad",
+    "weaponInfo": {
+      "attackSpeed": 4,
+      "damage": -15,
+      "wearRequirements": [
+        {
+          "skill": "Knifesmanship",
+          "skillLevel": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Spindle",
+    "value": 150,
+    "description": "A spinny thing that can be used to pull a material into yarn or thread.",
+    "icon": "Spindle",
+    "secondaryColor": "#b57a47",
+    "weaponInfo": {
+      "attackSpeed": 6,
+      "damage": -5,
+      "wearRequirements": [
+        {
+          "skill": "Knifesmanship",
+          "skillLevel": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Wool",
+    "value": 25,
+    "description": "The hair of a sheep.",
+    "icon": "Wool",
+    "secondaryColor": "#ddccae",
+    "gatherString": "You shear some wool.",
+    "requirements": [
+      {
+        "action": "Shearing"
+      }
+    ]
+  },
+  {
+    "name": "Silk",
+    "value": 100,
+    "description": "Fibres of a silkworm cocoon.",
+    "icon": "Silk",
+    "gatherString": "You harvest some silk cocoons.",
+    "secondaryColor": "#dddddd"
+  },
+  {
+    "name": "Cotton",
+    "value": 50,
+    "description": "A soft, fluffy plant fiber.",
+    "icon": "Cotton",
+    "gatherString": "You pick some cotton.",
+    "secondaryColor": "#ffffff"
+  },
+  {
+    "name": "Wool Thread",
+    "value": 90,
+    "description": "The hair of a sheep spun into thread. You'll need some kind of loom to turn it into fabric.",
+    "icon": "Thread",
+    "gatherString": "You carefully pull the wool into thread.",
+    "secondaryColor": "#ddccae",
+    "gatherSpeed": 10,
+    "experienceGained": "Textile Arts:15",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 1
+      }
+    ]
+  },
+  {
+    "name": "Silk Thread",
+    "value": 200,
+    "description": "Fibres of a silkworm cocoon spun into thread. You'll need some kind of loom to turn it into fabric.",
+    "icon": "Thread",
+    "gatherString": "You carefully pull the silk into thread.",
+    "secondaryColor": "#dddddd",
+    "gatherSpeed": 10,
+    "experienceGained": "Textile Arts:35",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 20
+      }
+    ]
+  },
+  {
+    "name": "Cotton Thread",
+    "value": 150,
+    "description": "A soft, fluffy plant fiber spun into thread. You'll need some kind of loom to turn it into fabric.",
+    "icon": "Thread",
+    "gatherString": "You carefully pull the cotton into thread.",
+    "secondaryColor": "#ffffff",
+    "gatherSpeed": 10,
+    "experienceGained": "Textile Arts:25",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 10
+      }
+    ]
+  },
+  {
+    "name": "Baobhan Thread",
+    "value": 350,
+    "description": "Hair from a baobhan spun into thread. You'll need some kind of loom to turn it into fabric.",
+    "icon": "Thread",
+    "gatherString": "You carefully pull the hair into thread.",
+    "gatherSpeed": 10,
+    "experienceGained": "Textile Arts:55",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 40
+      }
+    ]
+  },
+  {
+    "name": "Wool Fabric",
+    "value": 390,
+    "description": "The hair of a sheep spun into thread and woven into fabric.",
+    "icon": "Fabric",
+    "gatherString": "You carefully weave the thread into a fabric.",
+    "secondaryColor": "#ddccae"
+  },
+  {
+    "name": "Silk Fabric",
+    "value": 500,
+    "description": "Fibres of a silkworm cocoon spun into thread and woven into fabric.",
+    "icon": "Fabric",
+    "gatherString": "You carefully weave the thread into a fabric.",
+    "secondaryColor": "#dddddd"
+  },
+  {
+    "name": "Cotton Fabric",
+    "value": 450,
+    "description": "A soft, fluffy plant fiber spun into thread and woven into fabric.",
+    "icon": "Fabric",
+    "gatherString": "You carefully weave the thread into a fabric.",
+    "secondaryColor": "#ffffff"
+  },
+  {
+    "name": "Baobhan Fabric",
+    "value": 650,
+    "description": "A soft, fluffy plant fiber spun into thread and woven into fabric.",
+    "gatherString": "You carefully weave the thread into a fabric.",
+    "icon": "Fabric"
+  },
+  {
+    "name": "White Wool Cape",
+    "value": 180,
+    "description": "A white cape made from wool. It can protect your back, somewhat.",
+    "icon": "Cape",
+    "secondaryColor": "#ddccae",
+    "gatherString": "You make a wool cape.",
+    "gatherSpeed": 25,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 5
+    }
+  },
+  {
+    "name": "Red Wool Cape",
+    "value": 180,
+    "description": "A red cape made from wool. It can protect your back, somewhat.",
+    "icon": "Cape",
+    "secondaryColor": "#cc0000",
+    "gatherString": "You dye the cape red.",
+    "gatherSpeed": 15,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 5
+    }
+  },
+  {
+    "name": "Green Wool Cape",
+    "value": 180,
+    "description": "A green cape made from wool. It can protect your back, somewhat.",
+    "icon": "Cape",
+    "secondaryColor": "#00cc00",
+    "gatherString": "You dye the cape green.",
+    "gatherSpeed": 15,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 5
+    }
+  },
+  {
+    "name": "Blue Wool Cape",
+    "value": 180,
+    "description": "A blue cape made from wool. It can protect your back, somewhat.",
+    "icon": "Cape",
+    "secondaryColor": "#0000cc",
+    "gatherString": "You dye the cape blue.",
+    "gatherSpeed": 15,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 5
+    }
+  },
+  {
+    "name": "Black Wool Cape",
+    "value": 180,
+    "description": "A black cape made from wool. It can protect your back, somewhat.",
+    "icon": "Cape",
+    "secondaryColor": "#333333",
+    "gatherString": "You dye the cape black.",
+    "gatherSpeed": 15,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 5
+    }
+  },
+  {
+    "name": "White Cotton Cape",
+    "value": 280,
+    "description": "A white cape made from cotton. It can protect your back, and it looks kinda cool.",
+    "icon": "Cape",
+    "secondaryColor": "#ffffff",
+    "gatherString": "You make a cotton cape.",
+    "gatherSpeed": 25,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 12
+    }
+  },
+  {
+    "name": "White Silk Cape",
+    "value": 520,
+    "description": "A glorious white cape made from silk. It can protect your back, and it looks very cool.",
+    "icon": "Cape",
+    "secondaryColor": "#dddddd",
+    "gatherString": "You make a silk cape.",
+    "gatherSpeed": 25,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "armorBonus": 18
+    }
+  },
+  {
+    "name": "Baobhan Cape",
+    "value": 780,
+    "description": "A cape made from the hair of a baobhan.",
+    "icon": "Cape",
+    "gatherString": "You make a baobhan cape.",
+    "gatherSpeed": 25,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "damage": 10
+    },
+    "secondaryColor": "#333366"
+  },
+  {
+    "name": "Madder Root",
+    "value": 35,
+    "description": "The roots of a madder plant. You could probably make dye with this somehow.",
+    "icon": "Madder",
+    "secondaryColor": "#aa0000",
+    "gatherString": "You harvest a root.",
+    "gatherSpeed": 15
+  },
+  {
+    "name": "Red Dye",
+    "value": 350,
+    "description": "The roots of a madder plant dissolved in oil of vitriol.",
+    "icon": "Bottle",
+    "secondaryColor": "#cc0000",
+    "gatherString": "You make some red dye.",
+    "gatherSpeed": 15
+  },
+  {
+    "name": "Woad Leaves",
+    "value": 25,
+    "description": "The leaves of a woad plant. You could probably make dye with this somehow.",
+    "icon": "Woad",
+    "secondaryColor": "#246bce",
+    "gatherString": "You harvest a leaf.",
+    "gatherSpeed": 15
+  },
+  {
+    "name": "Blue Dye",
+    "value": 250,
+    "description": "The leaves of a woad plant soaked in water.",
+    "icon": "Bottle",
+    "secondaryColor": "#246bce",
+    "gatherString": "You make some blue dye.",
+    "gatherSpeed": 15
+  },
+  {
+    "name": "Green Dye",
+    "value": 250,
+    "description": "Chelonic powder soaked in water.",
+    "icon": "Bottle",
+    "secondaryColor": "#3b7a0b",
+    "gatherString": "You make some green dye.",
+    "gatherSpeed": 15
+  },
+  {
+    "name": "Fabrician's Gauntlet",
+    "value": 5000,
+    "description": "By making it harder to work with textiles, you can learn more about the skill, faster!",
+    "secondaryColor": "#eacb68",
+    "icon": "Gauntlet",
+    "equipSlot": "Hands",
+    "armorInfo": {
+      "armorBonus": 2
+    },
+    "experienceBonusSkill": "Textile Arts",
+    "experienceGainBonus": 0.1
+  }
+]
