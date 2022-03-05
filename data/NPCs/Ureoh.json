@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Ureoh",
+  "description": "He went insane in the swamp.",
   "id": 41,
   "dialogs": [
     {

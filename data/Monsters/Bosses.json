@@ -25,7 +25,7 @@
     "damage": 29,
     "armor": 14,
     "attackSpeed": 18
-    
+
   },
   {
     "name": "Gashadokuro Spine",
@@ -76,5 +76,64 @@
     "damage": 165,
     "armor": 450,
     "attackSpeed": 1
+  },
+  {
+    "name": "Ruwohane",
+    "hp": 23500,
+    "weaknesses": "Archery",
+    "strengths": "Knifesmanship",
+    "damage": 95,
+    "armor": 450,
+    "attackSpeed": 3,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Coins",
+          "weight": 30,
+          "amount": 15000
+        },
+        {
+          "itemName": "Mask of Ruwohane",
+          "weight": 3,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 15,
+          "amount": 100
+        },
+        {
+          "itemName": "Octopus Roll",
+          "weight": 35,
+          "amount": 3
+        },
+        {
+          "itemName": "Halibut Roll",
+          "weight": 25,
+          "amount": 3
+        },
+        {
+          "itemName": "Sleeper Shark Roll",
+          "weight": 15,
+          "amount": 3
+        },
+        {
+          "itemName": "Ruwohane Hair",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Ruwohane Hair",
+          "weight": 10,
+          "amount": 3
+        },
+        {
+          "itemName": "Ring of Sight",
+          "weight": 1,
+          "amount": 1
+        }
+
+      ]
+    }
   }
 ]

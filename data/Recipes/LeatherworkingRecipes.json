@@ -991,6 +991,111 @@
     "maxOutputsPerAction": 1
   },
   {
+    "outputItemName": "Polar Bear Gloves",
+    "ingredients": [
+      {
+        "itemName": "Polar Bear Leather",
+        "amount": 1
+      },
+      {
+        "itemName": "Leatherworking Toolkit",
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Leatherworking:500",
+    "requirements": [
+      {
+        "skill": "Leatherworking",
+        "skillLevel": 106
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Polar Bear Hat",
+    "ingredients": [
+      {
+        "itemName": "Polar Bear Leather",
+        "amount": 2
+      },
+      {
+        "itemName": "Leatherworking Toolkit",
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Leatherworking:910",
+    "requirements": [
+      {
+        "skill": "Leatherworking",
+        "skillLevel": 107
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Polar Bear Boots",
+    "ingredients": [
+      {
+        "itemName": "Polar Bear Leather",
+        "amount": 2
+      },
+      {
+        "itemName": "Leatherworking Toolkit",
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Leatherworking:920",
+    "requirements": [
+      {
+        "skill": "Leatherworking",
+        "skillLevel": 108
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Polar Bear Pants",
+    "ingredients": [
+      {
+        "itemName": "Polar Bear Leather",
+        "amount": 3
+      },
+      {
+        "itemName": "Leatherworking Toolkit",
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Leatherworking:1450",
+    "requirements": [
+      {
+        "skill": "Leatherworking",
+        "skillLevel": 109
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Polar Bear Shirt",
+    "ingredients": [
+      {
+        "itemName": "Polar Bear Leather",
+        "amount": 4
+      },
+      {
+        "itemName": "Leatherworking Toolkit",
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Leatherworking:1950",
+    "requirements": [
+      {
+        "skill": "Leatherworking",
+        "skillLevel": 110
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
     "outputItemName": "Caiman Belt",
     "ingredients": [
       {

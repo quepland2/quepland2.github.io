@@ -1,0 +1,127 @@
+[
+  {
+    "outputItemName": "Molten Plastinium Bar",
+    "ingredients": [
+      {
+        "itemName": "Plastinium Ore"
+      },
+      {
+        "itemName": "Coal"
+      },
+      {
+        "itemName": "Alimental Seed"
+      }
+    ],
+    "experienceGained": "Smithing:750",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Molten Plastinium Bar",
+    "ingredients": [
+      {
+        "itemName": "Plastinium Bar"
+      }
+    ],
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Plastinium Knife",
+    "ingredients": [
+      {
+        "itemName": "Molten Plastinium Bar"
+      }
+    ],
+    "experienceGained": "Smithing:750",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Plastinium Sword",
+    "ingredients": [
+      {
+        "itemName": "Molten Plastinium Bar"
+      }
+    ],
+    "experienceGained": "Smithing:750",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Plastinium Axe",
+    "ingredients": [
+      {
+        "itemName": "Molten Plastinium Bar"
+      }
+    ],
+    "experienceGained": "Smithing:750",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Plastinium Pickaxe",
+    "ingredients": [
+      {
+        "itemName": "Molten Plastinium Bar"
+      }
+    ],
+    "experienceGained": "Smithing:750",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Plastinium Hammer",
+    "ingredients": [
+      {
+        "itemName": "Molten Plastinium Bar"
+      }
+    ],
+    "experienceGained": "Smithing:750",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  },
+  {
+    "outputItemName": "Plastinium Bar",
+    "ingredients": [
+      {
+        "itemName": "Molten Plastinium Bar"
+      }
+    ],
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 125
+      }
+    ]
+  }
+
+]

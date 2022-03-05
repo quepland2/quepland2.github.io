@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Quartermaster Argon",
+  "description": "The quartermaster of the pirate's ship. Probably the only reliable one on deck.",
   "id": 13,
   "dialogs": [
     {
@@ -18,6 +19,7 @@
       "buttonText": "Who would want to kill the captain?",
       "responseText": "An excellent question. As the only sober person on this ship, you are the most capable of figuring that out.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "You've Got the Case",
       "newQuestProgressValue": 4,
       "requirements": [
         {
@@ -32,6 +34,7 @@
       "responseText": "Hardly matters to us. Just let me know when you've found the culprit and we'll throw him overboard and be on our way.",
       "quest": "Case of the Dead Pirate",
       "newQuestProgressValue": 5,
+      "SetFlag": "Investigation Begun",
       "requirements": [
         {
           "quest": "Case of the Dead Pirate",
@@ -44,6 +47,7 @@
       "buttonText": "Okay, I'll find the killer",
       "responseText": "Right. Let me know when you do.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Investigation Begun",
       "newQuestProgressValue": 5,
       "requirements": [
         {
@@ -58,6 +62,7 @@
       "responseText": "What? You haven't done any investigating yet. How could you possibly know who did it?",
       "quest": "Case of the Dead Pirate",
       "newQuestProgressValue": 90,
+      "SetFlag": "Fremp Accused",
       "requirements": [
         {
           "quest": "Case of the Dead Pirate",
@@ -70,6 +75,7 @@
       "buttonText": "Don't question my methods",
       "responseText": "*Sigh* Whatever, let's get this over with. \nThe pirates throw the first mate overboard and continue the voyage to the island.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Fremp Thrown Overboard",
       "newQuestProgressValue": 100,
       "requirements": [
         {
@@ -83,6 +89,7 @@
       "buttonText": "You did it!",
       "responseText": "What? I found the body and I have no motive. You haven't even done any investigating yet. How could you possibly know who did it?",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Argon Accused",
       "newQuestProgressValue": 91,
       "requirements": [
         {
@@ -96,6 +103,7 @@
       "buttonText": "Don't question my methods",
       "responseText": "*Sigh* Whatever, let's get this over with. \nThe pirates throw the quartermaster overboard and continue the voyage to the island. It ends up taking quite a long time given that the quartermaster was also the only navigator aboard.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Argon Thrown Overboard",
       "newQuestProgressValue": 101,
       "requirements": [
         {
@@ -109,6 +117,7 @@
       "buttonText": "Two Legs Jack did it",
       "responseText": "What? You haven't done any investigating yet. How could you possibly know who did it?",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Two Legs Jack Accused",
       "newQuestProgressValue": 92,
       "requirements": [
         {
@@ -122,6 +131,7 @@
       "buttonText": "Don't question my methods",
       "responseText": "*Sigh* Whatever, let's get this over with. \nThe pirates throw Jack overboard and continue the voyage to the island.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Two Legs Jack Thrown Overboard",
       "newQuestProgressValue": 102,
       "requirements": [
         {
@@ -135,6 +145,7 @@
       "buttonText": "Doctor Squid did it",
       "responseText": "What? You haven't done any investigating yet. How could you possibly know who did it?",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Dr. Squid Accused",
       "newQuestProgressValue": 93,
       "requirements": [
         {
@@ -148,6 +159,7 @@
       "buttonText": "Don't question my methods",
       "responseText": "*Sigh* Whatever, let's get this over with. \nThe pirates throw the doctor overboard and continue the voyage to the island. Half the crew perishes of scurvy before arriving on the island.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Dr. Squid Thrown Overboard",
       "newQuestProgressValue": 103,
       "requirements": [
         {
@@ -161,6 +173,7 @@
       "buttonText": "I did it",
       "responseText": "What? Why would you kill our captain!?",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Confessed",
       "newQuestProgressValue": 94,
       "requirements": [
         {
@@ -175,6 +188,7 @@
       "quest": "Case of the Dead Pirate",
       "responseText": "DieAndGotoArea",
       "parameter": "Koya Hasa",
+      "SetFlag": "Thrown Overboard",
       "newQuestProgressValue": 104,
       "requirements": [
         {
@@ -201,6 +215,7 @@
       "buttonText": "First Mate Fremp did it",
       "responseText": "First Mate Fremp? That traitor! Let's throw him overboard! \nThe pirates throw the first mate overboard and continue the voyage to the island.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Fremp Thrown Overboard",
       "newQuestProgressValue": 100,
       "requirements": [
         {
@@ -214,6 +229,7 @@
       "buttonText": "You did it!",
       "responseText": "What? I found the body and I have no motive. Your accusation doesn't make any sense! \nThe pirates throw the quartermaster overboard despite his resistance and continue the voyage to the island. It ends up taking quite a long time given that the quartermaster was also the only navigator aboard.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Argon Thrown Overboard",
       "newQuestProgressValue": 101,
       "requirements": [
         {
@@ -227,6 +243,7 @@
       "buttonText": "Two Legs Jack did it",
       "responseText": "Two Legs Jack! The scoundrel must have been jealous of losing the captain's seat! Throw him overboard!\nThe pirates throw Jack overboard and continue the voyage to the island.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Two Legs Jack Thrown Overboard",
       "newQuestProgressValue": 102,
       "requirements": [
         {
@@ -240,6 +257,7 @@
       "buttonText": "Doctor Squid did it",
       "responseText": "That drunkard! He probably didn't even know what he was doing! Throw him overboard! \nThe pirates throw the doctor overboard and continue the voyage to the island. Half the crew perishes of scurvy before arriving on the island.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Dr. Squid Thrown Overboard",
       "newQuestProgressValue": 103,
       "requirements": [
         {
@@ -254,6 +272,7 @@
       "responseText": "DieAndGotoArea",
       "parameter": "Koya Hasa",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Thrown Overboard",
       "newQuestProgressValue": 104,
       "requirements": [
         {

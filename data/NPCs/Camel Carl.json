@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Camel Carl",
+  "description": "An entrepreneur with a confidence problem. Talk to him to start the Grand Theft Camel quest.",
   "id": 22,
   "dialogs": [
     {
@@ -8,6 +9,7 @@
       "responseText": "Hi, welcome to camelpalooza... Is what I would say, if I had any camels anymore!",
       "quest": "Grand Theft Camel",
       "newQuestProgressValue": 1,
+      "setFlag": "Quest Start",
       "requirements": [
         {
           "quest": "Grand Theft Camel",
@@ -24,6 +26,7 @@
       "responseText": "What? Why would you help a stranger like me?",
       "quest": "Grand Theft Camel",
       "newQuestProgressValue": 2,
+      "setFlag": "Help Offered",
       "requirements": [
         {
           "quest": "Grand Theft Camel",
@@ -36,6 +39,7 @@
       "buttonText": "I need a camel",
       "responseText": "Oh, this is a fortunate encounter! You can get my camels back!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Convinced",
       "newQuestProgressValue": 3,
       "requirements": [
         {
@@ -49,6 +53,7 @@
       "buttonText": "I am a good person",
       "responseText": "Oh, this is a fortunate encounter! You can get my camels back!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Convinced",
       "newQuestProgressValue": 3,
       "requirements": [
         {
@@ -62,6 +67,7 @@
       "buttonText": "I am an adventurer!",
       "responseText": "Oh, this is a fortunate encounter! You can get my camels back!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Convinced",
       "newQuestProgressValue": 3,
       "requirements": [
         {
@@ -101,6 +107,7 @@
       "buttonText": "Where did they go?",
       "responseText": "I have no idea! They're pirates, they could be out to sea by now!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Pirates At Port",
       "newQuestProgressValue": 5,
       "requirements": [
         {
@@ -114,6 +121,7 @@
       "buttonText": "You should go find them",
       "responseText": "Me? How could I possibly do that?",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Route Selected",
       "newQuestProgressValue": 6,
       "requirements": [
         {
@@ -127,6 +135,7 @@
       "buttonText": "Maybe ask other pirates if they know anything",
       "responseText": "Hmmm, well I guess I could do that. I'll see what I can find.",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Goes To Uragota",
       "newQuestProgressValue": 7,
       "requirements": [
         {
@@ -140,6 +149,7 @@
       "buttonText": "Try searching port towns for information",
       "responseText": "Hmmm, well I guess I could do that. I'll see what I can find.",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Goes To Uragota",
       "newQuestProgressValue": 7,
       "requirements": [
         {
@@ -153,6 +163,7 @@
       "buttonText": "Did you find the pirates?",
       "responseText": "Oh, it's terrible! The pirates have already shipped the camels to their secret hideout in the islands north of here. There are dozens of them and I have no way to defeat them!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Found Pirates",
       "newQuestProgressValue": 8,
       "requirements": [
         {
@@ -170,6 +181,7 @@
       "responseText": "Would you do that for me? I would be eternally grateful if you could save my camels! A pirate named Kai is waiting at the eastern docks, he said he can ferry people to the secret hideout. Its location is not so secret, apparently.",
       "quest": "Grand Theft Camel",
       "newQuestProgressValue": 19,
+      "setFlag": "Offered To Help 2",
       "requirements": [
         {
           "quest": "Grand Theft Camel",
@@ -201,6 +213,7 @@
       "buttonText": "I can get you a weapon",
       "responseText": "You could? I'm not very strong or skilled, but if you could find an iron sword, I could probably use it...",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Needs A Sword",
       "requirements": [
         {
           "quest": "Grand Theft Camel",
@@ -216,6 +229,7 @@
       "buttonText": "Here's an iron sword",
       "responseText": "Oh this is perfect! Though... I don't think I can fight the pirates on my own without any armor to protect myself with...",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Needs Armor",
       "newQuestProgressValue": 10,
       "requirements": [
         {
@@ -267,6 +281,7 @@
       "buttonText": "Here's a boar shirt",
       "responseText": "Oh this is perfect! Though... I don't think I can fight the pirates on my own without any food to heal myself with...",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Needs Food",
       "newQuestProgressValue": 11,
       "requirements": [
         {
@@ -303,6 +318,7 @@
       "buttonText": "Here's your sushi",
       "responseText": "Oh this is perfect! Though... Um... I can't think of anymore excuses... I'm scared of dying there!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Needs More Encouragement",
       "newQuestProgressValue": 12,
       "requirements": [
         {
@@ -372,6 +388,7 @@
       "buttonText": "Don't worry, you won't die anyways",
       "responseText": "You really think so? I guess I am pretty well kitted out now... And I do have food... I'll give it a try... Carl heads off to the boat and sails away. A few hours later you find he has returned, covered in blood, with his camels in tow.",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Encouraged Again",
       "newQuestProgressValue": 14,
       "requirements": [
         {
@@ -388,6 +405,7 @@
       "buttonText": "How'd it go?",
       "responseText": "I did it! I really did it! I slaughtered them all! I took the camels back! Hahahahaha! I've never felt so alive!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Carl Attacks",
       "newQuestProgressValue": 24,
       "requirements": [
         {
@@ -404,6 +422,7 @@
       "buttonText": "I'll try to find them",
       "responseText": "Oh, thank you so much! Good luck!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Offered To Help",
       "newQuestProgressValue": 16,
       "requirements": [
         {
@@ -417,6 +436,7 @@
       "buttonText": "Here are your camels",
       "responseText": "Oh, thank you so much! I can finally reopen the store!",
       "quest": "Grand Theft Camel",
+      "setFlag": "Quest Complete",
       "newQuestProgressValue": 25,
       "requirements": [
         {

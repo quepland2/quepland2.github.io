@@ -49,6 +49,20 @@
     ]
   },
   {
+    "outputItemName": "Bronze Bar",
+    "ingredients": [
+      {
+        "itemName": "Molten Bronze Bar"
+      }
+    ],
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 30
+      }
+    ]
+  },
+  {
     "outputItemName": "Bronze Knife",
     "ingredients": [
       {
@@ -116,6 +130,21 @@
       }
     ],
     "outputAmount": 10,
+    "experienceGained": "Smithing:45",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 30
+      }
+    ]
+  },
+  {
+    "outputItemName": "Bronze Pickaxe",
+    "ingredients": [
+      {
+        "itemName": "Molten Bronze Bar"
+      }
+    ],
     "experienceGained": "Smithing:45",
     "requirements": [
       {

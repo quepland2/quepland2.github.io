@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Hunter",
+  "description": "A hunter looking for others to hunt with.",
   "id": 43,
   "dialogs": [
     {

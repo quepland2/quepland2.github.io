@@ -882,7 +882,8 @@
     "gatherSpeed": 3,
     "secondaryColor": "#FFD700",
     "experienceGained": "Fishing:48",
-    "icon": "Scales"
+    "icon": "Scales",
+    "isSellable": false
   },
   {
     "name": "Fish Knife",
@@ -890,6 +891,7 @@
     "value": 7000,
     "secondaryColor": "#FFD700",
     "icon": "Knife",
+    "equipSlot": "R Hand",
     "weaponInfo": {
       "attackSpeed": 5,
       "damage": 15,

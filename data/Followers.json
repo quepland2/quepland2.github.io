@@ -108,6 +108,15 @@
     "autoCollectSpeed": 20
   },
   {
+    "name": "Ruto",
+    "description": "A gathering scout. She can find monsters for you to battle with and help gather the loot they drop.",
+    "autoCollectMessage": "Ruto finds an opponent.",
+    "autoCollectSkill": "Gathering Scout",
+    "autoCollectLevel": 100,
+    "inventorySize": 30,
+    "autoCollectSpeed": 20
+  },
+  {
     "name": "Anthretagro",
     "description": "A man in a toga. You aren't sure where he came from but it doesn't seem like he belongs here.",
     "autoCollectMessage": "Anthretagro finds what you are looking for.",

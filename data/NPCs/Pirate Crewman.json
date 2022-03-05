@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Pirate Crewman",
+  "description": "A cello player but not important enough to have a name, apparently.",
   "id": 16,
   "dialogs": [
     {
@@ -46,6 +47,7 @@
       "buttonText": "So Jack was with you the whole time?",
       "responseText": "That's right, we can survive without a viola, but our band needs a violin to carry the melody. The thing about four string quartets is... \nYou walk away disinterested before he can finish.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Jack's Aliby",
       "newQuestProgressValue": 15,
       "requirements": [
         {

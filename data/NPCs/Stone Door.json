@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Stone Door",
+  "description": "A big ol' stone door.",
   "id": 24,
   "dialogs": [
     {

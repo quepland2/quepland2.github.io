@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Threnden the Dwarf",
+  "description": "An excellent miner and overall great dwarf to know.",
   "id": 30,
   "dialogs": [
     {

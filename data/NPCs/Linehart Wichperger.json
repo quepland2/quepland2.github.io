@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Linehart Wichperger",
+  "description": "A jealous man. One of the most powerful in the alchemist's guild.",
   "id": 63,
   "dialogs": [
     {
@@ -31,6 +32,7 @@
       "responseText": "Good luck, we haven't welcomed a new member in decades. With Hadeas in charge, that's unlikely to change either.",
       "depth": 1,
       "newDepthOnTalk": 2,
+      "setFlag": "Guild Membership Requested",
       "requirements": [
         {
           "quest": "Chrysopoean Crisis",

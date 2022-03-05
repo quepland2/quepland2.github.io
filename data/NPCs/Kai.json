@@ -1,12 +1,14 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Kai",
+  "description": "A helpful sailor.",
   "id": 23,
   "dialogs": [
     {
       "buttonText": "Did you see any camels pass by here?",
       "responseText": "I did! A group of traders took them out to sea a few days ago. I heard they plan to sell them again soon.",
       "quest": "Grand Theft Camel",
+      "setFlag": "Kai Gives Location",
       "newQuestProgressValue": 17,
       "requirements": [
         {
@@ -33,6 +35,7 @@
       "buttonText": "Can you take me to the thieves' hideout?",
       "responseText": "Sure, let me know when you're ready to go.",
       "quest": "Grand Theft Camel",
+      "setFlag": "Kai Is Ready",
       "newQuestProgressValue": 20,
       "requirements": [
         {
@@ -45,6 +48,7 @@
     {
       "buttonText": "I'm ready now",
       "responseText": "GotoCustomArea",
+      "setFlag": "Thieves Island",
       "quest": "Grand Theft Camel",
       "newQuestProgressValue": 21,
       "requirements": [

@@ -240,7 +240,7 @@
         "description": "A handful of guild members are sitting around tables, telling stories and drinking. The one corner of the guild serves as a shop that sells even to non-members. The far wall is covered with a very detailed map.",
         "shops": [
           {
-            "name": "Brian's Baking Goods",
+            "name": "Hunting and Health Goods",
             "itemNames": [
               "Small Trap",
               "Medium Trap",

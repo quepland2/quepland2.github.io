@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Two Legs Jack",
+  "description": "He's got two legs. His name isn't Jack, though.",
   "id": 14,
   "dialogs": [
     {
@@ -56,6 +57,7 @@
       "buttonText": "Can you help me search Fremp's bunk?",
       "responseText": "Fremp? Sure, if you distract him I can see what I can do.",
       "quest": "Case of the Dead Pirate",
+      "SetFlag": "Jack's Plan",
       "newQuestProgressValue": 7,
       "requirements": [
         {

@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Jumbo",
+  "description": "The owner of the general store in Teppas.",
   "id": 5,
   "dialogs": [
     {

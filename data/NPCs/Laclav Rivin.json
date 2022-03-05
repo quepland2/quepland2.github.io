@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Laclav Rivin",
+  "description": "A skilled alchemist and one of the few supporters of Hadeas.",
   "id": 66,
   "dialogs": [
     {

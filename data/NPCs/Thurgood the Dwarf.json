@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Thurgood the Dwarf",
+  "description": "He's pretty good.",
   "id": 28,
   "dialogs": [
     {

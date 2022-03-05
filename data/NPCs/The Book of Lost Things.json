@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "The Book of Lost Things",
+  "description": "A magical book that happens to house a man.",
   "id": 39,
   "dialogs": [
     {

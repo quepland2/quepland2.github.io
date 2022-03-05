@@ -1,24 +1,30 @@
-﻿<!DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html class="v-100" style="overflow:hidden;">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Quepland_2</title>
+    <title>Quepland_2_DN6</title>
     <base href="/" />
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/app.css" rel="stylesheet" />
+    <link href="manifest.json" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
 </head>
 
-<body style="background-color:#2d2d2d">
-    <app>Loading...</app>
+<body class="container-flex h-100" style="background-color:#2d2d2d;">
+    <div style="color:white;" id="app">Loading...</div>
 
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="" class="reload">Reload</a>
         <a class="dismiss">🗙</a>
     </div>
+  
     <script src="_framework/blazor.webassembly.js"></script>
+
+
     <script type="text/javascript">
         window.getWidth = function () {
             return window.innerWidth;
@@ -35,7 +41,27 @@
         window.scrollToTop = function (div) {
             div.scrollTop = 0;
         }
+        window.getMainWindowWidth = function () {
+            return document.getElementById('main-window').offsetWidth;
+        }
+        window.getBankWidth = function () {
+            let bw = document.getElementById('bank-window');
+            if (bw) {
+                if(bw.offsetWidth){
+                    return bw.offsetWidth;
+                }
+            }
+            return 100;
+        }
+        window.getRightSidebarWidth = function () {
+            el = document.getElementById('side-bar');
+            if (el) {
+                return el.offsetWidth;
+            }
+            return 1;
+        }
     </script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
 </body>
 
 </html>

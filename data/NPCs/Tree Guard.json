@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Tree Guard",
+  "description": "He's guarding the trees.",
   "id": 43,
   "dialogs": [
     {

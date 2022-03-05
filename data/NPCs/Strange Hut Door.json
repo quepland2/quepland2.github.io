@@ -1,0 +1,134 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Strange Hut Door",
+  "description": "A strange, dark hut. It doesn't look like it belongs here.",
+  "id": 104,
+  "dialogs": [
+    {
+      "buttonText": "Knock",
+      "responseText": "You knock on the door. A small hole forms in the center at eye level. It quickly dissipates and you feel an urge to leave.",
+      "newDepthOnTalk": 0,
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemLimit": 1
+
+        },
+        {
+          "progressFlag": "Dormant Gloves",
+          "progressFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Knock",
+      "responseText": "You knock on the door. A small hole forms in the center at eye level. Suddenly the door flashes into non-existence and a man appears!",
+      "newDepthOnTalk": 1,
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        },
+        {
+          "progressFlag": "Dormant Gloves",
+          "progressFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Knock",
+      "responseText": "You knock on the door. A small hole forms in the center at eye level. Suddenly the door flashes into non-existence and the magician appears again.",
+      "newDepthOnTalk": 1,
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        },
+        {
+          "progressFlag": "Dormant Gloves",
+          "progressFlagValue": true
+        }
+      ]
+    },
+    {
+      "buttonText": "Hello",
+      "responseText": "The man ignores your greeting and asks you a question instead. \"How'd you get that leather? You don't strike me as a particularly magical being. This is very suspect. Give me names, at once! I cannot allow some citizen of Hiskaten smuggling common landdwellers into our beloved city.\"",
+      "newDepthOnTalk": 2,
+      "depth": 1,
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        },
+        {
+          "progressFlag": "Dormant Gloves",
+          "progressFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Hello",
+      "responseText": "You again? Another pair of gloves, eh? Alright, there you are, off with you!",
+      "newDepthOnTalk": 0,
+      "depth": 1,
+      "consumeRequiredItems": true,
+      "itemOnTalk": "Dormant Gloves",
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        },
+        {
+          "progressFlag": "Dormant Gloves",
+          "progressFlagValue": true
+        }
+      ]
+    },
+    {
+      "buttonText": "What will you give me if I tell you?",
+      "responseText": "Hmmm. Some bauble or trinket would surely entertain a common being like yourself. How about I make that leather into something \"magical\" for you?",
+      "newDepthOnTalk": 3,
+      "depth": 2,
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        }
+      ]
+    },
+    {
+      "buttonText": "How rude",
+      "responseText": "What? Me? You're the one who came flaunting into my private corner of the tree! Simply to show off! Trespassing--and likely breaking and entering, too! Not to mention treason by whomever you paid to get you in. Tell you what, rat them out for me and I'll turn that leather into something truly magical for you.",
+      "newDepthOnTalk": 3,
+      "depth": 2,
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        }
+      ]
+    },
+    {
+      "buttonText": "Tell him",
+      "responseText": "What? So you've not been to Hiskaten?? All this worrying about nothing and you didn't stop me? A deal's a deal, though. Show me the leather. There. Now it's some fancy gloves. Find something magical to use on them and they'll take on special properties.",
+      "newDepthOnTalk": 4,
+      "depth": 3,
+      "consumeRequiredItems": true,
+      "setProgressFlag": "Dormant Gloves",
+      "itemOnTalk": "Dormant Gloves",
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        }
+      ]
+    }
+  ]
+}

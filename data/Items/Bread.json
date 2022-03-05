@@ -279,7 +279,7 @@
     "foodInfo": {
       "healDuration": 1,
       "healSpeed": 1,
-      "healAmount": 160
+      "healAmount": 190
     }
   },
   {
@@ -293,7 +293,7 @@
     "foodInfo": {
       "healDuration": 1,
       "healSpeed": 1,
-      "healAmount": 75
+      "healAmount": 90
     }
   },
   {
@@ -307,7 +307,7 @@
     "foodInfo": {
       "healDuration": 1,
       "healSpeed": 1,
-      "healAmount": 120
+      "healAmount": 210
     }
   },
   {
@@ -335,7 +335,7 @@
     "foodInfo": {
       "healDuration": 1,
       "healSpeed": 1,
-      "healAmount": 200
+      "healAmount": 350
     }
   },
   {

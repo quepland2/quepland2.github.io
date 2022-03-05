@@ -147,7 +147,7 @@
             "buttonText": "Train with Guards",
             "expPerHour": 10000,
             "skillTrained": "Archery",
-            "bonusExp": 3000
+            "bonusExp": 30000
           }
         ]
       },
@@ -257,7 +257,10 @@
             "costMultiplier": 1,
             "itemNames": [
               "Guild Membership Card",
-              "Guild Exception Notice"
+              "Guild Exception Notice",
+              "Empty Bottle",
+              "Rice Roll",
+              "Headless Buloke Arrows"
             ]
 
           }

@@ -1,0 +1,116 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Ruto",
+  "description": "A Nmekufian citizen who can join you on your adventures.",
+  "id": 103,
+  "dialogs": [
+    {
+      "buttonText": "Hello",
+      "responseText": "Hello! You must be from the surface. I never thought I would meet someone from down below who wasn't a weird wizard.",
+      "newDepthOnTalk": 1,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "buttonText": "Want to join me?",
+      "responseText": "Join you? Like, on an adventure? I don't know... I've never known anything but the great tree. I don't think I could leave everything behind me.",
+      "newDepthOnTalk": 2,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 2,
+      "buttonText": "I can pay you",
+      "responseText": "I don't have a need for any kind of payment. The great tree supplies everything we need.",
+      "newDepthOnTalk": 3,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 2,
+      "buttonText": "I found this necklace",
+      "responseText": "Oh! I never thought I'd see this again! Thank you so much! I don't know how I could ever repay you for this.",
+      "newDepthOnTalk": 7,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        },
+        {
+          "item": "Intricate Necklace",
+          "itemAmount": 1
+        }
+      ]
+    },
+    {
+      "depth": 2,
+      "buttonText": "Okay, nevermind",
+      "responseText": "Hello! You must be from the surface. I never thought I would meet someone from down below who wasn't a weird wizard.",
+      "newDepthOnTalk": 1,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 3,
+      "buttonText": "Everything?",
+      "responseText": "Well, I guess that isn't completely true. A few weeks ago I was out harvesting fruit when I noticed my necklace was missing. It was a gift from my mother and it means a lot to me. If you managed to find it I think I could change my mind.",
+      "newDepthOnTalk": 4,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 1,
+      "buttonText": "Weird wizard?",
+      "responseText": "Every few months we get a wizard as a visitor. One of them lives in the village, you probably noticed the strange building on your way here.",
+      "newDepthOnTalk": 5,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 5,
+      "buttonText": "Why do they come here?",
+      "responseText": "Either to gather some of the fruit from the tree, or to argue. Often it's both at the same time. When they are finished, they vanish in a flash of light.",
+      "newDepthOnTalk": 6,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        }
+      ]
+    },
+    {
+      "depth": 7,
+      "buttonText": "Join me!",
+      "responseText": "I did say I might be willing to do that... Okay. I will follow you. I don't know how to do much, but I am quite skilled at gathering and collecting things.",
+      "newDepthOnTalk": 8,
+      "requirements": [
+        {
+          "lockedFollower": "Ruto"
+        },
+        {
+          "item": "Intricate Necklace",
+          "itemAmount": 1
+        }
+      ],
+      "unlockedFollower": "Ruto",
+      "ConsumeRequiredItems": true
+    }
+  ]
+}

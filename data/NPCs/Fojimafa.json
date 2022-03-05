@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Fojimafa",
+  "description": "An angry man who can't seem to beat any of the dojos.",
   "id": 32,
   "dialogs": [
     {

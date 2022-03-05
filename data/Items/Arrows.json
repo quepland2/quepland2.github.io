@@ -6,7 +6,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 9,
+      "rangedDamage": 9,
       "isArrow": true
     },
     "requirements": [
@@ -24,7 +24,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 15,
+      "rangedDamage": 15,
       "isArrow": true
     },
     "requirements": [
@@ -42,7 +42,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 22,
+      "rangedDamage": 22,
       "isArrow": true
     },
     "requirements": [
@@ -60,7 +60,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 28,
+      "rangedDamage": 28,
       "isArrow": true
     },
     "requirements": [
@@ -78,7 +78,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 32,
+      "rangedDamage": 32,
       "isArrow": true
     },
     "requirements": [
@@ -97,7 +97,7 @@
     "isStackable": true,
     "secondaryColor": "#BD8F57",
     "weaponInfo": {
-      "damage": 42,
+      "rangedDamage": 42,
       "isArrow": true
     },
     "requirements": [
@@ -115,7 +115,7 @@
     "isStackable": true,
     "secondaryColor": "#BD8F57",
     "weaponInfo": {
-      "damage": 48,
+      "rangedDamage": 48,
       "isArrow": true
     },
     "requirements": [
@@ -132,7 +132,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 30,
+      "rangedDamage": 30,
       "isArrow": true
     },
     "requirements": [
@@ -150,7 +150,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 48,
+      "rangedDamage": 48,
       "isArrow": true
     },
     "secondaryColor": "#9C491F",
@@ -168,7 +168,7 @@
     "icon": "HeavyArrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 53,
+      "rangedDamage": 53,
       "isArrow": true
     },
     "secondaryColor": "#9C491F",
@@ -186,7 +186,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 65,
+      "rangedDamage": 65,
       "isArrow": true
     },
     "requirements": [
@@ -204,7 +204,7 @@
     "icon": "HeavyArrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 105,
+      "rangedDamage": 105,
       "isArrow": true
     },
     "requirements": [
@@ -222,7 +222,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 72,
+      "rangedDamage": 72,
       "isArrow": true
     },
     "requirements": [
@@ -240,7 +240,7 @@
     "icon": "HeavyArrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 118,
+      "rangedDamage": 118,
       "isArrow": true
     },
     "requirements": [
@@ -258,7 +258,7 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 90,
+      "rangedDamage": 90,
       "isArrow": true
     },
     "secondaryColor": "#875B24",
@@ -276,7 +276,7 @@
     "icon": "HeavyArrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 152,
+      "rangedDamage": 152,
       "isArrow": true
     },
     "secondaryColor": "#875B24",
@@ -294,13 +294,22 @@
     "icon": "Arrows",
     "isStackable": true,
     "weaponInfo": {
-      "damage": 85,
+      "rangedDamage": 85,
       "isArrow": true
     },
     "requirements": [
       {
         "skill": "Archery",
         "skillLevel": 96
+      }
+    ],
+    "statusEffectData": [
+      {
+        "name": "Freeze",
+        "speed": 2,
+        "duration": 20,
+        "message": "The arrow freezes your opponent!",
+        "procOdds": 0.15
       }
     ],
     "secondaryColor": "#D2FFF5"
@@ -313,7 +322,7 @@
     "isStackable": true,
     "icon": "Arrows",
     "weaponInfo": {
-      "damage": 200,
+      "rangedDamage": 200,
       "isArrow": true
     },
     "requirements": [

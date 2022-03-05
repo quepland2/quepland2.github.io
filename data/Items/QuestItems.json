@@ -63,5 +63,19 @@
     "value": 0,
     "icon": "BigSword",
     "isSellable": false
+  },
+  {
+    "name": "Potaki's Tear",
+    "value": 1500,
+    "description": "A shiny necklace roped around a glistening tear-shaped stone. It feels warm to the touch.",
+    "gatherString": "You get a strange necklace.",
+    "gatherSpeed": 15,
+    "icon": "TearDropNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 15
+    },
+    "isSellable": false,
+    "secondaryColor": "#2DF5E9"
   }
 ]

@@ -39,6 +39,22 @@
             "type": "string",
             "description": "The quest to modify progress of."
           },
+          "setFlag": {
+            "type": "string",
+            "description": "The flag to set with SetFlagValue."
+          },
+          "setFlagValue": {
+            "type": "boolean",
+            "description": "The value to set the setFlag. Defaults to true, only set if setting to false."
+          },
+          "setProgressFlag": {
+            "type": "string",
+            "description": "A flag for progress outside of quests."
+          },
+          "setProgressFlagValue": {
+            "type": "boolean",
+            "description": "The value for the progress flag."
+          },
           "newQuestProgressValue": {
             "type": "integer",
             "description": "The new progress value of the quest after choosing this dialogue option."
@@ -68,6 +84,10 @@
                 "itemAmount": {
                   "type": "integer",
                   "description": "The amount of item required. Defaults to 0."
+                },
+                "itemLimit": {
+                  "type": "integer",
+                  "description": "The maximum amount of item allowed. Defaults to max int - 10."
                 },
                 "action": {
                   "type": "string",
@@ -100,6 +120,14 @@
                 "maximumQuestProgress": {
                   "type": "integer",
                   "description": "The maximum progress that the quest must be. Defaults to int.maxValue."
+                },
+                "progressFlag": {
+                  "type": "string",
+                  "description": "A flag that marks game progress."
+                },
+                "progressFlagValue": {
+                  "type": "boolean",
+                  "description": "A value that tells whether the flag should be true or false."
                 }
               }
             }

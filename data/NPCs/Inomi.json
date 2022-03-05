@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Inomi",
+  "description": "A grotesque being, wrapped in bandages. Despite its appearance, it leads the community of Subfenton Stows.",
   "id": 88,
   "dialogs": [
     {

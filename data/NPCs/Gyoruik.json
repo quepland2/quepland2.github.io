@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Gyoruik",
+  "description": "The owner of a fish shop, though he won't sell you any.",
   "id": 48,
   "dialogs": [
     {

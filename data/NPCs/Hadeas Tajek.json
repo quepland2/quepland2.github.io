@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Hadeas Tajek",
+  "description": "The new headmaster of the alchemy guild. He didn't make too many friends getting there, either.",
   "id": 62,
   "dialogs": [
     {

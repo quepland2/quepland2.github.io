@@ -1,12 +1,14 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Tuto",
+  "description": "An oriole who just wants to explain things.",
   "id": 2,
   "dialogs": [
     {
       "buttonText": "Hello",
       "responseText": "Hi! You look like you're not from around here. Wanna learn more about the world you're in?",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Quest Start",
       "newQuestprogressValue": 1,
       "requirements": [
         {
@@ -20,6 +22,7 @@
       "buttonText": "What do I do?",
       "responseText": "Glad you asked! To get past that log in front of you, you'll need to learn how to chop down trees. Go to your bank and withdraw your axe!",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Get Yer Axe",
       "newQuestprogressValue": 2,
       "requirements": [
         {
@@ -33,6 +36,7 @@
       "buttonText": "Leave me alone! I know what I'm doing.",
       "responseText": "Wow, okay. I see how it is. Well just so you know, you can grab the axe from your bank to chop down trees. See ya!",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Tutorial:Completed",
       "newQuestprogressValue": 6,
       "requirements": [
         {
@@ -46,6 +50,7 @@
       "buttonText": "Where is my bank?",
       "responseText": "Over on the left sidebar, towards the top! Just click there and you should see a Stone Axe that you got as a sign-up bonus.",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Find the Bank",
       "newQuestprogressValue": 3,
       "requirements": [
         {
@@ -59,6 +64,7 @@
       "buttonText": "Where is my axe?",
       "responseText": "It should be right below here. Just click the icon with the axe on it to put it into your inventory.",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Click Yer Axe",
       "newQuestprogressValue": 4,
       "requirements": [
         {
@@ -75,6 +81,7 @@
       "buttonText": "I have my axe, now what?",
       "responseText": "Just click to chop some White Pine trees and you'll gain experience in Woodcutting. You can see your experience by clicking Skills at the top of the right sidebar.",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Chop a Tree",
       "newQuestprogressValue": 5,
       "requirements": [
         {
@@ -92,6 +99,7 @@
       "buttonText": "What do I do from here?",
       "responseText": "You've done it! Beyond the tree is a world to explore. Keep heading up the mountain and you'll reach the Village of Teppas, where you can sell your logs and buy basic equipment. Further along you'll reach Queple Cave where you can go spelunking. Good luck!",
       "quest": "Oriole Ornithology",
+      "SetFlag": "Tutorial:Completed",
       "newQuestprogressValue": 6,
       "requirements": [
         {

@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Raka",
+  "description": "A friendly Kushtaka. She can be hired to haul fish for 2000 coins.",
   "id": 31,
   "dialogs": [
     {

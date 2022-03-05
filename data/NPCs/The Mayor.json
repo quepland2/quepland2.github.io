@@ -1,12 +1,14 @@
 {
   "$schema": "npc-schema.json#",
   "name": "The Mayor",
+  "description": "The mayor of a small village. How does he have so much money?",
   "id": 0,
   "dialogs": [
     {
       "responseText": "Get out of my house. Actually, could you do me a favor before you leave?",
       "buttonText": "Hello",
       "newQuestprogressValue": 1,
+      "SetFlag": "Quest Start",
       "quest": "Mayor's Assistant",
       "requirements": [
         {
@@ -33,6 +35,7 @@
       "responseText": "You're the seventh guy today to barge into my house unannounced and mess up the floor. Look at this rug. It's filthy! I need you to build me a no solicting sign to keep these adventurers out of my house.",
       "buttonText": "What would you like?",
       "newQuestProgressValue": 2,
+      "SetFlag": "Mayor's Request",
       "quest": "Mayor's Assistant",
       "requirements": [
         {
@@ -46,6 +49,7 @@
       "responseText": "Excellent. Now please leave me alone until you've finished.",
       "buttonText": "Sure, I'll go make a sign.",
       "newQuestProgressValue": 3,
+      "SetFlag": "Request Accepted",
       "quest": "Mayor's Assistant",
       "requirements": [
         {
@@ -67,10 +71,11 @@
       ]
     },
     {
-      "buttonText": "I've finished your sign.",
+      "buttonText": "I've brought you a sign.",
       "responseText": "Do you really expect me to accept this?? It's not even spelled right! How could you possible bring a sign of this quality to me and expect anything in return?? You know what? Just get out. Take the axe hanging outside the door and go. Never return, please.",
       "quest": "Mayor's Assistant",
       "newQuestProgressValue": 6,
+      "SetFlag": "Sign Delivered",
       "consumeRequiredItems": true,
       "requirements": [
         {
@@ -85,9 +90,10 @@
       ]
     },
     {
-      "buttonText": "I've finished your sign.",
+      "buttonText": "I made you a sign.",
       "responseText": "Excellent. It looks great. Take that copper axe sitting outside as a thank you, and please don't ever come back.",
       "quest": "Mayor's Assistant",
+      "SetFlag": "Homemade Sign Delivered",
       "newQuestProgressValue": 7,
       "consumeRequiredItems": true,
       "requirements": [

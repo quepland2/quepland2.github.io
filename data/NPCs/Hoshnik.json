@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Hoshnik",
+  "description": "Just some guy eating jerky.",
   "id": 47,
   "dialogs": [
     {

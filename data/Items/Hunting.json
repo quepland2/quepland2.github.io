@@ -88,7 +88,7 @@
         "skillLevel": 5
       }
     ],
-    "experienceGained": "Hunting:200"
+    "experienceGained": "Hunting:220"
   },
   {
     "name": "Buck",
@@ -102,7 +102,7 @@
         "skillLevel": 18
       }
     ],
-    "experienceGained": "Hunting:350"
+    "experienceGained": "Hunting:385"
   },
   {
     "name": "Black Bear",
@@ -116,7 +116,7 @@
         "skillLevel": 50
       }
     ],
-    "experienceGained": "Hunting:800"
+    "experienceGained": "Hunting:880"
   },
   {
     "name": "Moose",
@@ -130,7 +130,7 @@
         "skillLevel": 65
       }
     ],
-    "experienceGained": "Hunting:1000"
+    "experienceGained": "Hunting:1100"
   },
   {
     "name": "Grizzly Bear",
@@ -144,7 +144,7 @@
         "skillLevel": 83
       }
     ],
-    "experienceGained": "Hunting:1600"
+    "experienceGained": "Hunting:1800"
   },
   {
     "name": "Pigeon",
@@ -158,7 +158,7 @@
         "skillLevel": 1
       }
     ],
-    "experienceGained": "Hunting:70"
+    "experienceGained": "Hunting:80"
   },
   {
     "name": "Chicken",
@@ -172,7 +172,7 @@
         "skillLevel": 1
       }
     ],
-    "experienceGained": "Hunting:70"
+    "experienceGained": "Hunting:80"
   },
   {
     "name": "Wild Boar",
@@ -186,7 +186,7 @@
         "skillLevel": 43
       }
     ],
-    "experienceGained": "Hunting:650"
+    "experienceGained": "Hunting:720"
   },
   {
     "name": "Turkey",
@@ -200,7 +200,7 @@
         "skillLevel": 27
       }
     ],
-    "experienceGained": "Hunting:300"
+    "experienceGained": "Hunting:350"
   },
   {
     "name": "Pheasant",
@@ -214,7 +214,7 @@
         "skillLevel": 8
       }
     ],
-    "experienceGained": "Hunting:160"
+    "experienceGained": "Hunting:190"
   },
   {
     "name": "Bison",
@@ -228,7 +228,7 @@
         "skillLevel": 91
       }
     ],
-    "experienceGained": "Hunting:3800"
+    "experienceGained": "Hunting:4800"
   },
   {
     "name": "Big Moose",
@@ -242,7 +242,7 @@
         "skillLevel": 86
       }
     ],
-    "experienceGained": "Hunting:2200"
+    "experienceGained": "Hunting:3200"
   },
   {
     "name": "Polar Bear",
@@ -256,7 +256,7 @@
         "skillLevel": 94
       }
     ],
-    "experienceGained": "Hunting:5000"
+    "experienceGained": "Hunting:6000"
   },
   {
     "name": "Giant Polar Bear",
@@ -270,7 +270,7 @@
         "skillLevel": 99
       }
     ],
-    "experienceGained": "Hunting:6500"
+    "experienceGained": "Hunting:8500"
   },
   {
     "name": "Woolly Mammoth",
@@ -284,7 +284,7 @@
         "skillLevel": 103
       }
     ],
-    "experienceGained": "Hunting:9500"
+    "experienceGained": "Hunting:11500"
   },
   {
     "name": "Rabbit Leather",
@@ -480,6 +480,14 @@
     "experienceGained": "Leatherworking:120"
   },
   {
+    "name": "Akabeko Leather",
+    "description": "Beautiful red leather. It seems to resist normal crafting.",
+    "value": 2500,
+    "secondaryColor": "#962220",
+    "icon": "Leather",
+    "experienceGained": "Leatherworking:180"
+  },
+  {
     "name": "Bear Claws",
     "description": "Terrifying claws from a giant polar bear.",
     "secondaryColor": "#f3e5c2",
@@ -553,7 +561,7 @@
   },
   {
     "name": "Grizzly Bear Hide",
-    "description": "The carcass of a big bear.",
+    "description": "The hide of a big bear.",
     "value": 30,
     "secondaryColor": "#614417",
     "icon": "Hide",
@@ -599,6 +607,16 @@
     "secondaryColor": "#9e9589",
     "tanningInfo": {
       "tansIntoString": "Mammoth Leather"
+    }
+  },
+  {
+    "name": "Akabeko Hide",
+    "description": "The hide of a magical red cow.",
+    "value": 300,
+    "secondaryColor": "#962220",
+    "icon": "Hide",
+    "tanningInfo": {
+      "tansIntoString": "Akabeko Leather"
     }
   },
   {

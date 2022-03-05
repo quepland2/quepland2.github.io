@@ -16,7 +16,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 8,
+      "rangedDamage": 8,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -42,7 +42,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 12,
+      "rangedDamage": 12,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -68,7 +68,7 @@
     "secondaryColor": "#FFD5B0",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 15,
+      "rangedDamage": 15,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -94,7 +94,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 14,
-      "damage": 30,
+      "rangedDamage": 30,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -120,7 +120,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 10,
-      "damage": 17,
+      "rangedDamage": 17,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -146,7 +146,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 10,
-      "damage": 50,
+      "rangedDamage": 50,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -172,7 +172,7 @@
     "secondaryColor": "#AB5F29",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 50,
+      "rangedDamage": 50,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -198,7 +198,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 70,
+      "rangedDamage": 70,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -216,7 +216,7 @@
   },
   {
     "name": "Root Bow",
-    "description": "A bow dropped by a root dweller. It's extremely old, but made with such strong wood it still works just fine.",
+    "description": "A bow dropped by a branch bunker. It's extremely old, but made with such strong wood it still works just fine.",
     "value": 1320,
     "secondaryColor": "#824121",
     "enabledActions": "Archery",
@@ -224,11 +224,11 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 10,
-      "damage": 75,
+      "rangedDamage": 275,
       "wearRequirements": [
         {
           "skill": "Archery",
-          "skillLevel": 70
+          "skillLevel": 105
         }
       ]
     }
@@ -243,7 +243,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 90,
+      "rangedDamage": 90,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -269,7 +269,7 @@
     "icon": "Bow",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 130,
+      "rangedDamage": 130,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -295,7 +295,7 @@
     "secondaryColor": "#875B24",
     "weaponInfo": {
       "attackSpeed": 12,
-      "damage": 170,
+      "rangedDamage": 170,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -321,7 +321,7 @@
     "secondaryColor": "#9F6F4F",
     "weaponInfo": {
       "attackSpeed": 10,
-      "damage": 250,
+      "rangedDamage": 250,
       "wearRequirements": [
         {
           "skill": "Archery",
@@ -340,7 +340,7 @@
     "icon": "Shooter",
     "weaponInfo": {
       "attackSpeed": 4,
-      "damage": 30,
+      "rangedDamage": 30,
       "wearRequirements": [
         {
           "skill": "Archery",

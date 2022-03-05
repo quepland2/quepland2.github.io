@@ -1,0 +1,63 @@
+{
+  "name": "Mound Is Missing",
+  "id": 2,
+  "completionText": "Congratulations! You solved the mystery!",
+  "progressToComplete": 29,
+  "rewards": [
+    {
+      "skill": "Fishing",
+      "experienceGain": 1000
+    }
+  ],
+  "Description": "The owner of the boat shop on the Uragota docks is missing. Where could he be? You haven't started this quest yet. Go to Mound's Boats at the Uragota docks to begin.",
+  "flags": [
+    {
+      "name": "Quest Start",
+      "description": "You spoke to Gordo and he is very suspicious. Maybe someone in town knows what happened."
+    },
+    {
+      "name": "A Fisherman's Hint",
+      "description": "Ittru the fisherman said Mound disappeared last year. Kazkagrin is a fortune teller in town who may know more."
+    },
+    {
+      "name": "A Traveller's Hint",
+      "description": "A traveller suggested you visit Kazkagrin's Fortunes to find out what happened to Mound"
+    },
+    {
+      "name": "A Traveller's Rude Reply",
+      "description": "The traveller was unecessarily rude to you. Regardless, you should visit Kazkagrin's Fortunes."
+    },
+    {
+      "name": "Asking Kazkagrin",
+      "description": "You've asked for help in locating Mound."
+    },
+    {
+      "name": "Something of Mound's",
+      "description": "Kazkagrin has asked you to find something of Mound's to help locate him. You'll have to get into his house somehow."
+    },
+    {
+      "name": "Breaking and Entering",
+      "description": "You broke into Mound's house."
+    },
+    {
+      "name": "Mound's Hat",
+      "description": "You took a hat from Mound's house. You can show it to Kazkagrin."
+    },
+    {
+      "name": "A Location Is Found",
+      "description": "Kazkagrin said you should look for Mound in a canyon to the east. It sounds like Higashi Woods..."
+    },
+    {
+      "name": "Mound Is Found",
+      "description": "You found Mound! He was at the bottom of Higashi Canyon."
+    },
+    {
+      "name": "Mound's Offer",
+      "description": "Mound has offered you something to leave him be."
+    },
+    {
+      "name": "Quest Complete",
+      "description": "Mound has given you a map to a special island! If you lose it, you may be able to get him to draw you a new one. Quest complete!"
+    }
+  ]
+}

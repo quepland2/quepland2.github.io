@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Hunting Map",
+  "description": "A map of hunting areas nearby.",
   "id": 51,
   "dialogs": [
     {

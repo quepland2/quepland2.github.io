@@ -2,6 +2,7 @@
   "$schema": "npc-schema.json#",
   "name": "Hooded Traveller",
   "id": 22,
+  "description": "A hooded figure who seems like he is trying to sell you something...",
   "dialogs": [
     {
       "buttonText": "Hello",

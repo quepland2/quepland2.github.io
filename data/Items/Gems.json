@@ -286,9 +286,9 @@
   {
     "name": "Tumbled Aquamarine",
     "value": 1000,
-    "description": "A red gemstone tumbled to produce a smooth surface.",
+    "description": "A light blue gemstone tumbled to produce a smooth surface.",
     "icon": "TumbledGem",
-    "gatherString": "You tumble the ruby until it's completely smooth.",
+    "gatherString": "You tumble the aquamarine until it's completely smooth.",
     "secondaryColor": "#45c3e2"
   },
   {
@@ -392,9 +392,9 @@
   {
     "name": "Aquamarine Cabochon",
     "value": 1200,
-    "description": "A red gemstone manually cut to produce a smooth surface on one side.",
+    "description": "A beautiful blue gemstone manually cut to produce a smooth surface on one side.",
     "icon": "CabochonGem",
-    "gatherString": "You cut the ruby until it's completely smooth.",
+    "gatherString": "You cut the aquamarine until it's completely smooth.",
     "secondaryColor": "#45c3e2"
   },
   {
@@ -498,9 +498,9 @@
   {
     "name": "Cut Aquamarine",
     "value": 1600,
-    "description": "A red gemstone cut to produce beautifully ordered facets.",
+    "description": "A beautifully blue gemstone cut to produce beautifully ordered facets.",
     "icon": "CutGem",
-    "gatherString": "You cut the ruby until it's completely smooth.",
+    "gatherString": "You cut the aquamarine until it's completely smooth.",
     "secondaryColor": "#45c3e2"
   },
   {

@@ -243,7 +243,7 @@
       }
     ],
     "foodInfo": {
-      "healDuration": 120,
+      "healDuration": 1200,
       "healAmount": 2,
       "healSpeed": 10,
       "buffedSkill": "Strength",

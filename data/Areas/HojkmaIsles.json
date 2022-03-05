@@ -64,40 +64,8 @@
         "buttonText": "Enter the gym",
         "url": "KogoeGym",
         "description": "The gym is quite large and features a number of rooms to train in. An old woman sits at the entry desk and asks for your membership card.",
-        "shops": [
-          {
-            "name": "Kogoe Gym Membership",
-            "itemNames": [
-              "Gym Membership Card"
-            ]
-
-          }
-        ],
-        "afkActions": [
-          {
-            "buttonText": "Lift Weights",
-            "expPerHour": 10000,
-            "skillTrained": "Strength",
-            "bonusExp": 3000,
-            "requirements": [
-              {
-                "item": "Gym Membership Card",
-                "itemAmount": 1
-              }
-            ]
-          },
-          {
-            "buttonText": "Run Laps",
-            "expPerHour": 10000,
-            "skillTrained": "Deftness",
-            "bonusExp": 3000,
-            "requirements": [
-              {
-                "item": "Gym Membership Card",
-                "itemAmount": 1
-              }
-            ]
-          }
+        "npcs": [
+          "Gym Keeper"
         ]
       }
     ]

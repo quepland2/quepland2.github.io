@@ -393,7 +393,7 @@
   {
     "name": "Great Arrow Shaft Pack",
     "description": "A pack of magical arrow shafts crafted from wood from the Great Tree. Snap at the base to split them apart.",
-    "gatherString": "You make $ arrow shafts out of the Great Tree wood.",
+    "gatherString": "You make a pack of arrow shafts out of the Great Tree wood.",
     "value": 900,
     "secondaryColor": "#9F6F4F",
     "icon": "ArrowShaftPack",

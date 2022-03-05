@@ -378,9 +378,9 @@
   },
   {
     "name": "Bandit King",
-    "hp": 5300,
+    "hp": 3300,
     "attackSpeed": 15,
-    "armor": 50,
+    "armor": 30,
     "damage": 45,
     "dropTable": {
       "drops": [
@@ -2205,17 +2205,7 @@
           "weight": 20
         }
       ]
-    },
-    "statusEffectData": [
-      {
-        "name": "Hypnotize",
-        "power": 5,
-        "speed": 3,
-        "duration": 15,
-        "message": "The squirrel's tail begins to move in a strange way... You're completely mesmerized.",
-        "procOdds": 0.1
-      }
-    ]
+    }
   },
   {
     "name": "Fighter Frog",
@@ -2294,6 +2284,10 @@
         {
           "itemName": "Durum",
           "weight": 50
+        },
+        {
+          "itemName": "Medium Fishing Rod",
+          "weight": 5
         }
       ]
     }
@@ -2435,7 +2429,7 @@
     },
     "statusEffectData": [
       {
-        "name": "SelfHeal",
+        "name": "Self Heal",
         "power": 450,
         "speed": 1,
         "duration": 1,
@@ -2489,12 +2483,17 @@
           "itemName": "Transit Branch",
           "weight": 3,
           "amount": 1
+        },
+        {
+          "itemName": "Magic Rope",
+          "weight": 8,
+          "amount": 1
         }
       ]
     },
     "statusEffectData": [
       {
-        "name": "SelfHeal",
+        "name": "Self Heal",
         "power": 450,
         "speed": 1,
         "duration": 1,
@@ -2553,7 +2552,7 @@
         {
           "itemName": "Black Bear Shirt",
           "weight": 5,
-          "amount": 5
+          "amount": 1
         },
         {
           "itemName": "Black Bear Boots",
@@ -2651,7 +2650,7 @@
         {
           "itemName": "Black Bear Shirt",
           "weight": 5,
-          "amount": 5
+          "amount": 1
         },
         {
           "itemName": "Black Bear Boots",
@@ -2700,5 +2699,720 @@
         }
       ]
     }
+  },
+  {
+    "name": "Branch Bunker",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 13300,
+    "attackSpeed": 10,
+    "armor": 215,
+    "damage": 150,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Root Bow",
+          "weight": 5,
+          "amount": 1
+        },
+        {
+          "itemName": "Plastinium Ore",
+          "weight": 5,
+          "amount": 1
+        },
+        {
+          "itemName": "Great Tree Logs",
+          "weight": 120
+        },
+        {
+          "itemName": "Bariquem",
+          "weight": 20
+        },
+        {
+          "itemName": "Uraniquep",
+          "weight": 20
+        },
+        {
+          "itemName": "Queplonium",
+          "weight": 20
+        },
+        {
+          "itemName": "Great Tree Fruit",
+          "weight": 20
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Cleave",
+        "power": 5,
+        "speed": 3,
+        "duration": 15,
+        "message": "The creature stabs with an intense force! It was as if you weren't wearing any armor for that hit.",
+        "procOdds": 0.5
+      }
+    ]
+  },
+  {
+    "name": "Biding Branch Bunker",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 17300,
+    "attackSpeed": 80,
+    "armor": 715,
+    "damage": 500,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Root Bow",
+          "weight": 10,
+          "amount": 1
+        },
+        {
+          "itemName": "Plastinium Ore",
+          "weight": 5,
+          "amount": 1
+        },
+        {
+          "itemName": "Great Tree Logs",
+          "weight": 120
+        },
+        {
+          "itemName": "Bariquem",
+          "weight": 20
+        },
+        {
+          "itemName": "Uraniquep",
+          "weight": 20
+        },
+        {
+          "itemName": "Queplonium",
+          "weight": 20
+        },
+        {
+          "itemName": "Great Tree Fruit",
+          "weight": 20
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Poison",
+        "power": 55,
+        "speed": 2,
+        "duration": 100,
+        "message": "You've been poisoned!",
+        "procOdds": 0.9
+      },
+      {
+        "name": "Cleave",
+        "power": 5,
+        "speed": 3,
+        "duration": 15,
+        "message": "The creature stabs with an intense force! It was as if you weren't wearing any armor for that hit.",
+        "procOdds": 0.3
+      }
+    ]
+  },
+  {
+    "name": "Watchful Branch Bunker",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 12300,
+    "attackSpeed": 12,
+    "armor": 315,
+    "damage": 110,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Root Bow",
+          "weight": 10,
+          "amount": 1
+        },
+        {
+          "itemName": "Plastinium Ore",
+          "weight": 5,
+          "amount": 1
+        },
+        {
+          "itemName": "Great Tree Logs",
+          "weight": 120
+        },
+        {
+          "itemName": "Bariquem",
+          "weight": 20
+        },
+        {
+          "itemName": "Uraniquep",
+          "weight": 20
+        },
+        {
+          "itemName": "Queplonium",
+          "weight": 20
+        },
+        {
+          "itemName": "Great Tree Fruit",
+          "weight": 20
+        }
+      ]
+    },
+
+    "statusEffectData": [
+      {
+        "name": "Hypnotize",
+        "power": 5,
+        "speed": 3,
+        "duration": 15,
+        "message": "The creature watches you... And you lock eyes. You freeze in place for a moment.",
+        "procOdds": 0.15
+      },
+      {
+        "name": "Cleave",
+        "power": 5,
+        "speed": 3,
+        "duration": 15,
+        "message": "The creature stabs with an intense force! It was as if you weren't wearing any armor for that hit.",
+        "procOdds": 0.3
+      }
+      
+    ]
+  },
+  {
+    "name": "Great Horned Aur",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 15300,
+    "attackSpeed": 15,
+    "armor": 265,
+    "damage": 170,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Hokibo's Feather",
+          "weight": 5,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 235
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 137
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 121
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 96
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 82
+        },
+        {
+          "itemName": "Plastinium Ore",
+          "weight": 5,
+          "amount": 1
+        },
+        {
+          "itemName": "Great Tree Logs",
+          "weight": 120
+        },
+        {
+          "itemName": "Bariquem",
+          "weight": 20
+        },
+        {
+          "itemName": "Uraniquep",
+          "weight": 20
+        },
+        {
+          "itemName": "Queplonium",
+          "weight": 20
+        },
+        {
+          "itemName": "Great Tree Fruit",
+          "weight": 20
+        }
+      ]
+    }
+  },
+  {
+    "name": "Learing Aur Egg",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 500,
+    "attackSpeed": 60,
+    "armor": 100,
+    "damage": 10,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 61
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 35
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 24
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 13
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 11
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Hatch",
+        "power": 20,
+        "speed": 60,
+        "duration": 65,
+        "message": "A Learing Aur has hatched from it's egg!",
+        "procOdds": 1,
+        "customData": "Learing Aur Egg:Learing Aur Hatchling",
+        "selfInflicted": true
+      }
+    ]
+  },
+  {
+    "name": "Learing Aur Hatchling",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 1400,
+    "attackSpeed": 45,
+    "armor": 50,
+    "damage": 30,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 122
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 71
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 60
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 48
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 41
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Hatch",
+        "power": 20,
+        "speed": 40,
+        "duration": 45,
+        "message": "The Learing Aur has grown!",
+        "procOdds": 1,
+        "customData": "Learing Aur Hatchling:Learing Aur",
+        "selfInflicted": true
+      }
+    ]
+  },
+  {
+    "name": "Learing Aur",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 4000,
+    "attackSpeed": 15,
+    "armor": 265,
+    "damage": 150,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 235
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 137
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 121
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 96
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 82
+        }
+      ]
+    }
+  },
+  {
+    "name": "Screeching Aur Egg",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 500,
+    "attackSpeed": 90,
+    "armor": 100,
+    "damage": 10,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 61
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 35
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 24
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 13
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 11
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Hatch",
+        "power": 20,
+        "speed": 60,
+        "duration": 65,
+        "message": "A Screeching Aur has hatched from it's egg!",
+        "procOdds": 1,
+        "customData": "Screeching Aur Egg:Screeching Aur Hatchling",
+        "selfInflicted": true
+      }
+    ]
+  },
+  {
+    "name": "Screeching Aur Hatchling",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 2000,
+    "attackSpeed": 40,
+    "armor": 50,
+    "damage": 30,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 122
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 71
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 60
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 48
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 41
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Hatch",
+        "power": 20,
+        "speed": 40,
+        "duration": 45,
+        "message": "The Screeching Aur has grown!",
+        "procOdds": 1,
+        "customData": "Screeching Aur Hatchling:Screeching Aur",
+        "selfInflicted": true
+      }
+    ]
+  },
+  {
+    "name": "Screeching Aur",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 5300,
+    "attackSpeed": 15,
+    "armor": 265,
+    "damage": 140,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 235
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 137
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 121
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 96
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 82
+        }
+      ]
+    }
+  },
+  {
+    "name": "Flammulated Aur Egg",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 600,
+    "attackSpeed": 60,
+    "armor": 120,
+    "damage": 10,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 61
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 35
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 24
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 13
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 11
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Hatch",
+        "power": 20,
+        "speed": 60,
+        "duration": 65,
+        "message": "A Flammulated Aur has hatched from it's egg!",
+        "procOdds": 1,
+        "customData": "Flammulated Aur Egg:Flammulated Aur Hatchling",
+        "selfInflicted": true
+      }
+    ]
+  },
+  {
+    "name": "Flammulated Aur Hatchling",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 2500,
+    "attackSpeed": 40,
+    "armor": 60,
+    "damage": 30,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 122
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 71
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 60
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 48
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 41
+        }
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Hatch",
+        "power": 20,
+        "speed": 40,
+        "duration": 45,
+        "message": "The Flammulated Aur has grown!",
+        "procOdds": 1,
+        "customData": "Flammulated Aur Hatchling:Flammulated Aur",
+        "selfInflicted": true
+      }
+    ]
+  },
+  {
+    "name": "Flammulated Aur",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Archery",
+    "hp": 5300,
+    "attackSpeed": 15,
+    "armor": 300,
+    "damage": 160,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Intricate Necklace",
+          "weight": 1,
+          "amount": 1
+        },
+        {
+          "itemName": "Feather",
+          "weight": 10,
+          "amount": 235
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 137
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 121
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 96
+        },
+        {
+          "itemName": "Feather",
+          "weight": 20,
+          "amount": 82
+        }
+
+      ]
+    },
+    "statusEffectData": [
+      {
+        "name": "Burn",
+        "power": 30,
+        "speed": 3,
+        "duration": 45,
+        "message": "You've been burned!",
+        "procOdds": 0.3
+      }
+    ]
   }
 ]

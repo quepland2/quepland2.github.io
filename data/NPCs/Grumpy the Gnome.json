@@ -2,6 +2,7 @@
   "$schema": "npc-schema.json#",
   "name": "Grumpy the Gnome",
   "id": 3,
+  "description": "A retired gnome who lives in a cave.",
   "dialogs": [
     {
       "buttonText": "Hello",

@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Pumpy the Gnome",
+  "description": "He's PUMPED.",
   "id": 27,
   "dialogs": [
     {

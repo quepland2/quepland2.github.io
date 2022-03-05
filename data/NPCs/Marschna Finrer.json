@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Marschna Finrer",
+  "description": "An alchemist. She joined the guild a long time ago, before it became what it is now.",
   "id": 64,
   "dialogs": [
     {

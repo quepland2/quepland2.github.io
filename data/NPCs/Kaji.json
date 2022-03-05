@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Kaji",
+  "description": "An adept artisan worker.",
   "id": 54,
   "dialogs": [
     {

@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "The Sign Man",
+  "description": "Clearly in the wrong profession.",
   "id": 1,
   "dialogs": [
     {
@@ -11,7 +12,8 @@
     {
       "buttonText": "Can you teach me to make a sign?",
       "responseText": "Ooh, sorry 'bout this mister but I can't go throwin' away my livelihood by tellin' everybody who walks in that I can make sign ink with shuniku berries or that I carve white pine logs with my trusty wood carvin' knife.",
-      "depth": 1
+      "depth": 1,
+      "SetFlag": "Sign Man's Requirements"
     },
     {
       "buttonText": "Can you help me make a sign?",
@@ -30,6 +32,7 @@
       "buttonText": "What do you need to make a sign?",
       "responseText": "I'll need a few things. First; It'll take three logs, white pine is best for seein' what's written on it. And I'll need some berries to make my special ink for writin' the words for the sign. I usually grab my berries from the woods down before the village. It takes a skilled woodworker to make a sign, ya know.",
       "quest": "Mayor's Assistant",
+      "SetFlag": "Sign Man's Requirements",
       "newQuestProgressValue": 4,
       "requirements": [
         {
@@ -43,6 +46,7 @@
       "buttonText": "I've got the things to make a sign.",
       "responseText": "Great! Here ya are, one \"No Sulicitin\" sign. Sorry 'bout the spellin', never learned how.",
       "quest": "Mayor's Assistant",
+      "SetFlag": "Sign Received",
       "newQuestProgressValue": 5,
       "consumeRequiredItems": true,
       "itemOnTalk": "No Sulicitin Sign",

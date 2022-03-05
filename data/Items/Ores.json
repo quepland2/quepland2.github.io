@@ -100,26 +100,6 @@
     }
   },
   {
-    "name": "Ultimate Pickaxe",
-    "description": "A pickaxe made of some unknown material. Maybe it's magical?",
-    "value": 18000,
-    "enabledActions": "Mining",
-    "secondaryColor": "#ebed5a",
-    "equipSlot": "R Hand",
-    "gatherSpeedBonus": 0.55,
-    "icon": "Pickaxe",
-    "weaponInfo": {
-      "attackSpeed": 22,
-      "damage": 850,
-      "wearRequirements": [
-        {
-          "skill": "Hammermanship",
-          "skillLevel": 105
-        }
-      ]
-    }
-  },
-  {
     "name": "Ancient Pickaxe",
     "description": "A pickaxe of ancient origins. It feels very heavy but is somehow still easy to swing.",
     "value": 5000,
@@ -135,6 +115,26 @@
         {
           "skill": "Hammermanship",
           "skillLevel": 85
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ultimate Pickaxe",
+    "description": "A pickaxe made of some unknown material. Maybe it's magical?",
+    "value": 18000,
+    "enabledActions": "Mining",
+    "secondaryColor": "#ebed5a",
+    "equipSlot": "R Hand",
+    "gatherSpeedBonus": 0.80,
+    "icon": "Pickaxe",
+    "weaponInfo": {
+      "attackSpeed": 22,
+      "damage": 850,
+      "wearRequirements": [
+        {
+          "skill": "Hammermanship",
+          "skillLevel": 105
         }
       ]
     }
@@ -370,7 +370,7 @@
   {
     "name": "Platinum Ore",
     "description": "A very valuable ore with platinum in it.",
-    "gatherString": "You mine some platnium ore.",
+    "gatherString": "You mine some platinum ore.",
     "secondaryColor": "#E5E4E2",
     "value": 530,
     "gatherSpeed": 70,

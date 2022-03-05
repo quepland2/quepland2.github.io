@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Rodor Bavnidsko",
+  "description": "A supporter of Linehart Wichperger. There's something familiar about him...",
   "id": 67,
   "dialogs": [
     {

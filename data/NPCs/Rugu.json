@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Rugu",
+  "description": "The Head of Tourism for the Sulmenkan kingdom.",
   "id": 61,
   "dialogs": [
     {

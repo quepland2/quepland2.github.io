@@ -1,0 +1,19 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Gym Keeper",
+  "id": 200,
+  "description": "An old woman who seems at peace with the world.",
+  "dialogs": [
+    {
+      "buttonText": "Can I use the gym?",
+      "responseText": "Sorry, deary. The gym closed down. We just weren't making any money, selling a lifetime pass for 500 coins.",
+      "newDepthOnTalk": 1
+    },
+    {
+      "buttonText": "I'm sorry to hear that.",
+      "responseText": "Oh, it was about time anyway. My husband and I are so jacked from working out all the time we don't need the gym anymore.",
+      "depth": 1,
+      "newDepthOnTalk": 2
+    }
+  ]
+}

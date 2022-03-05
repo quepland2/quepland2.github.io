@@ -215,6 +215,34 @@
     "maxOutputsPerAction": 1,
     "recipeActionString": "You start setting the stone in the necklace..."
   },
+
+  {
+    "outputItemName": "Topaz Necklace",
+    "ingredients": [
+      {
+        "itemName": "Cut Topaz",
+        "amount": 1
+      },
+      {
+        "itemName": "Gold Necklace",
+        "amount": 1
+      },
+      {
+        "itemName": "Lapidary Toolkit",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "experienceGained": "Lapidary:275",
+    "requirements": [
+      {
+        "skill": "Lapidary",
+        "skillLevel": 76
+      }
+    ],
+    "maxOutputsPerAction": 1,
+    "recipeActionString": "You start setting the stone in the necklace..."
+  },
   {
     "outputItemName": "Chrysoberyl Necklace",
     "ingredients": [

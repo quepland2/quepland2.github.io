@@ -2,6 +2,7 @@
   "$schema": "npc-schema.json#",
   "name": "Hoshok",
   "id": 55,
+  "description": "A skilled artisan.",
   "dialogs": [
     {
       "buttonText": "Hello",

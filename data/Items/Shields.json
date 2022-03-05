@@ -106,6 +106,7 @@
     "icon": "WoodShield",
     "secondaryColor": "#72b584",
     "equipSlot": "L Hand",
+    "preventArtisanTask": true,
     "armorInfo": {
       "armorBonus": 10,
       "damage": 20,

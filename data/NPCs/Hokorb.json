@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Hokorb",
+  "description": "The owner of a corpse disassembly facility deep underground. He's not a weirdo.",
   "id": 60,
   "dialogs": [
     {

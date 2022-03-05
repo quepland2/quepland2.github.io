@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Skia the Monopod",
+  "description": "An extremely skilled smith with a single, large leg. It's surprising she doesnt trip!",
   "id": 37,
   "dialogs": [
     {

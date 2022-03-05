@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Stogkro",
+  "description": "An introvert just trying to get away from it all.",
   "id": 59,
   "dialogs": [
     {

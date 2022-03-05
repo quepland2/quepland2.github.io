@@ -1,7 +1,327 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-6\/t8zoziyixTntvcfXW\/RJ1\/QKrW6on\/6ueToBd4yoQ=",
+      "hash": "sha256-VYmW6CTRVQNaBweZc7CW4cQY4x6pfZBkxsTH7scXQnY=",
+      "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-2kYo2V\/aZ7htYEvY5PVJlrMYhFf1jH8\/VS+SP7B7QUg=",
+      "url": "_framework\/dotnet.timezones.blat"
+    },
+    {
+      "hash": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
+      "url": "_framework\/icudt.dat"
+    },
+    {
+      "hash": "sha256-WPyI4hWDPnOw62Nr27FkzGjdbucZnQD+Ph+GOPhAedw=",
+      "url": "_framework\/icudt_CJK.dat"
+    },
+    {
+      "hash": "sha256-4RwaPx87Z4dvn77ie\/ro3\/QzyS+\/gGmO3Y\/0CSAXw4k=",
+      "url": "_framework\/icudt_EFIGS.dat"
+    },
+    {
+      "hash": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA=",
+      "url": "_framework\/icudt_no_CJK.dat"
+    },
+    {
+      "hash": "sha256-dgWf8YXGETg+jaG4VWhW5uHrGuTbNnQnsAeO715D25A=",
+      "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-TnWHlK1hw83Za\/zs3GSllwzuxWhfm0e7yChVRzZaq\/0=",
+      "url": "_framework\/DotNetZip.dll"
+    },
+    {
+      "hash": "sha256-CiBi1aG2aN5hh3k36Em49gWeWdSFFqivLQg0uCwZdN4=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.dll"
+    },
+    {
+      "hash": "sha256-HFrMtGsOzcesY\/hir2xl9w9eCc0pL9S\/BPvbgLMWnWE=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
+      "hash": "sha256-k1uU9hHUtox6fn6RRoAf6tZdbhp2GkvUgSRi8yQZp4M=",
+      "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
+    },
+    {
+      "hash": "sha256-mY1ABXjD81eCw3PLbFh8o+HTV4jw4pTnKHYhALQpMqU=",
+      "url": "_framework\/Microsoft.CSharp.dll"
+    },
+    {
+      "hash": "sha256-ktXSxNlrN4DxTsMwzPSR3Nrbr6+SlSKhC2n1NdnjKgg=",
+      "url": "_framework\/Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-ZVTjnxKRVvA11TNhTVM2gdb97GEQSDYWZLJ9gtRU4bY=",
+      "url": "_framework\/Microsoft.Extensions.Configuration.dll"
+    },
+    {
+      "hash": "sha256-NgjxkXrytVWSNgsFd99xW1PXviRT9oLe\/OXw4TKg3V4=",
+      "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
+    },
+    {
+      "hash": "sha256-5SdUWPnOK7MdaJ8wTJnv3iPtTOfpMfGcFcz4rg5QMVY=",
+      "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-nKm\/esNvc9Hhf3BhkcSMInA6gCqDbZIOoTE2KePQCBM=",
+      "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
+      "hash": "sha256-8y9X25GUjgN1bIGH1v86+ZeIIYoJmR9HpLpwjCqR9RY=",
+      "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-XQPXc1gBuUYF9nMQQ2wbdE31hG4I227K2hj5FuXPxDc=",
+      "url": "_framework\/Microsoft.Extensions.Logging.dll"
+    },
+    {
+      "hash": "sha256-RoeqcLQvYP+bBe75OssZ5GK5yyO2W46uEKO0TLd9Cik=",
+      "url": "_framework\/Microsoft.Extensions.Options.dll"
+    },
+    {
+      "hash": "sha256-PqwMlNQen4hkSv\/QHnkeBh8I92Jc9FNuzPjjWHCEQWw=",
+      "url": "_framework\/Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "hash": "sha256-HD4sdayxBycXmHOg1XhQHvgvn8FUbZo8NZUkXmfvMEM=",
+      "url": "_framework\/Microsoft.JSInterop.dll"
+    },
+    {
+      "hash": "sha256-nVRKYG8nBXEChbPiPkaYB81a3xssJ6bZvBKfuyeCXB8=",
+      "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "hash": "sha256-QV6B1p\/dQJO7qHvPN0JZr5UKKFp+s9zZSnViNcpgVN8=",
+      "url": "_framework\/Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "hash": "sha256-XpnEzIcN9+csr32mbEfrL3p\/BTjbOFZgvUtZVf3Fqi4=",
+      "url": "_framework\/netstandard.dll"
+    },
+    {
+      "hash": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
+      "url": "_framework\/Newtonsoft.Json.dll"
+    },
+    {
+      "hash": "sha256-nIYM6WA6YFT3tzVLYVMv8CtAjnX\/zTUV+YHh7tg3+9c=",
+      "url": "_framework\/Pluralize.NET.dll"
+    },
+    {
+      "hash": "sha256-vHpIBK\/BrJ1h3KGRsGK8zFCGtdiixZN+HC23o906JUI=",
+      "url": "_framework\/Quepland_2_DN6.dll"
+    },
+    {
+      "hash": "sha256-TOvdtTXfS7DE2JpPKjZVyJgjEJCrZzkJAu6ztp+xVLw=",
+      "url": "_framework\/System.Collections.Concurrent.dll"
+    },
+    {
+      "hash": "sha256-hPalzi+pRsEYCRcYHk5tbtaw8Wyv0SWpOISXxD8Xk5k=",
+      "url": "_framework\/System.Collections.dll"
+    },
+    {
+      "hash": "sha256-SYl0tIuTaI4ALOIFvhZzzh3UtuJZFdD\/sMsULYzqaso=",
+      "url": "_framework\/System.Collections.NonGeneric.dll"
+    },
+    {
+      "hash": "sha256-lrrtynX+JqR42ob9igDywsu2SAeCgmn\/7NoGD7CWkh0=",
+      "url": "_framework\/System.Collections.Specialized.dll"
+    },
+    {
+      "hash": "sha256-2DPaUFXBlN55RxRio0M6k4RnzC6hJqMpSMjzIxfY5nk=",
+      "url": "_framework\/System.ComponentModel.dll"
+    },
+    {
+      "hash": "sha256-zlhX7\/Ez2IBKdNyfc2XVTEHsT\/FbbilDo+PKXb9c7DE=",
+      "url": "_framework\/System.ComponentModel.EventBasedAsync.dll"
+    },
+    {
+      "hash": "sha256-urZHTtXsYIIpFo1VRTdJhxySk\/ZxzZLAUSK65Wrabcw=",
+      "url": "_framework\/System.ComponentModel.Primitives.dll"
+    },
+    {
+      "hash": "sha256-\/f2j\/ZjXgrANVgANEq8eNJgcBELfsaxuO+wlTwX+biU=",
+      "url": "_framework\/System.ComponentModel.TypeConverter.dll"
+    },
+    {
+      "hash": "sha256-b7ncvMniYm7O2GMxyjcV9yIr4Xm5GTFtqj9+tip2KWI=",
+      "url": "_framework\/System.Console.dll"
+    },
+    {
+      "hash": "sha256-PWJf\/qVhxqHpeZTlHY7kd0p2SR4\/gsBvNSqVvdXfIdQ=",
+      "url": "_framework\/System.Data.Common.dll"
+    },
+    {
+      "hash": "sha256-XbVjrf7qiVlOCAWzD7pkDoEGBlrtSku79kGLyjzl2o8=",
+      "url": "_framework\/System.Diagnostics.TraceSource.dll"
+    },
+    {
+      "hash": "sha256-Pxo\/he5qzWqd3FOuTUdr7TWZhdwxb76SsWaDfUinYZA=",
+      "url": "_framework\/System.dll"
+    },
+    {
+      "hash": "sha256-7uPT5rut3tQSDW1wIYatIZCwr80dn7EjO3JUFel1bS0=",
+      "url": "_framework\/System.Drawing.Common.dll"
+    },
+    {
+      "hash": "sha256-9EfDvPeL+sbyRY3kFAbiQLiywl7lMYYBwpRoDxNb9OE=",
+      "url": "_framework\/System.Drawing.dll"
+    },
+    {
+      "hash": "sha256-YcvNP66UHeXis+MuX4MPvGOTuunj6cIFFMx9HNNwRTw=",
+      "url": "_framework\/System.Drawing.Primitives.dll"
+    },
+    {
+      "hash": "sha256-PehYqkAxJfdjkt6YM+JnFk1cC5M6\/iaPtBBStjerTnw=",
+      "url": "_framework\/System.IO.Compression.dll"
+    },
+    {
+      "hash": "sha256-Wh2xc5FqjWg7GUnjYyHpoazmDtyBUqtrloshfDqyikg=",
+      "url": "_framework\/System.Linq.dll"
+    },
+    {
+      "hash": "sha256-ikQnP1kCAtkMe2zfAaCM9Jx2EDNZLtwGKPE4fx5rxR8=",
+      "url": "_framework\/System.Linq.Expressions.dll"
+    },
+    {
+      "hash": "sha256-mxH68hfT2Zi5DOKZuc\/0R8FgB0S\/z\/ETbq6OCIu5kQ8=",
+      "url": "_framework\/System.Memory.dll"
+    },
+    {
+      "hash": "sha256-AhcIKWPLuUw970wXN07v9Uz69D9+c07SNapSaNl1rtE=",
+      "url": "_framework\/System.Net.Http.dll"
+    },
+    {
+      "hash": "sha256-3no\/YmYlnjcGWz3\/55pqBufHeyR2mzVOviYGnujGh\/g=",
+      "url": "_framework\/System.Net.Http.Json.dll"
+    },
+    {
+      "hash": "sha256-R8E7iySN1pAQhPLouDlyFJ9IaUNThdMB\/HizJSy+XHE=",
+      "url": "_framework\/System.Net.Primitives.dll"
+    },
+    {
+      "hash": "sha256-KfIFloLcZ\/xyy0DvwMz0Ud\/vxrsoSLXvc76aHiktQMY=",
+      "url": "_framework\/System.ObjectModel.dll"
+    },
+    {
+      "hash": "sha256-6myA8XMJ41wY8Gp7dtJBNEF7krg8g1V44NezmNAD8uc=",
+      "url": "_framework\/System.Private.CoreLib.dll"
+    },
+    {
+      "hash": "sha256-oaHDC9GHdXoyt8T7tqEEBhvR2Xd0Mx2iV1YqFKaZg1Q=",
+      "url": "_framework\/System.Private.Runtime.InteropServices.JavaScript.dll"
+    },
+    {
+      "hash": "sha256-iCKbBLv4w3MnIx8z6HCkdFWguM9Ewz5XywDWlQIYDtg=",
+      "url": "_framework\/System.Private.Uri.dll"
+    },
+    {
+      "hash": "sha256-TmX9j3\/z7BL+wDP8Lk8fX4vMa6fMLLr0RxhavcL6DBM=",
+      "url": "_framework\/System.Private.Xml.dll"
+    },
+    {
+      "hash": "sha256-2G6AcLE4Y\/hjqSNFqcE9Bmt3506x7BhNmSxLTh75NKU=",
+      "url": "_framework\/System.Private.Xml.Linq.dll"
+    },
+    {
+      "hash": "sha256-tlS0jAIKQWYi+igAQ3GkOlrLFol9XKeCtrsZ\/L53Rj0=",
+      "url": "_framework\/System.Resources.ResourceManager.dll"
+    },
+    {
+      "hash": "sha256-NRSBt5EXQJLnmZU7NAx6CVoGgzIIzrVqw6DDchuZpDI=",
+      "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "hash": "sha256-GkG0AOpycaLbjsrLs0p6Nz+1Q1kRTaJZsNVmE7poWuY=",
+      "url": "_framework\/System.Runtime.dll"
+    },
+    {
+      "hash": "sha256-23GeiFPiUkLEz6sWTu6+dyfXgGXmAvUrd\/oANdmWAo8=",
+      "url": "_framework\/System.Runtime.Extensions.dll"
+    },
+    {
+      "hash": "sha256-xzA3S4u0xom+j7DQK5+IbOs8GYSFnow9qCqSxhTiGJY=",
+      "url": "_framework\/System.Runtime.Numerics.dll"
+    },
+    {
+      "hash": "sha256-31wfGof8w8BpS6SAhzAOHEP+RnLAl2G2WAN2OBJ3PKU=",
+      "url": "_framework\/System.Runtime.Serialization.Formatters.dll"
+    },
+    {
+      "hash": "sha256-tU7wnhcvMgeQFz2vJKDzyGI9J41WOsAh5RgTOEHoEQM=",
+      "url": "_framework\/System.Runtime.Serialization.Primitives.dll"
+    },
+    {
+      "hash": "sha256-a\/Klu5h2FtZ6isJQAg9YGTQ0nphHmEPhnrgR3p7Hb94=",
+      "url": "_framework\/System.Security.AccessControl.dll"
+    },
+    {
+      "hash": "sha256-5tDWfqRmGJ3zrLWslXYo0TmL2IAi0bzJphlw6NT+FSo=",
+      "url": "_framework\/System.Security.Claims.dll"
+    },
+    {
+      "hash": "sha256-eLX\/AiF80b029eQk4hw8x0\/fJNwxUdmtHdyzoPIn3Mc=",
+      "url": "_framework\/System.Security.Cryptography.Algorithms.dll"
+    },
+    {
+      "hash": "sha256-\/yeMUiRsofUeGTAlTIQU9UnuEt\/g47b+i3SqZQXWdkA=",
+      "url": "_framework\/System.Security.Cryptography.Csp.dll"
+    },
+    {
+      "hash": "sha256-\/i1czKfIKQ0MJQ6gOc47r3tLC1yuO8N6mbKfKXgXC2c=",
+      "url": "_framework\/System.Security.Cryptography.Primitives.dll"
+    },
+    {
+      "hash": "sha256-5D4zjpvWA36sws47BpjJuE23PGFkpmqpf2sshmUOzkc=",
+      "url": "_framework\/System.Security.Cryptography.X509Certificates.dll"
+    },
+    {
+      "hash": "sha256-AW\/sG8Kc4uNCDcvJW3C4knYf5kBPjdRR8bV5mb8A4pg=",
+      "url": "_framework\/System.Security.Permissions.dll"
+    },
+    {
+      "hash": "sha256-okebm8JdPgzidUsx0WSAP3jPWseoPlZ5ay9H1lDVzvs=",
+      "url": "_framework\/System.Security.Principal.Windows.dll"
+    },
+    {
+      "hash": "sha256-GgIlZ6prm7C1AgHs7rCsJZ04xMmTgCMu3UUj4uStXzw=",
+      "url": "_framework\/System.Text.Encoding.CodePages.dll"
+    },
+    {
+      "hash": "sha256-8MgxqGsBjU\/FR\/ntwAQr0x\/AG7jJ9f8Kn9shBpC23Dc=",
+      "url": "_framework\/System.Text.Encodings.Web.dll"
+    },
+    {
+      "hash": "sha256-PxbsXpxpxZYeuv32a\/dr5CFM585GKu5jHctH44z7ryw=",
+      "url": "_framework\/System.Text.Json.dll"
+    },
+    {
+      "hash": "sha256-G76Fjr8cmiqIKBfcWYMyom\/G4S5P+nvPoK6Z8jm3aMM=",
+      "url": "_framework\/System.Text.RegularExpressions.dll"
+    },
+    {
+      "hash": "sha256-p9Smzhq+SGB8bny3+I4gwAeWenuiAIZWUYUB\/3Q1egM=",
+      "url": "_framework\/System.Threading.dll"
+    },
+    {
+      "hash": "sha256-q5wF4yjE0B6q2+AfPeMCLkozCGLhxCp8w3eJIcI8KhI=",
+      "url": "_framework\/System.Threading.Thread.dll"
+    },
+    {
+      "hash": "sha256-BbG3Acl8iXmfE3LuNvbKYS6X2odUBKq\/rEdnj+dGEos=",
+      "url": "_framework\/System.Windows.Extensions.dll"
+    },
+    {
+      "hash": "sha256-Ntvr0b8+uXVMPyk3YvGE5Xc96qxmZNQDYuCa8tl2EW0=",
+      "url": "_framework\/dotnet.6.0.1.7yz6y012jy.js"
+    },
+    {
+      "hash": "sha256-mwqCyd9oyiq90iu9nY6rMP3mql81MIqemrWEVTDKJ5I=",
+      "url": "_framework\/dotnet.wasm"
+    },
+    {
+      "hash": "sha256-OSMH3cGq39asEAjtuZ8oClA7iO66yD6ib7RTCwEWwwg=",
       "url": "css\/app.css"
     },
     {
@@ -11,10 +331,6 @@
     {
       "hash": "sha256-xMZ0SaSBYZSHVjFdZTAT\/IjRExRIxSriWcJLcA9nkj0=",
       "url": "css\/bootstrap\/bootstrap.min.css.map"
-    },
-    {
-      "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
-      "url": "css\/open-iconic\/FONT-LICENSE"
     },
     {
       "hash": "sha256-BJ\/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=",
@@ -41,6 +357,10 @@
       "url": "css\/open-iconic\/font\/fonts\/open-iconic.woff"
     },
     {
+      "hash": "sha256-jA4J4h\/k76zVxbFKEaWwFKJccmO0voOQ1DbUW+5YNlI=",
+      "url": "css\/open-iconic\/FONT-LICENSE"
+    },
+    {
       "hash": "sha256-aF5g\/izareSj02F3MPSoTGNbcMBl9nmZKDe04zjU\/ss=",
       "url": "css\/open-iconic\/ICON-LICENSE"
     },
@@ -49,23 +369,35 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-C4NFpkRp9L\/RL67siRj8fM2gQliU5iaOH5uuc\/2MP8c=",
+      "url": "data\/ArborealConundrum.json"
+    },
+    {
+      "hash": "sha256-G\/YJ1hyi9MNCPJ9V85zb2gKxgMpxavJymJ9VNAlpnG4=",
+      "url": "data\/ArborealConundrum.json.meta"
+    },
+    {
       "hash": "sha256-75o7L8RaTjVUNnkLv8XyGlf37ohXGdwU2sZqCDHXAgI=",
       "url": "data\/Areas\/CantilaCoast.json"
     },
     {
-      "hash": "sha256-7fcDM0RKCYoFrxtTj2lSK4OQVNKzHQoGX\/NEnNgAAkw=",
+      "hash": "sha256-j6K1+WZNHuDHPw+OGC0zfAAjn0cWNadg4l96MvoH\/CE=",
       "url": "data\/Areas\/CastleNid.json"
+    },
+    {
+      "hash": "sha256-KXkRNxLuNV\/WmYydbs62OCH2M5GD5om+zp46c7s633g=",
+      "url": "data\/Areas\/CrossmareCove.json"
     },
     {
       "hash": "sha256-pwA2Hih9yoE8laiSRLurYJ7RTdHhwSTNQmRUWp00vk8=",
       "url": "data\/Areas\/HigashiWoods.json"
     },
     {
-      "hash": "sha256-yPqyLkj\/rBJ6qSL9NqL6w7XDe\/JbcCQG3x4j6YsSsiI=",
+      "hash": "sha256-MhlWxaTy1LsfpbJQRPBIDIpDOxLviUwDUfcswcJralA=",
       "url": "data\/Areas\/HoinRiverValley.json"
     },
     {
-      "hash": "sha256-YcyQfRJysLcc7CnZ4jsEiCcdZsefuMn74sjoSAhBxIg=",
+      "hash": "sha256-pwS72+GFT3zao9UX1gYZ5OLI2Tzzy6iWiOjP4iN1So8=",
       "url": "data\/Areas\/HojkmaIsles.json"
     },
     {
@@ -73,19 +405,27 @@
       "url": "data\/Areas\/KoncaveCaverns.json"
     },
     {
-      "hash": "sha256-EoumQk0LnUNQGbu2H4wrZueTW3LhylP6f5LguR\/dVw8=",
+      "hash": "sha256-sTUO4lx3\/RlEtGE4JuGU8YTIwlsu6SaL2ME2eIOUrXo=",
       "url": "data\/Areas\/KyusaSands.json"
     },
     {
-      "hash": "sha256-9S30Qo8RADynSOdMc1nYJfRKGgxJPE1IY7\/3XRgXgUg=",
+      "hash": "sha256-BuCE7\/OAuYjzl3FWA+Aeh\/R7eWhDdBgE4v\/H+QEJSm4=",
       "url": "data\/Areas\/MountQueple.json"
+    },
+    {
+      "hash": "sha256-TanldKDPHQYM3DLOM7\/b3MCjSQTEZk9usZjdBTcdbCs=",
+      "url": "data\/Areas\/NmekufuBurl.json"
+    },
+    {
+      "hash": "sha256-MoaIlFPjeOhgkawI8YgzrrOAwtVXQyPYTx\/VT0xCofA=",
+      "url": "data\/Areas\/PansophPlains.json"
     },
     {
       "hash": "sha256-6+ilfuSWXg\/oiIfCwa8xTHiAifpqUD7i1BZCIICS8t4=",
       "url": "data\/Areas\/QuepleCave.json"
     },
     {
-      "hash": "sha256-SbGxbArZx3eea3iLNapNOjqOUn1+LZa5R3vX88qrIr4=",
+      "hash": "sha256-KdQD2FoOTKg0TZhI0nzdlq+toMMtGjDlUyPkNg2vHgM=",
       "url": "data\/Areas\/SabbachWaste.json"
     },
     {
@@ -93,7 +433,7 @@
       "url": "data\/Areas\/SahotaTir.json"
     },
     {
-      "hash": "sha256-wQo9UEhi7eiRk572nqsqAl37oUJo1h2tUeHzbi0XJLU=",
+      "hash": "sha256-A2LMerhJCswir5PNmySSiQwpK7sfaUWPvG8CpxGfDPg=",
       "url": "data\/Areas\/SanbonWood.json"
     },
     {
@@ -101,7 +441,7 @@
       "url": "data\/Areas\/SawabeSwamp.json"
     },
     {
-      "hash": "sha256-pLKKWz5FkJSfBrbaMDq8N7stZULbSLzmGxgLfdGUbos=",
+      "hash": "sha256-wdV\/x8CiV9EHiIb14\/i6H53v4YHlQP3eSJtENer3u5Y=",
       "url": "data\/Areas\/SulmenkaKingdom.json"
     },
     {
@@ -109,7 +449,7 @@
       "url": "data\/Areas\/TackureIslet.json"
     },
     {
-      "hash": "sha256-HOPXQMl5qVWslZDvbr0QVktelxcQzYekMGywO3Qt62o=",
+      "hash": "sha256-v6FhyxdPzVpZPn7hfFKTdbPXpaLW044R7pbLsVk3Qdo=",
       "url": "data\/Areas\/TogaruHills.json"
     },
     {
@@ -125,12 +465,16 @@
       "url": "data\/Dungeons\/QueplandDungeons.json"
     },
     {
-      "hash": "sha256-hW6R2MfACasyt7x4ON64NcJh5Kjmc7MXda\/ytpsyjcU=",
+      "hash": "sha256-PtudMEv3M0jmEkYR5n89nLJnIWLrjoM5CcwlujOijIs=",
       "url": "data\/Followers.json"
     },
     {
       "hash": "sha256-3804yU+Eu5y0CwxMcmYr4ftfwrygUDbgefUZF5nji1Y=",
       "url": "data\/Images\/Alchemy.png"
+    },
+    {
+      "hash": "sha256-xtbXpNx1zugNbaDhHX0YSuzk\/ngSeTTLRlHLICNkP6Q=",
+      "url": "data\/Images\/Almond.png"
     },
     {
       "hash": "sha256-l5I8n4\/K1TC919UfJ9Pk1wHAZNvdb91QZ1BXiap87yE=",
@@ -159,6 +503,10 @@
     {
       "hash": "sha256-gqte0\/HOIVytRhtzXeeQWYPpwL3T5RoemV+HSoY5eeI=",
       "url": "data\/Images\/Arrows.png"
+    },
+    {
+      "hash": "sha256-N\/NCnujxcKlG6NKlr0u+XAq2BgPqHkynw5zR4NYxR5k=",
+      "url": "data\/Images\/ArrowShaftPack.png"
     },
     {
       "hash": "sha256-D0StBYHrs86QyW6JiGSSADWH0EhkgiuHr4UQFBxmPvM=",
@@ -197,6 +545,10 @@
       "url": "data\/Images\/Axemanship.png"
     },
     {
+      "hash": "sha256-GBBtaLZs47QspDzdtHpMTjEaV9KHhGaPy4kjGL26byg=",
+      "url": "data\/Images\/Bag.png"
+    },
+    {
       "hash": "sha256-0tojUVK3LZ4ZTRoBwLXimB2p28Q1pJhpuomBLb4H95U=",
       "url": "data\/Images\/Bait.png"
     },
@@ -221,8 +573,16 @@
       "url": "data\/Images\/Berries.png"
     },
     {
+      "hash": "sha256-zhMh1B8fMnz5qKCve0ph6ekH6oR6O9FjlhxyxQW+v2M=",
+      "url": "data\/Images\/BigCoin.png"
+    },
+    {
       "hash": "sha256-1xnSA+RV917yuLmlAPwdosk7aEYIkfZ7v6F8MUexznw=",
       "url": "data\/Images\/BigDocks.png"
+    },
+    {
+      "hash": "sha256-brKcVyt+1GmO\/FkVZS\/9n4GJ6g3IlW9vUXxB7H1YHr8=",
+      "url": "data\/Images\/BigHammer.png"
     },
     {
       "hash": "sha256-qXyCooXP85Kvqlj3bUtdj3OtnpUvRZwjWc36F52N3xc=",
@@ -273,6 +633,10 @@
       "url": "data\/Images\/Boots.png"
     },
     {
+      "hash": "sha256-DmwBNOlonyziWMugXcXyBYXuRHPy+NOmepAW\/5\/fXUE=",
+      "url": "data\/Images\/Bottle.png"
+    },
+    {
       "hash": "sha256-HK+0sxiGd+B\/QjTxaBg7HX0T9WwlalV8J99+c6jB0aE=",
       "url": "data\/Images\/Bow.png"
     },
@@ -313,6 +677,10 @@
       "url": "data\/Images\/CabochonGem.png"
     },
     {
+      "hash": "sha256-RV+uat0g0fkFDc\/frfXCWDIEkQ2HtZp9zOSbY\/5Oy98=",
+      "url": "data\/Images\/CabochonRing.png"
+    },
+    {
       "hash": "sha256-Od2r4xdNCJN5wpX4f8lawOEhQlO56MSCahJZJE4IiQ4=",
       "url": "data\/Images\/CactusClubEmpty.png"
     },
@@ -337,12 +705,20 @@
       "url": "data\/Images\/Camels.png"
     },
     {
+      "hash": "sha256-n7yNE+unYhD4nAJQxKF\/55lIhBKiqLWgO1kGpS0+J1k=",
+      "url": "data\/Images\/Camp.png"
+    },
+    {
       "hash": "sha256-XCUVrOcG+NYbzkUBLgbCib7lfJuDgJ9vpDf61SYNpO0=",
       "url": "data\/Images\/Canyon.png"
     },
     {
       "hash": "sha256-xaF8pOEzBG+u2KaFeiUAojCaax6bju+mszoT1e6p1Kw=",
       "url": "data\/Images\/CanyonBridge.png"
+    },
+    {
+      "hash": "sha256-UyXBssVpTQO+kvptSA4pbZhMYV6gY0FM4MbD7tGLp6c=",
+      "url": "data\/Images\/Cape.png"
     },
     {
       "hash": "sha256-sWq43yL5ggOnSHBjRUzgRFyVxG2bKIG\/Gc5CHGGkMwQ=",
@@ -377,12 +753,20 @@
       "url": "data\/Images\/City.png"
     },
     {
+      "hash": "sha256-wDy4vt0pmaK6iofzS9pVCV9IB5Rl8AJsvhCVDYJzIJc=",
+      "url": "data\/Images\/ClawGlove.png"
+    },
+    {
       "hash": "sha256-WPw0YptggpWKUs8X6A\/7WSJNQL\/dXP5p6CMGk3ejpUQ=",
       "url": "data\/Images\/Claws.png"
     },
     {
       "hash": "sha256-88qRKbBrvhjPRMfZSQpQU1JhahMzpIPA59uGjLEDG8k=",
       "url": "data\/Images\/Cleave.png"
+    },
+    {
+      "hash": "sha256-7FU4rL4bNCPIt6Tr1fAxgOjUL4qSPirj\/vzBeNiF2DA=",
+      "url": "data\/Images\/Cloak.png"
     },
     {
       "hash": "sha256-6oIVp5MZY+YtfMvvtfDuyxw3\/DACCsXaeY6vXJNbQAc=",
@@ -395,6 +779,14 @@
     {
       "hash": "sha256-Ce\/+10OuN\/6I5kv3qU4lsjW5kSD8\/HH7BzIMVBNZbNU=",
       "url": "data\/Images\/Coins.png"
+    },
+    {
+      "hash": "sha256-IoPKglmiT5eCByhfDNIfmjigUX+fEjBFyR7ex5C+sII=",
+      "url": "data\/Images\/CoolMask.png"
+    },
+    {
+      "hash": "sha256-kvNFiGkNxgPaFFbclbbzXXBdt23IKVowbhf6Ub+\/dBI=",
+      "url": "data\/Images\/Cotton.png"
     },
     {
       "hash": "sha256-BGBMLpZeflo3vOJMv\/nQc2IJal9RESd5ezheB3oI7cw=",
@@ -449,12 +841,20 @@
       "url": "data\/Images\/Docks.png"
     },
     {
+      "hash": "sha256-0xlJxkLrJ0g2qounlP2vkXknLZJjGUH\/rSDtbNYp8dY=",
+      "url": "data\/Images\/Dome.png"
+    },
+    {
       "hash": "sha256-ER0pz9j8DlpcVMGDyd0siUFHy5tyrczB5joa6veRmp4=",
       "url": "data\/Images\/Door.png"
     },
     {
       "hash": "sha256-xf9\/Eb92\/AKKkxut0cc048WJTrsbUXJ1Vvr2lNCF35Y=",
       "url": "data\/Images\/Dough.png"
+    },
+    {
+      "hash": "sha256-zWYHNy4j8rAYZYSZgE2My+Ftydx74BVZnnP4vT7ch4k=",
+      "url": "data\/Images\/Drain.png"
     },
     {
       "hash": "sha256-J1pX90VJfXtR69eysaRJ6gL2RdI\/dWKwBu65mY2b1wU=",
@@ -467,6 +867,10 @@
     {
       "hash": "sha256-8ZdGsWWnbegF\/qdFp2oaLsCzYto2TaNFe6gBDTaEoNc=",
       "url": "data\/Images\/Empty.png"
+    },
+    {
+      "hash": "sha256-mv8TqNhqECTBSbdlR5iyzQIbod17W1p2Lm6unGNsFnI=",
+      "url": "data\/Images\/EmptyBottle.png"
     },
     {
       "hash": "sha256-jgXJpEYVuKDXfvtQqZdxnkWhOjLWWItua5o+R3sLZZo=",
@@ -485,12 +889,32 @@
       "url": "data\/Images\/Essence.png"
     },
     {
+      "hash": "sha256-r6qjCnx+58qbBbHXgHdKgsxARoUT+7uiM9v43x66qM8=",
+      "url": "data\/Images\/EvilBook.png"
+    },
+    {
+      "hash": "sha256-MclvKbZMqHSHr7JkrZ3KjFL3njkb6b+kYPrABn9FByY=",
+      "url": "data\/Images\/EXP.png"
+    },
+    {
+      "hash": "sha256-YTPIEuspgvwCDYh6YajEQDAD0JQeTdxoUPWQrXqM+Lw=",
+      "url": "data\/Images\/Eye.png"
+    },
+    {
+      "hash": "sha256-0dPKyv\/qjWcqKK1kvGzcGX9CRahwOr+7deCYq1D+YiI=",
+      "url": "data\/Images\/Fabric.png"
+    },
+    {
       "hash": "sha256-2RHnkAJfw47v510XWKgzdVLo1AuNwEu6e7qSWBtMZFI=",
       "url": "data\/Images\/Feather.png"
     },
     {
       "hash": "sha256-jaoOBtIhIIv9BzKsOkRlR9xRrVuRbxUBMHUZEzVshLI=",
       "url": "data\/Images\/Feathers.png"
+    },
+    {
+      "hash": "sha256-kuYXN58m90fXSZTxswtFS\/mdi3xhZ7GHKM0ov+hb6Wc=",
+      "url": "data\/Images\/Fence.png"
     },
     {
       "hash": "sha256-mW29QHuMwJjXuaTYXZDWKA1Yj3wFmu9qtY3hv3JaPu0=",
@@ -525,12 +949,20 @@
       "url": "data\/Images\/Fountain.png"
     },
     {
+      "hash": "sha256-BCX6DPlHyNtmWfh7irYjAMqvqH\/mca97x9EIeZ3e07I=",
+      "url": "data\/Images\/Fragments.png"
+    },
+    {
       "hash": "sha256-pevmxS7P0I6\/qdcnuedq3ZS6st+7Z9LO\/SjBhJHyjBA=",
       "url": "data\/Images\/Freeze.png"
     },
     {
       "hash": "sha256-8s1f8oi8EfJIV\/w5QJMjrIgFpn2FWuHKCLwQUhpTBfg=",
       "url": "data\/Images\/FrozenFloor.png"
+    },
+    {
+      "hash": "sha256-+pHjeXZ4w+dMY+QSy7V\/zN4aRaYSHWOwrm+BZJgJqdw=",
+      "url": "data\/Images\/Fruit.png"
     },
     {
       "hash": "sha256-fL2+uSgSNhx0686MntblIyknpndkaIcD6GtJgbZPHRE=",
@@ -543,6 +975,10 @@
     {
       "hash": "sha256-9HtlXABVxhkzGulDjKCkLThEi5wdZ7D5qwUrmApGkXY=",
       "url": "data\/Images\/Gate.png"
+    },
+    {
+      "hash": "sha256-EzQedlj3o0OKSI\/dVEjtBTsJz+ZLa+\/7k7HUfo7tsdo=",
+      "url": "data\/Images\/Gauntlet.png"
     },
     {
       "hash": "sha256-d5gMBHl9WZSuFHiYQSaun5qLdzRaNUZconmSrqdqY\/M=",
@@ -569,6 +1005,14 @@
       "url": "data\/Images\/Hammer.png"
     },
     {
+      "hash": "sha256-Ka9rRz2gbLpNNCddLoUMLeTCdIw24vU8zJjq2EfAllI=",
+      "url": "data\/Images\/HammerHandle.png"
+    },
+    {
+      "hash": "sha256-XOVYVErddfdkeEvQIyPHm13ogT2zqI+GYb+VZGLi2PA=",
+      "url": "data\/Images\/HammerHead.png"
+    },
+    {
       "hash": "sha256-0fzDHwiWtFDwsjPWAHHCXecNGdUZu8A48owyAw4FsDg=",
       "url": "data\/Images\/Hammermanship.png"
     },
@@ -579,6 +1023,10 @@
     {
       "hash": "sha256-0cCrtH7mlMJceNk9wd9Piiw0iBl3B5P89Ah6O1aV4ik=",
       "url": "data\/Images\/Hat.png"
+    },
+    {
+      "hash": "sha256-o5Ia3jrcvMneaNcSWJl+jKAlmJcNd3ZP9XuH\/Q9eOHw=",
+      "url": "data\/Images\/Hatch.png"
     },
     {
       "hash": "sha256-Wuh\/wzOdGrXQlt+2TZzVKA2NVNly5j3JwzJpz9kCeNc=",
@@ -611,6 +1059,10 @@
     {
       "hash": "sha256-IFypAPYvdcrmaRFZzFxCRFPuMMehbKusPLoMisyzlB0=",
       "url": "data\/Images\/Honey.png"
+    },
+    {
+      "hash": "sha256-yv8Xb8IXDQf4auLNwFequy6Br13JUHz2ahtpRre5yYw=",
+      "url": "data\/Images\/HorizonRoad.png"
     },
     {
       "hash": "sha256-fZ3mQhleQQnLDk7+MZTLVLDwlqqMhicrGsMdVjoKfDc=",
@@ -701,6 +1153,18 @@
       "url": "data\/Images\/Log.png"
     },
     {
+      "hash": "sha256-R13\/p13L6jkJ0z4KdIzteoNJ3PZFB1SlmDW7fUB7lFM=",
+      "url": "data\/Images\/Loot.png"
+    },
+    {
+      "hash": "sha256-93R6I7lP3IxMGWtjwm8yaUvCz9ZqVA8GJbQVPXE3Moo=",
+      "url": "data\/Images\/Madder.png"
+    },
+    {
+      "hash": "sha256-U5Vlh5bZSngGr5GBZ3prv78dJc1RBYvX64yjRQLXDQk=",
+      "url": "data\/Images\/MagicRope.png"
+    },
+    {
       "hash": "sha256-WfdVqB6\/Co++a7Odss+qnEBeOZKR+tMe8XyQZ0a3L\/w=",
       "url": "data\/Images\/Mammoth.png"
     },
@@ -715,6 +1179,10 @@
     {
       "hash": "sha256-nPZwEikF05j+PW337sQDmjb3v13QoKyAc2OFmkL9qIQ=",
       "url": "data\/Images\/Market.png"
+    },
+    {
+      "hash": "sha256-0Yrp9BFLXFfPfYfZOCVld8DemRs42jpt01cATY3UhfE=",
+      "url": "data\/Images\/Mask.png"
     },
     {
       "hash": "sha256-Go0Zkr6PAnEEBhtVNOBVPE9C7n2iC9fPjm5Fu443k\/A=",
@@ -765,6 +1233,10 @@
       "url": "data\/Images\/Necklace.png"
     },
     {
+      "hash": "sha256-o5Cq5I32CSPz7EOCZdE5jVmQ0huOL2v84k53DADIU3E=",
+      "url": "data\/Images\/Needle.png"
+    },
+    {
       "hash": "sha256-thEOgXH1sMBje+VhUGfuzVALHTR0m7MlKHdDa4pV6OU=",
       "url": "data\/Images\/Net.png"
     },
@@ -779,6 +1251,10 @@
     {
       "hash": "sha256-mW2gio0wsb8+NJfF4OaXE+TogBECNOAvOKunLShomjw=",
       "url": "data\/Images\/Note.png"
+    },
+    {
+      "hash": "sha256-0lxsyCsolb5bz03RcLDpHDNcqq0dFGEKmu+lW8KU\/Ow=",
+      "url": "data\/Images\/Note2.png"
     },
     {
       "hash": "sha256-4kegLLa9tP21ewCPikQnEnAHXSzZC3S8Amlw0TqeoB4=",
@@ -801,6 +1277,10 @@
       "url": "data\/Images\/Ore.png"
     },
     {
+      "hash": "sha256-KHa6NHPMkYCD0VL4LBGCzS64lT3BfcfrLSYpEPUZFO0=",
+      "url": "data\/Images\/OvergrownTrail.png"
+    },
+    {
       "hash": "sha256-8SpIPh5jvphgCBmviF69nrUSWE2dVv+hg8YYDCkUq2A=",
       "url": "data\/Images\/Pants.png"
     },
@@ -815,6 +1295,10 @@
     {
       "hash": "sha256-IRI6L8o1MthtdUmuM7JljUYG7Pnx2NWtfB8bDLaze7U=",
       "url": "data\/Images\/Pickaxe.png"
+    },
+    {
+      "hash": "sha256-sXGZNyh5+o9Q0UhR16wqVJZOXnF+hsbikrdm\/nZtcWI=",
+      "url": "data\/Images\/PlainRing.png"
     },
     {
       "hash": "sha256-aeSeSatZyyi8VgPgQOdCWx8icvQljVeBnrgi8qTJ5NE=",
@@ -843,6 +1327,18 @@
     {
       "hash": "sha256-MqerfIIqDfVUGK9xHE9EWyPWXeiu83gVBxeGCnwqT9U=",
       "url": "data\/Images\/Quests.png"
+    },
+    {
+      "hash": "sha256-\/chLtAMbs549fS8xszn3NzGwgm2pmGpTSU9UQQiLyoA=",
+      "url": "data\/Images\/Quick Strike Gold.png"
+    },
+    {
+      "hash": "sha256-tcfoYiZgIxnP38ew\/qRBL72v6iGB\/iLMfS86EJVRb3w=",
+      "url": "data\/Images\/Quick Strike.png"
+    },
+    {
+      "hash": "sha256-tguCE+dZhKcjh1wI\/Gyvfz5ZkgkDLuiAUUDy1wbnetM=",
+      "url": "data\/Images\/Quill.png"
     },
     {
       "hash": "sha256-T0BxNq7Qh8Hcc3I5Ees\/Bt7eGCZsP58RNngX+Q5JkHA=",
@@ -909,6 +1405,10 @@
       "url": "data\/Images\/Seeds.png"
     },
     {
+      "hash": "sha256-Z7lQVxwRDP2GI94AjaUqLzc\/tsblDKaRd8kGHTBr7Us=",
+      "url": "data\/Images\/Self Heal.png"
+    },
+    {
       "hash": "sha256-K8rBcqKG8L0HJmhk\/PD8XXMZYFk6cEmtrwv9mFd2Fqg=",
       "url": "data\/Images\/Settings.png"
     },
@@ -919,6 +1419,14 @@
     {
       "hash": "sha256-wHEgGm32\/+WRKOrJQoXWSHx8WtZmI8J5M3FaYuFjgCo=",
       "url": "data\/Images\/Shavings.png"
+    },
+    {
+      "hash": "sha256-pUjb3V+X3R2CFjeJTSPSCQsNs3H7gtk30nUT1HVhWkM=",
+      "url": "data\/Images\/Shears.png"
+    },
+    {
+      "hash": "sha256-Hw3NZQrVeIL1nj+EzQe8Fbz3Y8LJHHK1CsrrgvHZjbE=",
+      "url": "data\/Images\/Shell.png"
     },
     {
       "hash": "sha256-9atI6QA5VjyKuIamxYainZrEX7Y9gDkWPlljNhyf6Vg=",
@@ -935,6 +1443,10 @@
     {
       "hash": "sha256-RJOPLrx1+0oNaLR80i8d9NwAKfbhZ3lPM8Y9aabqg0I=",
       "url": "data\/Images\/Sign.png"
+    },
+    {
+      "hash": "sha256-9h8qIzmF5mL1n7nCFlbimpXGVe4ERfT+QFrNvdHIbaM=",
+      "url": "data\/Images\/Silk.png"
     },
     {
       "hash": "sha256-ieeBUgrbg3BMcQPEPtExJYZ4SXzoyFUxnMDfpyEnUwc=",
@@ -973,6 +1485,10 @@
       "url": "data\/Images\/Spike.png"
     },
     {
+      "hash": "sha256-TzcJ1u+jKCWOJF69PdRqxy0U6+MZskxawI9TrUnLv+Y=",
+      "url": "data\/Images\/Spindle.png"
+    },
+    {
       "hash": "sha256-jQkBnkTHGvj1gVWdp+AoCk1meSgZNik0QCrdEhPqcFM=",
       "url": "data\/Images\/Squid.png"
     },
@@ -1005,6 +1521,14 @@
       "url": "data\/Images\/Strength.png"
     },
     {
+      "hash": "sha256-CDZJYOrKlSJUXm6H+9qMQEiLfJPVkfsqNv+0aDYgh6U=",
+      "url": "data\/Images\/String.png"
+    },
+    {
+      "hash": "sha256-CoMudhcNcCoEaRRfvGAbElal2lG9pHZcqMSFeu79wD8=",
+      "url": "data\/Images\/StrongShield.png"
+    },
+    {
       "hash": "sha256-WmwQrCHpAsBqffn1zMuYT4jKsV6mA0pp87ABZ+Bc+bU=",
       "url": "data\/Images\/Stun.png"
     },
@@ -1023,6 +1547,14 @@
     {
       "hash": "sha256-I8S+KbkG3o1Xyc0bMEp72utiv4oHikH71pkwgds4nhc=",
       "url": "data\/Images\/Swordsmanship.png"
+    },
+    {
+      "hash": "sha256-oLL\/P1u3+6Es+oSCrsjxhg72XAvvfzu1WkvPhCBKQ1E=",
+      "url": "data\/Images\/TearDropNecklace.png"
+    },
+    {
+      "hash": "sha256-wTkLFPSws\/pTUFqGMNl3207PvLYUM17LvPSt6BfSqCk=",
+      "url": "data\/Images\/Thread.png"
     },
     {
       "hash": "sha256-0CJLNJeBSc3XqYznJG6ptYhUZhcv73eqoyfM\/WXXARc=",
@@ -1109,6 +1641,10 @@
       "url": "data\/Images\/Wall.png"
     },
     {
+      "hash": "sha256-Iw4yAEt6I8A1yRdoAqN8+GAuJvDLS04jlWTv2hiD+T8=",
+      "url": "data\/Images\/Water.png"
+    },
+    {
       "hash": "sha256-P2ILS4joGKuRKUuNW\/HGyb8T\/00nM9CBWf\/1ciqJu+Q=",
       "url": "data\/Images\/Waterfall.png"
     },
@@ -1133,6 +1669,10 @@
       "url": "data\/Images\/WhiteInventory.png"
     },
     {
+      "hash": "sha256-SGea48sgRrgiU286V\/HoI70jgNmfBjUu\/wzBcdv5T9c=",
+      "url": "data\/Images\/WhiteLog.png"
+    },
+    {
       "hash": "sha256-eZHVbU9fNnmW71VmcPK8Q+PNwKR+fjuHjCeLpWQZuYw=",
       "url": "data\/Images\/WhiteQuests.png"
     },
@@ -1141,8 +1681,16 @@
       "url": "data\/Images\/WhiteSkills.png"
     },
     {
+      "hash": "sha256-Am2H1LZp30ADnYdgzkX1xfEsr3RJFii+zbRQUJVs7ac=",
+      "url": "data\/Images\/Willow.png"
+    },
+    {
       "hash": "sha256-+kHVw45eOushZcfAUQfVennfu5khaFFPfXGpk6tWIPU=",
       "url": "data\/Images\/WindingPath.png"
+    },
+    {
+      "hash": "sha256-oc3hfQfNRFPSDQckgWKGBTvjPYW78fV8GESXup4BKxo=",
+      "url": "data\/Images\/Woad.png"
     },
     {
       "hash": "sha256-E7JyhZ5oHNzUTLBpXNSXU6n1xWpMarWFvJblhLp6eVE=",
@@ -1153,19 +1701,31 @@
       "url": "data\/Images\/Woodcutting.png"
     },
     {
+      "hash": "sha256-KHa6NHPMkYCD0VL4LBGCzS64lT3BfcfrLSYpEPUZFO0=",
+      "url": "data\/Images\/Woods.png"
+    },
+    {
+      "hash": "sha256-oriNoP\/rcYkD6FUPrbusguS4YIjiyR6rrg4fVdU9gSY=",
+      "url": "data\/Images\/WoodShield.png"
+    },
+    {
       "hash": "sha256-g2\/fecIb2azpbVHS+ebadZ3k9pbsAJEsbiwgVJ6fLlY=",
       "url": "data\/Images\/Woodworking.png"
+    },
+    {
+      "hash": "sha256-ZcaR\/+qq2UYBLLqdjVIuFq9OTPgSslx1lB\/9JfhroDg=",
+      "url": "data\/Images\/Wool.png"
     },
     {
       "hash": "sha256-5Pb8rK3dlgZGvWacwrKjwBs3U7V1\/4ca9rrU62vA3lM=",
       "url": "data\/Images\/Worm.png"
     },
     {
-      "hash": "sha256-CE\/6LozrPp1i41wxzVI8uXa5+KPpF8tYIloKaD\/wHjw=",
+      "hash": "sha256-8MkVEaNQcAtIE\/UU8963tXwDnlQi6ASsAludRq4NLm0=",
       "url": "data\/Items\/Armors.json"
     },
     {
-      "hash": "sha256-xICu2tevaUG\/eb\/WbzgYcm\/mQkv8HjEKQJlLmdRtYxg=",
+      "hash": "sha256-CcqI9LE21dqcJt30WwO6+ob\/q23BJWqLWr5IUl3tbe0=",
       "url": "data\/Items\/Arrows.json"
     },
     {
@@ -1173,15 +1733,15 @@
       "url": "data\/Items\/Arrowtips.json"
     },
     {
-      "hash": "sha256-BosULFunajM6ZivSp2kWvUYE4dM6nmUBrmUfcm77eMw=",
+      "hash": "sha256-59ze881liu7J65+evPpao1YD19dhm+TIw0H+SJljGik=",
       "url": "data\/Items\/Bars.json"
     },
     {
-      "hash": "sha256-Fv72GwNCowcWlKkbnluT3\/ERCUG6GSY6tX2SYbujDHs=",
+      "hash": "sha256-SkTvpw1H\/0hyJIR6DB6VuaQfD1QQu233CTAHnpxpVKU=",
       "url": "data\/Items\/Bows.json"
     },
     {
-      "hash": "sha256-z0DnBZqceXDAjs35+GDuXIi3lkSohXAssA0YkQxNP3c=",
+      "hash": "sha256-lGdozNqHngnQaMi6O+P3bzuwWrOQL3F3Wd7PXx7oAPo=",
       "url": "data\/Items\/Bread.json"
     },
     {
@@ -1189,19 +1749,19 @@
       "url": "data\/Items\/Elements.json"
     },
     {
-      "hash": "sha256-+BaeEB0On2DbdGZZkTIvQxvH23kXdTz33PNkyLBldIs=",
+      "hash": "sha256-+3w3ROStdtQgoQ0VIxDeIBFXgLUfWkWzBAnxaKq37NU=",
       "url": "data\/Items\/Fishing.json"
     },
     {
-      "hash": "sha256-\/rZT5LH2SqvbnHNwVkkE4t0qP9EsyKzjAyD4K5d4kgk=",
+      "hash": "sha256-pyqaI9Xkyq+Srtc9lDLok5Gxe3SN+h6Mo4JVpMRlcfs=",
       "url": "data\/Items\/Gems.json"
     },
     {
-      "hash": "sha256-HIkTht2\/NJ1b8ZtylSAzj01gdAXE+PhEopR8eAtLZos=",
+      "hash": "sha256-0I3MEOyIQODyLlzoFWfd8gyRTw+TJoaNmsBgCO7B7i0=",
       "url": "data\/Items\/General.json"
     },
     {
-      "hash": "sha256-epAglWpXsqAgALOVdA79333kAO+OsoGuB3FYsh+unTg=",
+      "hash": "sha256-eR6Nfh1VXbPfQric3mE1fSmnI6vaQcJGXuq8KM5Gt1g=",
       "url": "data\/Items\/Hunting.json"
     },
     {
@@ -1209,11 +1769,11 @@
       "url": "data\/Items\/item-schema.json"
     },
     {
-      "hash": "sha256-AouxZ6oJ5jPhtJaUw4qcF9HxRX6RRSBe36yRUlKALTI=",
+      "hash": "sha256-JvvQt9KYfBLoB\/z+2Ysz8VLrcLSvKe4zmCcHtCz2LrE=",
       "url": "data\/Items\/Jerkies.json"
     },
     {
-      "hash": "sha256-oC2TR9lqdMeie4mfBU\/\/\/+FnGoZ\/xSWjzULRb2IG\/jc=",
+      "hash": "sha256-QUNpqPU9neN3W14abxloeGPSpkvJ1poJePjJPBW2k9U=",
       "url": "data\/Items\/Logs.json"
     },
     {
@@ -1225,35 +1785,43 @@
       "url": "data\/Items\/Necklaces.json"
     },
     {
-      "hash": "sha256-lBIX68459fZM4rR\/+uRgsLKKBHXio6bJaMScMpEcwHY=",
+      "hash": "sha256-LQn3l8LwkyIBYLBJpT4+EsNIn2Trb2uLsWRTcNINXGw=",
       "url": "data\/Items\/Ores.json"
     },
     {
-      "hash": "sha256-x96QAiNOij\/dbahnU4Rq3E\/5YFNMouIqzey4YRZmn9U=",
+      "hash": "sha256-4GgupFX4c7QN1BIIgjvMzLXf+fu4lXpFyG8Eety+bg0=",
       "url": "data\/Items\/QuestItems.json"
     },
     {
-      "hash": "sha256-xmTwzrKYhrkv++N+tLJ40Pd2PU2UsHxXLwymtyoL6TI=",
+      "hash": "sha256-8qyqm8ZLUhRKO\/4GeCRpqT\/0jRLO5lG4zWO5rYNZ\/hw=",
+      "url": "data\/Items\/Shields.json"
+    },
+    {
+      "hash": "sha256-NSFIso2WB8RKdTxrfkDkdXKmtGMlJRHtztSPHgjbXa8=",
       "url": "data\/Items\/Sushi.json"
     },
     {
-      "hash": "sha256-dhNm\/qUuusVhzUDYvCWR9bV59zuLw0qzqMBu6zFMGGE=",
+      "hash": "sha256-iJM41FbTNb3VnGeWctqgJkBiW06ZcvShLn3pcG+pZA0=",
+      "url": "data\/Items\/Textiles.json"
+    },
+    {
+      "hash": "sha256-P\/dWkZnvPW395GIv9bCVrsleU8ouqYiGOZ5Da9bhkHo=",
       "url": "data\/Items\/Weapons.json"
     },
     {
-      "hash": "sha256-VQ6weEc2O940RhOclYhM3xuCeg6cMg1YOpzeIb3Uy0I=",
+      "hash": "sha256-CKAoKip5ZjGZ7IXhIKyBARxANjd4PLTFKmkgEkzOWeY=",
       "url": "data\/Items\/WoodworkingItems.json"
     },
     {
-      "hash": "sha256-+BDTzZHwxlUeE2y+ZmR1TPyjXqa992NGMpfyDLmGpZ4=",
+      "hash": "sha256-GyZ6dhEUKienK\/4jvlS1HYLH3xhwz+Y31ZAfXzkNcoE=",
       "url": "data\/Lands.json"
     },
     {
-      "hash": "sha256-kbcbOeqdR2a7Dyso1dHm9rauojA9oAqkqr9nqNpQBSI=",
+      "hash": "sha256-Jc+oXOimBbvz7YpR9Mf8JmmymB9xwHPSxyfkmsXOnV8=",
       "url": "data\/MinigameDropTables.json"
     },
     {
-      "hash": "sha256-9d36Q5X6zbyDYRVwZzwJFowWh\/nWSH+GZqGe\/Hizivk=",
+      "hash": "sha256-BkDT2Z5rSfmR5ddkiEadc60QzqzlOYHCEvDk\/LcWrkg=",
       "url": "data\/Monsters\/Bosses.json"
     },
     {
@@ -1261,339 +1829,419 @@
       "url": "data\/Monsters\/DojoOpponents.json"
     },
     {
-      "hash": "sha256-OteJLxX3\/Wkw82BTA5+\/ODYI7y4hsShqrDlbqI2bcRY=",
+      "hash": "sha256-1OYMZlxXx3UFJYjeO2bxnFwDxmDoOGhbdLxYy7bZaTg=",
+      "url": "data\/Monsters\/EasternLands.json"
+    },
+    {
+      "hash": "sha256-phCb9XW2mJc27HRJtUC0eVrJcutYfDwIYTypRwObIO8=",
       "url": "data\/Monsters\/Overworld.json"
     },
     {
-      "hash": "sha256-cJe+T6jsmN8yyoMHPxpXZFXT7ZO3mv6D7Ey\/QtC1Mv8=",
+      "hash": "sha256-7Jv300BCLvXFAa4ZIwU\/3T8qFj3kEjTtxlYagCFS\/ks=",
       "url": "data\/Monsters\/Underworld.json"
     },
     {
-      "hash": "sha256-gGpvii5+0esAWcXrHwnFXYXTU+RPNfj9aMHL5nt2hdc=",
+      "hash": "sha256-3YdSjXb7HJFCWPgMAJI4oMHNPSKk1IOsoDYzbvsLv7k=",
       "url": "data\/NPCs.json"
     },
     {
-      "hash": "sha256-PzMoslfAA5\/TXgDvfQq7t+Xoj8\/JqrBHGQsOrf4KO9c=",
+      "hash": "sha256-JCcu6Oz248mqgSFLhvSAND22WTjjnN8C1s0v\/ben2X4=",
       "url": "data\/NPCs\/Anthretagro.json"
     },
     {
-      "hash": "sha256-9s+ITp+FqNoSvuwpbKw1f\/fvL9hcPSxX1QeXkkUF5qk=",
+      "hash": "sha256-R20HWXnRfj7YoxUo62e5rH4TETJEwZqQYYvhlIJTWrQ=",
       "url": "data\/NPCs\/Betty May.json"
     },
     {
-      "hash": "sha256-OaSaRgHaSERPmCFeT7wrUuy\/5Y+HirO9fJ+qfoQc9cM=",
+      "hash": "sha256-hLpwM86NLSA8Vj4\/WhPIYMPQQ65OKmRaKVq\/fUpF3Fc=",
+      "url": "data\/NPCs\/Calm Waters.json"
+    },
+    {
+      "hash": "sha256-ydwu9tCizRq0JnksyLMIGmDluv3QNMoDShM\/XfuxQec=",
       "url": "data\/NPCs\/Camel Carl.json"
     },
     {
-      "hash": "sha256-TrxKRrpbSnz\/j5aMQB4vljED0nPzdNew1mXSWE+NtuA=",
+      "hash": "sha256-iSTWK0OBpxpwCl2P5NCLmDGFDFhw6\/m2ZUxXjm8t6vo=",
       "url": "data\/NPCs\/Captain Nobeard.json"
     },
     {
-      "hash": "sha256-9ooWzYj6ZUu8gPuNRWVL2FUyEGUcmjnY\/bOK0c6c2uo=",
+      "hash": "sha256-I31l+fYQKTgqGe3VFtZGw565Zhyppe7hdIOjSArG7YU=",
       "url": "data\/NPCs\/Companion.json"
     },
     {
-      "hash": "sha256-pocQBAkkZStjWsEnmn9FKfTvwr1XzSXjXIN+lMdcWtQ=",
+      "hash": "sha256-EwW5ptpgriX1IAAQU4xAu7ReAT+p49HI5t6nXvESQ18=",
       "url": "data\/NPCs\/Doctor Squid.json"
     },
     {
-      "hash": "sha256-k4KFuIgtci3ChLhfUHerHZm9+dEiw9FztOjWySAZ+Ww=",
+      "hash": "sha256-nbGm8UwKNaDm+W2zGqqbNk\/rxk6269pNAP2h76gS48g=",
       "url": "data\/NPCs\/Dwarny the Dwarf.json"
     },
     {
-      "hash": "sha256-BqSJ+wUNwCVZuJm2KuTDx5VnRunKPp+mS3V5Kyx7IFw=",
+      "hash": "sha256-Eye3T2C3rgaQtyy1waBWMXILh3B0ar6k27XWIFFARAg=",
       "url": "data\/NPCs\/Elderly Man.json"
     },
     {
-      "hash": "sha256-4CAz9CwqNkKXrfY\/p3mXH96bOfA4Ftgf2lVD8bjC72Q=",
+      "hash": "sha256-xihGcrWTPA6KECQ8AscQm6dXq4TOLdagrIK5gNSHr+k=",
       "url": "data\/NPCs\/Excited Traveller.json"
     },
     {
-      "hash": "sha256-v2wAE95Otry2rVu+tS0\/ThYhwkXW6JgSSquAqyCfo84=",
+      "hash": "sha256-P6HbFhIEm\/wJu9WEpfuJU\/cWGNV3JANnExv6yKXnUL8=",
+      "url": "data\/NPCs\/Fen Pilsk.json"
+    },
+    {
+      "hash": "sha256-5eoWNbaQNWgsaQM3b9sFc5GzlR4FCeG3hGam7I0pM8Q=",
       "url": "data\/NPCs\/First Mate Fremp.json"
     },
     {
-      "hash": "sha256-7irKb2nldqWL6CGxX1JB4hSNqYv9mdB3mNWTgKcGwzk=",
+      "hash": "sha256-dZIZVCVJv0atjxjyvcpTtMbXNZBFWHVeLOFJpuafltU=",
       "url": "data\/NPCs\/Fojimafa.json"
     },
     {
-      "hash": "sha256-\/ZuEDuQ7HexxIfx+Wi4xvASx3imJh39y\/lGOPoXE15Y=",
+      "hash": "sha256-AMDW7EA07c94JxKGyEvk81xigOh18c4uM4f1m3XX1fM=",
       "url": "data\/NPCs\/Gate Guards.json"
     },
     {
-      "hash": "sha256-9ohAuG7zLp32w+lLG+lu7w3ov795b6BPyUW6\/N\/TzHA=",
+      "hash": "sha256-hCHM\/RSIWSObeOHWu+86fPOlBRq1AYnwFy98a89KCfQ=",
+      "url": "data\/NPCs\/Giltgrain Guard.json"
+    },
+    {
+      "hash": "sha256-9b73awO084UTaTXwKLcNIaXflgrTJqwaG+PoiudSZUU=",
       "url": "data\/NPCs\/Glindrear.json"
     },
     {
-      "hash": "sha256-y20SC2+SoEzQ\/LDgTAVZjXjlwoJlb88HJVrybKi1UD0=",
+      "hash": "sha256-qJQ7Sm8n9Fwe2fompECJqpNOVQ8xgxHoyfljvqDqrI0=",
       "url": "data\/NPCs\/Gordo.json"
     },
     {
-      "hash": "sha256-7cBbJAPDNYs0\/6ou61I1xDa9yiUU0QaAA12N4Jeku4s=",
+      "hash": "sha256-b0EhJGa9E9GuaklX9M8ssC\/zZzaDNezE7OtXXzgzf+g=",
       "url": "data\/NPCs\/Grumpy the Gnome.json"
     },
     {
-      "hash": "sha256-MTtPZhilpJxGYNl6Ena+wYDDDI6f+y23rZWtmdnF+VQ=",
+      "hash": "sha256-muEXK9AuzswpBlkVI5KslVmq5mEk9tE0ZtXU8t\/D0bE=",
+      "url": "data\/NPCs\/Gym Keeper.json"
+    },
+    {
+      "hash": "sha256-PjtmGdKTFE9GhZqSKdzV8naf\/g2aB2zkWj4bIRPrGZM=",
       "url": "data\/NPCs\/Gyoruik.json"
     },
     {
-      "hash": "sha256-6fqyL+Fn7K6OT5N3WMBXQpM9ZjOnLFIkxeEukun\/q0E=",
+      "hash": "sha256-IkkQcRUswf5jxpzKBLMkfbg5f3anEigSdJRpKLFpHXg=",
       "url": "data\/NPCs\/Hadeas Tajek.json"
     },
     {
-      "hash": "sha256-3AWE9CzO7mJ5KHgBQWi8LgE2aKsYo0kvyXKknFJQnwE=",
+      "hash": "sha256-JgA12\/P9tk1vbi2Y0OyVtirAFA6GWZQkQOU9VRABhtY=",
       "url": "data\/NPCs\/Hokorb.json"
     },
     {
-      "hash": "sha256-h2fDmwNN02baE8izETr00dqJqhxK85OvHAZ4WM3Ct6M=",
+      "hash": "sha256-I2ikjJ7rbpZnl7dKw2auze5tG9KVTS+vCBW15Ob9Oto=",
       "url": "data\/NPCs\/Hooded Traveller.json"
     },
     {
-      "hash": "sha256-EF\/P8RmTGLax5SrScHaXOabmmqZ79do+vEVeO2QMtVs=",
+      "hash": "sha256-Qi6z8X\/5+rCIhy9q3W3cl2skX3UmLirN2xcHVhpPIS4=",
       "url": "data\/NPCs\/Hoshnik.json"
     },
     {
-      "hash": "sha256-ugjR8pQ4PK\/0y7bVtBWDrYmcskXa7bLIrpWQpI6TQG4=",
+      "hash": "sha256-ryoaSp1cFHwaSl4U7VG\/eTXQMmJ4ZFkUc6SHQ+z+gRU=",
       "url": "data\/NPCs\/Hoshok.json"
     },
     {
-      "hash": "sha256-uslsr3f5l0IQkTOY35lrzprtUT6WPxharVyVj9AU3DY=",
+      "hash": "sha256-6cdajCYff4RWf3KGj57bDMqchco77axLEKGyYcoR8Zs=",
       "url": "data\/NPCs\/Hunter.json"
     },
     {
-      "hash": "sha256-kgVygfjPMhkZoa08Uu7fGzUJ7bI3XpOCvyxw70O4DyQ=",
+      "hash": "sha256-\/TB5b0eA0CoP6ciqK51ZGGyP+2VPKVTa3+1tAEw2GH4=",
       "url": "data\/NPCs\/Hunting Map.json"
     },
     {
-      "hash": "sha256-pflrKQfiWR86tOSzVFzZR46PhROdc\/v4D55F\/AOqrc8=",
+      "hash": "sha256-KFWOoDocK1cu10WVr\/yy0BZYhYSGOwig7Lo6dpzgXWs=",
+      "url": "data\/NPCs\/Inomi.json"
+    },
+    {
+      "hash": "sha256-cyts6mAEFnnw5SmXMgVcZkBpZWC4jDg+MZiNfw\/APf8=",
       "url": "data\/NPCs\/Ittru.json"
     },
     {
-      "hash": "sha256-gK1TpiJFLIyv50QiTleed0sW+BhcRFVr7FNFj\/mv6cc=",
+      "hash": "sha256-MCPwUWJixoL3zh3wBNalZczD3yMv5kVGm3AZRJPkOgw=",
       "url": "data\/NPCs\/Juis.json"
     },
     {
-      "hash": "sha256-4rPDhNcr+0thrS7YH74mE3+wezZYIMr+eu34KtI37gI=",
+      "hash": "sha256-S+wxBDX8dqzQgg2R0BJHKh4p1A5jwrfFbYmgiQtRjA8=",
       "url": "data\/NPCs\/Jumbo.json"
     },
     {
-      "hash": "sha256-XFj\/XUa6hElc6BRHGaxhPqN4ZctcrSouwTHqAqVp73w=",
+      "hash": "sha256-qiBY2dWDd4uFsSz7jTzn3oa8rHEKC7IZg1tVtd6Q4KA=",
+      "url": "data\/NPCs\/Jumoku.json"
+    },
+    {
+      "hash": "sha256-YBgOu5VqfRCYeWrUDcCZpdkvhBPMQjxGEhc82RuffgI=",
       "url": "data\/NPCs\/Kai.json"
     },
     {
-      "hash": "sha256-3ympJZ0xnbi281PkM0ihPQRDUqcSgli9bPdMdu\/s+VQ=",
+      "hash": "sha256-VF\/A\/\/pZrREzIB+GHpWEngBYGU1\/wVFD4mR2QfnZjcg=",
       "url": "data\/NPCs\/Kaji.json"
     },
     {
-      "hash": "sha256-JiXhPz8PACDgeSSqIo34r2vjCUxR2b05tE5fmgwCM+Y=",
+      "hash": "sha256-zq2754hORQBYeAwpoLZQ7pE3\/jXI8yibwuymeBqOi7o=",
       "url": "data\/NPCs\/Kawzaik.json"
     },
     {
-      "hash": "sha256-ejFQhoICSWZChOufMJQQpTYL+u7z8bM0ZdPtWmJMkrw=",
+      "hash": "sha256-IN0HWrgIOBSZOPKj9XpIv6sCjQ1x8s4HJknTbN83sH0=",
       "url": "data\/NPCs\/Kazkagrin.json"
     },
     {
-      "hash": "sha256-WHQKhoE8Mg0DHv3B35ApyUgIE7\/ltrqZ2ruFAZPWBBE=",
+      "hash": "sha256-m+r\/GBEnTZ7D5SpiaCe3xV4ac0jZP1fOhmqaqDusyTU=",
       "url": "data\/NPCs\/Ken.json"
     },
     {
-      "hash": "sha256-jSzNzKBA6yvBlW1VPyidt\/Ir6rs9JpvowjQDkDKK7H0=",
+      "hash": "sha256-hn1BPRje7Fn7qsAzKDFDI7amxGBsMJc\/snyx6oJRpRA=",
       "url": "data\/NPCs\/Kumuhana.json"
     },
     {
-      "hash": "sha256-flFkt3FXuOcqfZuVoqafSdjBOcxBOdPwY3Uxe8N5dxM=",
+      "hash": "sha256-ejlBfHa+KaVuE42SDQ6xi671PVeNfV0VbSw7aBZf1rQ=",
       "url": "data\/NPCs\/Kyle.json"
     },
     {
-      "hash": "sha256-5v253paO6\/7fgM5f+YgvdtpcZFIRs1TljLR5iWZyHXo=",
+      "hash": "sha256-wMmmpxg91oi0eMIB6HTRp1zHX+xzgazSxKesI93BrME=",
       "url": "data\/NPCs\/Laclav Rivin.json"
     },
     {
-      "hash": "sha256-ycpQ\/J00JQdkBsfpF4ZXjf\/Subl7HsKLEhC1g7GLVT8=",
+      "hash": "sha256-tzkUNmAe4b0k9AVQlNprPvEwI7TWeNBQcO8UoiWwAXs=",
       "url": "data\/NPCs\/Lazy Traveller.json"
     },
     {
-      "hash": "sha256-tn6rlHGpQhjqX+FfLAu3q5d3CE6LxK5g88cWaAhma6s=",
+      "hash": "sha256-uwdv8zf5T3olvVEYQ0K30Lwog9wWlnvXaD\/kBhcPakg=",
       "url": "data\/NPCs\/Linehart Wichperger.json"
     },
     {
-      "hash": "sha256-U8HzrSXYO7x\/3NDDnVbXWtaLDN\/N\/V9Z5+x3ziLXUHE=",
+      "hash": "sha256-FeRytvDve22Ds00nH1Z207UeWtSvnoe2gV8aBMG0I\/M=",
       "url": "data\/NPCs\/Marschna Finrer.json"
     },
     {
-      "hash": "sha256-gk1JzYfUO3x2AhDiwzRGI+2jQmyzT3UuokBm5I3aPcA=",
+      "hash": "sha256-zKXHaORwV5m4LHupvQjMdxMrzTVuZKLgky\/5THnMrP8=",
       "url": "data\/NPCs\/Mokko.json"
     },
     {
-      "hash": "sha256-JvmydR3Et7PGSILbLEXDVXYU86ikKfF\/JOv8PPYW6mQ=",
-      "url": "data\/NPCs\/Mound's House.json"
-    },
-    {
-      "hash": "sha256-ntUXNdSYQEr6BbXhes13WsFWVD18crZbc66LER2DdHU=",
+      "hash": "sha256-q\/oZ7X5vjZ1096s955A+sgUhviE4xBv2PiQDJjyb8\/4=",
       "url": "data\/NPCs\/Mound.json"
     },
     {
-      "hash": "sha256-0HCTr9mT4GiPoBEEu1WnqaPacpERkOVqFwli1rEFmrI=",
+      "hash": "sha256-MuRjN7GSMNA\/vSccVJbEUzenSY3VEeEhGdLsftJAsmk=",
+      "url": "data\/NPCs\/Mound's House.json"
+    },
+    {
+      "hash": "sha256-8RR9oHn8gnf3VNEtvgqTt7mI5\/D9ab3enaPWlltJPQw=",
       "url": "data\/NPCs\/Naganidsko.json"
     },
     {
-      "hash": "sha256-sjdQZjdnidABjhB6kUmoncx1KcssU+sbKQM4x3B+nyk=",
+      "hash": "sha256-1R17kg0mJGAEgHZIsX\/lPeOaQ73Tcprn5kFLl9CR3zQ=",
       "url": "data\/NPCs\/Nasitra Dutfurya.json"
     },
     {
-      "hash": "sha256-jmMf0d6+MVmdbVTed+8mHWlRX89cFwAWsBelUe2UfyI=",
+      "hash": "sha256-zforUBMSYx0+96ze7DRnSwzXMMhxJN6RbVnxWVzw+qY=",
+      "url": "data\/NPCs\/Nodlesh.json"
+    },
+    {
+      "hash": "sha256-icOouzK8RYkSNNhqJkeuzaiaXutkR4M42Z76XrqQrn0=",
       "url": "data\/NPCs\/npc-schema.json"
     },
     {
-      "hash": "sha256-fbAZRPfMfKK5Jjr9kZCNVs97BgttE\/FJ2a0Kkh7Zzgo=",
+      "hash": "sha256-UXc4pKTpZeFfLkGqDm4Slh57aK5g5fWLz0BKxL\/jBws=",
       "url": "data\/NPCs\/Oikaaz.json"
     },
     {
-      "hash": "sha256-douszsfSP2Xv9v43GHmlPbJ86s0h3LnkhvoS8kzvZDk=",
+      "hash": "sha256-m8IPCyo9h+mq4umTN\/J+u4tV9wR60Gsaqlq1KUP7qls=",
       "url": "data\/NPCs\/Old Man.json"
     },
     {
-      "hash": "sha256-6pe9gZmOAEokGoa1uj1MjnBXosdKjMfv1SEJAk+L9PY=",
+      "hash": "sha256-TMXFh8R7RrkABNNVTWLQ7EqBMVbPmOhCBafnB770TJI=",
       "url": "data\/NPCs\/Old Woman.json"
     },
     {
-      "hash": "sha256-7StPVs9qlvDCa8ORLRW4t4IupMrgo97NL45WLrY7vyc=",
+      "hash": "sha256-R0vejLW0AIXzcsxcny9\/nSFVq0CCWW7zxU2djtpYLaA=",
       "url": "data\/NPCs\/Pirate Crewman.json"
     },
     {
-      "hash": "sha256-Bjd0xymJRzuw2enBrarYySv5z1Bx6ZvZzD43gba1WEQ=",
+      "hash": "sha256-Ld6up6EAMcBMPuhwsACJx4bEZIIbXIw2AiiCMXiNydo=",
       "url": "data\/NPCs\/Pumpy the Gnome.json"
     },
     {
-      "hash": "sha256-UxG63n\/vk+3GS59vxpDrk+Kh0Z1H9Nuk9BqTE1vy0LU=",
+      "hash": "sha256-CvMcKThXTBTWTtDDGx3p0YAtSElUtsH4xmZtQkdPkd8=",
       "url": "data\/NPCs\/Quartermaster Argon.json"
     },
     {
-      "hash": "sha256-f2nIN3Djc72G44dQWR4t0IZmk8QrdHPLqi83yvEEuIc=",
+      "hash": "sha256-9JD5r2RdEuu\/CBlXshcYem4OSSRj64USq2BdGc4JyIQ=",
       "url": "data\/NPCs\/Queple's Tomb.json"
     },
     {
-      "hash": "sha256-cgOSfZi7hZ5UayY1+YzQMkI7G9YA1oaXG8WtUIgu+1Q=",
+      "hash": "sha256-UUGa\/nhjCCtLh0uABJWv05ZBLt9pBrtoNTcgh\/FWQmE=",
       "url": "data\/NPCs\/Raka.json"
     },
     {
-      "hash": "sha256-1xghP9nVvVj8pW8pEOXt+f2\/kvkCdodZcToqvIJhgaM=",
+      "hash": "sha256-Sf+2IyWpE0XzgBsmnymTVkfcbd\/7EvlkZYttLp7jxfA=",
       "url": "data\/NPCs\/Resting Hunter.json"
     },
     {
-      "hash": "sha256-OSGvjWdWskD5qF0lj8XXDeuuAVMqPBgotwJ1cdlWkVE=",
+      "hash": "sha256-hFQUJGtbX7rvC4Rl4A17S0vHTdzvYS0z0Vo0aArdcoI=",
       "url": "data\/NPCs\/Rodor Bavnidsko.json"
     },
     {
-      "hash": "sha256-P0chf1ZPkaco\/SCv\/rXXZgKewGwFtKjR5zdBTJUIwYI=",
+      "hash": "sha256-zY11MVw2WjR1pdC9tBR+G\/BFciAdHwQqE3XiO\/58fGM=",
+      "url": "data\/NPCs\/Roubok.json"
+    },
+    {
+      "hash": "sha256-0O\/j8BWacQWWtZmRZGaTYHoAHESKTz2d6mF1n8NRBw8=",
       "url": "data\/NPCs\/Rugu.json"
     },
     {
-      "hash": "sha256-OAqO+e6LcrNGWCqm\/SGAPCjHoR1ChqqtOs6ecxpJbrM=",
+      "hash": "sha256-gzZPT2l4jZmc7ugGuaaEjrsKCzdPXTn\/oHwM6pjVkrg=",
       "url": "data\/NPCs\/Rumpy the Gnome.json"
     },
     {
-      "hash": "sha256-qCa1zGv9FY3gW71KBeJcQW2AxXsR5XySaogOyFmQeKY=",
+      "hash": "sha256-ctCb98zAI59fFSjvMtOL6gLtlVgur0cn4qndYLJra1k=",
+      "url": "data\/NPCs\/Ruto.json"
+    },
+    {
+      "hash": "sha256-SXKt+iP6CT\/EmAVhlzRyfOCIKa1dKX31JO1AYjrVbb8=",
       "url": "data\/NPCs\/Shop Attendant.json"
     },
     {
-      "hash": "sha256-+EbLa+iCqllBq0\/yuoujk6oeD5IiEnqFWG43poUyhVg=",
+      "hash": "sha256-wY5aIY1PcZqMBLSKDNG27+X8G5pVbhz3L9ZSPGe41Zc=",
       "url": "data\/NPCs\/Sinapius.json"
     },
     {
-      "hash": "sha256-U6mUhhInQLJHS9LxizOeATuK+Rn3Ugc29Vj6yY0nXr4=",
+      "hash": "sha256-xr6mXY1BjlZI5sHkUfmmo6Wyt6fZgvPfpXWlP3kbN6o=",
       "url": "data\/NPCs\/Sketchy Raft Salesman.json"
     },
     {
-      "hash": "sha256-f1ZMYcaAx+EZgeiT9Dot64+R43o4QhRvN5LHBScCj6Y=",
+      "hash": "sha256-Hlo09WdVnQRTxaRCmJvC7yD+X4Xl7c5U8ajr5tHy5f0=",
       "url": "data\/NPCs\/Skia the Monopod.json"
     },
     {
-      "hash": "sha256-+xLL1T8ZYFP9QN6hDxPc7fWMrkbVwXSLouySYT9+g18=",
+      "hash": "sha256-adMW+w4Orru7ufNkmtGYMziRiEHhNaFfpc5ydbs0n0I=",
       "url": "data\/NPCs\/Sloodle.json"
     },
     {
-      "hash": "sha256-dpiMF6BWN3kTJFoez3Z6tNjlamKyGwkeQJRCQa2YcYA=",
+      "hash": "sha256-vA1GMair0MpzZq7j4SOYcGkO7B\/HYuBENXvjP2ke7p4=",
       "url": "data\/NPCs\/Snibbap.json"
     },
     {
-      "hash": "sha256-hwrOrU1V8G4SjS69u2kjqP0wIdRQoQoyY38isksa3Ak=",
+      "hash": "sha256-O6JAKy1k\/gf9coErQo5z70D11dicQXcNBtT+8driYj4=",
+      "url": "data\/NPCs\/Spiders.json"
+    },
+    {
+      "hash": "sha256-80n2qc2tEZyrfos4SSxZIo88E6O73\/6alzlnDGcxEkk=",
       "url": "data\/NPCs\/Stogkro.json"
     },
     {
-      "hash": "sha256-JekGVxFL4miixHWXJPEZ2WHYdo4iMo0WFgTOIOlhyYg=",
+      "hash": "sha256-VNCRZE0jLazicPZGuyhAv5mIwRt9CfWEbZyZjkmiYvQ=",
       "url": "data\/NPCs\/Stone Door.json"
     },
     {
-      "hash": "sha256-EzrvTQ5pCCkoHL5ipJruHiGQvyaW1l94Cqr19HY0fns=",
+      "hash": "sha256-ACojW4JnIYwwH9FnERoku\/R\/RqjcOXljw0KXBEWKYBI=",
+      "url": "data\/NPCs\/Strange Hut Door.json"
+    },
+    {
+      "hash": "sha256-IQo0QkfRBuniyx719OqF8\/Y9qEfRJJcVvQCLNRPKFLc=",
       "url": "data\/NPCs\/The Book of Lost Things.json"
     },
     {
-      "hash": "sha256-Y8MCngGERe67d7WVPJA9T5DM7HN0gmdDWLp\/bQlFmy8=",
+      "hash": "sha256-NN3Q40MSEkrLeUPEwhnp1oswUZKrdUXFLrduWbimeDo=",
       "url": "data\/NPCs\/The Ghost.json"
     },
     {
-      "hash": "sha256-wpUupYqwrVNDKT6X6KGaWcVvLN4J8FgYxiITjqfAtxc=",
+      "hash": "sha256-3TXt86WCJW8ZNBTcydOEfr2XP78mgxt80lYTJ\/5Cpko=",
       "url": "data\/NPCs\/The Mayor.json"
     },
     {
-      "hash": "sha256-UaDmQ7qp8nbKESgL8G4kj1I9OgIdQsz7LoLWaJ0W9aQ=",
+      "hash": "sha256-VHHDVcmTD8Z550Fia6CdLpdTfVZRhODMjCCEYKhk6NI=",
       "url": "data\/NPCs\/The Sign Man.json"
     },
     {
-      "hash": "sha256-cnvPSjqdzLUkIaWMp3ggcD3TaYXzC+cjK8LJXYuDSAo=",
+      "hash": "sha256-GlN2LYqhIiZ7WZ1ry7ncdwqoFRceeiHwbAFBr2abLNs=",
       "url": "data\/NPCs\/Threnden the Dwarf.json"
     },
     {
-      "hash": "sha256-2PQQA+vh84MMFZUBklUn1yyk\/LH+cw4LnmdSTf8Jai4=",
+      "hash": "sha256-vVj2lDLRzvGrdRHqVwWrxtCG0SGQ+TdWxinHzcHQYhI=",
       "url": "data\/NPCs\/Thurgood the Dwarf.json"
     },
     {
-      "hash": "sha256-Ecx4CtFNlqX789CoKuH6eCql3VM4Bi5pM4rePkYFrIY=",
+      "hash": "sha256-pMvTJHzMLude4gQ98oNOEyuVCRu6S4alzyoAbfn1V2I=",
       "url": "data\/NPCs\/Tired Traveller.json"
     },
     {
-      "hash": "sha256-KUEcaYKvLFk2Qgp\/r3br21VYbHbbTgpEZnvloXBVAnM=",
+      "hash": "sha256-Imtl72vxcJ25tb7XcPNLkAWgo3wCITIZebZwjdJ9J6A=",
       "url": "data\/NPCs\/Tochtei.json"
     },
     {
-      "hash": "sha256-sZt5ZEmcjYBWiXsRVFzD5K8kESpeGeD23MI3W0Gq64c=",
+      "hash": "sha256-g1Jpot5+9KOLiPoWizR55xhIxe5DlOPgj\/v8HbEXkYQ=",
       "url": "data\/NPCs\/Tolani Seba.json"
     },
     {
-      "hash": "sha256-WxUyaltjV0E0cQCv5GXh+tqu18yG+4RFIK3nPnpo6ms=",
+      "hash": "sha256-YocYgWmae1rpsveQVqtUAf+XbVScHjRghoBuQyW9jIs=",
       "url": "data\/NPCs\/Traveller.json"
     },
     {
-      "hash": "sha256-AUQmMN7DO6z8f7J5nmHiCNWGHg10Musiq4XqM+5iiAY=",
+      "hash": "sha256-3ffOwx9v5bE+l8dbngPqjDMxzyF7\/ShgVj7d\/Vjd5ZE=",
       "url": "data\/NPCs\/Tree Guard.json"
     },
     {
-      "hash": "sha256-gvGAGyRUI31VigjTscX2WMTwIJRWNsALr\/y6Os3kBqg=",
+      "hash": "sha256-KZx\/xQ5pTy27hlS4dvvXfaaz0Qrxj+5BPMcLx8zYv8c=",
       "url": "data\/NPCs\/Tuto.json"
     },
     {
-      "hash": "sha256-cXb\/5yhYEOOWRcvmKDiFCd5FfRrcvBYDaNRfeUaAjrE=",
+      "hash": "sha256-JrmLwWNU7gtkzo3U7bcAp6L8vS7LGij\/CJf1ZGWAZ2c=",
       "url": "data\/NPCs\/Two Legs Jack.json"
     },
     {
-      "hash": "sha256-9X\/xQb+h36yd7NuBd9M+mSWCuHpNeDPiCxH3EV7ur7I=",
+      "hash": "sha256-BOP0DPGB0Fe+U0Y6FwmfgYjFGePx2qxwYEh0gR3w3Hk=",
       "url": "data\/NPCs\/Ureoh.json"
     },
     {
-      "hash": "sha256-kjr+xLC5fZJEXtOKMwohppVSNmSeSBtS7pe+v3gcL08=",
+      "hash": "sha256-mW45hf9foZJZEkf7Bpk\/UcEeIQMEHMsVMoN+lqqk7xo=",
       "url": "data\/NPCs\/Wakanidsko.json"
     },
     {
-      "hash": "sha256-3TMNAVuw7RNuzdBp6ugrWgzB2sVOtI80LUAbbpcII2Y=",
+      "hash": "sha256-p87RZvQjX0s2yp\/dulQ5U2+Csx58INTQn+PDHETHZEo=",
+      "url": "data\/ProgressFlags.json"
+    },
+    {
+      "hash": "sha256-tCO7RVAeD6SdO3fmNfgAop8f3PWljgDH4Ep\/94MwRfI=",
       "url": "data\/Quests.json"
     },
     {
-      "hash": "sha256-qSbp6SQEQkvKuytYBKVXA0vapp++2gMhajeEST2MjAk=",
+      "hash": "sha256-CIzBHxXYNdWaVCw2jgm5twigrRBpfqEcsSnBOv5pkNQ=",
+      "url": "data\/Quests\/CaseOfTheDeadPirate.json"
+    },
+    {
+      "hash": "sha256-h+S6WAwAquP8LdE4GTzEK0issYu3o0hOozfU4lfpjqs=",
+      "url": "data\/Quests\/ChrysopoeianCrisis.json"
+    },
+    {
+      "hash": "sha256-+7W0g+cbyrL69dzUxoJmYSE71ssgz5ngjsGYWQ\/8L9Y=",
+      "url": "data\/Quests\/GrandTheftCamel.json"
+    },
+    {
+      "hash": "sha256-D9TE1WmUjJa\/ah3iIb6VZSa5NH3szCI8Ls16eg2UGgo=",
+      "url": "data\/Quests\/Mayor'sAssistant.json"
+    },
+    {
+      "hash": "sha256-tPeIFBcmhhf0tVnr01Qs6QZ2qi12yh1obhjasB+OIdk=",
+      "url": "data\/Quests\/MoundIsMissing.json"
+    },
+    {
+      "hash": "sha256-r7BZ83ydMGvGxkuXQpsUtIJVbwwhGwK7j\/INPOOkFko=",
+      "url": "data\/Quests\/OrioleOrnithology.json"
+    },
+    {
+      "hash": "sha256-F\/ZGy3Fn68Sf6zLtqRS+Wc9\/dp7DUtw65xSa++6jvL4=",
+      "url": "data\/Quests\/Queple'sSword.json"
+    },
+    {
+      "hash": "sha256-r4VuwMYbydrYAm9M07\/wALN7h8PezVGFrmKin\/4WxTY=",
       "url": "data\/Recipes\/BakingRecipes.json"
     },
     {
-      "hash": "sha256-HzuA7kiKI\/WEhEzfpFRE9l7jvb6Ivhe7yDrHLHg\/SV4=",
+      "hash": "sha256-A\/ZczHwxLUnu9FGM8ZWdc24zC7+3RKRAmOWpuYu7JLw=",
       "url": "data\/Recipes\/BreadRecipes.json"
     },
     {
@@ -1609,15 +2257,15 @@
       "url": "data\/Recipes\/GemRecipes.json"
     },
     {
-      "hash": "sha256-pBtB8GaEMy3OLNcFVaEQLihR9bqxetq1gdQoHcURmM8=",
+      "hash": "sha256-HKEvRUqU5StG6i9AkNCzVUgjP5eOxxy7an7LT0wmlWY=",
       "url": "data\/Recipes\/LeatherworkingRecipes.json"
     },
     {
-      "hash": "sha256-xwt5mGxaQZMeYHnxaCvoAfrZBtkEPu2M0uByXDP+mMo=",
+      "hash": "sha256-1ayIiceucUZNE6WhmEsmTUZAVJ008wd31SPaOmUX3kw=",
       "url": "data\/Recipes\/MiscRecipes.json"
     },
     {
-      "hash": "sha256-LBhlE\/6vOlpaf43o7ofF4P2gzQNEYm\/vj\/pe7jLFjkI=",
+      "hash": "sha256-yNViu4tX8orNsXBcB3WkjRInHN+\/r\/0edp6aOREClqA=",
       "url": "data\/Recipes\/NecklaceRecipes.json"
     },
     {
@@ -1625,11 +2273,11 @@
       "url": "data\/Recipes\/Smithing\/AluminumSmithingRecipes.json"
     },
     {
-      "hash": "sha256-JXH5JfQO7UhSdwEnybbyzEGOtjiGiKm+x2XDJsPBORo=",
+      "hash": "sha256-DssEr2+VAEgWb\/cn5YIjJ6fMBqUElvaVwMQtXinnYWk=",
       "url": "data\/Recipes\/Smithing\/BrassSmithingRecipes.json"
     },
     {
-      "hash": "sha256-gORCRRIU8x66h1smtwFf\/GsKpJiYAMtKUDMp68A6V\/0=",
+      "hash": "sha256-1kMDCsdzl+lKgC0RwgmARhrR28OVSuzUj5ofzO8GqVg=",
       "url": "data\/Recipes\/Smithing\/BronzeSmithingRecipes.json"
     },
     {
@@ -1637,12 +2285,16 @@
       "url": "data\/Recipes\/Smithing\/CopperSmithingRecipes.json"
     },
     {
-      "hash": "sha256-9\/h2ADGeMwAAxD06vZCq6ysTuW32Aq3m9Uc1M3r5bDc=",
+      "hash": "sha256-uGoHo5WjfwM1S0vmEMfBBMtua2YhM\/lc4YO5oMQyjJo=",
       "url": "data\/Recipes\/Smithing\/GoldSmithingRecipes.json"
     },
     {
       "hash": "sha256-oUzq8qys4cMLFS4+t2UtXHW4WREaxFcave+3hcQrMJk=",
       "url": "data\/Recipes\/Smithing\/IronSmithingRecipes.json"
+    },
+    {
+      "hash": "sha256-jMhxJhVB0hlo6FwBhaUrdBGAnFFz08vcLQnur5KhSlA=",
+      "url": "data\/Recipes\/Smithing\/IseroiteSmithingRecipes.json"
     },
     {
       "hash": "sha256-I+xfsH9SpPb8VjDfAtsppy+M\/zQt7ahBdyLGJnhLKoo=",
@@ -1657,7 +2309,11 @@
       "url": "data\/Recipes\/Smithing\/NickelSmithingRecipes.json"
     },
     {
-      "hash": "sha256-PSZ9pK2wLU\/8VVkue151SeOAEpnEdXARIdvGV6uo2fg=",
+      "hash": "sha256-Ddbakk3wjJRbCcHH0OoKMBEd\/GKvyvb9uXD\/W7Qj0tQ=",
+      "url": "data\/Recipes\/Smithing\/PlastiniumSmithingRecipes.json"
+    },
+    {
+      "hash": "sha256-7UDg5EYPcX72ZUx5HwFyLAq2a2Ah9UGqunLhMR43Wv0=",
       "url": "data\/Recipes\/Smithing\/PlatinumSmithingRecipes.json"
     },
     {
@@ -1665,7 +2321,7 @@
       "url": "data\/Recipes\/Smithing\/SahotiteSmithingRecipes.json"
     },
     {
-      "hash": "sha256-D1iu9q4YKHqhKuUuRMa02ktieHDDy9w\/rtsZKtkDHXM=",
+      "hash": "sha256-haQF8ks0bdlnRtUYtbV2J\/PkXIAuWPEODZSH6fZXctI=",
       "url": "data\/Recipes\/Smithing\/SilverSmithingRecipes.json"
     },
     {
@@ -1673,7 +2329,7 @@
       "url": "data\/Recipes\/Smithing\/SteelSmithingRecipes.json"
     },
     {
-      "hash": "sha256-hfXo\/+H2AljHWIX0hL6CV\/3B4VvOdlUEhomSXtwdcZE=",
+      "hash": "sha256-Vn12bK6CO2mB+rXgrn1s2rciuRBglhd2oAsbM6Xq1JU=",
       "url": "data\/Recipes\/Smithing\/StrongtiumSmithingRecipes.json"
     },
     {
@@ -1689,23 +2345,27 @@
       "url": "data\/Recipes\/SushiRecipes.json"
     },
     {
-      "hash": "sha256-WIJUmSBAaNMTxOhGI4\/4H68ONFDCwjdehRDZc3A2wxY=",
+      "hash": "sha256-9pvSNz+vUoYHayuTvLkWQBswtZpVRHD43HPHyWtm3ZQ=",
+      "url": "data\/Recipes\/TextileRecipes.json"
+    },
+    {
+      "hash": "sha256-5WKmIQdN\/OPbP3q78D0JkCfVrROg2k9SAKLFvURx7Ug=",
       "url": "data\/Recipes\/UnpackingRecipes.json"
     },
     {
-      "hash": "sha256-ByidmTSJZ4JBzY6lAIjRQH4z5aeTvRruEJfbbMjdQA0=",
+      "hash": "sha256-QX8Y48LxEW2LkUD0pJGlrF30NaAU4jjLvIirhZP2ERE=",
       "url": "data\/Recipes\/WoodworkingRecipes.json"
     },
     {
-      "hash": "sha256-ByAY8BOjRQUilYyCy5jHB4mAzea3Bg5C2T6rQsZ0kIE=",
+      "hash": "sha256-RBoDCMWIADiFF8joCHmBfTmqvfwMSN4w0o9rILkdYWw=",
       "url": "data\/Regions.json"
     },
     {
-      "hash": "sha256-Cy0GdWHCxlRKCT7e+\/QqJEl5uC0J+oCFvctpZxjxma4=",
+      "hash": "sha256-j7cvRx7xRbRxj1AGxFJi6+Zs5aVCU9zBJemPIeSd\/DI=",
       "url": "data\/Skills.json"
     },
     {
-      "hash": "sha256-YD5Y9oc2kt3E9fKTR8df0VrfdwI1voLNPhf4Gdd\/Lt0=",
+      "hash": "sha256-cvx5lYeFzdzxRwY\/9d14K28FA4D2jioHZP8WO2TcGaA=",
       "url": "data\/Smithies.json"
     },
     {
@@ -1713,313 +2373,33 @@
       "url": "data\/Tooltips.json"
     },
     {
-      "hash": "sha256-DeBXsnvs+1RVMqUb+5UWyygRtXf8bkFnRdoa69rvZNY=",
+      "hash": "sha256-y\/KdDgmJhS\/UCi34ynRi3JuxqxogstwDp5nOpS\/nPKg=",
       "url": "data\/Updates.json"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-JpS8\/oHEwzBRpxYY2oscxoFvLIPWjhVu55HqAO+wFDY=",
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-PkgqjoEQV4jA7VSTakZ73q\/9vKkLE\/1\/EwU\/Yoj2K\/w=",
+      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "url": "icon-192.png"
+    },
+    {
+      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-jiDtCSP6sOpvwvxta1mWtwPetBg8VAtzfiJs1V5cWqw=",
+      "hash": "sha256-8evy5EIIXJ7oYsV+bh4sWQAAkvu3jNO\/qSBGBrJCn7U=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-oK7m1rfYcYrXJ5Ao28dR2le1Vj5G6cZmBPbU0Pq6s+w=",
+      "hash": "sha256-BnNJUcgXoevUFxYkOdMIABe26SWWK+rCzBgTP6JUeYc=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-eD1xx9KVSZ9Xc134LY9VKnKHGzf6M2yPGh+GxiRBQw0=",
-      "url": "_framework\/dotnet.timezones.blat"
-    },
-    {
-      "hash": "sha256-sM00FtqUHIlrUdb02MY\/qfdHC8Wj3ZQzQbgAHOGI\/QM=",
-      "url": "_framework\/dotnet.wasm"
-    },
-    {
-      "hash": "sha256-m7NyeXyxM+CL04jr9ui1Z6pVfMWwhHusuz5qNZWpAwA=",
-      "url": "_framework\/icudt.dat"
-    },
-    {
-      "hash": "sha256-91bygK5voY9lG5wxP0\/uj7uH5xljF9u7iWnSldT1Z\/g=",
-      "url": "_framework\/icudt_CJK.dat"
-    },
-    {
-      "hash": "sha256-DPfeOLph83b2rdx40cKxIBcfVZ8abTWAFq+RBQMxGw0=",
-      "url": "_framework\/icudt_EFIGS.dat"
-    },
-    {
-      "hash": "sha256-oM7Z6aN9jHmCYqDMCBwFgFAYAGgsH1jLC\/Z6DYeVmmk=",
-      "url": "_framework\/icudt_no_CJK.dat"
-    },
-    {
-      "hash": "sha256-bHu90HVES4SKyUFhMpzoBXzOukU4TR6+P2ZsSqV5b6Q=",
-      "url": "_framework\/dotnet.5.0.0-rc.2.20475.5.js"
-    },
-    {
-      "hash": "sha256-fDc4HMsmIWlz0rQuIZs1nYMKeHQ4V9Ygf4TwlGJ7ZEU=",
-      "url": "Quepland_2.styles.css"
-    },
-    {
-      "hash": "sha256-3fx2v35g8xbZC9rmcthBAks7b6preCqNi88qM+sm3mc=",
-      "url": "_framework\/DotNetZip.dll"
-    },
-    {
-      "hash": "sha256-JFcYepmulc6CPQTqivStIAuwWyaPlA+fEWIUcG6ErM0=",
-      "url": "_framework\/Microsoft.AspNetCore.Components.dll"
-    },
-    {
-      "hash": "sha256-GFdFlPbHSZC1yqLYoFwl\/mdgsgDqP6pDi8mQ+17+dss=",
-      "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
-      "hash": "sha256-2lcJTTI48BoYHAlmuMB0R1o1EF24XKCM4nOLXHp49X4=",
-      "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
-      "hash": "sha256-9OCW0QFjxOrvRWXpJ7m+TVT7mTfv5rLQt41a7XlyqZ0=",
-      "url": "_framework\/Microsoft.Extensions.Configuration.dll"
-    },
-    {
-      "hash": "sha256-hlqoWwerHArflpdgJrSwMtY1dsH8SJdt2bqet8WDQ8s=",
-      "url": "_framework\/Microsoft.Extensions.Configuration.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-frHP5hTUWKPr2ZFciNktCaOcSiSVX7HpcRzClHDGjWQ=",
-      "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
-    },
-    {
-      "hash": "sha256-GHJWhSDti4MKEKyBqXRCYq2KrSnE4C6TVWbOlxyd2p0=",
-      "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
-    },
-    {
-      "hash": "sha256-JhRLsxlzOhFtEOJ7UVDIP\/REUh3XngDTH1LWE5pGwt8=",
-      "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-fP0Z0I0+SSnMqUByWM0JeO1zatvDlMBPufAi2K+EN6M=",
-      "url": "_framework\/Microsoft.Extensions.Logging.dll"
-    },
-    {
-      "hash": "sha256-pgV1g\/\/PZR5S+9aPFJc9ufIcJnnTCV6c4I7qLpAIvTU=",
-      "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
-      "hash": "sha256-SruP42bXhxRtgjddFqEmLN2X\/tyVyFRP\/+df2PeaZ5o=",
-      "url": "_framework\/Microsoft.Extensions.Options.dll"
-    },
-    {
-      "hash": "sha256-XK3RydFAcqTwPqftOEfI3ea3ZGG6nIuN+5wMtAASl3E=",
-      "url": "_framework\/Microsoft.Extensions.Primitives.dll"
-    },
-    {
-      "hash": "sha256-uAzJwLsEqJeBTHqXwttCYWO7Oh+jtUjTfnnWhrHmRGM=",
-      "url": "_framework\/Microsoft.JSInterop.dll"
-    },
-    {
-      "hash": "sha256-lKafcju84crv4afu7rzVNX9CUQClrW6hMrRXLDKAkJI=",
-      "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
-    },
-    {
-      "hash": "sha256-N4LS9Q4MWtwMcEiKVAm17eMYYidLKee5B788vtw\/fdY=",
-      "url": "_framework\/Newtonsoft.Json.dll"
-    },
-    {
-      "hash": "sha256-PH8bCMhbmSkBhOnXbsrynY91xaOgo4VFPgaLK2x3cfw=",
-      "url": "_framework\/Pluralize.NET.dll"
-    },
-    {
-      "hash": "sha256-+ADP8S4Rwb9fxn+kdR4cWYmvPtc92ZGPMIIGN5AiBsQ=",
-      "url": "_framework\/System.IO.Pipelines.dll"
-    },
-    {
-      "hash": "sha256-TbmvkKV1XqKAjZVVi1OCUdUE2xJPyyWuJ5JMw5eAB1s=",
-      "url": "_framework\/System.Security.Permissions.dll"
-    },
-    {
-      "hash": "sha256-R6dzc173cE60pIR72H50bP4+7cKsNsZIJkN2iQq4tio=",
-      "url": "_framework\/Quepland_2.dll"
-    },
-    {
-      "hash": "sha256-XFgW8HTjK6Es\/8N5T532Tx+QiH6biBZ288J1LZe3dnk=",
-      "url": "_framework\/System.Collections.Concurrent.dll"
-    },
-    {
-      "hash": "sha256-juy+73UnWFRJnkbVjOOvCQgMK8LSn5XycTQsLUyZ6p8=",
-      "url": "_framework\/System.Collections.Immutable.dll"
-    },
-    {
-      "hash": "sha256-+E02yBBs4rGUnzExEcCX9sMaOBSGIZmh7ZHvHdb9yfU=",
-      "url": "_framework\/System.Collections.NonGeneric.dll"
-    },
-    {
-      "hash": "sha256-e9dctrtHKqfwLxduRjzcxFbujfrtYbgSi7jQ+4WDipA=",
-      "url": "_framework\/System.Collections.Specialized.dll"
-    },
-    {
-      "hash": "sha256-OXIwy9jk0TXEQ\/vcMq605qJY6vubwe4Iwd4+nSrQacA=",
-      "url": "_framework\/System.Collections.dll"
-    },
-    {
-      "hash": "sha256-XFuwLfznVO7vZtjfO4SUw4vsNgT3UdunWWwfYKbfFzI=",
-      "url": "_framework\/System.ComponentModel.Primitives.dll"
-    },
-    {
-      "hash": "sha256-qdLWkpJPnRdVunTp7MA9aZH0ORO9jO\/J6OuMob0GNkg=",
-      "url": "_framework\/System.ComponentModel.TypeConverter.dll"
-    },
-    {
-      "hash": "sha256-RZzQliy5TYmQOsxHULQpUTn3CeozcanxFID7\/Oi0l+o=",
-      "url": "_framework\/System.ComponentModel.dll"
-    },
-    {
-      "hash": "sha256-GXIDAuBUra8ZhJVvv4cmpP9W0\/HnkNdE9Cw9\/QxC\/u0=",
-      "url": "_framework\/System.Console.dll"
-    },
-    {
-      "hash": "sha256-M6dOy+NG95FB1uNZ+M2r6DlfpURcdVEVEVHniC76uwk=",
-      "url": "_framework\/System.Data.Common.dll"
-    },
-    {
-      "hash": "sha256-IuFRn3dSTw7o5UbLwyP+OiPwGf+jjzS0J6toK4kurjU=",
-      "url": "_framework\/System.Diagnostics.TraceSource.dll"
-    },
-    {
-      "hash": "sha256-W0XZKcuGNwuoRwpPahoqu8sQMJnS3ZntO0vf1zoMJHM=",
-      "url": "_framework\/System.Drawing.Primitives.dll"
-    },
-    {
-      "hash": "sha256-Z\/\/xRX3SpejpPFocQA0kpFsN7ey0KvRhOjsdWnu8C\/M=",
-      "url": "_framework\/System.IO.Compression.dll"
-    },
-    {
-      "hash": "sha256-lgHwpWpnZiMnbr8i2hxlbyGI+WAPQtsZp9OAAxHYBpY=",
-      "url": "_framework\/System.IO.FileSystem.dll"
-    },
-    {
-      "hash": "sha256-5ZdVNFBOHA2KBQjbCA2lkUTw+w\/wyXGGLIp8mlldHIA=",
-      "url": "_framework\/System.Linq.Expressions.dll"
-    },
-    {
-      "hash": "sha256-OcpAG1ARs2VxQZMV3eLoCRqeNTY+3dkkT8T7++5cRPk=",
-      "url": "_framework\/System.Linq.dll"
-    },
-    {
-      "hash": "sha256-w1WUHRkkQkomMPddUnEf1gYm37rPmazRXfOixWIh1dA=",
-      "url": "_framework\/System.Memory.dll"
-    },
-    {
-      "hash": "sha256-Z2ifI44K+tqv+Le\/MKFmSl96JZCXs+6Qxv3OwmJFEms=",
-      "url": "_framework\/System.Net.Http.Json.dll"
-    },
-    {
-      "hash": "sha256-7I3yQVwXXRb6xMM0mgZQXCsSRsScVwCSi9qlyWgnkxY=",
-      "url": "_framework\/System.Net.Http.dll"
-    },
-    {
-      "hash": "sha256-m5SzzKGOo9wg+x\/IXT2PEfi4UJ3vu2sZijL8uW27tLk=",
-      "url": "_framework\/System.Net.Primitives.dll"
-    },
-    {
-      "hash": "sha256-0scATBdVs9O9iRRAo0gUr70Qvm3TPAZf2L+qNxaRxJU=",
-      "url": "_framework\/System.ObjectModel.dll"
-    },
-    {
-      "hash": "sha256-XdVMai1hIAaa8tJIeYmGt0khRDq64wUPSu77uqY+JZY=",
-      "url": "_framework\/System.Private.Runtime.InteropServices.JavaScript.dll"
-    },
-    {
-      "hash": "sha256-RlXC3oIkppR8bgIatihGl7T9oz7hLO3SiC+8gQ1Hkzg=",
-      "url": "_framework\/System.Private.Uri.dll"
-    },
-    {
-      "hash": "sha256-C6UPFkCXYOdjXrU22NexjA1LitKLbE6SqVvqICVf+ws=",
-      "url": "_framework\/System.Private.Xml.Linq.dll"
-    },
-    {
-      "hash": "sha256-pfqARH9HEdDoaHVIH5h5H3OrmBBWPdCcpvtp2UIFud4=",
-      "url": "_framework\/System.Private.Xml.dll"
-    },
-    {
-      "hash": "sha256-pbcVn8kCI0xCx7EmkkHDFLtQ8ZzJ6uT2L5S5NEQLzoE=",
-      "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
-    },
-    {
-      "hash": "sha256-1mB2U9qwYoQ6CYGk7zD3acnEVoJpDWvScOHKYBS813w=",
-      "url": "_framework\/System.Runtime.InteropServices.RuntimeInformation.dll"
-    },
-    {
-      "hash": "sha256-X9Ub0g+dryAnA9ArJbNQXLKN2\/lqVOzDi5Ag7\/wTIYQ=",
-      "url": "_framework\/System.Runtime.Numerics.dll"
-    },
-    {
-      "hash": "sha256-XkLY0XG8awBGSQ3B3tF4hC9fseuwnU0HXm5itiLII10=",
-      "url": "_framework\/System.Runtime.Serialization.Formatters.dll"
-    },
-    {
-      "hash": "sha256-dHDcB+mINQ63aGDrfZqIkeNbaWJJRMN+8SmUiv+20UQ=",
-      "url": "_framework\/System.Runtime.Serialization.Primitives.dll"
-    },
-    {
-      "hash": "sha256-cmaPhzg\/1RiuW8WZo0ryKm06MbquIh2JnnTGQVoBl0g=",
-      "url": "_framework\/System.Security.AccessControl.dll"
-    },
-    {
-      "hash": "sha256-eTES6BQSzjDJmLizIblDKBVqqaY686ywRa34rTNjFQg=",
-      "url": "_framework\/System.Security.Claims.dll"
-    },
-    {
-      "hash": "sha256-xfQYpk\/SIfMzbS0\/UhwbReA692hObtDxJITjJi29CRo=",
-      "url": "_framework\/System.Security.Cryptography.Algorithms.dll"
-    },
-    {
-      "hash": "sha256-2A8zIFPxYLvo6v2IjOqhi1XcBXLic1MHhzCx\/ksU8XU=",
-      "url": "_framework\/System.Security.Cryptography.Csp.dll"
-    },
-    {
-      "hash": "sha256-OQfCekFIvEC\/HGFCMauu9kJbV0LmD0vJotCvoUWhO1M=",
-      "url": "_framework\/System.Security.Cryptography.Primitives.dll"
-    },
-    {
-      "hash": "sha256-eXuOQeBazT\/S8Jdi4\/hmreD6VYFcIJwyd8wvSQnzLPg=",
-      "url": "_framework\/System.Security.Cryptography.X509Certificates.dll"
-    },
-    {
-      "hash": "sha256-8rUWNI2lCOHDii6dRCelqlEHnx+zVeeE34\/S8fSXJ4U=",
-      "url": "_framework\/System.Security.Principal.Windows.dll"
-    },
-    {
-      "hash": "sha256-OoaL6UBe1UDh260t2Fi8TYgS7e0T85H9xhzK7PNDBKk=",
-      "url": "_framework\/System.Text.Encoding.CodePages.dll"
-    },
-    {
-      "hash": "sha256-5S+W3kSk+0u\/+RQQqCU8AokWCOmN4XjpDM7+dS5thPM=",
-      "url": "_framework\/System.Text.Encodings.Web.dll"
-    },
-    {
-      "hash": "sha256-PFVcFdN2BWYMu1wHqjxRoxAFbz8yjEvpr2YgMhzezbI=",
-      "url": "_framework\/System.Text.Json.dll"
-    },
-    {
-      "hash": "sha256-N8EFMCH9dIzyfnzxqj\/pAdI3\/UHybh5FWd7v6edy5mk=",
-      "url": "_framework\/System.Text.RegularExpressions.dll"
-    },
-    {
-      "hash": "sha256-1aNvmi6VzqvNoqz5yuhq6jKmXx8dxnKQum6SvtyX05c=",
-      "url": "_framework\/System.Private.CoreLib.dll"
-    },
-    {
-      "hash": "sha256-7cLjFXatXaczs+20g4ytueiIcvuH8Z4MKJ\/QN9vlFZU=",
-      "url": "_framework\/blazor.boot.json"
-    },
-    {
-      "hash": "sha256-Vep8x7q0bd8IwjgvLpIvzJUzZgnMYDGdAEU5ys8rTcA=",
-      "url": "_framework\/blazor.webassembly.js"
+      "hash": "sha256-Tr1dA3J2lBu1smra6xWgqISDsgsu8zaohSYy1LH7QUs=",
+      "url": "Services\/GameState.cs"
     }
   ],
-  "version": "fxYmsqI8"
+  "version": "vEZD9r8W"
 };

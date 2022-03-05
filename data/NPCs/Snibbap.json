@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Snibbap",
+  "description": "A wretched little goblin who can sell your items for you.",
   "id": 35,
   "dialogs": [
     {

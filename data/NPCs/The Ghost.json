@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "The Ghost",
+  "description": "The ghost is spooky, no one has ever seen him, surprisingly.",
   "id": -1,
   "dialogs": [
     {

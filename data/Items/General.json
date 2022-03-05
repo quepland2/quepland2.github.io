@@ -175,6 +175,16 @@
     "icon": "Rope"
   },
   {
+    "name": "Magic Rope",
+    "description": "A bunch of magical fibers tied together. You could use this to climb things more quickly than with normal rope, probably.",
+    "value": 500,
+    "isStackable": true,
+    "gatherSpeed": 20,
+    "gatherString": "You gather some magic rope.",
+    "secondaryColor": "#abcdef",
+    "icon": "MagicRope"
+  },
+  {
     "name": "Leatherworking Toolkit",
     "description": "A set of tools to work leather into form.",
     "value": 100,
@@ -333,6 +343,21 @@
     "secondaryColor": "#9F6F4F"
   },
   {
+    "name": "Great Tree Fruit",
+    "description": "A fruit from the Great Tree. It's a large, tasty fruit.",
+    "value": 2000,
+    "icon": "Fruit",
+    "isStackable": true,
+    "secondaryColor": "#9F6F4F",
+    "foodInfo": {
+      "healDuration": 1200,
+      "healAmount": 1,
+      "healSpeed": 25,
+      "buffedSkill": "Deftness",
+      "buffAmount": 15
+    }
+  },
+  {
     "name": "Steelflame Axe Handle",
     "description": "A handle to a powerful flaming axe. It's missing a head.",
     "value": 15000,
@@ -437,5 +462,87 @@
       "damage": -5
     },
     "enabledActions": "Shearing"
+  },
+  {
+    "name": "On the Sublimation of Various Minerals",
+    "value": 1500,
+    "description": "A book of notes about alchemy. Someone very skilled at the craft wrote this.",
+    "gatherString": "You get an alchemy book.",
+    "gatherSpeed": 15,
+    "icon": "Book",
+    "isSellable": false,
+    "secondaryColor": "#defabc"
+  },
+  {
+    "name": "Intricate Necklace",
+    "value": 1,
+    "description": "A worn necklace with a beautiful pattern etched into the back side of it.",
+    "gatherString": "You get a necklace.",
+    "gatherSpeed": 15,
+    "icon": "TearDropNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 1
+    },
+    "isSellable": false,
+    "secondaryColor": "#abcdef"
+  },
+  {
+    "name": "Artisanal Gauntlet",
+    "value": 150000,
+    "description": "By making it harder to work with your hands, you can learn more, faster!",
+    "secondaryColor": "#defabc",
+    "icon": "Gauntlet",
+    "equipSlot": "Hands",
+    "armorInfo": {
+      "armorBonus": 2
+    },
+    "experienceBonusSkill": "Artisan",
+    "experienceGainBonus": 0.15
+  },
+  {
+    "name": "Hokibo's Feather",
+    "value": 10000,
+    "description": "A mystical white feather. Perhaps it goes with something?",
+    "gatherString": "You get a magical feather.",
+    "gatherSpeed": 15,
+    "icon": "Quill",
+    "secondaryColor": "#ffffff"
+  },
+  {
+    "name": "Daranibo's Coin",
+    "value": 10000,
+    "description": "An exceptionally shiny orange coin. Perhaps it goes with something?",
+    "gatherString": "You get a shiny coin.",
+    "gatherSpeed": 15,
+    "icon": "BigCoin",
+    "secondaryColor": "#FFA500"
+  },
+  {
+    "name": "Kotenbo's Thread",
+    "value": 10000,
+    "description": "An beautiful strand of green thread. Perhaps it goes with something?",
+    "gatherString": "You get some thread.",
+    "gatherSpeed": 15,
+    "icon": "String",
+    "secondaryColor": "#00FF00"
+  },
+  {
+    "name": "Auric Tumbler Handle",
+    "value": 4500,
+    "description": "A golden handle for a golden hammer",
+    "gatherString": "You get a hammer handle.",
+    "gatherSpeed": 15,
+    "icon": "HammerHandle",
+    "secondaryColor": "#FFD700"
+  },
+  {
+    "name": "Auric Tumbler Head",
+    "value": 4500,
+    "description": "A golden head for a golden hammer",
+    "gatherString": "You get a hammer head.",
+    "gatherSpeed": 15,
+    "icon": "HammerHead",
+    "secondaryColor": "#FFD700"
   }
 ]

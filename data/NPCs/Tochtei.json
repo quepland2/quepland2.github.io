@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Tochtei",
+  "description": "She can identify any gems at a glance, for a price.",
   "id": 68,
   "dialogs": [
     {

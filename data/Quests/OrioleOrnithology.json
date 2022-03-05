@@ -1,0 +1,39 @@
+{
+  "name": "Oriole Ornithology",
+  "id": 1,
+  "completionText": "Congratulations! You completed the tutorial! You now know everything you need to know to set out on an adventure! Good luck out there!",
+  "progressToComplete": 6,
+  "rewards": [
+    {
+      "skill": "Woodcutting",
+      "experienceGain": 50
+    }
+  ],
+  "Description": "A small bird wants to help you figure things out. You haven't started this quest yet. Talk Tuto in Quepland Fields to begin.",
+  "flags": [
+    {
+      "name": "Quest Start",
+      "description": "You met Tuto the Oriole."
+    },
+    {
+      "name": "Get Yer Axe",
+      "description": "Tuto told you to visit your bank and withdraw your axe."
+    },
+    {
+      "name": "Find the Bank",
+      "description": "Tuto told you the bank is at the top left corner of the screen."
+    },
+    {
+      "name": "Click Yer Axe",
+      "description": "Tuto told you to click the axe in your bank."
+    },
+    {
+      "name": "Chop a Tree",
+      "description": "Tuto told you to return to Quepland Fields and click Chop White Pine. You'll gain woodcutting experience."
+    },
+    {
+      "name": "Tutorial:Completed",
+      "description": "You've completed the tutorial!"
+    }
+  ]
+}

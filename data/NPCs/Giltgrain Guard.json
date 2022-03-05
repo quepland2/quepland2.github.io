@@ -2,6 +2,7 @@
   "$schema": "npc-schema.json#",
   "name": "Giltgrain Guard",
   "id": 86,
+  "description": "A grumpy guard standing outside Giltgrain castle.",
   "dialogs": [
     {
       "buttonText": "Hello",

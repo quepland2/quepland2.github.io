@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Sinapius",
+  "description": "A rogue even among the alchemists, he doesn't seem like he can be trusted.",
   "id": 65,
   "dialogs": [
     {

@@ -2,6 +2,7 @@
   "$schema": "npc-schema.json#",
   "name": "Glindrear",
   "id": 34,
+  "description": "A kushtaka who will help haul fish if you hire him for 4,000,000 coins.",
   "dialogs": [
     {
       "buttonText": "Hello",

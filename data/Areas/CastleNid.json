@@ -49,10 +49,16 @@
     "name": "West Wing",
     "id": 141,
     "image": "Door",
-    "description": "This part of the castle is detached from the rest, and appears to be still in use. You turn a corner and meet a strange metallic being, apparently patrolling the halls.",
+    "description": "This part of the castle is detached from the rest, and appears to be still in use. You turn a corner and meet a strange metallic being, apparently patrolling the halls. The sound of livestock can be heard echoing out from a staircase near the far wall.",
     "areaURL": "WestWing",
     "npcs": [
       "Companion"
+    ],
+    "unlockableAreas": [
+      {
+        "areaURL": "CastleNidDungeon",
+        "buttonText": "Descend the staircase"
+      }
     ]
   },
   {
@@ -78,6 +84,20 @@
     "areaURL": "Athenaeum",
     "npcs": [
       "Stogkro"
+    ]
+  },
+  {
+    "name": "Castle Dungeon",
+    "id": 144,
+    "image": "Cave",
+    "description": "The dungeon appears to be carved out of the stone the castle was built on. Various beasts roam the winding hallways. They are unlike anything else you've seen in the region.",
+    "areaURL": "CastleNidDungeon",
+    "monsters": [
+      "Akabeko",
+      "Avedoh-gen",
+      "Tremmler",
+      "Toriingrot",
+      "Nesiad Oujnes"
     ]
   }
 ]

@@ -63,6 +63,14 @@
     "secondaryColor": "#ffffff"
   },
   {
+    "name": "Ruwohane Hair",
+    "value": 150,
+    "description": "A tough bundle of hair that feels very light weight.",
+    "icon": "Hair",
+    "gatherString": "You harvest some Ruwohane hair.",
+    "secondaryColor": "#ddeeaa"
+  },
+  {
     "name": "Wool Thread",
     "value": 90,
     "description": "The hair of a sheep spun into thread. You'll need some kind of loom to turn it into fabric.",
@@ -126,11 +134,32 @@
     ]
   },
   {
+    "name": "Ruwohane Thread",
+    "value": 550,
+    "description": "Hair from a Ruwohane spun into thread. You'll need some kind of loom to turn it into fabric.",
+    "icon": "Thread",
+    "gatherString": "You carefully pull the hair into thread.",
+    "gatherSpeed": 10,
+    "experienceGained": "Textile Arts:155",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 75
+      },
+      {
+        "skill": "Artisan",
+        "skillLevel": 75
+      }
+    ],
+    "secondaryColor": "#ddeeaa"
+  },
+  {
     "name": "Wool Fabric",
     "value": 390,
     "description": "The hair of a sheep spun into thread and woven into fabric.",
     "icon": "Fabric",
     "gatherString": "You carefully weave the thread into a fabric.",
+    "experienceGained": "Textile Arts:25",
     "secondaryColor": "#ddccae"
   },
   {
@@ -139,6 +168,7 @@
     "description": "Fibres of a silkworm cocoon spun into thread and woven into fabric.",
     "icon": "Fabric",
     "gatherString": "You carefully weave the thread into a fabric.",
+    "experienceGained": "Textile Arts:45",
     "secondaryColor": "#dddddd"
   },
   {
@@ -147,14 +177,25 @@
     "description": "A soft, fluffy plant fiber spun into thread and woven into fabric.",
     "icon": "Fabric",
     "gatherString": "You carefully weave the thread into a fabric.",
+    "experienceGained": "Textile Arts:75",
     "secondaryColor": "#ffffff"
   },
   {
     "name": "Baobhan Fabric",
     "value": 650,
-    "description": "A soft, fluffy plant fiber spun into thread and woven into fabric.",
+    "description": "Some baobhan hair spun into thread and woven into fabric.",
     "gatherString": "You carefully weave the thread into a fabric.",
+    "experienceGained": "Textile Arts:105",
     "icon": "Fabric"
+  },
+  {
+    "name": "Ruwohane Fabric",
+    "value": 1250,
+    "description": "Some Ruwohane hair spun into thread and woven into fabric.",
+    "gatherString": "You carefully weave the thread into a fabric.",
+    "experienceGained": "Textile Arts:305",
+    "icon": "Fabric",
+    "secondaryColor": "#ddeeaa"
   },
   {
     "name": "White Wool Cape",
@@ -259,6 +300,19 @@
       "damage": 10
     },
     "secondaryColor": "#333366"
+  },
+  {
+    "name": "Ruwohane Cape",
+    "value": 1780,
+    "description": "A cape made from the hair of a Ruwohane.",
+    "icon": "Cape",
+    "gatherString": "You make a Ruwohane cape.",
+    "gatherSpeed": 25,
+    "equipSlot": "Cape",
+    "armorInfo": {
+      "rangedDamage": 50
+    },
+    "secondaryColor": "#ddeeaa"
   },
   {
     "name": "Madder Root",

@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Ken",
+  "description": "The owner of the sword shop on Tackure.",
   "id": 26,
   "dialogs": [
     {
@@ -23,6 +24,7 @@
       "buttonText": "Where can I learn more about this sword?",
       "responseText": "Kumuhana knows a lot about the history of the island, you could probably ask him for help. He's just in the house across from this one.",
       "newQuestprogressValue": 3,
+      "setFlag": "A New Lead",
       "quest": "Queple's Sword",
       "requirements": [
         {

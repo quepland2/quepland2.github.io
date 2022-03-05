@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Tolani Seba",
+  "description": "A scout who can help you find enemies to fight, though she can't pick and choose.",
   "id": 36,
   "dialogs": [
     {

@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Tired Traveller",
+  "description": "A traveller resting from getting lost in a swamp.",
   "id": 42,
   "dialogs": [
     {

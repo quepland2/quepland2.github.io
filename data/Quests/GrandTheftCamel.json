@@ -1,0 +1,103 @@
+{
+  "name": "Grand Theft Camel",
+  "id": 5,
+  "completionText": "Congratulations! You can now purchase camels from Camelpalooza!",
+  "Description": "All the camels at Camelpalooza have been stolen! Help the owner Carl or teach him to help himself. You haven't started this quest yet. Talk Camel Carl at the Desert's Mouth to begin.",
+  "progressToComplete": 24,
+  "progressStrings": [
+
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "You saved the camels!",
+    "Speak to Carl to finish the quest.",
+    ""
+  ],
+  "flags": [
+    {
+      "name": "Quest Start",
+      "description": "Carl has revealed to you that his camels were stolen."
+    },
+    {
+      "name": "Help Offered",
+      "description": "You offered to help Carl with his camels."
+    },
+    {
+      "name": "Carl Convinced",
+      "description": "You have convinced Carl you are willing to help him."
+    },
+    {
+      "name": "Pirates At Port",
+      "description": "Carl has explained that some pirates have stolen his camels. He thinks they may have already sailed away from a port town."
+    },
+    {
+      "name": "Carl Route Selected",
+      "description": "You have told Carl to try and figure out his own problems."
+    },
+    {
+      "name": "Carl Goes To Uragota",
+      "description": "Carl has gone off to see if he can find the pirates on his own. He probably went to Uragota Town."
+    },
+    {
+      "name": "Carl Found Pirates",
+      "description": "Carl has found the pirates, but he's too afraid to fight them himself."
+    },
+    {
+      "name": "Carl Needs A Sword",
+      "description": "You've encouraged Carl to fight his own battles, but he doesn't have a weapon! He needs an iron sword."
+    },
+    {
+      "name": "Carl Needs Armor",
+      "description": "You've gotten Carl his sword, but now he wants armor. A wild boar shirt, specifically."
+    },
+    {
+      "name": "Carl Needs Food",
+      "description": "You got Carl an iron sword and armor, but now he's demanding food. You need to bring him 5 Abalone Rolls. Maybe you should have just gone yourself..."
+    },
+    {
+      "name": "Carl Needs More Encouragement",
+      "description": "You got Carl everything he asked for, but he's still too scared to fight."
+    },
+    {
+      "name": "Carl Encouraged Again",
+      "description": "You tried to convince Carl death isn't so bad after all."
+    },
+    {
+      "name": "Carl Attacks",
+      "description": "You convinced Carl to go get his camels back, and he has! Just talk to him in Uragota Town."
+    },
+    {
+      "name": "Offered To Help",
+      "description": "You've offered to get Carl's camels back for him. You'll want to look at a nearby port town for more info."
+    },
+    {
+      "name": "Offered To Help 2",
+      "description": "You've offered to get Carl's camels back for him. You'll want to look around Uragota for more info."
+    },
+    {
+      "name": "Kai Gives Location",
+      "description": "Kai has revealed the camels were transported out to sea already."
+    },
+    {
+      "name": "Kai Is Ready",
+      "description": "Kai is willing to take you to the thieves' hideout whenever you are ready. Just talk to him at the Uragota docks."
+    },
+    {
+      "name": "Thieves Island",
+      "description": "You've made it to the thieve's hideout. Now you just need to kill them all!"
+    },
+    {
+      "name": "All Killed",
+      "description": "You killed all the thieves! Collect the camels and return to Carl."
+    },
+    {
+      "name": "Quest Complete",
+      "description": "Carl's camels are back where they belong! And he couldn't have done it without you."
+    }
+  ]
+}

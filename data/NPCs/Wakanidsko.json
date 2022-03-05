@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Wakanidsko",
+  "description": "A magical being who owns a great library.",
   "id": 40,
   "dialogs": [
     {

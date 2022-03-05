@@ -11,6 +11,10 @@
       {
         "skill": "Smithing",
         "skillLevel": 40
+      },
+      {
+        "skill": "Artisan",
+        "skillLevel": 40
       }
     ]
   },
@@ -24,6 +28,10 @@
     "requirements": [
       {
         "skill": "Smithing",
+        "skillLevel": 40
+      },
+      {
+        "skill": "Artisan",
         "skillLevel": 40
       }
     ]
@@ -40,6 +48,10 @@
       {
         "skill": "Smithing",
         "skillLevel": 40
+      },
+      {
+        "skill": "Artisan",
+        "skillLevel": 40
       }
     ]
   },
@@ -53,6 +65,10 @@
     "requirements": [
       {
         "skill": "Smithing",
+        "skillLevel": 40
+      },
+      {
+        "skill": "Artisan",
         "skillLevel": 40
       }
     ]

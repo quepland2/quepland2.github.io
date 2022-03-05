@@ -1,0 +1,125 @@
+{
+  "name": "Case of the Dead Pirate",
+  "id": 3,
+  "completionText": "Congratulations! You discovered the murderer! Probably. You can talk to the crew on the island to see if you were right. You spent the remaining time at sea learning from the pirate crew.",
+  "progressToComplete": 100,
+  "requirements": [
+    {
+      "Quest": "Mound is Missing",
+      "MinimumQuestProgress": 29
+    }
+  ],
+  "rewards": [
+    {
+      "skill": "Swordsmanship",
+      "experienceGain": 10000
+    },
+    {
+      "skill": "Archery",
+      "experienceGain": 5000
+    },
+    {
+      "skill": "Culinary Arts",
+      "experienceGain": 3000
+    },
+    {
+      "skill": "Woodworking",
+      "experienceGain": 5000
+    }
+  ],
+  "Description": "A pirate ship in Uragota is willing to take travellers across the sea, if they have a destination in mind. What could go wrong?",
+  "flags": [
+    {
+      "name": "Quest Start",
+      "description": "Captain Nobeard has agreed to take you on his boat to the island on Mound's Map, for a price."
+    },
+    {
+      "name": "Price Paid",
+      "description": "You paid Captain Nobeard the 100 gold coins he requested. You can board the ship now."
+    },
+    {
+      "name": "Fremp and Jack Suspect",
+      "description": "Talking to Dr. Squid revealed that First Mate Fremp and Two Legs Jack didn't vote for Nobeard. Maybe it was one of them?"
+    },
+    {
+      "name": "Fremp Accuses Jack",
+      "description": "Fremp said Two Legs Jack was captain before Nobeard and was voted off the captain's seat."
+    },
+    {
+      "name": "Fremp Refuses Search",
+      "description": "Fremp refused a search of his bunk. Maybe you could distract him with some help from another crewmember..."
+    },
+    {
+      "name": "Jack Searched Fremp's Bunk",
+      "description": "By distracting Fremp with juggling questions, Jack was able to search his bunk."
+    },
+    {
+      "name": "Fremp Accused",
+      "description": "After confronting him with the murder weapon, Fremp is adamant it wasn't him. He claims Jack set him up."
+    },
+    {
+      "name": "Nobeard Is Dead!",
+      "description": "In the night someone on board killed Captain Nobeard."
+    },
+    {
+      "name": "You've Got The Case",
+      "description": "As the only sober person on the ship, Quartermaster Argon has asked you to solve the mystery."
+    },
+    {
+      "name": "Fremp Confronted",
+      "description": "After confronting him with the murder weapon, Fremp is adamant it wasn't him. He claims Jack set him up."
+    },
+    {
+      "name": "Jack's Aliby",
+      "description": "A crewmate has revealed Jack was with his band at the time of the murder."
+    },
+    {
+      "name": "Jack's Plan",
+      "description": "Jack has offered to search Fremp's bunk for you if you can distract him."
+    },
+    {
+      "name": "Investigation Begun",
+      "description": "You've set to work trying to solve the murder. You can talk to everyone aboard and see what you can come up with."
+    },
+    {
+      "name": "Fremp Accused",
+      "description": "You accused First Mate Fremp of the murder."
+    },
+    {
+      "name": "Argon Accused",
+      "description": "You accused Quartermaster Argon of the murder."
+    },
+    {
+      "name": "Two Legs Jack Accused",
+      "description": "You accused Two Legs Jack of the murder."
+    },
+    {
+      "name": "Dr. Squid Accused",
+      "description": "You accused Doctor Squid of the murder."
+    },
+    {
+      "name": "Confessed",
+      "description": "For some reason you confessed to the murder."
+    },
+    {
+      "name": "Fremp Thrown Overboard",
+      "description": "The pirates threw Fremp overboard."
+    },
+    {
+      "name": "Argon Thrown Overboard",
+      "description": "The pirates threw Quartermaster Argon overboard."
+    },
+    {
+      "name": "Two Legs Jack Thrown Overboard",
+      "description": "The pirates threw Two Legs Jack overboard."
+    },
+    {
+      "name": "Dr. Squid Thrown Overboard",
+      "description": "The pirates threw Doctor Squid overboard."
+    },
+    {
+      "name": "Thrown Overboard",
+      "description": "The pirates threw you overboard and you drowned."
+    }
+  ]
+}

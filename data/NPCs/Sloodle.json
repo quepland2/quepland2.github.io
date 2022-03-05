@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Sloodle",
+  "description": "A friendly Kushtaka who will work for you for 200,000 coins.",
   "id": 33,
   "dialogs": [
     {

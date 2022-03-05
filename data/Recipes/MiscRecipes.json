@@ -66,6 +66,28 @@
     "preventArtisanTask": true
   },
   {
+    "outputItemName": "Bone Dagger",
+    "ingredients": [
+      {
+        "itemName": "Bone Shard",
+        "amount": 1
+      },
+      {
+        "itemName": "Wood Carving Knife",
+        "destroyOnUse": false
+      }
+    ],
+    "recipeActionString": "You carve away at the shard to form a simple dagger...",
+    "requirements": [
+      {
+        "skill": "Woodworking",
+        "skillLevel": 25
+      }
+    ],
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
     "outputItemName": "Mercurial Sword",
     "ingredients": [
       {
@@ -268,6 +290,74 @@
     "recipeActionString": "You carefully fit the chrysoberyl into the ring...",
     "maxOutputsPerAction": 1,
     "experienceGained": "Lapidary:850",
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "Hokibo Gloves",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Dormant Gloves",
+        "amount": 1
+      },
+      {
+        "itemName": "Hokibo's Feather",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You touch the feather to the gloves and in a flash of light they become a pair of glowing white gloves.",
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "Daranibo Gloves",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Dormant Gloves",
+        "amount": 1
+      },
+      {
+        "itemName": "Daranibo's Coin",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You touch the coin to the gloves and in a flash of light they become a pair of glowing orange gloves.",
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "Kotenbo Gloves",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Dormant Gloves",
+        "amount": 1
+      },
+      {
+        "itemName": "Kotenbo's Thread",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You touch the thread to the gloves and in a flash of light they become a pair of glowing green gloves.",
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
+    "outputItemName": "Auric Tumbler",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Auric Tumbler Handle",
+        "amount": 1
+      },
+      {
+        "itemName": "Auric Tumbler Head",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You shove the two pieces together in various ways, until you hear a satisfying 'click'.",
+    "maxOutputsPerAction": 1,
     "preventArtisanTask": true
   }
 ]

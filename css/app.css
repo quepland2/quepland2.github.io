@@ -51,6 +51,9 @@ app {
     height: 60px;
     padding: 0px;
     min-width: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .custom-dropdown {
@@ -112,6 +115,13 @@ app {
     border-radius: 0.25rem;
 }
 
+.custom-scroll-thin::-webkit-scrollbar {
+    height: 5px;
+    background: darkgray;
+    scrollbar-face-color: lightgray;
+    border-radius: 0.25rem;
+}
+
 .custom-scroll::-webkit-scrollbar-thumb {
     background-color: lightgray;
     border-right: none;
@@ -124,6 +134,7 @@ app {
     position: absolute;
     bottom: 5px;
 }
+
 .main {
     flex: 1;
 }
@@ -139,10 +150,10 @@ app {
             margin-left: 1.5rem;
         }
 
-.main .top-row a:first-child {
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
+        .main .top-row a:first-child {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
 
 .sidebar {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
@@ -166,6 +177,7 @@ app {
     .sidebar .nav-item {
         font-size: 0.9rem;
         padding-bottom: 0.5rem;
+        max-width:100%;
     }
 
         .sidebar .nav-item:first-of-type {
@@ -214,6 +226,89 @@ app {
 .validation-message {
     color: red;
 }
+.main-inventory {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black 1px;
+    padding: 3px;
+    margin: 2px;
+    border-radius: 0.25rem;
+    max-height: calc(66vh - 160px);
+    overflow-y: auto;
+}
+.follower-inventory {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black 1px;
+    padding: 3px;
+    margin: 2px;
+    border-radius: 0.25rem;
+    overflow-y: auto;
+    min-height:65px;
+    max-height: calc(40vh - 125px);
+}
+.crafting-menu {
+    display: flex;
+    flex-wrap: wrap;
+    border: solid black 1px;
+    background-color: dimgray;
+    min-height: 50px;
+    overflow-y:scroll;
+    height:calc(50vh - 110px);
+    max-height:30vh;
+}
+.item-stat-box {
+    border-bottom: solid black 1px;
+    position: relative;
+    background-color: gray;
+    overflow-x: visible;
+    font-size: 16px;
+}
+.item-stat-info {
+    margin-right:5px;
+    line-height:28px;
+    flex-grow:1;
+    white-space:nowrap;
+}
+.item-stat-image {
+    height: 26px;
+    width: 26px;
+    margin-top: -3px;
+}
+.settings-button {
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 0.25rem;
+    right: -13px;
+    position: relative;
+    top: -9px;
+}
+
+.message-window {
+    position: fixed;
+    overflow-y: scroll;
+    max-height: 200px;
+    height: 200px;
+    bottom: 3px;
+    background-color: #4d4d4d;
+    border-radius: 0.5rem;
+    padding-left: 10px !important;
+    padding-top: 15px !important;
+    margin-left: 15px;
+    overflow-x: hidden;
+}
+
+.hide-message-window {
+    position: fixed;
+    height: 55px;
+    bottom: 3px;
+    background-color: #4d4d4d;
+    border-radius: 0.5rem;
+    padding-left: 10px !important;
+    padding-top: 15px !important;
+    margin-left: 15px;
+    overflow-x: hidden;
+}
 
 #blazor-error-ui {
     background: lightyellow;
@@ -227,55 +322,13 @@ app {
     z-index: 1000;
 }
 
-#blazor-error-ui .dismiss {
-    cursor: pointer;
-    position: absolute;
-    right: 0.75rem;
-    top: 0.5rem;
-}
-
-@media (max-width: 767.98px) {
-    .main .top-row:not(.auth) {
-        display: none;
+    #blazor-error-ui .dismiss {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
     }
 
-    .main .top-row.auth {
-        justify-content: space-between;
-    }
 
-    .main .top-row a, .main .top-row .btn-link {
-        margin-left: 0;
-    }
-}
 
-@media (min-width: 768px) {
-    app {
-        flex-direction: row;
-    }
 
-    .sidebar {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
-    }
-
-    .main .top-row {
-        position: sticky;
-        top: 0;
-    }
-
-    .main > div {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
-    }
-
-    .navbar-toggler {
-        display: none;
-    }
-
-    .sidebar .collapse {
-        /* Never collapse the sidebar for wide screens */
-        display: block;
-    }
-}

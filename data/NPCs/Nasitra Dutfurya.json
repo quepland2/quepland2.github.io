@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Nasitra Dutfurya",
+  "description": "A skilled artisan. She is willing and able to take on any artisan task, for a price.",
   "id": 66,
   "dialogs": [
     {

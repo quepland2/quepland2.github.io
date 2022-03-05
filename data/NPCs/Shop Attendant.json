@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Shop Attendant",
+  "description": "A disgruntled shop attendant. Don't make fun of him!",
   "id": 50,
   "dialogs": [
     {

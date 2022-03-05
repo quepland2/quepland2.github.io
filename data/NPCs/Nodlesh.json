@@ -2,6 +2,7 @@
   "$schema": "npc-schema.json#",
   "name": "Nodlesh",
   "id": 85,
+  "description": "The owner of a store in chelonia. She doesn't trust the people up in the stows.",
   "dialogs": [
     {
       "buttonText": "Hello",

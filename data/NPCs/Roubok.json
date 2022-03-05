@@ -1,0 +1,49 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Roubok",
+  "description": "The leader of the Nmekufian people. ",
+  "id": 101,
+  "dialogs": [
+    {
+      "buttonText": "Hello",
+      "responseText": "Meguumbappa, hello. Welcome to Nmekufu, I am Roubok, leader of our people. What brings you to our village?",
+      "newDepthOnTalk": 1
+    },
+    {
+      "buttonText": "What is this place?",
+      "responseText": "I do not understand your question, Rakuba. Do you not have villages down below?",
+      "depth": 1,
+      "newDepthOnTalk": 2
+    },
+    {
+      "buttonText": "Yes, but we do not live in trees.",
+      "responseText": "Ah, I see. But we do.",
+      "depth": 2,
+      "newDepthOnTalk": 3
+    },
+    {
+      "buttonText": "Why?",
+      "responseText": "Though you have managed to find a way up here, I think you will find that many of our people would have trouble finding our way down. It is no trouble, though. For we have everything we need.",
+      "depth": 3,
+      "newDepthOnTalk": 4
+    },
+    {
+      "buttonText": "Why do you all have masks?",
+      "responseText": "Our people have made masks for countless generations. They serve two purposes. Protection and freedom.",
+      "depth": 4,
+      "newDepthOnTalk": 5
+    },
+    {
+      "buttonText": "Protection?",
+      "responseText": "If you dare to venture any higher than the village, you may encounter a Ruwohane, and wish you had a mask as well. They are dangerous creatures that can draw out your soul from your body if you are not careful.",
+      "depth": 5,
+      "newDepthOnTalk": 5
+    },
+    {
+      "buttonText": "Freedom?",
+      "responseText": "Identities ground us, in our relationships, in our thinking. When I put on this mask, I became the village elder. When I remove it, I will be the elder no longer. This is my freedom to choose.",
+      "depth": 5,
+      "newDepthOnTalk": 5
+    }
+  ]
+}

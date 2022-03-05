@@ -1,0 +1,47 @@
+{
+  "name": "Chrysopoeian Crisis",
+  "id": 4,
+  "completionText": "Congratulations! You solved the crisis!",
+  "progressToComplete": 1000,
+  "rewards": [
+    {
+      "skill": "Alchemy",
+      "experienceGain": 3000
+    },
+    {
+      "skill": "Knifesmanship",
+      "experienceGain": 2000
+    }
+  ],
+  "Description": "The members of the alchemy guild are secretive and difficult to work with. Can you convince them to let you join their guild?",
+  "flags": [
+    {
+      "name": "Quest Start",
+      "description": "Oikaaz advised you to visit the Alchemist's Guild in Tsu City to learn alchemy from a teacher."
+    },
+    {
+      "name": "Guild Membership Requested",
+      "description": "You asked Linehart Wichperger if you could join the alchemists guild."
+    },
+    {
+      "name": "Linehart's Request",
+      "description": "Linehart Wichperger asked you to plant poison in Hadeas Tajek's room."
+    },
+    {
+      "name": "Agreed To Frame",
+      "description": "You agreed to plant poison in Hadeas Tajek's room."
+    },
+    {
+      "name": "Hadeas Confronted",
+      "description": "You confronted Hadeas Tajek about the previous headmaster."
+    },
+    {
+      "name": "Hadeas' Request",
+      "description": "Hadeas Tajek has asked you to get Linehart kicked out of the guild."
+    },
+    {
+      "name": "Agreed To Hadeas",
+      "description": "You agreed to try to get Linehart kicked out of the guild."
+    }
+  ]
+}

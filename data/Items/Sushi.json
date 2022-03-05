@@ -6,6 +6,7 @@
     "value": 10,
     "gatherSpeed": 5,
     "icon": "Seaweed",
+    "isStackable": true,
     "foodInfo": {
       "healDuration": 2,
       "healSpeed": 2,
@@ -40,6 +41,7 @@
     "value": 20,
     "gatherSpeed": 5,
     "icon": "EmptyRoll",
+    "isStackable": true,
     "foodInfo": {
       "healDuration": 10,
       "healSpeed": 5,

@@ -428,5 +428,223 @@
         }
       ]
     }
+  },
+  {
+    "name": "Akabeko",
+    "weaknesses": "Archery",
+    "strengths": "Knifesmanship",
+    "hp": 11500,
+    "attackSpeed": 12,
+    "armor": 95,
+    "damage": 200,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Alimental Seed",
+          "weight": 15
+        },
+        {
+          "itemName": "Etheral Seed",
+          "weight": 15
+        },
+        {
+          "itemName": "Akabeko Hide",
+          "weight": 10
+        },
+        {
+          "itemName": "Rough Amberite",
+          "weight": 25
+        },
+        {
+          "itemName": "Quelfur",
+          "weight": 25,
+          "amount": 10
+        },
+        {
+          "itemName": "Rice Roll",
+          "weight": 30,
+          "amount": 3
+        },
+        {
+          "itemName": "Giant Clam Roll",
+          "weight": 30,
+          "amount": 1
+        },
+        {
+          "itemName": "Magic Rope",
+          "weight": 12,
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Avedoh-gen",
+    "weaknesses": "Knifesmanship",
+    "strengths": "Swordsmanship",
+    "hp": 11900,
+    "attackSpeed": 17,
+    "armor": 115,
+    "damage": 230,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Daranibo's Coin",
+          "weight": 5
+        },
+        {
+          "itemName": "Great Tree Logs",
+          "weight": 5,
+          "amount": 2
+        },
+        {
+          "itemName": "Mammoth Jerky",
+          "weight": 10,
+          "amount": 1
+        },
+        {
+          "itemName": "Silk",
+          "weight": 15,
+          "amount": 2
+        },
+        {
+          "itemName": "Coins",
+          "weight": 30,
+          "amount": 2500
+        },
+        {
+          "itemName": "Coins",
+          "weight": 25,
+          "amount": 3500
+        },
+        {
+          "itemName": "Coins",
+          "weight": 20,
+          "amount": 5500
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tremmler",
+    "weaknesses": "Hammermanship",
+    "strengths": "Swordsmanship",
+    "hp": 13500,
+    "attackSpeed": 13,
+    "armor": 195,
+    "damage": 130,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Kotenbo's Thread",
+          "weight": 5
+        },
+        {
+          "itemName": "Rough Purpurite",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Rough Opal",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Rough Garnet",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Rough Amethyst",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Rough Emerald",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Rough Aquamarine",
+          "weight": 10,
+          "amount": 2
+        },
+        {
+          "itemName": "Gold Necklace",
+          "weight": 10,
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Toriingrot",
+    "weaknesses": "Axemanship",
+    "strengths": "Swordsmanship",
+    "hp": 14200,
+    "attackSpeed": 20,
+    "armor": 215,
+    "damage": 400,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Auric Tumbler Handle",
+          "weight": 5
+        },
+        {
+          "itemName": "Silver Ore",
+          "weight": 55
+        },
+        {
+          "itemName": "Galena",
+          "weight": 45
+        },
+        {
+          "itemName": "Gold Ore",
+          "weight": 35
+        },
+        {
+          "itemName": "Platinum Ore",
+          "weight": 25
+        },
+        {
+          "itemName": "Thought Seed",
+          "weight": 15
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nesiad Oujnes",
+    "weaknesses": "Swordsmanship",
+    "strengths": "Knifesmanship",
+    "hp": 13200,
+    "attackSpeed": 10,
+    "armor": 215,
+    "damage": 150,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Auric Tumbler Head",
+          "weight": 5
+        },
+        {
+          "itemName": "Bauxite",
+          "weight": 55
+        },
+        {
+          "itemName": "Cinnabar",
+          "weight": 45
+        },
+        {
+          "itemName": "Coal",
+          "weight": 35
+        },
+        {
+          "itemName": "Strongtium Ore",
+          "weight": 15
+        }
+      ]
+    }
   }
 ]

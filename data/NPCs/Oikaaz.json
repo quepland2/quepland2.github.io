@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Oikaaz",
+  "description": "A previous member of the alchemy guild. I wonder what he's doing here?",
   "id": 17,
   "dialogs": [
     {

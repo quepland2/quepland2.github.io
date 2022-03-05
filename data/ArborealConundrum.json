@@ -1,0 +1,63 @@
+{
+	"name": "Arboreal Conundrum",
+	"id": 7,
+	"completionText": "Congratulations! You completed Arboreal Conundrum!",
+	"progressToComplete": 100,
+	"rewards": [
+		{
+		"skill": "Woodworking",
+		"experienceGain": 1000
+		},
+		{
+		"skill": "Deftness",
+		"experienceGain": 500
+		}
+	],
+	"description":"Two boys lost their ball in a tree. Maybe you could help them?",
+	"flags":[
+		{
+			"name":"Quest Start (Udai)",
+			"description":"Udai has asked for your help in getting a ball out of a tree."
+		},
+		{
+			"name":"Quest Start (Ori)",
+			"description":"Ori has asked for your help in getting a ball out of a tree."
+		},
+		{
+			"name":"Agreed to Help",
+			"description":"You agreed to get their ball for them, no problem."
+		},		
+		{
+			"name":"Ori's Idea",
+			"description":"Ori has given you a list of items to bring back to help you get their ball back. You need 30 feathers, some swamp mud, and a white pine log."
+		},		
+		{
+			"name":"Udai's Idea",
+			"description":"Udai has an idea for getting up the tree, but you'll need a woodworking knife."
+		},
+		{
+			"name":"The Tree Is Carved",
+			"description":"You carved a bunch of footholds to climb the tree and get the ball. Now you just need to climb!"
+		},
+		{
+			"name":"Ori's Invention",
+			"description":"You brought back the items Ori requested. He gave you some sticky boots. This doesn't look like it's going to help..."
+		},		
+		{
+			"name":"Ball Acquired",
+			"description":"You got the ball! Now you can return it to the boys. Or..."
+		},
+		{
+			"name":"Ball Destroyed",
+			"description":"You destroyed the ball. You monster."
+		},
+		{
+			"name":"Sent Packing",
+			"description":"The boys cried and fled after you showed them their sad, deflated ball."
+		},		
+		{
+			"name":"A Job Well Done",
+			"description":"You returned the ball to the boys and there was much rejoicing."
+		}
+	]
+}

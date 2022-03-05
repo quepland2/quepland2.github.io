@@ -1053,6 +1053,126 @@
 
   },
   {
+    "name": "Polar Bear Gloves",
+    "value": 12600,
+    "description": "A pair of gloves made from polar bear leather.",
+    "gatherString": "You make a pair of leather gloves.",
+    "gatherSpeed": 12,
+    "equipSlot": "Hands",
+    "icon": "Glove",
+    "secondaryColor": "#f3e5c2",
+    "armorInfo": {
+      "armorBonus": 20,
+      "damage": 20,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 105
+        }
+      ]
+    }
+  },
+  {
+    "name": "Polar Bear Gloves(Clawed)",
+    "value": 14600,
+    "description": "A pair of gloves made from polar bear leather with pointy claws attached.",
+    "gatherString": "You make a pair of leather gloves.",
+    "gatherSpeed": 12,
+    "equipSlot": "Hands",
+    "icon": "ClawGlove",
+    "secondaryColor": "#f3e5c2",
+    "armorInfo": {
+      "armorBonus": 20,
+      "damage": 50,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 105
+        }
+      ]
+    }
+  },
+  {
+    "name": "Polar Bear Hat",
+    "value": 12700,
+    "description": "A sturdy hat made from polar bear leather.",
+    "gatherString": "You make a hat from the bear leather.",
+    "gatherSpeed": 13,
+    "icon": "Hat",
+    "equipSlot": "Head",
+    "secondaryColor": "#f3e5c2",
+    "armorInfo": {
+      "armorBonus": 25,
+      "damage": 25,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 105
+        }
+      ]
+    }
+  },
+  {
+    "name": "Polar Bear Boots",
+    "value": 12900,
+    "description": "A sturdy pair of leather boots made from polar bear leather.",
+    "gatherString": "You make a pair of leather boots from the bear leather.",
+    "gatherSpeed": 14,
+    "icon": "Boots",
+    "equipSlot": "Feet",
+    "secondaryColor": "#f3e5c2",
+    "armorInfo": {
+      "armorBonus": 35,
+      "damage": 18,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 105
+        }
+      ]
+    }
+  },
+  {
+    "name": "Polar Bear Pants",
+    "value": 13100,
+    "description": "A sturdy pair of leather pants made from polar bear leather.",
+    "gatherString": "You make a pair of bear leather pants.",
+    "gatherSpeed": 15,
+    "equipSlot": "Legs",
+    "icon": "Pants",
+    "secondaryColor": "#f3e5c2",
+    "armorInfo": {
+      "armorBonus": 35,
+      "damage": 25,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 105
+        }
+      ]
+    }
+  },
+  {
+    "name": "Polar Bear Shirt",
+    "value": 13300,
+    "description": "A sturdy shirt made of polar bear leather.",
+    "gatherString": "You make a leather shirt.",
+    "gatherSpeed": 16,
+    "equipSlot": "Chest",
+    "icon": "Shirt",
+    "secondaryColor": "#f3e5c2",
+    "armorInfo": {
+      "armorBonus": 45,
+      "damage": 30,
+      "wearRequirements": [
+        {
+          "skill": "Strength",
+          "skillLevel": 105
+        }
+      ]
+    }
+  },
+  {
     "name": "Iseroite Ring",
     "value": 1200,
     "description": "A strange ring. It makes you feel safe, somehow.",
@@ -1146,5 +1266,207 @@
       "damage": -35
     },
     "secondaryColor": "#3b7a0b"
+  },
+  {
+    "name": "Nmekufian Mask",
+    "value": 2500,
+    "description": "A mask made to protect your soul.",
+    "gatherString": "You make a Nmekufian mask.",
+    "gatherSpeed": 8,
+    "icon": "Mask",
+    "enabledActions": "Drain Protection",
+    "equipSlot": "Head",
+    "armorInfo": {
+      "armorBonus": 15,
+      "rangedDamage": 5
+    },
+    "secondaryColor": "#dddddd"
+  },
+  {
+    "name": "Mask of Ruwohane",
+    "value": 12500,
+    "description": "A mask that was once worn by a Ruwohane. It won't be needing it anymore.",
+    "gatherString": "You get a mask.",
+    "gatherSpeed": 8,
+    "enabledActions": "Drain Protection",
+    "icon": "CoolMask",
+    "equipSlot": "Head",
+    "armorInfo": {
+      "armorBonus": 25,
+      "rangedDamage": 35,
+      "statusEffectData": [
+        {
+          "name": "Drain",
+          "power": 100,
+          "speed": 5,
+          "duration": 15,
+          "message": "You drain your opponent's strength!",
+          "procOdds": 0.10
+        }
+      ]
+    },
+    "secondaryColor": "#ddeeaa"
+  },
+  {
+    "name": "Ruwohane Shirt",
+    "value": 11500,
+    "description": "A powerful shirt looted from a Ruwohane.",
+    "gatherString": "You make a shirt.",
+    "gatherSpeed": 17,
+    "equipSlot": "Chest",
+    "icon": "Shirt",
+    "secondaryColor": "#ddeeaa",
+    "armorInfo": {
+      "armorBonus": 55,
+      "rangedDamage": 45,
+      "wearRequirements": [
+        {
+          "skill": "Archery",
+          "skillLevel": 95
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ruwohane Trousers",
+    "value": 10100,
+    "description": "A strong pair of pants looted from a Ruwohane.",
+    "gatherString": "You make a pair of pants.",
+    "gatherSpeed": 16,
+    "icon": "Pants",
+    "equipSlot": "Legs",
+    "secondaryColor": "#ddeeaa",
+    "armorInfo": {
+      "armorBonus": 48,
+      "rangedDamage": 35,
+      "wearRequirements": [
+        {
+          "skill": "Archery",
+          "skillLevel": 95
+        }
+      ]
+    }
+
+  },
+  {
+    "name": "Ring of Sight",
+    "value": 3500,
+    "description": "A magic ring found on a Ruwohane. You feel more focused with it on.",
+    "gatherString": "You make a ring.",
+    "gatherSpeed": 17,
+    "equipSlot": "Thumb",
+    "icon": "CabochonRing",
+    "secondaryColor": "#ddeeaa",
+    "armorInfo": {
+      "armorBonus": 3,
+      "rangedDamage": 30,
+      "wearRequirements": [
+        {
+          "skill": "Archery",
+          "skillLevel": 95
+        }
+      ],
+      "statusEffectData": [
+        {
+          "name": "Quick Strike",
+          "power": 1,
+          "speed": 1,
+          "duration": 0,
+          "message": "You counter with a quick attack!",
+          "procOdds": 0.05
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dormant Gloves",
+    "value": 15000,
+    "description": "A pair of pale, gray gloves. The magician said they can be imbued with magical items.",
+    "gatherString": "You make a pair of gloves.",
+    "gatherSpeed": 12,
+    "equipSlot": "Hands",
+    "icon": "Glove",
+    "secondaryColor": "#AAAAAA",
+    "armorInfo": {
+      "armorBonus": 10,
+      "damage": 10,
+      "rangedDamage": 10
+    }
+  },
+  {
+    "name": "Hokibo Gloves",
+    "value": 25000,
+    "description": "A magical pair of white gloves. A refreshing aura surrounds you while you wear them.",
+    "gatherString": "You make a pair of gloves.",
+    "gatherSpeed": 12,
+    "equipSlot": "Hands",
+    "icon": "Glove",
+    "secondaryColor": "#FFFFFF",
+    "armorInfo": {
+      "armorBonus": 30,
+      "damage": 15,
+      "rangedDamage": 25,
+      "statusEffectData": [
+        {
+          "name": "Self Heal",
+          "power": 150,
+          "speed": 1,
+          "duration": 2,
+          "message": "Your gloves glow and you feel refreshed.",
+          "procOdds": 0.1,
+          "selfInflicted": true
+        }
+      ]
+    }
+  },
+  {
+    "name": "Daranibo Gloves",
+    "value": 25000,
+    "description": "A pair of orange gloves. They make your fingers tingle.",
+    "gatherString": "You make a pair of gloves.",
+    "gatherSpeed": 12,
+    "equipSlot": "Hands",
+    "icon": "Glove",
+    "secondaryColor": "#FFA500",
+    "armorInfo": {
+      "armorBonus": 35,
+      "damage": 10,
+      "rangedDamage": 20,
+      "statusEffectData": [
+        {
+          "name": "Cleave",
+          "power": 1,
+          "speed": 1,
+          "duration": 5,
+          "message": "Your hands burn with a magical force as you swing, completely ignoring the enemy armor!",
+          "procOdds": 0.1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kotenbo Gloves",
+    "value": 25000,
+    "description": "A pair of green gloves. They smell awful.",
+    "gatherString": "You make a pair of gloves.",
+    "gatherSpeed": 12,
+    "equipSlot": "Hands",
+    "icon": "Glove",
+    "secondaryColor": "#00FF00",
+    "armorInfo": {
+      "armorBonus": 3,
+      "damage": 35,
+      "rangedDamage": 35,
+      "statusEffectData": [
+        {
+          "name": "Poison",
+          "power": 350,
+          "speed": 5,
+          "duration": 35,
+          "message": "Your enemy is hurt by the poison!",
+          "procOdds": 0.1
+        }
+      ]
+    }
   }
 ]

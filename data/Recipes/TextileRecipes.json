@@ -195,6 +195,34 @@
     ]
   },
   {
+    "outputItemName": "Ruwohane Cape",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Ruwohane Fabric",
+        "amount": 2
+      },
+      {
+        "itemName": "Needle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "recipeActionString": "You carefully sew the fabric into a cape.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:850",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 85
+      },
+      {
+        "skill": "Artisan",
+        "skillLevel": 85
+      }
+    ]
+  },
+  {
     "outputItemName": "Wool Thread",
     "outputAmount": 1,
     "ingredients": [
@@ -291,6 +319,35 @@
       {
         "skill": "Textile Arts",
         "skillLevel": 40
+      }
+    ]
+  },
+  {
+    "outputItemName": "Ruwohane Thread",
+    "outputAmount": 1,
+    "ingredients": [
+      {
+        "itemName": "Ruwohane Hair",
+        "amount": 2
+      },
+      {
+        "itemName": "Spindle",
+        "amount": 1,
+        "destroyOnUse": false
+      }
+    ],
+    "CraftingSpeed": 15,
+    "recipeActionString": "You spin the hair into thread.",
+    "maxOutputsPerAction": 1,
+    "experienceGained": "Textile Arts:155",
+    "requirements": [
+      {
+        "skill": "Textile Arts",
+        "skillLevel": 75
+      },
+      {
+        "skill": "Artisan",
+        "skillLevel": 75
       }
     ]
   }

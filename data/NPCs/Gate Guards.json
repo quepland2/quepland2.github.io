@@ -1,6 +1,7 @@
 {
   "$schema": "npc-schema.json#",
   "name": "Gate Guards",
+  "description": "Two guards who require a passport to let people through.",
   "id": 21,
   "dialogs": [
     {

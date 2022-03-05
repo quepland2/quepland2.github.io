@@ -33,20 +33,6 @@
     ]
   },
   {
-    "outputItemName": "Molten Strongtium Bar",
-    "ingredients": [
-      {
-        "itemName": "Strongtium Bar"
-      }
-    ],
-    "requirements": [
-      {
-        "skill": "Smithing",
-        "skillLevel": 115
-      }
-    ]
-  },
-  {
     "outputItemName": "Strongtium Knife",
     "ingredients": [
       {
