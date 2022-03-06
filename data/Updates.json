@@ -1,5 +1,20 @@
 [
   {
+    "versionNumber": "1.1.1",
+    "updates": [
+      "Fixed a few typos.",
+      "Fixed the UI to support more screen sizes, especially smaller ones.",
+      "Fixed a bug where gear wasn't affecting ice fishing rates.",
+      "Better error handling for a few errors that keep being reported but I can't seem to reproduce.",
+      "Withdrawing from a tanning slot now handles stackable items properly.",
+      "Completed quests should now properly show text in the quest menu.",
+      "You can now always see your Great Tree climbing progress.",
+      "Added more hints on how to get dormant gloves.",
+      "Bottles no longer disintigrate on use.",
+      "Removed the ghost haunting the Kogoe Gym, though it is closed for now."
+    ]
+  },
+  {
     "versionNumber": "1.1.0",
     "updates": [
       "Added Ruwohane and Drain effect",

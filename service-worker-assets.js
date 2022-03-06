@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-dgWf8YXGETg+jaG4VWhW5uHrGuTbNnQnsAeO715D25A=",
+      "hash": "sha256-F7d9hXUD0pMcFHqUvG5G+oCCPzeX5rJnih3DzzMJHpU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -109,7 +109,7 @@
       "url": "_framework\/Pluralize.NET.dll"
     },
     {
-      "hash": "sha256-vHpIBK\/BrJ1h3KGRsGK8zFCGtdiixZN+HC23o906JUI=",
+      "hash": "sha256-z+EO7kIFmwWIi4lXXqkF+OvNjIFsa6UPAUhPtxBjnSU=",
       "url": "_framework\/Quepland_2_DN6.dll"
     },
     {
@@ -321,7 +321,7 @@
       "url": "_framework\/dotnet.wasm"
     },
     {
-      "hash": "sha256-OSMH3cGq39asEAjtuZ8oClA7iO66yD6ib7RTCwEWwwg=",
+      "hash": "sha256-F9qFYH2bDBzedmPh70dzAXyj\/ETVn4DsGWkpElIsY7g=",
       "url": "css\/app.css"
     },
     {
@@ -1761,7 +1761,7 @@
       "url": "data\/Items\/General.json"
     },
     {
-      "hash": "sha256-eR6Nfh1VXbPfQric3mE1fSmnI6vaQcJGXuq8KM5Gt1g=",
+      "hash": "sha256-JRX0CjuMyqyHR6dMLaeblV5AuDAbj5brwWztH+M6APg=",
       "url": "data\/Items\/Hunting.json"
     },
     {
@@ -1841,7 +1841,7 @@
       "url": "data\/Monsters\/Underworld.json"
     },
     {
-      "hash": "sha256-3YdSjXb7HJFCWPgMAJI4oMHNPSKk1IOsoDYzbvsLv7k=",
+      "hash": "sha256-PeuZQAcFu5wDmuYiXMbR8M1JfOIgwzAOlplUOQz+jTA=",
       "url": "data\/NPCs.json"
     },
     {
@@ -2029,7 +2029,7 @@
       "url": "data\/NPCs\/Mound's House.json"
     },
     {
-      "hash": "sha256-8RR9oHn8gnf3VNEtvgqTt7mI5\/D9ab3enaPWlltJPQw=",
+      "hash": "sha256-tC\/vgrNOpm1JqjaWdak+1X4QMySg5ydp7xkv6kVeeBU=",
       "url": "data\/NPCs\/Naganidsko.json"
     },
     {
@@ -2061,7 +2061,7 @@
       "url": "data\/NPCs\/Pirate Crewman.json"
     },
     {
-      "hash": "sha256-Ld6up6EAMcBMPuhwsACJx4bEZIIbXIw2AiiCMXiNydo=",
+      "hash": "sha256-uTUyu6MTY7wm\/AlDbpCv\/O2vdm8\/06QwVO7\/uvhZCGQ=",
       "url": "data\/NPCs\/Pumpy the Gnome.json"
     },
     {
@@ -2197,7 +2197,7 @@
       "url": "data\/NPCs\/Ureoh.json"
     },
     {
-      "hash": "sha256-mW45hf9foZJZEkf7Bpk\/UcEeIQMEHMsVMoN+lqqk7xo=",
+      "hash": "sha256-qJ8e6qrriLvJW7DBYOeWf5cIOrd5rBKPonoulUAr6\/k=",
       "url": "data\/NPCs\/Wakanidsko.json"
     },
     {
@@ -2345,7 +2345,7 @@
       "url": "data\/Recipes\/SushiRecipes.json"
     },
     {
-      "hash": "sha256-9pvSNz+vUoYHayuTvLkWQBswtZpVRHD43HPHyWtm3ZQ=",
+      "hash": "sha256-FgmtvlacvoFQu86MTP2\/bTSMMOs0xZMZP+c04LI0VNM=",
       "url": "data\/Recipes\/TextileRecipes.json"
     },
     {
@@ -2373,7 +2373,7 @@
       "url": "data\/Tooltips.json"
     },
     {
-      "hash": "sha256-y\/KdDgmJhS\/UCi34ynRi3JuxqxogstwDp5nOpS\/nPKg=",
+      "hash": "sha256-TZVO2b6uWj7lKW+Le8RFXpjfnsIX4Tykw+XiFtu2yUk=",
       "url": "data\/Updates.json"
     },
     {
@@ -2389,7 +2389,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-8evy5EIIXJ7oYsV+bh4sWQAAkvu3jNO\/qSBGBrJCn7U=",
+      "hash": "sha256-kwPXWgFywCmirGXeqXLgztnphQgywS\/aKEDl6F3U2QI=",
       "url": "index.html"
     },
     {
@@ -2401,5 +2401,5 @@
       "url": "Services\/GameState.cs"
     }
   ],
-  "version": "vEZD9r8W"
+  "version": "i9W0xTCO"
 };

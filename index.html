@@ -52,6 +52,15 @@
             }
             return 100;
         }
+        window.getBankHeight = function () {
+            let bw = document.getElementById('bank-window');
+            if (bw) {
+                if(bw.offsetHeight){
+                    return bw.offsetHeight;
+                }
+            }
+            return 100;
+        }
         window.getRightSidebarWidth = function () {
             el = document.getElementById('side-bar');
             if (el) {

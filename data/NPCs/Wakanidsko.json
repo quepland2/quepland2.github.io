@@ -25,6 +25,21 @@
       ]
     },
     {
+      "buttonText": "I found this leather...",
+      "responseText": "Looks like it's from an akabeko. Have you been to Hiskaten? I can't help you with it but I'm sure you can find someone else magical who can.",
+      "requirements": [
+        {
+          "item": "Akabeko Leather",
+          "itemAmount": 1
+
+        },
+        {
+          "progressFlag": "Dormant Gloves",
+          "progressFlagValue": false
+        }
+      ]
+    },
+    {
       "buttonText": "Who are you?",
       "responseText": "I'm the great wizard Wakanidsko! And who are you, coming into my home uninvited?",
       "newDepthOnTalk": 2,

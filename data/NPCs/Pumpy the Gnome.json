@@ -6,7 +6,7 @@
   "dialogs": [
     {
       "buttonText": "Hello",
-      "responseText": "Oh, HI! Are you and ADVENTURER?",
+      "responseText": "Oh, HI! Are you an ADVENTURER?",
       "newDepthOnTalk": 1,
       "requirements": [
         {
