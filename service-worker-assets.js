@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-OcH1mBO1f1IxcpL\/ovRTCCfnZDtJDsKDcsqUaVQePbg=",
+      "hash": "sha256-r2CrqqWABYqdy6diiCHCEIB2gYa1yDwJiuM6HYvlehU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -109,7 +109,7 @@
       "url": "_framework\/Pluralize.NET.dll"
     },
     {
-      "hash": "sha256-bRrmJtAAdmEXGevTWQOZZ2OAMaNUrpnyRIMWk2hrEAI=",
+      "hash": "sha256-e0T+\/16\/kWwHblhG47cdIFshUzncxBeywa12l7voFxA=",
       "url": "_framework\/Quepland_2_DN6.dll"
     },
     {
@@ -2373,7 +2373,7 @@
       "url": "data\/Tooltips.json"
     },
     {
-      "hash": "sha256-TZVO2b6uWj7lKW+Le8RFXpjfnsIX4Tykw+XiFtu2yUk=",
+      "hash": "sha256-aBxVfDp7H6f2YFhwFJwIS26zDJOgXQcyI8Y7sDGJpG4=",
       "url": "data\/Updates.json"
     },
     {
@@ -2381,11 +2381,11 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-aFkZqJSC4dDTnFZoufrX1fjXJxPc5rw4Ciw+FQb9MkY=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-PkgqjoEQV4jA7VSTakZ73q\/9vKkLE\/1\/EwU\/Yoj2K\/w=",
       "url": "icon-512.png"
     },
     {
@@ -2401,5 +2401,5 @@
       "url": "Services\/GameState.cs"
     }
   ],
-  "version": "Da6fybjZ"
+  "version": "+bswagKe"
 };
