@@ -88,6 +88,28 @@
     "preventArtisanTask": true
   },
   {
+    "outputItemName": "Storm Blade",
+    "ingredients": [
+      {
+        "itemName": "Bone Dagger",
+        "amount": 1
+      },
+      {
+        "itemName": "Bone Fragment",
+        "amount": 1
+      }
+    ],
+    "recipeActionString": "You combine the fragment with the blade...",
+    "requirements": [
+      {
+        "skill": "Artisan",
+        "skillLevel": 75
+      }
+    ],
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
+  },
+  {
     "outputItemName": "Mercurial Sword",
     "ingredients": [
       {
@@ -147,6 +169,28 @@
     ],
     "preventArtisanTask": true,
     "recipeActionString": "You attempt to attach the pieces of the axe together...",
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 75
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Giant Fishing Rod",
+    "ingredients": [
+      {
+        "itemName": "Ebisian Fishing Rod",
+        "amount": 1
+      },
+      {
+        "itemName": "Platinum Sword",
+        "amount": 1
+      }
+    ],
+    "preventArtisanTask": true,
+    "recipeActionString": "You somehow manage to combine the rod and sword into a giant fishing rod.",
     "requirements": [
       {
         "skill": "Smithing",

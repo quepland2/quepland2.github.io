@@ -1693,5 +1693,54 @@
         }
       ]
     }
+  },
+  {
+    "name": "Metacarpal Staff",
+    "description": "A powerful magic staff made from the remains of a stormwalker.",
+    "value": 52500,
+    "enabledActions": "Magic",
+    "secondaryColor": "#0033FF",
+    "equipSlot": "R Hand",
+    "icon": "BoneStaff",
+    "weaponInfo": {
+      "attackSpeed": 12,
+      "damage": 345,
+      "magicDamage": 300,
+      "MPCost": 3,
+      "wearRequirements": [
+        {
+          "skill": "Magic",
+          "skillLevel": 25
+        }
+      ]
+    }
+  },
+  {
+    "name": "Storm Blade",
+    "description": "A lightweight blade crafted from the remains of a gashadokuro combined with the remains of a stormwalker.",
+    "value": 45000,
+    "enabledActions": "Swordsmanship",
+    "equipSlot": "R Hand",
+    "icon": "BoneSword",
+    "weaponInfo": {
+      "attackSpeed": 10,
+      "damage": 770,
+      "wearRequirements": [
+        {
+          "skill": "Swordsmanship",
+          "skillLevel": 105
+        }
+      ],
+      "statusEffectData": [
+        {
+          "name": "Entangle",
+          "power": 15,
+          "speed": 1,
+          "duration": 12,
+          "message": "",
+          "procOdds": 0.1
+        }
+      ]
+    }
   }
 ]

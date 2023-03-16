@@ -6,7 +6,8 @@
     "armor": 30,
     "damage": 95,
     "weaknesses": "Knifesmanship",
-    "strengths": "Hammermanship"
+    "strengths": "Hammermanship",
+    "IsDojoMember": true
   },
   {
     "name": "Scoph",
@@ -15,7 +16,8 @@
     "armor": 35,
     "damage": 120,
     "weaknesses": "Knifesmanship",
-    "strengths": "Hammermanship"
+    "strengths": "Hammermanship",
+    "IsDojoMember": true
   },
   {
     "name": "Fuzzy",
@@ -24,7 +26,8 @@
     "armor": 40,
     "damage": 140,
     "weaknesses": "Knifesmanship",
-    "strengths": "Hammermanship"
+    "strengths": "Hammermanship",
+    "IsDojoMember": true
   },
   {
     "name": "Munny",
@@ -33,7 +36,8 @@
     "armor": 45,
     "damage": 160,
     "weaknesses": "Knifesmanship",
-    "strengths": "Hammermanship"
+    "strengths": "Hammermanship",
+    "IsDojoMember": true
   },
   {
     "name": "Ezai",
@@ -42,7 +46,8 @@
     "armor": 65,
     "damage": 220,
     "weaknesses": "Knifesmanship",
-    "strengths": "Hammermanship"
+    "strengths": "Hammermanship",
+    "IsDojoMember": true
   },
   {
     "name": "Wizz",
@@ -51,7 +56,8 @@
     "armor": 125,
     "damage": 270,
     "weaknesses": "Knifesmanship",
-    "strengths": "Hammermanship"
+    "strengths": "Hammermanship",
+    "IsDojoMember": true
   },
   {
     "name": "Smwojo",
@@ -61,6 +67,7 @@
     "damage": 320,
     "weaknesses": "Knifesmanship",
     "strengths": "Hammermanship",
+    "IsDojoMember": true,
     "dropTable": {
       "alwaysDrops": [
         {
@@ -77,7 +84,8 @@
     "armor": 2,
     "damage": 3,
     "weaknesses": "Swordsmanship",
-    "strengths": "Knifesmanship"
+    "strengths": "Knifesmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Deba",
@@ -86,7 +94,8 @@
     "armor": 3,
     "damage": 4,
     "weaknesses": "Swordsmanship",
-    "strengths": "Knifesmanship"
+    "strengths": "Knifesmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Mes",
@@ -95,7 +104,8 @@
     "armor": 4,
     "damage": 5,
     "weaknesses": "Swordsmanship",
-    "strengths": "Knifesmanship"
+    "strengths": "Knifesmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Dos",
@@ -104,7 +114,8 @@
     "armor": 5,
     "damage": 6,
     "weaknesses": "Swordsmanship",
-    "strengths": "Knifesmanship"
+    "strengths": "Knifesmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Kozuka",
@@ -113,7 +124,8 @@
     "armor": 6,
     "damage": 7,
     "weaknesses": "Swordsmanship",
-    "strengths": "Knifesmanship"
+    "strengths": "Knifesmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Kaiken",
@@ -123,6 +135,7 @@
     "damage": 8,
     "weaknesses": "Swordsmanship",
     "strengths": "Knifesmanship",
+    "IsDojoMember": true,
     "dropTable": {
       "alwaysDrops": [
         {
@@ -139,7 +152,8 @@
     "armor": 20,
     "damage": 30,
     "weaknesses": "Axemanship",
-    "strengths": "Swordsmanship"
+    "strengths": "Swordsmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Sodo",
@@ -148,7 +162,8 @@
     "armor": 30,
     "damage": 40,
     "weaknesses": "Axemanship",
-    "strengths": "Swordsmanship"
+    "strengths": "Swordsmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Sam",
@@ -157,7 +172,8 @@
     "armor": 33,
     "damage": 50,
     "weaknesses": "Axemanship",
-    "strengths": "Swordsmanship"
+    "strengths": "Swordsmanship",
+    "IsDojoMember": true
   },
   {
     "name": "One Blade Billy",
@@ -166,7 +182,8 @@
     "armor": 35,
     "damage": 60,
     "weaknesses": "Axemanship",
-    "strengths": "Swordsmanship"
+    "strengths": "Swordsmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Kurisutay",
@@ -175,7 +192,8 @@
     "armor": 38,
     "damage": 70,
     "weaknesses": "Axemanship",
-    "strengths": "Swordsmanship"
+    "strengths": "Swordsmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Danbura",
@@ -184,7 +202,8 @@
     "armor": 42,
     "damage": 150,
     "weaknesses": "Axemanship",
-    "strengths": "Swordsmanship"
+    "strengths": "Swordsmanship",
+    "IsDojoMember": true
   },
   {
     "name": "Token",
@@ -194,6 +213,7 @@
     "damage": 100,
     "weaknesses": "Axemanship",
     "strengths": "Swordsmanship",
+    "IsDojoMember": true,
     "dropTable": {
       "alwaysDrops": [
         {
@@ -210,7 +230,8 @@
     "armor": 40,
     "damage": 90,
     "weaknesses": "Hammermanship",
-    "strengths": "Axemanship"
+    "strengths": "Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Roo",
@@ -219,7 +240,8 @@
     "armor": 50,
     "damage": 110,
     "weaknesses": "Hammermanship",
-    "strengths": "Axemanship"
+    "strengths": "Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Akku",
@@ -228,7 +250,8 @@
     "armor": 60,
     "damage": 150,
     "weaknesses": "Hammermanship",
-    "strengths": "Axemanship"
+    "strengths": "Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Mack",
@@ -237,7 +260,8 @@
     "armor": 70,
     "damage": 160,
     "weaknesses": "Hammermanship",
-    "strengths": "Axemanship"
+    "strengths": "Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Wari",
@@ -246,7 +270,8 @@
     "armor": 90,
     "damage": 270,
     "weaknesses": "Hammermanship",
-    "strengths": "Axemanship"
+    "strengths": "Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Swings",
@@ -255,6 +280,7 @@
     "armor": 100,
     "weaknesses": "Hammermanship",
     "strengths": "Axemanship",
+    "IsDojoMember": true,
     "damage": 250
   },
   {
@@ -264,7 +290,8 @@
     "armor": 147,
     "damage": 300,
     "weaknesses": "Hammermanship",
-    "strengths": "Axemanship"
+    "strengths": "Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Futo",
@@ -274,6 +301,7 @@
     "damage": 300,
     "weaknesses": "Hammermanship",
     "strengths": "Axemanship",
+    "IsDojoMember": true,
     "dropTable": {
       "alwaysDrops": [
         {
@@ -290,7 +318,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Dreian",
@@ -299,7 +328,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Razzmatazz",
@@ -308,7 +338,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Rocker",
@@ -317,7 +348,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Salami",
@@ -326,7 +358,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Bean",
@@ -335,7 +368,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Wonny",
@@ -344,7 +378,8 @@
     "armor": 110,
     "damage": 400,
     "weaknesses": "Swordsmanship",
-    "strengths": "Hammermanship Axemanship"
+    "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true
   },
   {
     "name": "Lasah",
@@ -354,6 +389,7 @@
     "damage": 400,
     "weaknesses": "Swordsmanship",
     "strengths": "Hammermanship Axemanship",
+    "IsDojoMember": true,
     "dropTable": {
       "alwaysDrops": [
         {
@@ -371,6 +407,7 @@
     "damage": 115,
     "weaknesses": "Axemanship",
     "strengths": "Hammermanship",
+    "IsDojoMember": true,
     "statusEffectData": [
       {
         "name": "Cleave",
@@ -390,6 +427,7 @@
     "damage": 120,
     "weaknesses": "Knifesmanship",
     "strengths": "Hammermanship",
+    "IsDojoMember": true,
     "statusEffectData": [
       {
         "name": "Cleave",
@@ -409,6 +447,7 @@
     "damage": 180,
     "weaknesses": "Axemanship",
     "strengths": "Hammermanship",
+    "IsDojoMember": true,
     "statusEffectData": [
       {
         "name": "Cleave",
@@ -428,6 +467,7 @@
     "damage": 200,
     "weaknesses": "Hammermanship",
     "strengths": "Knifesmanship",
+    "IsDojoMember": true,
     "statusEffectData": [
       {
         "name": "Empty",
@@ -447,6 +487,7 @@
     "damage": 250,
     "weaknesses": "Knifesmanship",
     "strengths": "Hammermanship",
+    "IsDojoMember": true,
     "statusEffectData": [
       {
         "name": "Cleave",

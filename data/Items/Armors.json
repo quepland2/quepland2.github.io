@@ -1468,5 +1468,46 @@
         }
       ]
     }
+  },
+  {
+    "name": "Honean Mantle",
+    "value": 15500,
+    "description": "Once worn by an ancient stormling.",
+    "gatherString": "You make a mantle.",
+    "gatherSpeed": 17,
+    "equipSlot": "Chest",
+    "icon": "Mantle",
+    "secondaryColor": "#ddeeaa",
+    "armorInfo": {
+      "armorBonus": 65,
+      "magicDamage": 15,
+      "wearRequirements": [
+        {
+          "skill": "Magic",
+          "skillLevel": 25
+        }
+      ]
+    }
+  },
+  {
+    "name": "Honean Pants",
+    "value": 13300,
+    "description": "Once worn by an ancient stormling.",
+    "gatherString": "You make a pair of pants.",
+    "gatherSpeed": 16,
+    "icon": "ArmorPants",
+    "equipSlot": "Legs",
+    "secondaryColor": "#ddeeaa",
+    "armorInfo": {
+      "armorBonus": 55,
+      "magicDamage": 15,
+      "wearRequirements": [
+        {
+          "skill": "Magic",
+          "skillLevel": 25
+        }
+      ]
+    }
+
   }
 ]

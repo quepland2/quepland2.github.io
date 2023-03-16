@@ -14,8 +14,26 @@
   "dialogs": [
     {
       "buttonText": "Hello",
-      "responseText": "Why, hello! Been a while since I've seen anyony alive around here. Care to buy some fine fabrics?",
+      "responseText": "Why, hello! Been a while since I've seen anyone alive around here. Care to buy some fine fabrics?",
       "newDepthOnTalk": 1
+    },
+    {
+      "buttonText": "Did any alchemist suppliers pass by here?",
+      "responseText": "I don't know anything about alchemy, but there are a few abandoned carts on the bridge here. Maybe one of them is what you are looking for?\nYou find a cart full of smashed vials and torn bags, clearly once this cart held a large amount of alchemical goods, but it has long since been plundered empty. You should probably report back to Sinapius now.",
+      "newDepthOnTalk": 3,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Found Supplier",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Check On Supplier"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier",
+          "questFlagValue": false
+        }
+      ]
     },
     {
       "buttonText": "Where is everyone?",

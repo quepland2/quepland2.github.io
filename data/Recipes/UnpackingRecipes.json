@@ -19,6 +19,7 @@
       }
     ],
     "outputAmount": 15,
+    "maxOutputsPerAction": 15,
     "recipeActionString": "You begin emptying the bag...",
     "recipeButtonString": "Empty"
   },
@@ -325,5 +326,23 @@
     ],
     "recipeActionString": "You break open the pack...",
     "recipeButtonString": "Break Open"
+  },
+  {
+    "outputItemName": "Lion's Mane Stingers",
+    "ingredients": [
+      {
+        "itemName": "Lion's Mane Jellyfish"
+      }
+    ],
+    "experienceGained": "Culinary Arts:250",
+    "requirements": [
+      {
+        "skill": "Culinary Arts",
+        "skillLevel": 99
+      }
+    ],
+    "maxOutputsPerAction": 1,
+    "outputAmount": 5,
+    "preventArtisanTask": true
   }
 ]

@@ -1,0 +1,196 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Sailor",
+  "id": 201,
+  "description": "A man sitting on his boat. He keeps muttering something about lions...",
+  "dialogs": [
+    {
+      "buttonText": "Hello",
+      "responseText": "Hello stranger.",
+      "newDepthOnTalk": 1,
+      "requirements": [
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "Can I ride that boat?",
+      "responseText": "I don't know, can you? You seem sturdy enough, but can you catch a fish so large it could swallow you whole?",
+      "depth": 1,
+      "newDepthOnTalk": 2,
+      "requirements": [
+        {
+          "progressFlag": "Sailor's Approval",
+          "progressFlagValue": false
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "Let's Ride",
+      "responseText": "UnlockAndGotoArea",
+      "parameter": "Karakni Depths",
+      "depth": 0,
+      "requirements": [
+        {
+          "progressFlag": "Sailor's Approval",
+          "progressFlagValue": true
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "I am an expert fisherman",
+      "responseText": "Is that so? I'd like to see you prove yourself. Bring me a halibut caught with your own hands and maybe we can take a ride out to sea.",
+      "depth": 2,
+      "newDepthOnTalk": 3,
+      "setProgressFlag": "Halibut Request",
+      "requirements": [
+        {
+          "skill": "Fishing",
+          "skillLevel": 95
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "Here is a halibut",
+      "responseText": "Excellent. Throw it in the trunk here and let me know when you want to head out to sea.",
+      "depth": 0,
+      "newDepthOnTalk": 0,
+      "setProgressFlag": "Sailor's Approval",
+      "setProgressFlagValue": true,
+      "consumeRequiredItems": true,
+      "requirements": [
+        {
+          "skill": "Fishing",
+          "skillLevel": 95
+        },
+        {
+          "item": "Halibut",
+          "itemAmount": 1
+        },
+        {
+          "progressFlag": "Halibut Request",
+          "progressFlagValue": true
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "Here is a halibut",
+      "responseText": "I... What? Why did you bring me a halibut?",
+      "depth": 0,
+      "newDepthOnTalk": 5,
+      "consumeRequiredItems": true,
+      "setProgressFlag": "Sailor's Approval",
+      "setProgressFlagValue": true,
+      "requirements": [
+        {
+          "skill": "Fishing",
+          "skillLevel": 95
+        },
+        {
+          "item": "Halibut",
+          "itemAmount": 1
+        },
+        {
+          "progressFlag": "Halibut Request",
+          "progressFlagValue": false
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "To prove my fishing skill",
+      "responseText": "That does prove your are quite the skilled fisher... But why a halibut?",
+      "depth": 5,
+      "newDepthOnTalk": 6,
+      "requirements": [
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "Can I ride your boat now?",
+      "responseText": "I suppose so. Throw that halibut in this trunk here and let me know when you want to go.",
+      "setProgressFlag": "Sailor's Approval",
+      "depth": 6,
+      "newDepthOnTalk": 0,
+      "requirements": [
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "Do you not want it?",
+      "responseText": "I have no need for a halibut, though it is very impressive that you caught one on your own.",
+      "depth": 5,
+      "newDepthOnTalk": 6,
+      "requirements": [
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "I am an okay fisherman",
+      "responseText": "You expect to just hop on a boat out to the most dangerous waters in Karakni and just catch fish? Don't waste my time.",
+      "depth": 2,
+      "newDepthOnTalk": 0,
+      "requirements": [
+        {
+          "skill": "Fishing",
+          "skillLevel": 55,
+          "skillLimit": 95
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "I am a terible fisherman",
+      "responseText": "Then no.",
+      "depth": 2,
+      "newDepthOnTalk": 0,
+      "requirements": [
+        {
+          "skill": "Fishing",
+          "skillLimit": 55
+        },
+        {
+          "location": "AncientDocks"
+        }
+      ]
+    },
+    {
+      "buttonText": "How do I catch these big fish?",
+      "responseText": "You... Asked to come out here and don't know that? You just need a bigger fishing rod than anything you have on you...",
+      "depth": 0,
+      "newDepthOnTalk": 1,
+      "requirements": [
+        {
+          "location": "KarakniDepths"
+        },
+        {
+          "item": "Giant Fishing Rod",
+          "itemLimit": 0
+        }
+      ]
+    }
+  ]
+}

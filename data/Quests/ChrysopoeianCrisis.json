@@ -28,8 +28,52 @@
       "description": "Linehart Wichperger asked you to plant poison in Hadeas Tajek's room."
     },
     {
+      "name": "Pondering",
+      "description": "You asked to think about Linehart Wichperger's request."
+    },
+    {
+      "name": "Linehart Rejected",
+      "description": "You refused Linehart Wichperger's request."
+    },
+    {
       "name": "Agreed To Frame",
       "description": "You agreed to plant poison in Hadeas Tajek's room."
+    },
+    {
+      "name": "Poison Lost",
+      "description": "You told Linehart you lost the poison."
+    },
+    {
+      "name": "Sent to Eastern Tsu",
+      "description": "Linehart said you could get poison from an alchemist in Eastern Tsu City."
+    },
+    {
+      "name": "Poison Recipe Offer",
+      "description": "Sinapius asked you what you can give in exchange for the poison recipe."
+    },
+    {
+      "name": "Check On Supplier",
+      "description": "Sinapius asked you to check on his alchemical goods supplier in Sunajo fortress."
+    },
+    {
+      "name": "Money Offered",
+      "description": "You offered Sinapius money to get the poison recipe from him."
+    },
+    {
+      "name": "Alchemical Knowledge Offered",
+      "description": "You offered Sinapius alchemical knowledge to get the poison recipe from him."
+    },
+    {
+      "name": "Supplier In Pansoph",
+      "description": "You heard the supplier left Sunajo heading for somewhere in Pansoph."
+    },
+    {
+      "name": "Found Supplier",
+      "description": "You found the supplier's cart had been abandoned near the lunacrest bridge."
+    },
+    {
+      "name": "Poison Recipe Learned",
+      "description": "You offered Sinapius alchemical knowledge to get the poison recipe from him."
     },
     {
       "name": "Hadeas Confronted",

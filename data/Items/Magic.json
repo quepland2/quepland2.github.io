@@ -12,7 +12,7 @@
     "name": "Thought Seed",
     "description": "The essence of thought, extracted from something... or someone. Now it's all that remains.",
     "gatherString": "You get a thought seed.",
-    "value": 35,
+    "value": 70,
     "secondaryColor": "#8d69d1",
     "icon": "Seeds",
     "isStackable": true
@@ -21,8 +21,17 @@
     "name": "Etheral Seed",
     "description": "The essence of the ether, extracted from something. Now it's all that remains.",
     "gatherString": "You get an etheral seed.",
-    "value": 35,
+    "value": 50,
     "secondaryColor": "#cadbd6",
+    "icon": "Seeds",
+    "isStackable": true
+  },
+  {
+    "name": "Corporeal Seed",
+    "description": "The essence of the physical world, extracted from something. Now it's all that remains.",
+    "gatherString": "You get a corporeal seed.",
+    "value": 65,
+    "secondaryColor": "#a6abaa",
     "icon": "Seeds",
     "isStackable": true
   },
@@ -30,7 +39,7 @@
     "name": "Warmth Seed",
     "description": "The essence of warmth, extracted from something. Now it's all that remains.",
     "gatherString": "You get a warmth seed.",
-    "value": 35,
+    "value": 90,
     "secondaryColor": "#c7453a",
     "icon": "Seeds",
     "isStackable": true
@@ -39,7 +48,7 @@
     "name": "Fierce Seed",
     "description": "The essence of spirit, extracted from something. Now it's all that remains.",
     "gatherString": "You get a fierce seed.",
-    "value": 35,
+    "value": 125,
     "secondaryColor": "#fcff52",
     "icon": "Seeds",
     "isStackable": true
@@ -48,8 +57,53 @@
     "name": "Alimental Seed",
     "description": "The essence of sustenance, extracted from something. Now it's all that remains.",
     "gatherString": "You get an alimental seed.",
-    "value": 35,
+    "value": 80,
     "secondaryColor": "#4fc44d",
+    "icon": "Seeds",
+    "isStackable": true
+  },
+  {
+    "name": "Perpetual Seed",
+    "description": "The essence of perpetuance, extracted from something. Now it's all that remains.",
+    "gatherString": "You get a perpetual seed.",
+    "value": 90,
+    "secondaryColor": "#3083ff",
+    "icon": "Seeds",
+    "isStackable": true
+  },
+  {
+    "name": "Momentary Seed",
+    "description": "The essence of the moment, extracted from something. Now it's all that remains.",
+    "gatherString": "You get a momentary seed.",
+    "value": 90,
+    "secondaryColor": "#ff8330",
+    "icon": "Seeds",
+    "isStackable": true
+  },
+  {
+    "name": "Alluvial Seed",
+    "description": "The essence of alluvium, extracted from something. Now it's all that remains.",
+    "gatherString": "You get an alluvial seed.",
+    "value": 75,
+    "secondaryColor": "#38ff50",
+    "icon": "Seeds",
+    "isStackable": true
+  },
+  {
+    "name": "Rejuvinal Seed",
+    "description": "The essence of rejuvenation, extracted from something. Now it's all that remains.",
+    "gatherString": "You get a rejuvinal seed.",
+    "value": 55,
+    "secondaryColor": "#fafafa",
+    "icon": "Seeds",
+    "isStackable": true
+  },
+  {
+    "name": "Ruinous Seed",
+    "description": "The essence of destruction, extracted from something. Now it's all that remains.",
+    "gatherString": "You get a ruinous seed.",
+    "value": 205,
+    "secondaryColor": "#252525",
     "icon": "Seeds",
     "isStackable": true
   },
@@ -69,5 +123,13 @@
     "secondaryColor": "#BBFFBB",
     "icon": "Sticks",
     "isStackable": true
+  },
+  {
+    "name": "Spell Scroll",
+    "description": "It has a magic spell written on it.",
+    "gatherString": "You get a magic spell.",
+    "value": 3500,
+    "secondaryColor": "#FFFFFF",
+    "icon": "Scroll"
   }
 ]

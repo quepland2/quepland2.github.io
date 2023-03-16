@@ -65,6 +65,19 @@
     "isSellable": false
   },
   {
+    "name": "Poison",
+    "description": "A deadly liquid, you definitely should not drink it...",
+    "value": 0,
+    "icon": "Poison",
+    "isSellable": false,
+    "secondaryColor": "#22dd33",
+    "foodInfo": {
+      "healDuration": 250,
+      "healSpeed": 1,
+      "healAmount": -7
+    }
+  },
+  {
     "name": "Potaki's Tear",
     "value": 1500,
     "description": "A shiny necklace roped around a glistening tear-shaped stone. It feels warm to the touch.",
@@ -73,7 +86,8 @@
     "icon": "TearDropNecklace",
     "equipSlot": "Neck",
     "armorInfo": {
-      "armorBonus": 15
+      "armorBonus": 15,
+      "magicDamage": 5
     },
     "isSellable": false,
     "secondaryColor": "#2DF5E9"

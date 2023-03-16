@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Necklace of Purity",
+    "value": 400,
+    "description": "A cheaper necklace. You could add a cheaper gemstone to it.",
+    "gatherString": "You make a silver necklace.",
+    "gatherSpeed": 15,
+    "icon": "EmptyNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 5,
+      "damage": 5,
+      "rangedDamage": 5,
+      "magicDamage": 5
+    },
+    "secondaryColor": "#999999"
+  },
+  {
+    "name": "Necklace of Courage",
+    "value": 1500,
+    "description": "A valuable necklace. You could add a valuable gemstone to it.",
+    "gatherString": "You make a gold necklace.",
+    "gatherSpeed": 15,
+    "icon": "EmptyNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 10,
+      "damage": 10,
+      "rangedDamage": 10,
+      "magicDamage": 10
+    },
+    "secondaryColor": "#FFD700"
+  },
+  {
+    "name": "Necklace of Valor",
+    "value": 2300,
+    "description": "An extremely valuable necklace. You could add a beautiful gemstone to it.",
+    "gatherString": "You make a platinum necklace.",
+    "gatherSpeed": 15,
+    "icon": "EmptyNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 25,
+      "damage": 25,
+      "rangedDamage": 25,
+      "magicDamage": 25
+    },
+    "secondaryColor": "#E5E4E2"
+  },
+  {
+    "name": "Incubation Necklace",
+    "value": 520,
+    "description": "An amberite necklace. It's pretty.",
+    "gatherString": "You make an amberite necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 5,
+      "statusEffectData": [
+        {
+          "name": "Hatch",
+          "power": 1,
+          "speed": 1,
+          "duration": 2,
+          "message": "Your necklace glows and a chicken emerges from its center!",
+          "procOdds": 0.08,
+          "customData": "Summoned Chicken",
+          "selfInflicted": true
+        }
+      ]
+    },
+    "secondaryColor": "#d87e04"
+  },
+  {
+    "name": "Miasmic Necklace",
+    "value": 620,
+    "description": "A lizardite necklace. It's pretty.",
+    "gatherString": "You make a lizardite necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 5,
+      "statusEffectData": [
+        {
+          "name": "Poison",
+          "power": 15,
+          "speed": 3,
+          "duration": 50,
+          "message": "Your necklace flashes green, poisoning your opponent!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#78a872"
+  },
+  {
+    "name": "Reverberation Necklace",
+    "value": 670,
+    "description": "A purpurite necklace. It's pretty.",
+    "gatherString": "You make a purpurite necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 5,
+      "statusEffectData": [
+        {
+          "name": "Reflect",
+          "power": 35,
+          "speed": 1,
+          "duration": 1,
+          "message": "Your necklace flashes purple, reflecting damage to your opponent!",
+          "procOdds": 0.15,
+          "onProc": true
+        }
+      ]
+    },
+    "secondaryColor": "#3f073c"
+  },
+  {
+    "name": "Oscillation Necklace",
+    "value": 720,
+    "description": "An opal necklace. It's pretty.",
+    "gatherString": "You make an opal necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 8,
+      "statusEffectData": [
+        {
+          "name": "Undulate",
+          "power": 15,
+          "speed": 3,
+          "duration": 15,
+          "message": "Your necklace flashes vibrantly, your weapon seems to be moving on its own!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#b3a56c"
+  },
+  {
+    "name": "Piercing Necklace",
+    "value": 770,
+    "description": "A garnet necklace. It's pretty.",
+    "gatherString": "You make a garnet necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 68,
+      "statusEffectData": [
+        {
+          "name": "Cleave",
+          "power": 15,
+          "speed": 3,
+          "duration": 10,
+          "message": "Your necklace flashes violently, your weapon seems aggressive somehow!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#a50d2b"
+  },
+  {
+    "name": "Sleeping Necklace",
+    "value": 1920,
+    "description": "An amethyst necklace. It's pretty.",
+    "gatherString": "You make an amethyst necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 8,
+      "statusEffectData": [
+        {
+          "name": "Hypnotize",
+          "power": 15,
+          "speed": 3,
+          "duration": 15,
+          "message": "Your necklace flashes calmly, your opponent seems hypnotized!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#ab2996"
+  },
+  {
+    "name": "Perception Necklace",
+    "value": 2050,
+    "description": "An emerald necklace. It's pretty.",
+    "gatherString": "You make an emerald necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 10,
+      "rangedDamage": 25
+    },
+    "secondaryColor": "#45be7e"
+  },
+  {
+    "name": "Restoration Necklace",
+    "value": 2250,
+    "description": "An aquamarine necklace. It's pretty.",
+    "gatherString": "You make an aquamarine necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 9,
+      "statusEffectData": [
+        {
+          "name": "Self Heal",
+          "power": 45,
+          "speed": 3,
+          "duration": 15,
+          "message": "Your necklace flashes beautifully, you feel refreshed!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#45c3e2"
+  },
+  {
+    "name": "Protection Necklace",
+    "value": 2350,
+    "description": "A topaz necklace. It's pretty.",
+    "gatherString": "You make a topaz necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 35
+    },
+    "secondaryColor": "#c57621"
+  },
+  {
+    "name": "Anticipatory Necklace",
+    "value": 3200,
+    "description": "A chrysoberyl necklace. It's pretty.",
+    "gatherString": "You make a chrysoberyl necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 11,
+      "statusEffectData": [
+        {
+          "name": "Quick Strike",
+          "power": 15,
+          "speed": 3,
+          "duration": 15,
+          "message": "Your necklace flashes wildly, you move instantly!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#d3b31a"
+  },
+  {
+    "name": "Illusion Necklace",
+    "value": 3500,
+    "description": "A sapphire necklace. It's pretty.",
+    "gatherString": "You make a sapphire necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 15,
+      "magicDamage": 55
+    },
+    "secondaryColor": "#203bd2"
+  },
+  {
+    "name": "Incineration Necklace",
+    "value": 3800,
+    "description": "A ruby necklace. It's pretty.",
+    "gatherString": "You make a ruby necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 13,
+      "statusEffectData": [
+        {
+          "name": "Burn",
+          "power": 250,
+          "speed": 2,
+          "duration": 16,
+          "message": "Your necklace flashes hotly, your opponent is on fire!",
+          "procOdds": 0.15
+        }
+      ]
+    },
+    "secondaryColor": "#f4093a"
+  },
+  {
+    "name": "Demolition Necklace",
+    "value": 5000,
+    "description": "A diamond necklace. It's pretty.",
+    "gatherString": "You make a diamond necklace.",
+    "gatherSpeed": 15,
+    "icon": "Necklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 3,
+      "damage": 50
+    },
+    "secondaryColor": "#DFDFDF"
+  },
+  {
+    "name": "Potaki's Blessing",
+    "value": 2500,
+    "description": "A shiny necklace roped around a glistening tear-shaped stone. It feels warm to the touch.",
+    "gatherString": "You get a strange necklace.",
+    "gatherSpeed": 15,
+    "icon": "TearDropNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 20,
+      "magicDamage": 10,
+      "statusEffectData": [
+        {
+          "name": "Self Heal",
+          "power": 60,
+          "speed": 1,
+          "duration": 2,
+          "message": "Your necklace flashes beautifully, you feel refreshed!",
+          "procOdds": 0.25,
+          "selfInflicted": true
+        }
+      ]
+
+    },
+    "secondaryColor": "#2DF5E9"
+  },
+  {
+    "name": "Labyrinthine Necklace",
+    "value": 1200,
+    "description": "A worn necklace with a beautiful pattern etched into the back side of it.",
+    "gatherString": "You get a necklace.",
+    "gatherSpeed": 15,
+    "icon": "TearDropNecklace",
+    "equipSlot": "Neck",
+    "armorInfo": {
+      "armorBonus": 25,
+      "rangedDamage": 25,
+      "statusEffectData": [
+        {
+          "name": "Hatch",
+          "power": 1,
+          "speed": 1,
+          "duration": 2,
+          "message": "Your necklace glows and an aur emerges from its center!",
+          "procOdds": 0.03,
+          "customData": "Screeching Aur",
+          "selfInflicted": true
+        }
+      ]
+    },
+    "secondaryColor": "#abcdef"
+  }
+]

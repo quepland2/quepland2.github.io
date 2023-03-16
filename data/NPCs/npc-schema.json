@@ -35,6 +35,14 @@
             "type": "integer",
             "description": "The required conversation depth."
           },
+          "minDepth": {
+            "type": "integer",
+            "description": "The minimum required conversation depth."
+          },
+          "maxDepth": {
+            "type": "integer",
+            "description": "The maximum required conversation depth."
+          },
           "quest": {
             "type": "string",
             "description": "The quest to modify progress of."
@@ -120,6 +128,14 @@
                 "maximumQuestProgress": {
                   "type": "integer",
                   "description": "The maximum progress that the quest must be. Defaults to int.maxValue."
+                },
+                "questFlag": {
+                  "type": "string",
+                  "description": "A flag that marks quest progress."
+                },
+                "questFlagValue": {
+                  "type": "boolean",
+                  "description": "A value that tells whether the flag should be true or false."
                 },
                 "progressFlag": {
                   "type": "string",

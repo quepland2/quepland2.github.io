@@ -5,8 +5,290 @@
   "id": 62,
   "dialogs": [
     {
-      "buttonText": "Who are you?",
-      "responseText": "I'm a ghost! Tell the dev where you found me. Boo!"
+      "buttonText": "Hello",
+      "responseText": "What are you doing in my private room? Who said you could come up here? And why do you smell like that? Is that poison I smell? Give me that.\nHadeas takes your poison and throws it out his window, into the river far below.",
+      "consumeRequiredItems": true,
+      "newDepthOnTalk": 1,
+      "depth": 0,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Hadeas' Request",
+          "questFlagValue": false
+        },
+        {
+          "item": "Poison",
+          "itemAmount": 1
+        }
+      ]
+    },
+    {
+      "buttonText": "Hello",
+      "responseText": "What are you doing in my private room? Who said you could come up here?",
+      "newDepthOnTalk": 1,
+      "depth": 0,
+      "requirements": [
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Hadeas' Request",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Rude",
+      "depth": 1,
+      "responseText": "Many of us in the alchemy guild have good reason to be fearful of strangers. You came up here unannounced with poison on your person. You should leave before I call the guards.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        }
+      ]
+    },
+    {
+      "buttonText": "Linehart Wichperger thinks you killed the previous headmaster",
+      "depth": 1,
+      "newDepthOnTalk": 2,
+      "responseText": "Linehart thinks a lot of things. There is a reason I am the new headmaster and he is not. It's simply another case of him assuming someone did something because it's what he would do in the same situation. If you spent enough time with him he would probably try to use you somehow to try to destroy me.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "Why?",
+      "depth": 2,
+      "newDepthOnTalk": 3,
+      "responseText": "It's more than you need to know. I've said more than I should have already. Do I need to call the guards?",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "Maybe I could help you",
+      "depth": 3,
+      "newDepthOnTalk": 4,
+      "responseText": "And why should I trust you? Some random adventurer comes up out of nowhere, offering help and I am to simply accept?",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "I want to join the alchemy guild",
+      "depth": 4,
+      "newDepthOnTalk": 5,
+      "responseText": "Of course you do. Everyone wants to turn turn cheap metals into expensive ones. Do you even know anything about alchemy?",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "No",
+      "depth": 5,
+      "newDepthOnTalk": 6,
+      "responseText": "Well, at least you are being honest. Look, the guild is not in the greatest shape to be turning down potential new members. But I need something from you before you are accepted.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        },
+        {
+          "skill": "Alchemy",
+          "skillLimit": 30
+        }
+      ]
+    },
+    {
+      "buttonText": "A little",
+      "depth": 5,
+      "newDepthOnTalk": 7,
+      "responseText": "Well, that's a start. The guild is not in the greatest shape to be turning down potential new members. But I need something from you before you are accepted.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        },
+        {
+          "skill": "Alchemy",
+          "skillLevel": 30
+        },
+        {
+          "skill": "Alchemy",
+          "skillLimit": 60
+        }
+      ]
+    },
+    {
+      "buttonText": "Yes",
+      "depth": 5,
+      "newDepthOnTalk": 8,
+      "responseText": "Oh... You really don't look like the type... But I feel like you are telling the truth. The guild is not in the greatest shape to be turning down potential new members. But I need something from you before you are accepted.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        },
+        {
+          "skill": "Alchemy",
+          "skillLevel": 60
+        }
+      ]
+    },
+    {
+      "buttonText": "That's why I want to join the alchemy guild",
+      "depth": 5,
+      "newDepthOnTalk": 9,
+      "responseText": "Well you won't find many people willing to be your mentor anymore. The guild is not in the greatest shape, but we aren't going to accept just anyone. I need something from you before you are accepted.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "I didn't see any guards",
+      "depth": 3,
+      "newDepthOnTalk": 10,
+      "responseText": "You're smarter than you look. I will admit that the guild has seen better days. Not many stuck around after Bavor ran away. But you won't get in for free. I need you to do something for me.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "What do you want?",
+      "depth": 10,
+      "newDepthOnTalk": 11,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Hadeas' Request",
+      "responseText": "I need you to find some dirt on Linehart. Anything that will eliminate him from the possible candidates for my job. As long as he thinks he can be headmaster I can't get anything done around here.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "Okay",
+      "depth": 11,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Agreed to Hadeas",
+      "newDepthOnTalk": 12,
+      "responseText": "Okay? So you'll do it, then? If you can find something good, I will consider accepting you into the guild.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "No",
+      "depth": 11,
+      "newDepthOnTalk": 0,
+      "responseText": "Then we have nothing more to discuss at this point.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
+    },
+    {
+      "buttonText": "I will find dirt on Linehart for you",
+      "minDepth": 0,
+      "maxDepth": 3,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Agreed to Hadeas",
+      "newDepthOnTalk": 12,
+      "responseText": "Okay? So you'll do it, then? If you can find something good, I will consider accepting you into the guild.",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Hadeas' Request"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed to Hadeas",
+          "questFlagValue": false
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        }
+      ]
     }
   ]
 }

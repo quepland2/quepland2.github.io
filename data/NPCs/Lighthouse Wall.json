@@ -1,0 +1,14 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Lighthouse Wall",
+  "id": 201,
+  "description": "An elaborately carved wall with a peculiar message on it.",
+  "dialogs": [
+    {
+      "buttonText": "Read",
+      "responseText": "\"This door is a seal. Though no physical barrier may prevent the passage of the great evils that lie below, the great \" -- A large section of the wall is damaged and cannot be read -- \"weapons or armor, nor anything imbued with ill intent nor any kind of desire can ever cross this threshold. The wise and powe\" -- \"hat there should be no expectation of escape once entered here. You have been warned.\"",
+      "newDepthOnTalk": 1
+    }
+    
+  ]
+}

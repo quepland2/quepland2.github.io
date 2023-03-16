@@ -190,6 +190,27 @@
     "icon": "Rod"
   },
   {
+    "name": "Giant Fishing Rod",
+    "description": "A huge fishing rod for catching big fish.",
+    "value": 3000,
+    "enabledActions": "Big Fish Fishing",
+    "isEquipable": true,
+    "equipSlot": "R Hand",
+    "secondaryColor": "#ABE1F0",
+    "weaponInfo": {
+      "attackSpeed": 40,
+      "damage": 550,
+      "wearRequirements": [
+        {
+          "skill": "Fishing",
+          "skillLevel": 95
+        }
+      ]
+    },
+    "gatherSpeedBonus": 0.7,
+    "icon": "Rod"
+  },
+  {
     "name": "Minnows",
     "description": "The tiniest fish you can catch.",
     "gatherString": "You catch some minnows.",
@@ -679,7 +700,7 @@
         "skillLevel": 83
       },
       {
-        "action": "Fishing"
+        "action": "Big Fish Fishing"
       }
     ]
   },
@@ -774,7 +795,7 @@
         "skillLevel": 93
       },
       {
-        "action": "Fishing"
+        "action": "Big Fish Fishing"
       }
     ]
   },
@@ -793,7 +814,7 @@
         "skillLevel": 98
       },
       {
-        "action": "Fishing"
+        "action": "Big Fish Fishing"
       }
     ]
   },
@@ -812,7 +833,7 @@
         "skillLevel": 99
       },
       {
-        "action": "Fishing"
+        "action": "Big Fish Fishing"
       }
     ]
   },
@@ -831,7 +852,7 @@
         "skillLevel": 105
       },
       {
-        "action": "Fishing"
+        "action": "Big Fish Fishing"
       }
     ]
   },
@@ -850,7 +871,7 @@
         "skillLevel": 110
       },
       {
-        "action": "Fishing"
+        "action": "Big Fish Fishing"
       }
     ]
   },

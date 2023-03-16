@@ -13,7 +13,7 @@
     "requirements": [
       {
         "skill": "Smithing",
-        "skillLevel": 110
+        "skillLevel": 107
       }
     ]
   },
@@ -28,7 +28,7 @@
     "requirements": [
       {
         "skill": "Smithing",
-        "skillLevel": 110
+        "skillLevel": 107
       }
     ]
   },
@@ -43,7 +43,7 @@
     "requirements": [
       {
         "skill": "Smithing",
-        "skillLevel": 110
+        "skillLevel": 107
       }
     ]
   },
@@ -58,7 +58,7 @@
     "requirements": [
       {
         "skill": "Smithing",
-        "skillLevel": 110
+        "skillLevel": 107
       }
     ]
   },
@@ -73,7 +73,7 @@
     "requirements": [
       {
         "skill": "Smithing",
-        "skillLevel": 110
+        "skillLevel": 107
       }
     ]
   },
@@ -89,7 +89,7 @@
     "requirements": [
       {
         "skill": "Smithing",
-        "skillLevel": 110
+        "skillLevel": 107
       }
     ]
   }

@@ -31,6 +31,37 @@
     }
   },
   {
+    "name": "Summoned Chicken",
+    "hp": 10,
+    "weaknesses": "Knifesmanship",
+    "strengths": "Axemanship",
+    "attackSpeed": 15,
+    "armor": 0,
+    "damage": 25,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Feather",
+          "weight": 50
+        },
+        {
+          "itemName": "Chicken Egg",
+          "weight": 10
+        },
+        {
+          "itemName": "Chicken Meat",
+          "weight": 10
+        }
+      ],
+      "alwaysDrops": [
+        {
+          "itemName": "Feather",
+          "amount": 5
+        }
+      ]
+    }
+  },
+  {
     "name": "Rooster",
     "hp": 15,
     "weaknesses": "Knifesmanship",
@@ -2874,7 +2905,7 @@
         "message": "The creature stabs with an intense force! It was as if you weren't wearing any armor for that hit.",
         "procOdds": 0.3
       }
-      
+
     ]
   },
   {

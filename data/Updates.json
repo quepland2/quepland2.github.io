@@ -1,5 +1,52 @@
 [
   {
+    "versionNumber": "1.2.0",
+    "updates": [
+      "Added magic skill, find scrolls around the map to learn spells. Definitely open to reworking the skill if it needs it.",
+      "Air is now stored on the player instead of the underwater area it matters.",
+      "Fixed some typos.",
+      "Stopped checking names for similarity. This should fix a few different bugs in the banking interface.",
+      "Fixed bug where crafting amount for some items was wrong.",
+      "Added a small dungeon in the lighthouse.",
+      "Added Stormwalker boss.",
+      "Fixed a few bugs relating to dialog.",
+      "Made a number of changes to quest dialogs for future development.",
+      "Added a check for skills for unpacking some items.",
+      "Added a new follower for auto-completing the new dungeon.",
+      "Removed some items from artisan tasks.",
+      "Added a giant fishing rod recipe.",
+      "Greatly boosted artisan experience rates.",
+      "Removed chickens from extractor shop.",
+      "Changed boosts to only work one at a time.",
+      "Added iseroite bar smithing.",
+      "Fixed bug where loaded hp and inventory sizes were off by one.",
+      "Inventory size now is loaded properly for followers",
+      "Fixed gem banking bug.",
+      "Fixed loot tracker bug for no value items.",
+      "Items required for dialog are now properly checked for removal before continuing.",
+      "Added a toggle for any skill in the exp tracker to display as a sidebar button.",
+      "Gather bonuses and experience requirements are now all rounded to 2 decimals.",
+      "Reduced tanning to 4 hours.",
+      "Fixed some typos",
+      "The game now hides import/export functions until it is finished loading.",
+      "Drain no longer overkills.",
+      "Sahotite and strongtium had their requirements reduced slightly.",
+      "Added descriptions for all the npcs.",
+      "Added missing fish.",
+      "Added art backgrounds. These were made with AI. I didn't know it was a controversial topic until after I had made them all. You can disable them in the settings if you don't like them.'",
+      "There are quite a few other changes I did not do a good job of implementing. If you encounter a bug or other issue, I'll be paying close attention and putting out a patch sometime in the next few days. I'm sure I have missed some things."
+
+    ]
+  },
+  {
+    "versionNumber": "1.1.1c",
+    "updates": [
+      "Transit branches no longer compete for the highest position in the bank."
+
+
+    ]
+  },
+  {
     "versionNumber": "1.1.1b",
     "updates": [
       "Fixed a bug where defeating the gashadokurou would immediately cause autobattling to continue.",

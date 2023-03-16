@@ -126,6 +126,15 @@
     "autoCollectSpeed": 20
   },
   {
+    "name": "Kenbo Daito",
+    "description": "A man who was trapped in the lighthouse dungeon for a very long time.",
+    "autoCollectMessage": "",
+    "autoCollectSkill": "Adventurer",
+    "autoCollectLevel": 100,
+    "inventorySize": 0,
+    "autoCollectSpeed": 20
+  },
+  {
     "name": "Testo",
     "description": "Testo is just a test.",
     "autoCollectMessage": "Testo dashes off with a load of $.",

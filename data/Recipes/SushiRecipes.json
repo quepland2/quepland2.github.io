@@ -524,5 +524,45 @@
       }
     ],
     "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Oar Fish Roll",
+    "ingredients": [
+      {
+        "itemName": "Oar Fish"
+      },
+      {
+        "itemName": "Rice Roll"
+      }
+    ],
+    "experienceGained": "Culinary Arts:2500",
+    "requirements": [
+      {
+        "skill": "Culinary Arts",
+        "skillLevel": 105
+      }
+    ],
+    "maxOutputsPerAction": 1
+  },
+  {
+    "outputItemName": "Squid Roll",
+    "ingredients": [
+      {
+        "itemName": "Colossal Squid"
+      },
+      {
+        "itemName": "Rice Roll"
+      }
+    ],
+    "experienceGained": "Culinary Arts:2500",
+    "requirements": [
+      {
+        "skill": "Culinary Arts",
+        "skillLevel": 110
+      }
+    ],
+    "recipeActionString": "You start carving up the squid...",
+    "outputAmount": 7,
+    "maxOutputsPerAction": 1
   }
 ]

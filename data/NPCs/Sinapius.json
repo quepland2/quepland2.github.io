@@ -5,8 +5,389 @@
   "id": 65,
   "dialogs": [
     {
-      "buttonText": "Who are you?",
-      "responseText": "I'm a ghost! Tell the dev where you found me. Boo!"
+      "buttonText": "Are you an alchemist?",
+      "responseText": "If you're looking for the alchemist's guild, it's in the northern district. You won't find any alchemists here.",
+      "depth": 0,
+      "newDepthOnTalk": 1,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Recipe Learned",
+          "questFlagValue": false
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Someone said you could make poison",
+      "responseText": "Someone was wrong. I don't know anything about that.",
+      "depth": 1,
+      "newDepthOnTalk": 2,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "Linehart sent me looking for you",
+      "responseText": "You aren't doing yourself any favors mentioning his name to me. You clearly don't know what you're doing, I would strongly advise you to stay far away from Linehart and the other alchemists of the guild.",
+      "depth": 1,
+      "newDepthOnTalk": 2,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "But I want to join the alchemist guild",
+      "responseText": "I felt the same way, once. Have you been to the guild? It's practically empty now. Whatever chance we had at finding the answers to the secrets of the alchemical halls died with the disappearance of Bavor Starsi.",
+      "depth": 2,
+      "newDepthOnTalk": 3,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "Who is Bavor Starsi?",
+      "responseText": "You want to join the guild but don't know its famous headmaster? We had so much to learn from him, he was the only member of the guild who really understood what we were doing.",
+      "depth": 3,
+      "newDepthOnTalk": 4,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "What happened to him?",
+      "responseText": "I don't think anyone knows. One day he was gone without a trace. It tore the guild apart. We already were on shaky ground with how secretive everyone was. Once Hadeas took over most of us scattered.",
+      "depth": 4,
+      "newDepthOnTalk": 6,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "But I want to learn more about alchemy",
+      "responseText": "You aren't doing yourself any favors mentioning his name to me. You clearly don't know what you're doing, I would strongly advise you to stay far away from Linehart and the other alchemists of the guild. You can learn plenty without joining the guild.",
+      "depth": 2,
+      "newDepthOnTalk": 6,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "But I want to frame someone for murder",
+      "responseText": "Of course you do. I suppose Linehart sent you to me. I would strongly advise you to stay far away from him and the other alchemists of the guild.",
+      "depth": 2,
+      "newDepthOnTalk": 6,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "Please give me more poison",
+      "responseText": "Not a chance. I shouldn't have made the first batch and I certainly won't make any more.",
+      "depth": 6,
+      "newDepthOnTalk": 6,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "Can you tell me how to make more?",
+      "responseText": "And what do I get out of it?",
+      "depth": 6,
+      "newDepthOnTalk": 7,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+      ]
+    },
+    {
+      "buttonText": "What do you want?",
+      "responseText": "What can you offer me?",
+      "depth": 7,
+      "newDepthOnTalk": 8,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Poison Recipe Offer",
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        }
+
+      ]
+    },
+    {
+      "buttonText": "Offer Alchemy Knowledge",
+      "responseText": "It does sound like you know more about alchemy than you first let on... Teach me what you know and you have yourself a deal.",
+      "minDepth": 0,
+      "maxDepth": 10,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Alchemical Knowledge Offered",
+      "newDepthOnTalk": 9,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Recipe Offer"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Recipe Learned",
+          "questFlagValue": false
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Teach what you know about alchemy",
+      "responseText": "This is amazing! How did you figure all this out? Also, a deal is a deal, so here's my poison recipe.",
+      "depth": 11,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Poison Recipe Learned",
+      "newDepthOnTalk": 0,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "skill": "Alchemy",
+          "skillLevel": 70
+        }
+      ]
+    },
+    {
+      "buttonText": "Teach what you know about alchemy",
+      "responseText": "This is... Not nearly enough for me to be willing to trade with you.",
+      "depth": 11,
+      "newDepthOnTalk": 0,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "skill": "Alchemy",
+          "skillLimit": 69
+        }
+      ]
+    },
+    {
+      "buttonText": "Offer Money",
+      "responseText": "I am a little short on money. This shop is not cheap to run and with most of the alchemists having left the city, business is not what it once was. Tell you what, if you can get me out of debt you have a deal. I need about 20,000,000.",
+      "minDepth": 0,
+      "maxDepth": 10,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Money Offered",
+      "newDepthOnTalk": 9,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Recipe Learned",
+          "questFlagValue": false
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Pay 20,000,000",
+      "responseText": "Wait, really? How badly do you want this poison?? Fine, here's the recipe.",
+      "depth": 8,
+      "quest": "Chrysopoeian Crisis",
+      "consumeRequiredItems": true,
+      "setFlag": "Poison Recipe Learned",
+      "newDepthOnTalk": 9,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "item": "Coins",
+          "itemAmount": 20000000
+        }
+      ]
+    },
+    {
+      "buttonText": "Offer Help",
+      "responseText": "My supplier did not arrive with goods this week. He's stationed in Sunajo fortress northeast of here. I am wondering if I need to find a new supplier. Can you journey there and report back what you find?",
+      "minDepth": 0,
+      "maxDepth": 10,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Check On Supplier",
+      "newDepthOnTalk": 0,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Recipe Learned",
+          "questFlagValue": false
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Explain what happened to the supplier",
+      "responseText": "About what I expected. A deal is a deal, though. Here's the poison recipe.",
+      "depth": 0,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Poison Recipe Learned",
+      "newDepthOnTalk": 9,
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Sent to Eastern Tsu"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier"
+        }
+      ]
     }
   ]
 }

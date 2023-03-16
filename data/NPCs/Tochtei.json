@@ -10,6 +10,24 @@
       "newDepthOnTalk": 1
     },
     {
+      "buttonText": "Do you know any alchemist suppliers here?",
+      "responseText": "Hmm, a man named Shinda used to pass through here quite often. He left for Pansoph some time ago and I have not seen him since. Few seem to come from the east anymore at all, actually.",
+      "newDepthOnTalk": 3,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Supplier In Pansoph",
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Check On Supplier"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Found Supplier",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
       "buttonText": "Yes, please",
       "responseText": "IdentifyGems",
       "depth": 1

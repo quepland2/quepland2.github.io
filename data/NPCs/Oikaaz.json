@@ -9,6 +9,7 @@
       "responseText": "Welcome to the Wind Hall. It is one of the few locations in the world that allows for the practice of Alchemy. Alchemy is a secret art, you will likely need a teacher to assist you in learning the proper steps.",
       "quest": "Chrysopoeian Crisis",
       "newQuestProgressValue": 1,
+      "SetFlag": "Quest Start",
       "requirements": [
         {
           "quest": "Chrysopoeian Crisis",

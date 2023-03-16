@@ -12,5 +12,26 @@
     "progressValue": 0,
     "progressData": "",
     "completed": false
+  },
+  {
+    "name": "Halibut Request",
+    "description": "The sailor wants a halibut.",
+    "progressValue": 0,
+    "progressData": "",
+    "completed": false
+  },
+  {
+    "name": "Sailor's Approval",
+    "description": "The sailor got his halibut.",
+    "progressValue": 0,
+    "progressData": "",
+    "completed": false
+  },
+  {
+    "name": "Entered Lighthouse",
+    "description": "You've been inside the lighthouse.",
+    "progressValue": 0,
+    "progressData": "",
+    "completed": false
   }
 ]

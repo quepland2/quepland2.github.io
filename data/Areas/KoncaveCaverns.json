@@ -78,7 +78,7 @@
     "name": "Koncave City Square",
     "id": 113,
     "image": "Fountain",
-    "description": "A large fountain fuelled by a waterfall coming out of the roof of the cavern stands in the middle of the square. Shops surround the perimeter, and a castle resides on the far side.",
+    "description": "A large fountain fueled by a waterfall coming out of the roof of the cavern stands in the middle of the square. Shops surround the perimeter, and a castle resides on the far side.",
     "areaURL": "KoncaveCitySquare",
     "dojoURL": "TsuyoDojo",
     "buildings": [
@@ -176,7 +176,6 @@
               "Grizzly Bear",
               "Pigeon",
               "Turkey",
-              "Chicken",
               "Wild Boar",
               "Pheasant",
               "Bison",

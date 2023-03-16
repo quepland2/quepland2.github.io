@@ -6,7 +6,7 @@
     "description": "You reach the water's edge. The stones almost sing as they roll back and forth in the waves. A large lighthouse towers in the west, while the path continues eastward into a small fishing town.",
     "areaURL": "CantilaBeach",
     "actions": [
-      "Go Fishing:Crab,Angry Crab,Manta Ray"
+      "Go Fishing:Crab,Angry Crab,Manta Ray:You try to catch some fish near the shore..."
     ],
     "unlockableAreas": [
       {
@@ -38,7 +38,7 @@
     "description": "The small town is quite lively. Situated on the main coastline road, there are a number of shops and an inn to stay at. The road leads through the town and out of sight along the coast.",
     "areaURL": "UragotaTown",
     "actions": [
-      "Chop Oak Trees:Oak Logs"
+      "Chop Oak Trees:Oak Logs:You swing your axe at a nearby oak tree..."
     ],
     "unlockableAreas": [
       {
@@ -78,7 +78,7 @@
     "description": "The western side of the docks is mostly used for smaller boats. A number of fishermen sit at the edge with lines in the water. There's also a kiosk with a sign saying, \"Boats Fore Sail\" in poorly written letters on the front.",
     "areaURL": "WestUragotaDocks",
     "actions": [
-      "Chop Oak Trees:Oak Logs"
+      "Chop Oak Trees:Oak Logs:You swing your axe at an oak tree..."
     ],
     "unlockableAreas": [
       {
@@ -161,7 +161,7 @@
     "description": "The river is muddied by runoff from the nearby farmland. It's shallow and wide, a great place to catch carp or other river fish. You can see a wooded area beyond the bridge to the east.",
     "dojoURL": "IttouDojo",
     "actions": [
-      "Fish from the bridge:Carp,Puffer Fish,Salmon,Crab"
+      "Fish from the bridge:Carp,Puffer Fish,Salmon,Crab:You start fishing in the muddy river..."
     ],
     "areaURL": "DarkbourneBridge",
     "unlockableAreas": [
@@ -192,7 +192,8 @@
     "image": "Ocean",
     "description": "The fishing platform floats out in the ocean, just barely in sight of shore. Many large fish gather beneath here for some reason.",
     "actions": [
-      "Go Fishing:Squid,Tuna,Yellowtail"
+      "Go Fishing:Squid,Tuna,Yellowtail:You try to catch some fish...",
+      "Use Big Fishing Rod:Giant Octopus,Oar Fish,Colossal Squid:You cast your giant rod and wait..."
     ],
     "areaURL": "OceanFishingPlatform",
     "requirements": [

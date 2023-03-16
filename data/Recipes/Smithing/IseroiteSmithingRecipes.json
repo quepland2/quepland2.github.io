@@ -50,6 +50,20 @@
     ]
   },
   {
+    "outputItemName": "Iseroite Bar",
+    "ingredients": [
+      {
+        "itemName": "Molten Iseroite Bar"
+      }
+    ],
+    "requirements": [
+      {
+        "skill": "Smithing",
+        "skillLevel": 78
+      }
+    ]
+  },
+  {
     "outputItemName": "Iseroite Ring",
     "ingredients": [
       {

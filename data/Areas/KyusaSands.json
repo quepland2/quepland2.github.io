@@ -49,7 +49,7 @@
     ],
     "buildings": [
       {
-        "name": "Suanjo General Store",
+        "name": "Sunajo General Store",
         "buttonText": "General Store",
         "url": "SunajoGeneralStore",
         "description": "The store is well lit and tidy. You could almost forget that it's located in the middle of the desert. A jolly man behind the counter welcomes you as you enter. A woman stands behind a small kiosk in the corner of the store under a sign that reads Artisan Task Do-er.",
@@ -58,7 +58,7 @@
         ],
         "shops": [
           {
-            "name": "Jumbo's Supply Store",
+            "name": "Sunajo General Store",
             "limitBoughtItemsToSoldItems": false,
             "itemNames": [
               "Small Net",

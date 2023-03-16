@@ -10,7 +10,7 @@
       "newDepthOnTalk": 1,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -20,9 +20,11 @@
       "responseText": "You do? Well you're going to have a rough time learning it here, with Hadeas in charge.",
       "depth": 1,
       "newDepthOnTalk": 2,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Guild Membership Requested",
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -32,10 +34,11 @@
       "responseText": "Good luck, we haven't welcomed a new member in decades. With Hadeas in charge, that's unlikely to change either.",
       "depth": 1,
       "newDepthOnTalk": 2,
+      "quest": "Chrysopoeian Crisis",
       "setFlag": "Guild Membership Requested",
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -47,7 +50,7 @@
       "newDepthOnTalk": 3,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -59,7 +62,7 @@
       "newDepthOnTalk": 4,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -71,7 +74,7 @@
       "newDepthOnTalk": 5,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -83,7 +86,7 @@
       "newDepthOnTalk": 5,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -93,35 +96,25 @@
       "responseText": "The plan is simple, plant a vial of poison in his bedroom. I'll take care of the rest. With proof of the murder in place, there won't be any opposition to finally ousting that walking caecilian.",
       "depth": 5,
       "newDepthOnTalk": 6,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Linehart's Request",
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
     },
     {
       "buttonText": "I don't care about any of this, what do you want me to do?",
-      "responseText": "He's a power-hungry newt who somehow managed to become headmaster of the guild by killing the previous headmaster.",
+      "responseText": "Plant a vial of poison in his bedroom.",
       "depth": 4,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Linehart's Request",
       "newDepthOnTalk": 6,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
-          "maximumQuestProgress": 3
-        }
-      ]
-    },
-    {
-      "buttonText": "Sure, just give me the poison",
-      "responseText": "Wonderful! Here's a vial of poison. Go plant it in the headmaster's room and come back to me.",
-      "depth": 6,
-      "newDepthOnTalk": 7,
-      "quest": "Chrysopoean Crisis",
-      "newQuestProgressValue": 5,
-      "requirements": [
-        {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
           "maximumQuestProgress": 3
         }
       ]
@@ -130,13 +123,30 @@
       "buttonText": "Give me the poison",
       "responseText": "Wonderful! Here's a vial of poison. Go plant it in the headmaster's room and come back to me.",
       "depth": 6,
-      "newDepthOnTalk": 7,
-      "quest": "Chrysopoean Crisis",
+      "newDepthOnTalk": 8,
+      "quest": "Chrysopoeian Crisis",
+      "itemOnTalk": "Poison",
+      "setFlag": "Agreed To Frame",
       "newQuestProgressValue": 5,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
-          "maximumQuestProgress": 4
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
+        }
+      ]
+    },
+    {
+      "buttonText": "Lying is wrong",
+      "responseText": "Well it sounds to me as though you are not interested enough in alchemy to join this guild. You may leave. Tell no one of this conversation.",
+      "depth": 6,
+      "newDepthOnTalk": 0,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Linehart Rejected",
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request"
         }
       ]
     },
@@ -144,15 +154,238 @@
       "buttonText": "Let me think about it.",
       "responseText": "Be quick about it. And no word of this to the other alchemists, alright?",
       "depth": 6,
-      "newDepthOnTalk": 6,
-      "quest": "Chrysopoean Crisis",
+      "newDepthOnTalk": 0,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Pondering",
       "newQuestProgressValue": 4,
       "requirements": [
         {
-          "quest": "Chrysopoean Crisis",
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart's Request",
           "maximumQuestProgress": 4
         }
       ]
+    },
+    {
+      "buttonText": "I changed my mind, give me the poison",
+      "responseText": "Wonderful! Here's a vial of poison. Go plant it in the headmaster's room and come back to me.",
+      "depth": 5,
+      "newDepthOnTalk": 0,
+      "quest": "Chrysopoeian Crisis",
+      "itemOnTalk": "Poison",
+      "setFlag": "Agreed To Frame",
+      "newQuestProgressValue": 4,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart Rejected"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "I changed my mind, give me the poison",
+      "responseText": "Wonderful! Here's a vial of poison. Go plant it in the headmaster's room and come back to me.",
+      "newDepthOnTalk": 0,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Agreed To Frame",
+      "itemOnTalk": "Poison",
+      "newQuestProgressValue": 4,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart Rejected"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Give me the poison",
+      "responseText": "Wonderful! Here's a vial of poison. Go plant it in the headmaster's room and come back to me.",
+      "depth": 0,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Agreed To Frame",
+      "itemOnTalk": "Poison",
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Pondering"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame",
+          "questFlagValue": false
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart Rejected",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "Lying is wrong",
+      "responseText": "Well it sounds to me as though you are not interested enough in alchemy to join this guild. You may leave. Tell no one of this conversation.",
+      "depth": 0,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Linehart Rejected",
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Pondering"
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame",
+          "questFlagValue": false
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Linehart Rejected",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "I lost the poison",
+      "responseText": "You WHAT!? How could you possibly lose something like that? You had one job! I don't have any more. You'll have to procure some of your own.",
+      "depth": 0,
+      "newDepthOnTalk": 1,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Poison Lost",
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Lost",
+          "questFlagValue": false
+        }
+      ]
+    },
+    {
+      "buttonText": "How do I get more?",
+      "responseText": "You'll need to be discrete. There's an alchemist in the eastern district who has been banished from the guild. He made me the first bottle of poison and will probably have more.",
+      "depth": 1,
+      "newDepthOnTalk": 2,
+      "quest": "Chrysopoeian Crisis",
+      "setFlag": "Sent to Eastern Tsu",
+      "newQuestProgressValue": 5,
+      "requirements": [
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Agreed To Frame"
+        },
+        {
+          "item": "Poison",
+          "itemLimit": 0
+        },
+        {
+          "quest": "Chrysopoeian Crisis",
+          "questFlag": "Poison Lost"
+        }
+      ]
+    },
+    {
+      "buttonText": "Follow Linehart",
+      "responseText": "You hide behind a bookshelf and follow Linehart to a dark area in the back corner of the library. He pulls a book off the shelf and grabs something behind it. Suddenly the wall next to the shelf transforms into a door, which he quickly opens and descends the spiral staircase on the other side.",
+      "depth": 20,
+      "newDepthOnTalk": 21
+
+    },
+    {
+      "buttonText": "Go downstairs",
+      "responseText": "The staircase opens to a horribly smelly tunnel. You have evidently entered the city's sewers. You follow Linehart at a distance, until he stops at a corner and begins to wait.",
+      "depth": 21,
+      "newDepthOnTalk": 22
+
+    },
+    {
+      "buttonText": "Confront him",
+      "responseText": "You step out to ask Linehart what he is doing. At the same moment, a cloaked figure appears around the corner at the far end of the tunnel. When they both see you, the take off running in separate directions.",
+      "depth": 22,
+      "newDepthOnTalk": 23
+
+    },
+    {
+      "buttonText": "Chase Linehart",
+      "responseText": "You dash off in chase of Linehart. Thanks to your adept deftness, you easily catch up to him.",
+      "depth": 23,
+      "newDepthOnTalk": 24
+
+    },
+    {
+      "buttonText": "Interrogate him",
+      "responseText": "What am I doing? What are you doing? How did you find me and why are you chasing me? Are you not going to help me frame Hadeas? I thought we were on the same team.",
+      "depth": 24,
+      "newDepthOnTalk": 25
+
+    },
+    {
+      "buttonText": "We are on the same team",
+      "responseText": "And yet you chase and interrogate me? Your words and actions do not match.",
+      "depth": 24,
+      "newDepthOnTalk": 25
+
+    },
+    {
+      "buttonText": "I want to join you",
+      "responseText": "I thought you wanted to join the alchemy guild. It's far too late for me to ever trust you again, there is something very suspicious about you. Please leave, now. I won't do anything else in your presence.\nYou notice as Linehart turns to leave he has an ornate tattoo ",
+      "depth": 24,
+      "newDepthOnTalk": 25
+
+    },
+    {
+      "buttonText": "We are not on the same team",
+      "responseText": "What am I doing? What are you doing? How did you find me and why are you chasing me? Are you not going to help me frame Hadeas? I thought we were on the same team.",
+      "depth": 24,
+      "newDepthOnTalk": 25
+
+    },
+    {
+      "buttonText": "Chase the hooded figure",
+      "responseText": "You dash off in chase of Linehart.",
+      "depth": 23,
+      "newDepthOnTalk": 24
+
+    },
+    {
+      "buttonText": "Chase Linehart",
+      "responseText": "You dash off in chase of Linehart.",
+      "depth": 23,
+      "newDepthOnTalk": 24
+
+    },
+    {
+      "buttonText": "Chase the hooded figure",
+      "responseText": "You dash off in chase of Linehart.",
+      "depth": 23,
+      "newDepthOnTalk": 24
+
+    },
+    {
+      "buttonText": "Wait",
+      "responseText": "The staircase opens to a horribly smelly tunnel. You have evidently entered the city's sewers. You follow Linehart at a distance, until he stops at a corner and begins to wait.",
+      "depth": 22,
+      "newDepthOnTalk": 22
+
     }
 
   ]

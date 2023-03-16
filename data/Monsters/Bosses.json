@@ -78,6 +78,25 @@
     "attackSpeed": 1
   },
   {
+    "name": "Stormwalker",
+    "hp": 25500,
+    "weaknesses": "",
+    "strengths": "",
+    "damage": 205,
+    "armor": 400,
+    "attackSpeed": 25,
+    "statusEffectData": [
+      {
+        "name": "Entangle",
+        "power": 5,
+        "speed": 3,
+        "duration": 15,
+        "message": "The Stormwalker brings forth vines, which grasp your feet. You cannot move!",
+        "procOdds": 0.1
+      }
+    ]
+  },
+  {
     "name": "Ruwohane",
     "hp": 23500,
     "weaknesses": "Archery",

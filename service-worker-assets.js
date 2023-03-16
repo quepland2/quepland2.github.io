@@ -5,8 +5,16 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-2kYo2V\/aZ7htYEvY5PVJlrMYhFf1jH8\/VS+SP7B7QUg=",
+      "hash": "sha256-qD0QxS71qYTQZMj+JDk0IXr28ewa+pSDzShFKSNkQ+0=",
+      "url": "_framework\/dotnet.6.0.12.qpx7nv0h8t.js"
+    },
+    {
+      "hash": "sha256-DV6UqTAx87RYutnyJXqg8ys8JdoWmgk7zjH+RdEPdJ8=",
       "url": "_framework\/dotnet.timezones.blat"
+    },
+    {
+      "hash": "sha256-dbGiNUUYXOjE0TbMyaKptlmkQ3rHr1RN6WSNpYuHUuo=",
+      "url": "_framework\/dotnet.wasm"
     },
     {
       "hash": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
@@ -25,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-r2CrqqWABYqdy6diiCHCEIB2gYa1yDwJiuM6HYvlehU=",
+      "hash": "sha256-rylVAzm51OFbn2FMP2oSMbUhF4k9xZb2IpVvkdMAkP8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -33,63 +41,63 @@
       "url": "_framework\/DotNetZip.dll"
     },
     {
-      "hash": "sha256-CiBi1aG2aN5hh3k36Em49gWeWdSFFqivLQg0uCwZdN4=",
+      "hash": "sha256-tEvFa3popOPtz1rdnNT\/2yi2fjStuPizF68ZFH\/1rhI=",
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-HFrMtGsOzcesY\/hir2xl9w9eCc0pL9S\/BPvbgLMWnWE=",
+      "hash": "sha256-02TzVSyEOzSgj2E80BdI+Ig2leGvKcVmyWjcWk188vs=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
-      "hash": "sha256-k1uU9hHUtox6fn6RRoAf6tZdbhp2GkvUgSRi8yQZp4M=",
+      "hash": "sha256-dHT+XRs0B0BlLRkgnyUUTYv4bOAej0EC1osTbw\/7J4Y=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
-      "hash": "sha256-mY1ABXjD81eCw3PLbFh8o+HTV4jw4pTnKHYhALQpMqU=",
+      "hash": "sha256-qA03pwgVEC5V45aNKtcIoWpPY7jPhPaJ\/F9qB4Gdy0A=",
       "url": "_framework\/Microsoft.CSharp.dll"
     },
     {
-      "hash": "sha256-ktXSxNlrN4DxTsMwzPSR3Nrbr6+SlSKhC2n1NdnjKgg=",
+      "hash": "sha256-\/q6mFQXlj6kHKzXS0UJFOS1ymycfsQ7lSqdMKwYQ0xY=",
       "url": "_framework\/Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
-      "hash": "sha256-ZVTjnxKRVvA11TNhTVM2gdb97GEQSDYWZLJ9gtRU4bY=",
+      "hash": "sha256-KwYdzP6NCj4dFJhu59WiFi2RmxeFna75CLMlvQv6bIA=",
       "url": "_framework\/Microsoft.Extensions.Configuration.dll"
     },
     {
-      "hash": "sha256-NgjxkXrytVWSNgsFd99xW1PXviRT9oLe\/OXw4TKg3V4=",
+      "hash": "sha256-ndtIKCTi8FtTcP0qG8G5nUKqeqMlooTSYSAScpVVrFU=",
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-5SdUWPnOK7MdaJ8wTJnv3iPtTOfpMfGcFcz4rg5QMVY=",
+      "hash": "sha256-Ll9S0mNpcfGxI6H+1\/fhWKY7BPKeOHnamRy7BQ216Jg=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
-      "hash": "sha256-nKm\/esNvc9Hhf3BhkcSMInA6gCqDbZIOoTE2KePQCBM=",
+      "hash": "sha256-4+XkrSsTYl++u5fJvIZyCen7fcGSXhgtLBblXSGYpwA=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
-      "hash": "sha256-8y9X25GUjgN1bIGH1v86+ZeIIYoJmR9HpLpwjCqR9RY=",
+      "hash": "sha256-Z\/lO7W0UZNmrSTpALqXe7DuL5yiZ6wgTnk55gGHPWXc=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-XQPXc1gBuUYF9nMQQ2wbdE31hG4I227K2hj5FuXPxDc=",
+      "hash": "sha256-Hf8kWjD66L28SKartqvhbQcUoO80YJks3dpTScPHeSY=",
       "url": "_framework\/Microsoft.Extensions.Logging.dll"
     },
     {
-      "hash": "sha256-RoeqcLQvYP+bBe75OssZ5GK5yyO2W46uEKO0TLd9Cik=",
+      "hash": "sha256-aCUy1\/e9XDCfDMcGf+LtEcRjeAwtidq0qa8VItYpYV8=",
       "url": "_framework\/Microsoft.Extensions.Options.dll"
     },
     {
-      "hash": "sha256-PqwMlNQen4hkSv\/QHnkeBh8I92Jc9FNuzPjjWHCEQWw=",
+      "hash": "sha256-HpM6GYqvgkflNd568dA+9tfb\/UPbRDM2Vk5t6JFEAuY=",
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
-      "hash": "sha256-HD4sdayxBycXmHOg1XhQHvgvn8FUbZo8NZUkXmfvMEM=",
+      "hash": "sha256-hc0HW3H8rDA8qZt7WoBC0SoS2QsFmHEUFeja5IqSCAU=",
       "url": "_framework\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-nVRKYG8nBXEChbPiPkaYB81a3xssJ6bZvBKfuyeCXB8=",
+      "hash": "sha256-6E1FCpK6FR1yhe3UKUTyLfYGtGbNpsm7EA05a4PbS1g=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
@@ -97,11 +105,11 @@
       "url": "_framework\/Microsoft.Win32.SystemEvents.dll"
     },
     {
-      "hash": "sha256-XpnEzIcN9+csr32mbEfrL3p\/BTjbOFZgvUtZVf3Fqi4=",
+      "hash": "sha256-tb8Ab4NS9QjHmEqJ5qNjuwZquGP+w80Pm40rFKdCmd4=",
       "url": "_framework\/netstandard.dll"
     },
     {
-      "hash": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
+      "hash": "sha256-SBbEJ29XXk2FuAYzoN8urfKUlv4AvcM814Q+YTc73g4=",
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
@@ -109,55 +117,55 @@
       "url": "_framework\/Pluralize.NET.dll"
     },
     {
-      "hash": "sha256-e0T+\/16\/kWwHblhG47cdIFshUzncxBeywa12l7voFxA=",
+      "hash": "sha256-JVP\/AAsQtmRNlwdturZfJKScD7bHIQ+j6BfHCOnAWts=",
       "url": "_framework\/Quepland_2_DN6.dll"
     },
     {
-      "hash": "sha256-TOvdtTXfS7DE2JpPKjZVyJgjEJCrZzkJAu6ztp+xVLw=",
+      "hash": "sha256-ZmSC58fAZFG57cg5xA8dPk4P4X2u56ZXSVwfgbPcD+4=",
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-hPalzi+pRsEYCRcYHk5tbtaw8Wyv0SWpOISXxD8Xk5k=",
+      "hash": "sha256-pl8pc6v1xI+B6ZRA9k2YVAEXlXxpwu75K9xNhiOtyGg=",
       "url": "_framework\/System.Collections.dll"
     },
     {
-      "hash": "sha256-SYl0tIuTaI4ALOIFvhZzzh3UtuJZFdD\/sMsULYzqaso=",
+      "hash": "sha256-VnDk1cDySLTsovUQaQRddI9e+fVJL6PYn14G5JTtOgk=",
       "url": "_framework\/System.Collections.NonGeneric.dll"
     },
     {
-      "hash": "sha256-lrrtynX+JqR42ob9igDywsu2SAeCgmn\/7NoGD7CWkh0=",
+      "hash": "sha256-IQD+WjkNwYIpwXSHMbEA4Gll+gnmq4uc482\/U3ly3zU=",
       "url": "_framework\/System.Collections.Specialized.dll"
     },
     {
-      "hash": "sha256-2DPaUFXBlN55RxRio0M6k4RnzC6hJqMpSMjzIxfY5nk=",
+      "hash": "sha256-p1\/D6Ewz2rVPo5+KG8dkY5\/K+Pv3avrHvGECOtdR+90=",
       "url": "_framework\/System.ComponentModel.dll"
     },
     {
-      "hash": "sha256-zlhX7\/Ez2IBKdNyfc2XVTEHsT\/FbbilDo+PKXb9c7DE=",
+      "hash": "sha256-OEhh8E8Qp8z4veqKU\/KY+q3mfmY9uZ3djlARwxq4Cqo=",
       "url": "_framework\/System.ComponentModel.EventBasedAsync.dll"
     },
     {
-      "hash": "sha256-urZHTtXsYIIpFo1VRTdJhxySk\/ZxzZLAUSK65Wrabcw=",
+      "hash": "sha256-gBP7wDJcKdVaSBR+FD\/Mv0nG8U13vEJX7BDuaUNI6K8=",
       "url": "_framework\/System.ComponentModel.Primitives.dll"
     },
     {
-      "hash": "sha256-\/f2j\/ZjXgrANVgANEq8eNJgcBELfsaxuO+wlTwX+biU=",
+      "hash": "sha256-wH2zbwYvYaNQDsFxf9LOv9HzPJF+wPu\/pVHf9i4xfl0=",
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
-      "hash": "sha256-b7ncvMniYm7O2GMxyjcV9yIr4Xm5GTFtqj9+tip2KWI=",
+      "hash": "sha256-5+LdHfgypT35wwZor1qGk7S9KxfIw344Qh\/AlYtbaZk=",
       "url": "_framework\/System.Console.dll"
     },
     {
-      "hash": "sha256-PWJf\/qVhxqHpeZTlHY7kd0p2SR4\/gsBvNSqVvdXfIdQ=",
+      "hash": "sha256-vL4nwAItlzc5FMify9tZWCGl48cehdWATeMyeFCBabU=",
       "url": "_framework\/System.Data.Common.dll"
     },
     {
-      "hash": "sha256-XbVjrf7qiVlOCAWzD7pkDoEGBlrtSku79kGLyjzl2o8=",
+      "hash": "sha256-Sud6L78a6Ee6PpUNwhtiGYwEM8P5mR9rZpeVCpJE3Eo=",
       "url": "_framework\/System.Diagnostics.TraceSource.dll"
     },
     {
-      "hash": "sha256-Pxo\/he5qzWqd3FOuTUdr7TWZhdwxb76SsWaDfUinYZA=",
+      "hash": "sha256-5ZVx+iTn6Jt3g\/tcoJrzns7drrDWZc4bXByIJj9QfA0=",
       "url": "_framework\/System.dll"
     },
     {
@@ -165,115 +173,131 @@
       "url": "_framework\/System.Drawing.Common.dll"
     },
     {
-      "hash": "sha256-9EfDvPeL+sbyRY3kFAbiQLiywl7lMYYBwpRoDxNb9OE=",
+      "hash": "sha256-yj\/myci\/COCmTo0aHJp8U2npzBmiUM8L1nvUgGG52MI=",
       "url": "_framework\/System.Drawing.dll"
     },
     {
-      "hash": "sha256-YcvNP66UHeXis+MuX4MPvGOTuunj6cIFFMx9HNNwRTw=",
+      "hash": "sha256-1THPyEvCtg6SubB30hYtntBVbeV3v2rMqYNdeBJXlE8=",
       "url": "_framework\/System.Drawing.Primitives.dll"
     },
     {
-      "hash": "sha256-PehYqkAxJfdjkt6YM+JnFk1cC5M6\/iaPtBBStjerTnw=",
+      "hash": "sha256-uR6QF3eO99R5eHkw+k2kgkFlrd++5qVd9sXuln4nOR4=",
       "url": "_framework\/System.IO.Compression.dll"
     },
     {
-      "hash": "sha256-Wh2xc5FqjWg7GUnjYyHpoazmDtyBUqtrloshfDqyikg=",
+      "hash": "sha256-\/6e07SINhGYFRNwr4Xw3AakbqYPVIKldUSlp2NgVB44=",
       "url": "_framework\/System.Linq.dll"
     },
     {
-      "hash": "sha256-ikQnP1kCAtkMe2zfAaCM9Jx2EDNZLtwGKPE4fx5rxR8=",
+      "hash": "sha256-veor+AqGDphjtWTzQFq9cB1njJYRVt+YxfLaI+P7Huw=",
       "url": "_framework\/System.Linq.Expressions.dll"
     },
     {
-      "hash": "sha256-mxH68hfT2Zi5DOKZuc\/0R8FgB0S\/z\/ETbq6OCIu5kQ8=",
+      "hash": "sha256-pPCXystZP75irVofDVekkDeFA2DH9EV9OEm4+uYmSrk=",
       "url": "_framework\/System.Memory.dll"
     },
     {
-      "hash": "sha256-AhcIKWPLuUw970wXN07v9Uz69D9+c07SNapSaNl1rtE=",
+      "hash": "sha256-Qzwsp0g\/ZIHIU9sCAv2cItqXkw2Ye7cTTUe+\/JtjN94=",
       "url": "_framework\/System.Net.Http.dll"
     },
     {
-      "hash": "sha256-3no\/YmYlnjcGWz3\/55pqBufHeyR2mzVOviYGnujGh\/g=",
+      "hash": "sha256-TjnCSdsffgt6ggpjLFMQNn8U6mqAn83StlykC8XB0wo=",
       "url": "_framework\/System.Net.Http.Json.dll"
     },
     {
-      "hash": "sha256-R8E7iySN1pAQhPLouDlyFJ9IaUNThdMB\/HizJSy+XHE=",
+      "hash": "sha256-nw+0dDa1O4s4mU5PEC7PH\/fKj6d5\/xa2krrDgUgn134=",
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-KfIFloLcZ\/xyy0DvwMz0Ud\/vxrsoSLXvc76aHiktQMY=",
+      "hash": "sha256-sfRA1qls7g7B\/xqnqU4hxNiuvdSnnfe\/an0rgn7Lj64=",
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-6myA8XMJ41wY8Gp7dtJBNEF7krg8g1V44NezmNAD8uc=",
+      "hash": "sha256-yseu9uWT66XzUIqLb\/vjAugtJ5xxkhI6MBJgcXBtjgc=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-oaHDC9GHdXoyt8T7tqEEBhvR2Xd0Mx2iV1YqFKaZg1Q=",
+      "hash": "sha256-GdEe+7BgPItUyza7UPP6oOI\/z4cY2EyExFOZEh3T7mg=",
       "url": "_framework\/System.Private.Runtime.InteropServices.JavaScript.dll"
     },
     {
-      "hash": "sha256-iCKbBLv4w3MnIx8z6HCkdFWguM9Ewz5XywDWlQIYDtg=",
+      "hash": "sha256-60aO3uA4WI9NSfdcT3EHPaXx9tYt9Sy6WqcvYuIJdj4=",
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-TmX9j3\/z7BL+wDP8Lk8fX4vMa6fMLLr0RxhavcL6DBM=",
+      "hash": "sha256-K2w2xtsF3e+6yvAneQRk6iBIHi7Ciex8uENUldqWoKg=",
       "url": "_framework\/System.Private.Xml.dll"
     },
     {
-      "hash": "sha256-2G6AcLE4Y\/hjqSNFqcE9Bmt3506x7BhNmSxLTh75NKU=",
+      "hash": "sha256-mSZDoTIhoKYf\/tJFl+UNcmlMBgoTWAIT4b3pEU7W2Qg=",
       "url": "_framework\/System.Private.Xml.Linq.dll"
     },
     {
-      "hash": "sha256-tlS0jAIKQWYi+igAQ3GkOlrLFol9XKeCtrsZ\/L53Rj0=",
+      "hash": "sha256-ETttWPvrBhZZ+mFGRRQV3c1J8oCOGBPpWlabn41CnGs=",
+      "url": "_framework\/System.Reflection.Emit.ILGeneration.dll"
+    },
+    {
+      "hash": "sha256-jO5IsZ85NZympXAFBvYYq9Qfk0DKguTOWqG8bpT4k4Y=",
+      "url": "_framework\/System.Reflection.Emit.Lightweight.dll"
+    },
+    {
+      "hash": "sha256-1tnXYra9ktlECWZgktxSZMmrcbK49j\/uHYbMrVBxbhM=",
+      "url": "_framework\/System.Reflection.Primitives.dll"
+    },
+    {
+      "hash": "sha256-9s1iNh5ELu5RBx1QRs0ED\/rGbBzuRxLgk9cQjYa2HZw=",
       "url": "_framework\/System.Resources.ResourceManager.dll"
     },
     {
-      "hash": "sha256-NRSBt5EXQJLnmZU7NAx6CVoGgzIIzrVqw6DDchuZpDI=",
+      "hash": "sha256-zqv466iGpX3yYMk7GcwXocrTCLpTPEu6D+Eh4T4WK\/Q=",
       "url": "_framework\/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "hash": "sha256-GkG0AOpycaLbjsrLs0p6Nz+1Q1kRTaJZsNVmE7poWuY=",
+      "hash": "sha256-aIG30i1gb8MeUlyiN5hsBJ3M+YdgOYdPXFCVHS3EtXE=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
-      "hash": "sha256-23GeiFPiUkLEz6sWTu6+dyfXgGXmAvUrd\/oANdmWAo8=",
+      "hash": "sha256-YFzXFFIQ\/eCdRtKZ1JLBVOeCT4H1+L3CtWkTuBdpABQ=",
       "url": "_framework\/System.Runtime.Extensions.dll"
     },
     {
-      "hash": "sha256-xzA3S4u0xom+j7DQK5+IbOs8GYSFnow9qCqSxhTiGJY=",
+      "hash": "sha256-jv1vMDxoaV8k9R4gZGriQ+bWg8JGajLIhiL2PGq7UEw=",
+      "url": "_framework\/System.Runtime.InteropServices.dll"
+    },
+    {
+      "hash": "sha256-3pvmXSJqVCWbdKqVgLh+536F+u8f810U6bV16ub\/Kg4=",
       "url": "_framework\/System.Runtime.Numerics.dll"
     },
     {
-      "hash": "sha256-31wfGof8w8BpS6SAhzAOHEP+RnLAl2G2WAN2OBJ3PKU=",
+      "hash": "sha256-T1tKVG2BGYVIbYyts+ouThH1uDyJbSjwsvnqinB5o2g=",
       "url": "_framework\/System.Runtime.Serialization.Formatters.dll"
     },
     {
-      "hash": "sha256-tU7wnhcvMgeQFz2vJKDzyGI9J41WOsAh5RgTOEHoEQM=",
+      "hash": "sha256-L7aSJv5ibb8AoD83poR\/ExuJ5GxGZXqnOqLAeK5vfuQ=",
       "url": "_framework\/System.Runtime.Serialization.Primitives.dll"
     },
     {
-      "hash": "sha256-a\/Klu5h2FtZ6isJQAg9YGTQ0nphHmEPhnrgR3p7Hb94=",
+      "hash": "sha256-YekTa9XZvLkYyPhwNv6lPOciDjzFOU+G3fqrb7fDhWM=",
       "url": "_framework\/System.Security.AccessControl.dll"
     },
     {
-      "hash": "sha256-5tDWfqRmGJ3zrLWslXYo0TmL2IAi0bzJphlw6NT+FSo=",
+      "hash": "sha256-DP0tuWTrquLAKtpMhpty8ylgGtm8KQgzSxC\/1i6+440=",
       "url": "_framework\/System.Security.Claims.dll"
     },
     {
-      "hash": "sha256-eLX\/AiF80b029eQk4hw8x0\/fJNwxUdmtHdyzoPIn3Mc=",
+      "hash": "sha256-FTmxepsL8+pbyWjpvrW0\/MD1Ji7fqUNY9klr2Yp4OHs=",
       "url": "_framework\/System.Security.Cryptography.Algorithms.dll"
     },
     {
-      "hash": "sha256-\/yeMUiRsofUeGTAlTIQU9UnuEt\/g47b+i3SqZQXWdkA=",
+      "hash": "sha256-EDnUe2HvBD5RpQNK46Qm7209X2JL7FZ6GJhMBLy7pUs=",
       "url": "_framework\/System.Security.Cryptography.Csp.dll"
     },
     {
-      "hash": "sha256-\/i1czKfIKQ0MJQ6gOc47r3tLC1yuO8N6mbKfKXgXC2c=",
+      "hash": "sha256-2crngGF\/LZ8x75qL8Gj4ZNK6KxUU9M49\/ViL6b7Wnrw=",
       "url": "_framework\/System.Security.Cryptography.Primitives.dll"
     },
     {
-      "hash": "sha256-5D4zjpvWA36sws47BpjJuE23PGFkpmqpf2sshmUOzkc=",
+      "hash": "sha256-dKm1E8stle2\/wc0mWR28J4fFg5u8RqWaviRZqZxJQMU=",
       "url": "_framework\/System.Security.Cryptography.X509Certificates.dll"
     },
     {
@@ -281,31 +305,35 @@
       "url": "_framework\/System.Security.Permissions.dll"
     },
     {
-      "hash": "sha256-okebm8JdPgzidUsx0WSAP3jPWseoPlZ5ay9H1lDVzvs=",
+      "hash": "sha256-OIyu1fo\/hYFA8knjLbEzn5cSuYwYF6hA7Ek8QTUSzUY=",
       "url": "_framework\/System.Security.Principal.Windows.dll"
     },
     {
-      "hash": "sha256-GgIlZ6prm7C1AgHs7rCsJZ04xMmTgCMu3UUj4uStXzw=",
+      "hash": "sha256-TIgGvyYBvzo0P7mofHSnLLDwiQF5l2Bo9+Mp\/rLv968=",
       "url": "_framework\/System.Text.Encoding.CodePages.dll"
     },
     {
-      "hash": "sha256-8MgxqGsBjU\/FR\/ntwAQr0x\/AG7jJ9f8Kn9shBpC23Dc=",
+      "hash": "sha256-uq+Ds4CUMTWjzAWIwH0axZUK+F92w1R7jb5j4r6MT4s=",
+      "url": "_framework\/System.Text.Encoding.Extensions.dll"
+    },
+    {
+      "hash": "sha256-wrJGFzHDqi0fTqDwGJtAneHQbyQUv856sEKWsyeZ9W8=",
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-PxbsXpxpxZYeuv32a\/dr5CFM585GKu5jHctH44z7ryw=",
+      "hash": "sha256-tfqebWNw+XEor4WzmIZTpcKjLc6VYVM71HXF8g0Skbw=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-G76Fjr8cmiqIKBfcWYMyom\/G4S5P+nvPoK6Z8jm3aMM=",
+      "hash": "sha256-PYxM1aNQ7iw8qieiJ3lysttxAd87BWJXpqqfYL9iY74=",
       "url": "_framework\/System.Text.RegularExpressions.dll"
     },
     {
-      "hash": "sha256-p9Smzhq+SGB8bny3+I4gwAeWenuiAIZWUYUB\/3Q1egM=",
+      "hash": "sha256-RgaME9CiirD\/+3I15pJyq6GBLAO4pecP4smLX8tyhak=",
       "url": "_framework\/System.Threading.dll"
     },
     {
-      "hash": "sha256-q5wF4yjE0B6q2+AfPeMCLkozCGLhxCp8w3eJIcI8KhI=",
+      "hash": "sha256-BIqtz85SjDxtMvyUcjJkizFuvXdfSOxV95FTQvN6EcU=",
       "url": "_framework\/System.Threading.Thread.dll"
     },
     {
@@ -313,15 +341,19 @@
       "url": "_framework\/System.Windows.Extensions.dll"
     },
     {
-      "hash": "sha256-Ntvr0b8+uXVMPyk3YvGE5Xc96qxmZNQDYuCa8tl2EW0=",
-      "url": "_framework\/dotnet.6.0.1.7yz6y012jy.js"
+      "hash": "sha256-FWWjGt1UWXtfw0rpMnJxd00eTSOTYj9aE6uW2tMAoCw=",
+      "url": "_framework\/System.Xml.Linq.dll"
     },
     {
-      "hash": "sha256-mwqCyd9oyiq90iu9nY6rMP3mql81MIqemrWEVTDKJ5I=",
-      "url": "_framework\/dotnet.wasm"
+      "hash": "sha256-yIENQKUyhi5rKs3zprEvUOCnYXYKDXnDr7Rwn3b+ZZc=",
+      "url": "_framework\/System.Xml.ReaderWriter.dll"
     },
     {
-      "hash": "sha256-F9qFYH2bDBzedmPh70dzAXyj\/ETVn4DsGWkpElIsY7g=",
+      "hash": "sha256-6ov4MbR2bYruKa4jzU41cmZqlrXTQnNwkurRu\/O3ays=",
+      "url": "_framework\/System.Xml.XDocument.dll"
+    },
+    {
+      "hash": "sha256-\/qogbiImu2yhrqIpe9hxRHMNu5pfrJ2AvkYu+zCvncc=",
       "url": "css\/app.css"
     },
     {
@@ -377,7 +409,7 @@
       "url": "data\/ArborealConundrum.json.meta"
     },
     {
-      "hash": "sha256-75o7L8RaTjVUNnkLv8XyGlf37ohXGdwU2sZqCDHXAgI=",
+      "hash": "sha256-FbnSQ8GnEM3cTRxUo0+Av2de4WODFaTh\/51pCr8zUds=",
       "url": "data\/Areas\/CantilaCoast.json"
     },
     {
@@ -385,7 +417,7 @@
       "url": "data\/Areas\/CastleNid.json"
     },
     {
-      "hash": "sha256-KXkRNxLuNV\/WmYydbs62OCH2M5GD5om+zp46c7s633g=",
+      "hash": "sha256-wIkKj3CewbY9IRcrYbxzm8QO+aphoAsJxQRQuHxYEiI=",
       "url": "data\/Areas\/CrossmareCove.json"
     },
     {
@@ -401,23 +433,23 @@
       "url": "data\/Areas\/HojkmaIsles.json"
     },
     {
-      "hash": "sha256-T+iR\/5A4OAWYCZn8t8RwkU4yNyW48AmNwWLxDs3D3kQ=",
+      "hash": "sha256-ZKzXLepAOobnOaV6IF6o9cROq13O2D46hCgFN2NYWV8=",
       "url": "data\/Areas\/KoncaveCaverns.json"
     },
     {
-      "hash": "sha256-sTUO4lx3\/RlEtGE4JuGU8YTIwlsu6SaL2ME2eIOUrXo=",
+      "hash": "sha256-adMJkITSuyh8aCKj4ugQetmyTMRa4E3MUzXci8LhcWE=",
       "url": "data\/Areas\/KyusaSands.json"
     },
     {
-      "hash": "sha256-BuCE7\/OAuYjzl3FWA+Aeh\/R7eWhDdBgE4v\/H+QEJSm4=",
+      "hash": "sha256-PnmLfeX\/sZwO4rS8psqCMx6ka8Za73jlQdkXz09apaY=",
       "url": "data\/Areas\/MountQueple.json"
     },
     {
-      "hash": "sha256-TanldKDPHQYM3DLOM7\/b3MCjSQTEZk9usZjdBTcdbCs=",
+      "hash": "sha256-r4JFnhlRQ4\/jQPI3Tvg5wbxS3wEXSaadkOsmxoKqvuE=",
       "url": "data\/Areas\/NmekufuBurl.json"
     },
     {
-      "hash": "sha256-MoaIlFPjeOhgkawI8YgzrrOAwtVXQyPYTx\/VT0xCofA=",
+      "hash": "sha256-2R54Ln8A3+8Ur3U7opcrFohAowXSpE2oMIv\/fequ1GA=",
       "url": "data\/Areas\/PansophPlains.json"
     },
     {
@@ -441,7 +473,7 @@
       "url": "data\/Areas\/SawabeSwamp.json"
     },
     {
-      "hash": "sha256-wdV\/x8CiV9EHiIb14\/i6H53v4YHlQP3eSJtENer3u5Y=",
+      "hash": "sha256-02HZY7mS2y2ffwELJTIf2fsig32ah7eQNRBqEPUSPVk=",
       "url": "data\/Areas\/SulmenkaKingdom.json"
     },
     {
@@ -449,11 +481,11 @@
       "url": "data\/Areas\/TackureIslet.json"
     },
     {
-      "hash": "sha256-v6FhyxdPzVpZPn7hfFKTdbPXpaLW044R7pbLsVk3Qdo=",
+      "hash": "sha256-hz14O47HqR+nN8Mgl1VPyD77RT\/l23SPyeu702JTSqM=",
       "url": "data\/Areas\/TogaruHills.json"
     },
     {
-      "hash": "sha256-1BzTkJ7DapsaMwt9VrHxik3bILli\/vUF2GuiexMdY64=",
+      "hash": "sha256-IYLnwFkT6Xj35CSKpA6oEPLYKDPrx0U7mYVxbrqp0SE=",
       "url": "data\/Areas\/UfagariIslands.json"
     },
     {
@@ -465,7 +497,7 @@
       "url": "data\/Dungeons\/QueplandDungeons.json"
     },
     {
-      "hash": "sha256-PtudMEv3M0jmEkYR5n89nLJnIWLrjoM5CcwlujOijIs=",
+      "hash": "sha256-wYFEWqiR2juWEr3zOFlsLsEqNEh7nKDG\/VYSI7WT2Og=",
       "url": "data\/Followers.json"
     },
     {
@@ -497,6 +529,10 @@
       "url": "data\/Images\/ArmorDown.png"
     },
     {
+      "hash": "sha256-mAw+kh8CMTWxTV8H4oqz39CGGmDsLT7\/Wc\/TycWFZ28=",
+      "url": "data\/Images\/ArmorPants.png"
+    },
+    {
       "hash": "sha256-FwDNwaGBlXUAaTCRhkbGygsJLLBO0yTBh\/l5xy6GxUw=",
       "url": "data\/Images\/ArmorUp.png"
     },
@@ -517,6 +553,10 @@
       "url": "data\/Images\/Arrowtips.png"
     },
     {
+      "hash": "sha256-1qoyo7qkB+v8f\/7TDcugpz02MeNYdKXaKjj6YcRia1k=",
+      "url": "data\/Images\/Artisan.png"
+    },
+    {
       "hash": "sha256-bg03aJgo4hJ8CyQB9RC7udGWkOQAciZDYKmVswsL3Tc=",
       "url": "data\/Images\/Attack.png"
     },
@@ -527,6 +567,10 @@
     {
       "hash": "sha256-EKrQs5kdz+Hsac+A20Nncw8QI8C4vM6xpv17jdNY8Fs=",
       "url": "data\/Images\/AttackUp.png"
+    },
+    {
+      "hash": "sha256-BowSPht5nKU0xW\/w4yziSEnl5Tq4ZJmR9bGHsYx4qBc=",
+      "url": "data\/Images\/Axe Fletch.png"
     },
     {
       "hash": "sha256-b+VkgeH5Ba2YK6lFvSizjqFhOIa5Ob0GrclUEwsqyXQ=",
@@ -573,6 +617,722 @@
       "url": "data\/Images\/Berries.png"
     },
     {
+      "hash": "sha256-faVgHKXHXXwAG9fk\/YzqZXGZD\/b7EpwyRVXaIutzfpI=",
+      "url": "data\/Images\/BGs\/AbandonedShack.jpg"
+    },
+    {
+      "hash": "sha256-3fo0wvYX91uK4zb\/HxPZoZ4L2soHhlNTeYn2Tl8+9sQ=",
+      "url": "data\/Images\/BGs\/Alchemiscellanea.jpg"
+    },
+    {
+      "hash": "sha256-TNLpi9zy37pSiuNSVjdAXp9J1JWwGFUru70jNYaFCO8=",
+      "url": "data\/Images\/BGs\/AlchemyGuild.jpg"
+    },
+    {
+      "hash": "sha256-TftcOhNTUs0O7EEus9sacBLDQUTqANbS5Ogz\/rzDykE=",
+      "url": "data\/Images\/BGs\/AncientDocks.jpg"
+    },
+    {
+      "hash": "sha256-WHj1ASEm0vp82fM2Jmd9DdD5fus1SuCnm6BtM2SCwMU=",
+      "url": "data\/Images\/BGs\/ArcheryShop.jpg"
+    },
+    {
+      "hash": "sha256-b9syd87kt3d1jBwBO4okNnQmXcKGMsLw\/CUtWxqyNYQ=",
+      "url": "data\/Images\/BGs\/ArtisanGuild.jpg"
+    },
+    {
+      "hash": "sha256-flzQ2oi0kkHFTmvIVC9HsHS6zM1pVZOyggAZix3R3OI=",
+      "url": "data\/Images\/BGs\/ArtisanGuildFactory.jpg"
+    },
+    {
+      "hash": "sha256-bVen1d2twzNJ1SfFdDHj1Yw3WWbEeV4qC04s6Yw+zQ8=",
+      "url": "data\/Images\/BGs\/Athenaeum.jpg"
+    },
+    {
+      "hash": "sha256-OWJU0rVawcYHFeaJ2rfJxGUJ18+SFrjdKuQNmCla7VU=",
+      "url": "data\/Images\/BGs\/BriansBakery.jpg"
+    },
+    {
+      "hash": "sha256-Syq6BGXYQOKGdNBub1l4r4XY6fdB6fmvgdOm5H2kyv8=",
+      "url": "data\/Images\/BGs\/BunktensCrossing.jpg"
+    },
+    {
+      "hash": "sha256-gzUKHFVLGBxX0Epck0GhUlMQYGr6d6YS2xCZizkUMcg=",
+      "url": "data\/Images\/BGs\/Camelpalooza.jpg"
+    },
+    {
+      "hash": "sha256-vQc0tuRrGr0mUoJCfI5IsTD8pIVVMn5ArUYQR8RUfkI=",
+      "url": "data\/Images\/BGs\/CantilaBeach.jpg"
+    },
+    {
+      "hash": "sha256-JTyN6ww0tPL2b\/AJuhrcJN7aZBZYBvY8JSxaqfkzbTs=",
+      "url": "data\/Images\/BGs\/CantilaLighthouse.jpg"
+    },
+    {
+      "hash": "sha256-\/S8Ft0hUTzTs2x+rhNsUwW1IxADduow21owbTTvNCIk=",
+      "url": "data\/Images\/BGs\/CastleNid.jpg"
+    },
+    {
+      "hash": "sha256-5l\/MWDpy80GD\/HdjHSp2NIb25\/8ppHl5H7m\/JanXYjA=",
+      "url": "data\/Images\/BGs\/CastleNidDungeon.jpg"
+    },
+    {
+      "hash": "sha256-dEgwWZIRbLLxhTtQZpKUa0rkADssWwleU34eywPgZAE=",
+      "url": "data\/Images\/BGs\/Cathedra.jpg"
+    },
+    {
+      "hash": "sha256-A4FfnIF7Z4eXvDfOJ0u7VMqV6meEX\/+huVReJw4H20s=",
+      "url": "data\/Images\/BGs\/CentralTsuCity.jpg"
+    },
+    {
+      "hash": "sha256-iHzSbqRRxXApcJ+CG+FNNp0cUJHwGgmHslyhqzwepcg=",
+      "url": "data\/Images\/BGs\/Chelonia.jpg"
+    },
+    {
+      "hash": "sha256-T2gySZKXLRBbo4ue9rcCXi4fZIe6wG0QCr5qTGUMoLo=",
+      "url": "data\/Images\/BGs\/CheloniaGoods.jpg"
+    },
+    {
+      "hash": "sha256-3UtaKz\/C4p5mJLpdxXvaO\/3wYsEMrZLvOD9fKcmyuwI=",
+      "url": "data\/Images\/BGs\/CheloniaMines.jpg"
+    },
+    {
+      "hash": "sha256-A8PjhrNJ2LFtbQGxu+5LzNYmwSGtx5ciOLqi0qdEWNE=",
+      "url": "data\/Images\/BGs\/CocheeClearing.jpg"
+    },
+    {
+      "hash": "sha256-cH0QdSwIEHP+k2MaqyF9d8Xdt2mm5NogyNy1tLmJxq0=",
+      "url": "data\/Images\/BGs\/DarkbourneBridge.jpg"
+    },
+    {
+      "hash": "sha256-pvVfZy\/TtcW9+xSYlpOiboqmlXcNgNJzSI\/vYlnMcig=",
+      "url": "data\/Images\/BGs\/DeepHigashiWoods.jpg"
+    },
+    {
+      "hash": "sha256-UXFe9qhGOC6uT8f273ZQrwhzVu3X53XS\/\/OALxEKm1w=",
+      "url": "data\/Images\/BGs\/DesertsMouth.jpg"
+    },
+    {
+      "hash": "sha256-tf4665z6UG5r7Vq12ysXO4rOfPIwKYEEmYRam1UFbVY=",
+      "url": "data\/Images\/BGs\/EarthHall.jpg"
+    },
+    {
+      "hash": "sha256-nbSznrH4h589J7ljcUT03HN2ZOQHHodmLIeM4l8nQhY=",
+      "url": "data\/Images\/BGs\/EasternTrail.jpg"
+    },
+    {
+      "hash": "sha256-6YDi2iAFJzT\/hsNU7ME3d4FCHW1rLUYXl\/MLSHCYS9g=",
+      "url": "data\/Images\/BGs\/EastHigashiWoods.jpg"
+    },
+    {
+      "hash": "sha256-T8C+H12SFgqUdNiO4MgNrk0lyKsE1VSBuGPmc0Gw\/7Y=",
+      "url": "data\/Images\/BGs\/EastTsuCity.jpg"
+    },
+    {
+      "hash": "sha256-hONqETUnAFCVgDk2+W5hhVlCvCBQKpIUq58kvHk+G48=",
+      "url": "data\/Images\/BGs\/EastUragotaDocks.jpg"
+    },
+    {
+      "hash": "sha256-dQYEh1SELG7Hlp8RPjx3g2RIRgAjDcoe0AOSLY2QpGc=",
+      "url": "data\/Images\/BGs\/EightsfretGlen.jpg"
+    },
+    {
+      "hash": "sha256-ebpOJghvgslD\/i14ZmLLac0VlSuDTioqKjsotN5ZSGI=",
+      "url": "data\/Images\/BGs\/ElementalEmporium.jpg"
+    },
+    {
+      "hash": "sha256-P\/ZKAPQfvHEm23hXdHe8+xzcZrbhEiGrVHnSpyF7+IE=",
+      "url": "data\/Images\/BGs\/FinsFineFabrics.jpg"
+    },
+    {
+      "hash": "sha256-hIRy7zrbzzqp0O0tJKFDSJmhPXD\/VtfR5Y5VgPyPiu4=",
+      "url": "data\/Images\/BGs\/FireHall.jpg"
+    },
+    {
+      "hash": "sha256-\/W5q6b6rj4TbIizEmIDlWtu7yWzuW2EFxuWrZW6m+Og=",
+      "url": "data\/Images\/BGs\/FithcasterStead.jpg"
+    },
+    {
+      "hash": "sha256-JFq2mLJakILDg3XKaRNJGnN0oL+JwHdoUqMLHg41Jtw=",
+      "url": "data\/Images\/BGs\/FjelloverPass.jpg"
+    },
+    {
+      "hash": "sha256-3eu0FVL2r+FH4m4HiJWTafCRWLOd+0PiQpWZARR0XeI=",
+      "url": "data\/Images\/BGs\/ForestHut.jpg"
+    },
+    {
+      "hash": "sha256-8AFoCRmZkxHjo55e93fJO791E1zh3oUVFwsIf9Vg2U0=",
+      "url": "data\/Images\/BGs\/GeneralStore.jpg"
+    },
+    {
+      "hash": "sha256-ybt4f54aFF5Oew2vw6X978JhO9hIDBacGWfILDI3rU0=",
+      "url": "data\/Images\/BGs\/GraingiltCastle.jpg"
+    },
+    {
+      "hash": "sha256-AaYtYJQmJZOBM69Q8ZVrtS3rzlPW4xkg5tw891Cgx4A=",
+      "url": "data\/Images\/BGs\/GraingiltCourtyard.jpg"
+    },
+    {
+      "hash": "sha256-3+BMEqbvvkBXXTkjbCyWsOrFjbYEQBVs622KU9aE\/zE=",
+      "url": "data\/Images\/BGs\/GraingiltHalls.jpg"
+    },
+    {
+      "hash": "sha256-tD\/EDz60y4ytjjAznT6KTuAVipC2v7AczXM83Q8G7hY=",
+      "url": "data\/Images\/BGs\/GreatShoeLake.jpg"
+    },
+    {
+      "hash": "sha256-51IQbNO\/QZu7I9UkulwyBEFYXF7n08V8uz6nD30t3nY=",
+      "url": "data\/Images\/BGs\/GreatTree.jpg"
+    },
+    {
+      "hash": "sha256-isBD0CoHXWkUf\/4vC9qVWNQRjnwry7XsqPcbrdbUWsg=",
+      "url": "data\/Images\/BGs\/GreeneverHills.jpg"
+    },
+    {
+      "hash": "sha256-yF5XC608PfQKNiBe\/NoOMXTd8eoKdtiB1\/5I\/TZ86Fg=",
+      "url": "data\/Images\/BGs\/GrumpysHome.jpg"
+    },
+    {
+      "hash": "sha256-2rFq5+YPMqxGdxaOMGZ3\/ePKbfCLcdGo3ESpJuWvBaw=",
+      "url": "data\/Images\/BGs\/GuildWoodworks.jpg"
+    },
+    {
+      "hash": "sha256-NIifxPrJxMbW1XBEQHMML1bxgfFrN6znsWauxM9bOP8=",
+      "url": "data\/Images\/BGs\/Guttermouth.jpg"
+    },
+    {
+      "hash": "sha256-wDxmrrDDxa7Y1gVXhk9cnKphmeWxR\/c+wc3ffFOy308=",
+      "url": "data\/Images\/BGs\/HigashiBridge.jpg"
+    },
+    {
+      "hash": "sha256-AIzN2ipPxdRVyWVaRHLGVm7L7fihAtfRMinDcq6N05s=",
+      "url": "data\/Images\/BGs\/HigashiCanyon.jpg"
+    },
+    {
+      "hash": "sha256-T2LFkdfKM6Mdskw\/uLMqdKPGj8YPJ0UxM3QIExQ9VTE=",
+      "url": "data\/Images\/BGs\/HigashiWoods.jpg"
+    },
+    {
+      "hash": "sha256-DmJ75oREy13F4ZVFJrwSLxg3VJepeha0Wzv78Hcys7w=",
+      "url": "data\/Images\/BGs\/HoinRiver.jpg"
+    },
+    {
+      "hash": "sha256-bxTh2JhYYqqWgwMlZB9QxdXF+dgsZVyD1\/wTv\/4r1bw=",
+      "url": "data\/Images\/BGs\/HoinRiverbank.jpg"
+    },
+    {
+      "hash": "sha256-OG+RAQgBKBq7FkN4\/6OVHFIIOwjXud1\/UYYDTPGIz3I=",
+      "url": "data\/Images\/BGs\/HorsesBack.jpg"
+    },
+    {
+      "hash": "sha256-9sgtjbXm5p5zOuaJkduYgscEm8XYlLYZ7IyUDcY\/hTc=",
+      "url": "data\/Images\/BGs\/HouseOfFish.jpg"
+    },
+    {
+      "hash": "sha256-\/A09rqNsNfkYujNyXFCGzDcxwMWRPCdZYEErR16oYfQ=",
+      "url": "data\/Images\/BGs\/HugeSmithy.jpg"
+    },
+    {
+      "hash": "sha256-2lnB0bJRe3bXeuqnGIJV4lKAxSoTF40slDNlV4Oknr8=",
+      "url": "data\/Images\/BGs\/HuntedWares.jpg"
+    },
+    {
+      "hash": "sha256-MKM8WFKD8DrjI3Lm33OB\/D+dEdQJMxv4iy+3F0+dMYw=",
+      "url": "data\/Images\/BGs\/HuntersGuild.jpg"
+    },
+    {
+      "hash": "sha256-5uEODVfq4ANDd0ftwr2Lx1vqL88qPS23pZT+NI8+LRQ=",
+      "url": "data\/Images\/BGs\/HuntingCamp.jpg"
+    },
+    {
+      "hash": "sha256-Zp3kCAZQd10jVKo4Rdoxv+oGmsJKxsRlLhugqVrFyRU=",
+      "url": "data\/Images\/BGs\/Jasonsjewelry.jpg"
+    },
+    {
+      "hash": "sha256-OkScuxjlecQWlMDkHpAqTXXSzdeZ+aOULn0XuxYhmmw=",
+      "url": "data\/Images\/BGs\/KarakniDepths.jpg"
+    },
+    {
+      "hash": "sha256-i55hNotnBmJbviEeQsFIBgZKWNZDTyfTFWEJp8nOTNY=",
+      "url": "data\/Images\/BGs\/KazkagrinsFortunes.jpg"
+    },
+    {
+      "hash": "sha256-KjmLDPzl4ZzqQTWrTHsF6EPTUEesmUcNDd8yr0AxCeo=",
+      "url": "data\/Images\/BGs\/KogoeDocks.jpg"
+    },
+    {
+      "hash": "sha256-U\/4mp8tpO54TyjwxDMCeAL6b999cRk7XSQ6yn5M8hNI=",
+      "url": "data\/Images\/BGs\/KogoeGym.jpg"
+    },
+    {
+      "hash": "sha256-W0LrHzJ3LOFWUM8YZrqhuFPgPyOBULzsAeoPSQdDIyQ=",
+      "url": "data\/Images\/BGs\/KogoeTown.jpg"
+    },
+    {
+      "hash": "sha256-q5OP6JCoBP3QoYs+i+6m3F\/xwZqXbyyB57t4k3mZckI=",
+      "url": "data\/Images\/BGs\/KoncaveCityBackstreets.jpg"
+    },
+    {
+      "hash": "sha256-HpgkqGmQ4qYBm7jqG4W0WjKDs\/sJq2n9nEUiqg7t2eI=",
+      "url": "data\/Images\/BGs\/KoncaveCityBackstreets.png"
+    },
+    {
+      "hash": "sha256-agIOvMeP+T9zrgdDLyGtC80a+6879N3NrvqwmfsSGhk=",
+      "url": "data\/Images\/BGs\/KoncaveCityGate.jpg"
+    },
+    {
+      "hash": "sha256-mmpN5rSS0dFlCiXsx+8U629tpJ0PvSxuGvFCOGD7wIk=",
+      "url": "data\/Images\/BGs\/KoncaveCitySquare.jpg"
+    },
+    {
+      "hash": "sha256-oK\/Xlf98i3zACDn3Ze8Vl3NuIx1hHdkRK19y0BNmRwA=",
+      "url": "data\/Images\/BGs\/KoncaveExtractors.jpg"
+    },
+    {
+      "hash": "sha256-\/FyaqQDSZnaYD5PU9t1ncsZj79vHFRG+Z49PnBXcw18=",
+      "url": "data\/Images\/BGs\/KoncaveFalls.jpg"
+    },
+    {
+      "hash": "sha256-36\/b8pHry6WZ+tpcVGhVd6lttoPQ\/UMtOtRTr4w7H2Y=",
+      "url": "data\/Images\/BGs\/KoncaveFallsMine.jpg"
+    },
+    {
+      "hash": "sha256-SvouopKrozW\/\/k6UoH4\/JLCHmDkX9EjSYR0oTr1Vz2k=",
+      "url": "data\/Images\/BGs\/KoyaHasa.jpg"
+    },
+    {
+      "hash": "sha256-pg0tKc+uzxmD96Q6zZn100wSxCgldcuff7CFL88\/qAE=",
+      "url": "data\/Images\/BGs\/KumuhanasHouse.jpg"
+    },
+    {
+      "hash": "sha256-AkrvejnJjiW5hqfF5bVZYArRybzoqHllcazEwyoVFf8=",
+      "url": "data\/Images\/BGs\/LaauKaila.jpg"
+    },
+    {
+      "hash": "sha256-CafXskEB\/paTqhINmeNcuZfkd4s28PeGqcZAFpUiyYk=",
+      "url": "data\/Images\/BGs\/LargeSmithy.jpg"
+    },
+    {
+      "hash": "sha256-gaB6\/pgMuUQ1U8oejPHEL9tyVv6hGeHuVD359A\/Glpc=",
+      "url": "data\/Images\/BGs\/Leupp.jpg"
+    },
+    {
+      "hash": "sha256-KmCS+JH300IK5j2UcPjGBwgIqu6QvmKciyLJo5XJjfw=",
+      "url": "data\/Images\/BGs\/LeuppOven.jpg"
+    },
+    {
+      "hash": "sha256-o+YuGcjn3j6Y8xIAhR3JTLhpL9yn5tMNy+p5EqjZegY=",
+      "url": "data\/Images\/BGs\/LighthouseB1.jpg"
+    },
+    {
+      "hash": "sha256-emmXw33uq06Nw+4GfRDhrkJZS5ftS7mc9RROTH752LM=",
+      "url": "data\/Images\/BGs\/LighthouseDungeon.jpg"
+    },
+    {
+      "hash": "sha256-fjyKn6FVRl\/7J9l2kiMycj81+EySvHKRfdlcCT+6wBE=",
+      "url": "data\/Images\/BGs\/LighthouseHallway.jpg"
+    },
+    {
+      "hash": "sha256-8bWtGz2Zk5doYvyAvGAx2kRGLHN6JouPrjHKLYKDqrM=",
+      "url": "data\/Images\/BGs\/LowerMtQuepleTrail.jpg"
+    },
+    {
+      "hash": "sha256-ujShJcdmREhk9qYF5Rft9A\/jrQpahIhLEzeAJX2jGc8=",
+      "url": "data\/Images\/BGs\/LowerNmekufuVillage.jpg"
+    },
+    {
+      "hash": "sha256-CbPYAObDabjAhy+YoRco2nKhIwHPdcnqxsRpyc8qLSI=",
+      "url": "data\/Images\/BGs\/LunacrestBridge.jpg"
+    },
+    {
+      "hash": "sha256-XXcf4Hl+xA20K5UEmG3tbsg1D\/3H3WJt2cG9EQVLKzM=",
+      "url": "data\/Images\/BGs\/MagiciansCamp.jpg"
+    },
+    {
+      "hash": "sha256-ghNoXEFqAW+IK7wg1xp6Y57azfhD6FxXhiQQYqZHEjI=",
+      "url": "data\/Images\/BGs\/ManayoVillage.jpg"
+    },
+    {
+      "hash": "sha256-dx9Zdl5a+38DZUOvm6cyluj2lhIx+x7QugtYR7ar69Y=",
+      "url": "data\/Images\/BGs\/ManihojMarket.jpg"
+    },
+    {
+      "hash": "sha256-qR2hMvUl4ZWoKcMFeLwi\/aPY29vjb2\/CBNyw9gXkKbM=",
+      "url": "data\/Images\/BGs\/MayorsHouse.jpg"
+    },
+    {
+      "hash": "sha256-nTFzvLQPNphpJvXqeXTeQp5wOo+RRNyvhkJKkKljOos=",
+      "url": "data\/Images\/BGs\/MoundsBoats.jpg"
+    },
+    {
+      "hash": "sha256-X2PehfeWyTQkiWpHsVJknEq73us9IRcEOGMOm4N\/AqA=",
+      "url": "data\/Images\/BGs\/MoundsHouse.jpg"
+    },
+    {
+      "hash": "sha256-Ql+VXRsbBwy7TUuA7Gxs77CM++Lwu7K32K5Nr+49jFw=",
+      "url": "data\/Images\/BGs\/MtQueplePeak.jpg"
+    },
+    {
+      "hash": "sha256-ZCIN3kM9M4MrpdOT+wFz3Cw\/DCzELp4rs\/FP1XPFGtc=",
+      "url": "data\/Images\/BGs\/MtYama.jpg"
+    },
+    {
+      "hash": "sha256-pyiILbvwQPldPUL4mhOXMpCmnRyuSFBZpyyLP7o\/EmE=",
+      "url": "data\/Images\/BGs\/MtYamaCave.jpg"
+    },
+    {
+      "hash": "sha256-D8fHBZFrXNpyYGAcu4+Kfyt8ay8LKKywqbbmiJt2MRU=",
+      "url": "data\/Images\/BGs\/MtYamaFoot.jpg"
+    },
+    {
+      "hash": "sha256-DqN2ov5exw1hlqTMDqaSyX67s0plWOisegyhWxQJFws=",
+      "url": "data\/Images\/BGs\/MtYamaMine.jpg"
+    },
+    {
+      "hash": "sha256-iITzL7TW24QW7nshWXnrgJE3\/Rp7Tq5iVd5WEUySqHw=",
+      "url": "data\/Images\/BGs\/MtYamaMine.png"
+    },
+    {
+      "hash": "sha256-HFWn+hB3xIYtjQbCn5w+2NNvnr0rRcqtAqqSjvcZaiE=",
+      "url": "data\/Images\/BGs\/NaknegHall.jpg"
+    },
+    {
+      "hash": "sha256-5yUYVaVFCoHSVxSE\/EH3eDDv4tnNrzOR2W7M\/CVYBSw=",
+      "url": "data\/Images\/BGs\/NmekufuGeneralStore.jpg"
+    },
+    {
+      "hash": "sha256-q+eeG1PiD3cu+nQc51TrSBkPTqVkXL8hEwEWArNf\/2g=",
+      "url": "data\/Images\/BGs\/NmekufuGoods.jpg"
+    },
+    {
+      "hash": "sha256-H5vyHxMt7XB5Pasgg0YdxynRRXnWBAJZ70Il1ZiaoZI=",
+      "url": "data\/Images\/BGs\/NmekufuVillage.jpg"
+    },
+    {
+      "hash": "sha256-JDIAY0vSgpEtthQfH3Y\/9SobAQrVSz2Z\/0Qbk5mptw8=",
+      "url": "data\/Images\/BGs\/NorthernTrail.jpg"
+    },
+    {
+      "hash": "sha256-8hVv5y\/by+fx0NkZ+HIM3RbA8a9cceCFjFnRQqtEBKM=",
+      "url": "data\/Images\/BGs\/NorthLeupp.jpg"
+    },
+    {
+      "hash": "sha256-UEiSkEh0qkV7GHftLYl1UIKr9DBn\/gqL1UokpCbG1vc=",
+      "url": "data\/Images\/BGs\/NorthTsuCity.jpg"
+    },
+    {
+      "hash": "sha256-uAQ5IuVHu7w88mkMre\/ck1Q9kRoA+CL0aeXYWBOancE=",
+      "url": "data\/Images\/BGs\/Oasis.jpg"
+    },
+    {
+      "hash": "sha256-4O0HaG\/bgzWOatDrtleTYZo\/S\/UyQ3YLBT2V1YWHZ1g=",
+      "url": "data\/Images\/BGs\/OceanFishingPlatform.jpg"
+    },
+    {
+      "hash": "sha256-pNaSdErqmlSuHVLILH3nohwxUAxhxgZFaEeGQswCD5M=",
+      "url": "data\/Images\/BGs\/OvergrownTrail.jpg"
+    },
+    {
+      "hash": "sha256-lxVXmK6VB+VhoeYoY8J8mdu9Btbh\/GvXcOtxki4LELk=",
+      "url": "data\/Images\/BGs\/PentlanditeMine.jpg"
+    },
+    {
+      "hash": "sha256-K7\/feIBTMT2LzpwyGLQty8T\/MxxMseqha9TWr2vXPkM=",
+      "url": "data\/Images\/BGs\/PirateShip.jpg"
+    },
+    {
+      "hash": "sha256-iYVJfC59cPRhF6HWZaR7iqSHJHvxtSUFhhBjjTAYA\/k=",
+      "url": "data\/Images\/BGs\/PirateShip.png"
+    },
+    {
+      "hash": "sha256-hyfLCZ0xV8Vtxp2zlm2zLWT2IlzrZCXiQ7bkajMSIDQ=",
+      "url": "data\/Images\/BGs\/PlantrainPlains.jpg"
+    },
+    {
+      "hash": "sha256-XhyMZTd2EOlAgvgY3OD\/M63ihbnpwbP6qv8bAJGxDNE=",
+      "url": "data\/Images\/BGs\/PreciousMetalSmithy.jpg"
+    },
+    {
+      "hash": "sha256-O6M2lDmWSNrnzs2IUQ4txXw8qV2UUOYWC7yjDalyrB8=",
+      "url": "data\/Images\/BGs\/QueplandFields.jpg"
+    },
+    {
+      "hash": "sha256-JzN6CDjnRnJpbjRbdn3NBi9o5k5CWoxg0wHx5hJYvCg=",
+      "url": "data\/Images\/BGs\/QueplandWoods.jpg"
+    },
+    {
+      "hash": "sha256-E+YUZWBrf+eFdIR2LK20VrS7zkyjCnb++2r2bksdnYU=",
+      "url": "data\/Images\/BGs\/QuepleCaveEntrance.jpg"
+    },
+    {
+      "hash": "sha256-4IvcSt0zOTUJ+4AAEUGW9lfpQJQg7gEbA6Fs8VPf3JI=",
+      "url": "data\/Images\/BGs\/QuepleCaveRiver.jpg"
+    },
+    {
+      "hash": "sha256-p1\/rSYAvSnnMrKKLMSc1V7DdEd+bloqpTBkYajyZ4Tc=",
+      "url": "data\/Images\/BGs\/QuepleCaveSmithy.jpg"
+    },
+    {
+      "hash": "sha256-H94PErR2vp3M1WueShb00l10+joOrukhRVpXLTodDTM=",
+      "url": "data\/Images\/BGs\/QueplesTomb.jpg"
+    },
+    {
+      "hash": "sha256-qUNHxDY6W\/4RV+Z42is5ItgdQt0DOkvbT+RkJ\/6AK5Q=",
+      "url": "data\/Images\/BGs\/QueplesTomb2.jpg"
+    },
+    {
+      "hash": "sha256-S5X1R495iiOr2PjldhiQBVcAcJDLiD4xiL1nCczbkRk=",
+      "url": "data\/Images\/BGs\/RaabitGate.jpg"
+    },
+    {
+      "hash": "sha256-1K6JtiRKD5zX2QFu75Ea8Ho9nAPodyXUIDwIqRcXKy8=",
+      "url": "data\/Images\/BGs\/Ricechild.jpg"
+    },
+    {
+      "hash": "sha256-Raym4LE07d1kzDAOmnbYbjRn4QuN9L1qGHT3\/osAsNs=",
+      "url": "data\/Images\/BGs\/RicechildSmithy.jpg"
+    },
+    {
+      "hash": "sha256-Ht10xEb\/DUrEo8FE6uFPaxpPfg9\/wreTilfss3d8tnM=",
+      "url": "data\/Images\/BGs\/RiimataPool.jpg"
+    },
+    {
+      "hash": "sha256-oFa5QULfaW1SKQgTRi4JnVptLH4SIMnAboiFmlKCrWM=",
+      "url": "data\/Images\/BGs\/Route7.jpg"
+    },
+    {
+      "hash": "sha256-Z\/ApeUAv9i6V6VCpPWTansju1DhvjWBoMDnJRNQl7aE=",
+      "url": "data\/Images\/BGs\/RusterakDocks.jpg"
+    },
+    {
+      "hash": "sha256-yc5Gd+OEWQ0CkQhyPe8leqnAhSA0Txn7VfIwELPn57M=",
+      "url": "data\/Images\/BGs\/SahotaCastle.jpg"
+    },
+    {
+      "hash": "sha256-tdb00YlQqCvwfR7Hk5zdzVSHTnJB9lAvYHUdiASaxE0=",
+      "url": "data\/Images\/BGs\/SahotaCaverns.jpg"
+    },
+    {
+      "hash": "sha256-7p05wMCW8YOdGx7kIsQN7ZHqN4qtYBCpSoY\/Hr8FrXA=",
+      "url": "data\/Images\/BGs\/SahotaClearing.jpg"
+    },
+    {
+      "hash": "sha256-OL9amILMS3fLPBfCOX6dRp+22Wed+q\/i9qDgwySeNTQ=",
+      "url": "data\/Images\/BGs\/SahotaDungeon.jpg"
+    },
+    {
+      "hash": "sha256-BicJ30Csi\/+s2s1Y4lltmdZWhnajhHA1dRH\/I1ePSyg=",
+      "url": "data\/Images\/BGs\/SahotaIceFields.jpg"
+    },
+    {
+      "hash": "sha256-XJ6\/Jvy0tB6SSAvr1dT15zAVRvrzABxKcmOGH+Q\/Uxw=",
+      "url": "data\/Images\/BGs\/SanbonClearing.jpg"
+    },
+    {
+      "hash": "sha256-CW26YHJm88qcTpOk5dQ8+E0gyrci65\/+9tHlOgLkw1Q=",
+      "url": "data\/Images\/BGs\/Sawoka.jpg"
+    },
+    {
+      "hash": "sha256-yn7k4VVt8Vw+3CH5J5F7okE6LHIrQCTJu5xfsAARWos=",
+      "url": "data\/Images\/BGs\/SawokaLibrary.jpg"
+    },
+    {
+      "hash": "sha256-JzAdmV+VHVQBDRFbvXAaM\/mLxC0w+4hQDkqTeQ2Yr04=",
+      "url": "data\/Images\/BGs\/SawokaVault.jpg"
+    },
+    {
+      "hash": "sha256-gJm6WEHsIMbqJs0Bbvm34XDhTPuYeEeOmcZOukpdPc0=",
+      "url": "data\/Images\/BGs\/SignMansSigns.jpg"
+    },
+    {
+      "hash": "sha256-kxOpfskInec8RqV9+W6fjXA29uS5QFG7XbF+4NmkpFY=",
+      "url": "data\/Images\/BGs\/SotuNran.jpg"
+    },
+    {
+      "hash": "sha256-govv+\/zh2TVelcKJQEkr85pRiWpEhgp2intVQRQZAN8=",
+      "url": "data\/Images\/BGs\/SotuNranWaterfall.jpg"
+    },
+    {
+      "hash": "sha256-xGZWo5vKQ3Kq4WRyvbU0EnkqUjCaU3Ydd2TbtTlrGrE=",
+      "url": "data\/Images\/BGs\/SotuNranWaterfall2.jpg"
+    },
+    {
+      "hash": "sha256-GGfX3ogDf6E\/5hdOp62lLejXrwaGZpemEkYhdcQ+bn4=",
+      "url": "data\/Images\/BGs\/SouthernTrail.jpg"
+    },
+    {
+      "hash": "sha256-OfoYjCZDGdNQUXNMCZ2QzWIMp0durhK2t7SorWhy2k0=",
+      "url": "data\/Images\/BGs\/SouthUfagariShore.jpg"
+    },
+    {
+      "hash": "sha256-iuGoLsseDKZ2HeXcJ05RcTu06DrnkdUfgTQkKM\/FWTU=",
+      "url": "data\/Images\/BGs\/StoneDoor.jpg"
+    },
+    {
+      "hash": "sha256-PAzJWkeloj0GlIyQ07\/5OLemGGesjd4u0txaNcmuk8g=",
+      "url": "data\/Images\/BGs\/StrangeHutNmekufu.jpg"
+    },
+    {
+      "hash": "sha256-Bxy0Eu84d1sMiAGf8qVeM7kIZcKRA7BlHPJw2W1uDsQ=",
+      "url": "data\/Images\/BGs\/StrangeWall.jpg"
+    },
+    {
+      "hash": "sha256-UVYuGSKsfwOHkQmFsicxr0kpD\/3O59lxvTukyKjifFw=",
+      "url": "data\/Images\/BGs\/SturdyShack.jpg"
+    },
+    {
+      "hash": "sha256-6hjQX4RTQspXD\/s0mvzMif2Eg6s\/4uaO1mVjFnGpO6I=",
+      "url": "data\/Images\/BGs\/SubfentonStows.jpg"
+    },
+    {
+      "hash": "sha256-nblgmmonWXBuyvzQHzll4ui13tSUsxjLi4YQGLTRVrY=",
+      "url": "data\/Images\/BGs\/SulmenkanLocalGoods.jpg"
+    },
+    {
+      "hash": "sha256-CDOm7phbzzIdHuSXQJudbzpboeNBHme8sPV25+g+188=",
+      "url": "data\/Images\/BGs\/SunajoFortress.jpg"
+    },
+    {
+      "hash": "sha256-yhKbcn\/1HUhoauft22dwykUge9TIGmeys5tnFGNMZLE=",
+      "url": "data\/Images\/BGs\/SunajoGeneralStore.jpg"
+    },
+    {
+      "hash": "sha256-R\/YNV8COsXsRCt5hdaAUJykhnI5kgmvd4Uqc7lnlRPA=",
+      "url": "data\/Images\/BGs\/SunsHarbor.jpg"
+    },
+    {
+      "hash": "sha256-pmcKSdpnNBla5brJ3qP5OApqN6sSH+UC8SCOp3AowuU=",
+      "url": "data\/Images\/BGs\/SunsHarborSupplies.jpg"
+    },
+    {
+      "hash": "sha256-oOY6NNYgzDV8McqV6C\/Be72aFnKtTxGtWdJcX5w8tZQ=",
+      "url": "data\/Images\/BGs\/Swampedge.jpg"
+    },
+    {
+      "hash": "sha256-orFrMyBn2hMhhiq7KTv\/hx22FmEaXmgXcsm1\/LraQ+I=",
+      "url": "data\/Images\/BGs\/SwampWood.jpg"
+    },
+    {
+      "hash": "sha256-A2NLesfVa88BVTzKRHUzYbLtaKAYxzu8I8Dst9UMd18=",
+      "url": "data\/Images\/BGs\/SwordSellerHut.jpg"
+    },
+    {
+      "hash": "sha256-OQUB+ySfty6qhuDmb+UsLLh\/syAwfutzdU7I2RwM+m8=",
+      "url": "data\/Images\/BGs\/TammysTannery.jpg"
+    },
+    {
+      "hash": "sha256-cK5G1OR2OtlF92W91NSGwUEJ\/9tTsY5XATal4TIVTwI=",
+      "url": "data\/Images\/BGs\/TangeiGardens.jpg"
+    },
+    {
+      "hash": "sha256-T0blSMPzr0DrF7cJcjXr3\/wPFrSWw5bRVwafkTsgkE0=",
+      "url": "data\/Images\/BGs\/TawayasTannery.jpg"
+    },
+    {
+      "hash": "sha256-StxwasLqMpBMiDLY0MmmQcSMDNmTpXOhfGDqZIElZuw=",
+      "url": "data\/Images\/BGs\/Teppas.jpg"
+    },
+    {
+      "hash": "sha256-ND7ej0vzPUHnBV7+YCuAaUEQ0k2pZPioUUGQZ4WvfEg=",
+      "url": "data\/Images\/BGs\/TheFaddium.jpg"
+    },
+    {
+      "hash": "sha256-1I1lK8L7sth4iYBRugU+8t87hoxYNxL1Up7ifjRbvqs=",
+      "url": "data\/Images\/BGs\/ThreeburyHayes.jpg"
+    },
+    {
+      "hash": "sha256-XLbiPfvahw41mUCjXliw1qDvEEus\/TjsJJuVXOfuRwU=",
+      "url": "data\/Images\/BGs\/TinMine.jpg"
+    },
+    {
+      "hash": "sha256-tnRvnbREykDPfJKU8mfiR41EBF0yn\/YEkCjw0jveUCw=",
+      "url": "data\/Images\/BGs\/ToadBarn.jpg"
+    },
+    {
+      "hash": "sha256-hdbKZeuvmwnlSIOpd6aiPcfbYwUQWm0xb\/OJqKlthds=",
+      "url": "data\/Images\/BGs\/ToadRanch.jpg"
+    },
+    {
+      "hash": "sha256-lD3YFwJNj\/DkuT5Jo34OAvDGLhxivUnsX3YC8xetk\/8=",
+      "url": "data\/Images\/BGs\/TreeNursery.jpg"
+    },
+    {
+      "hash": "sha256-hIIf5i4l94hw9PiVoTYtgHFboANczYFkKwMC4zT\/Wyo=",
+      "url": "data\/Images\/BGs\/TsuCastle.jpg"
+    },
+    {
+      "hash": "sha256-P047bu5L5mL+1SVv+LTZj\/Uwaes26\/QFXR1Y\/KkRw0k=",
+      "url": "data\/Images\/BGs\/TsuFarms.jpg"
+    },
+    {
+      "hash": "sha256-GeUHpFe2HnuSumcPJ8uymXFVFzbvHCePTVFn2pVEd0c=",
+      "url": "data\/Images\/BGs\/TsuValley.jpg"
+    },
+    {
+      "hash": "sha256-o4sFLRtPgIXgzYTebvwlYdVv\/8KwgjKAfI192X05ftY=",
+      "url": "data\/Images\/BGs\/TurruCenopa.jpg"
+    },
+    {
+      "hash": "sha256-5i3NIlhBDU1fKji7FiA1pUUpfbLLfhSjqF2a3i95lvo=",
+      "url": "data\/Images\/BGs\/UfagariFields.jpg"
+    },
+    {
+      "hash": "sha256-\/PotGtnhVGrqiN1e82HyHQi7pEb2mOL9eNwOx23fe1c=",
+      "url": "data\/Images\/BGs\/UfagariLanding.jpg"
+    },
+    {
+      "hash": "sha256-ohaZQvZmjysp0jxjkVYoRYaNa5icbhCsVGmBax7\/WKM=",
+      "url": "data\/Images\/BGs\/UfagariVillage.jpg"
+    },
+    {
+      "hash": "sha256-OwDW+03vPhiLGz5GEqIfhHpKr0BJ\/BtFboGVmzVz1oA=",
+      "url": "data\/Images\/BGs\/UpperBranches.jpg"
+    },
+    {
+      "hash": "sha256-UPd5QJnlcL6xatnIupWTclfqyhnNAU2kbX1kEmsEwwg=",
+      "url": "data\/Images\/BGs\/UpperMtQuepleTrail.jpg"
+    },
+    {
+      "hash": "sha256-N+S34YDVY+Io7O974v4kR2SySVfLcCcJjuvBeEP8UHM=",
+      "url": "data\/Images\/BGs\/UpperMtYamaMine.jpg"
+    },
+    {
+      "hash": "sha256-kbXpbTjdCmY1BSzd7Z5AXBeyVRHuwd0ZyRcUbIWmOZI=",
+      "url": "data\/Images\/BGs\/UragotaTown.jpg"
+    },
+    {
+      "hash": "sha256-RCuKGhsHFrhKYye94\/h5QOJ7pqc0FOpr0QqNfje8C2o=",
+      "url": "data\/Images\/BGs\/WanaTonaLake.jpg"
+    },
+    {
+      "hash": "sha256-kN+iUWbAof+fAdnCvuSs2\/uxD0fuSTk5dLzdKysda0k=",
+      "url": "data\/Images\/BGs\/WaterHall.jpg"
+    },
+    {
+      "hash": "sha256-8kpUJTRfY+K\/8juMeE323uU+CeeKm6oPos3oCUbglc8=",
+      "url": "data\/Images\/BGs\/WaveringWoods.jpg"
+    },
+    {
+      "hash": "sha256-+NmFEoznL76XK0eK7cDeoNaEgoX07jeRoq26WRkCQy8=",
+      "url": "data\/Images\/BGs\/WestTsuCity.jpg"
+    },
+    {
+      "hash": "sha256-oGMATQBNddB13RgGkfh\/FeyQzd\/Z2FKlPRx5uofwX8Q=",
+      "url": "data\/Images\/BGs\/WestUragotaDocks.jpg"
+    },
+    {
+      "hash": "sha256-sl1h5zcq3tbheGhKBssRVqWWFPZiRtWyXONVEkaLeb8=",
+      "url": "data\/Images\/BGs\/WestWing.jpg"
+    },
+    {
+      "hash": "sha256-sTeC4xwdCmdn\/S+GSkxqrpQSfdsa\/2fLr2Eleb397UY=",
+      "url": "data\/Images\/BGs\/WindHall.jpg"
+    },
+    {
+      "hash": "sha256-CzDjXwyeWsZHLqD2ApTX2sNANUGQO4u5TSMW6kOasbA=",
+      "url": "data\/Images\/BGs\/WoodworkersAssociation.jpg"
+    },
+    {
       "hash": "sha256-zhMh1B8fMnz5qKCve0ph6ekH6oR6O9FjlhxyxQW+v2M=",
       "url": "data\/Images\/BigCoin.png"
     },
@@ -601,6 +1361,10 @@
       "url": "data\/Images\/Blade.png"
     },
     {
+      "hash": "sha256-DNwPKmSGZTChZYGr96FWb+01\/U\/ZOcEccX0HhOINwCc=",
+      "url": "data\/Images\/Blast.png"
+    },
+    {
       "hash": "sha256-NIKL4OmFkpIWm4UQu9vfbM8A4pyipnqLAzG\/ZiQSOIs=",
       "url": "data\/Images\/BloodyKnife.png"
     },
@@ -615,6 +1379,14 @@
     {
       "hash": "sha256-jfPsSVPQFGjpSbkPasWfEGhdY+150nCOiAWnEcqQiqE=",
       "url": "data\/Images\/Bone Shard.png"
+    },
+    {
+      "hash": "sha256-+bdrX4vZkKR+HRtiZqN6oEF0M0uyOHgStrvrlktsCkI=",
+      "url": "data\/Images\/BoneStaff.png"
+    },
+    {
+      "hash": "sha256-alRwG+w7p+livU33S27MQ3IKG5m\/8Umk9yFA+EVRql0=",
+      "url": "data\/Images\/BoneSword.png"
     },
     {
       "hash": "sha256-3xB+dox6nxgExdS4KsyklrRcmo+QggO7rpGkTvXOq9k=",
@@ -651,6 +1423,10 @@
     {
       "hash": "sha256-LJF3pF+h4IL7wC+3iFnvbFMrzGloUD0t\/MsjqeinZmo=",
       "url": "data\/Images\/Bread2.png"
+    },
+    {
+      "hash": "sha256-N2ivknmbdmU9T\/omL3MwENGgqTUrH66fxL8KKyp7o8E=",
+      "url": "data\/Images\/Breathe.png"
     },
     {
       "hash": "sha256-HgP6gX1b6T2cDz4UyV1bFe5zVCcMAT1DshEiRZWJlcA=",
@@ -749,6 +1525,10 @@
       "url": "data\/Images\/Chest.png"
     },
     {
+      "hash": "sha256-5kj9Zo5gXTT4WYprzy+Y0AeBdr8z36GnEMnV+Ha0s1Y=",
+      "url": "data\/Images\/Chicken.png"
+    },
+    {
       "hash": "sha256-VgLw6TtP+AVkJLiwy96811US2vQJjLVJANzcqBisJ70=",
       "url": "data\/Images\/City.png"
     },
@@ -779,6 +1559,10 @@
     {
       "hash": "sha256-Ce\/+10OuN\/6I5kv3qU4lsjW5kSD8\/HH7BzIMVBNZbNU=",
       "url": "data\/Images\/Coins.png"
+    },
+    {
+      "hash": "sha256-0PFlCDv9KrmmFMyWcLCjkg4o4F6RQ01v0bwwFyNchus=",
+      "url": "data\/Images\/Consume.png"
     },
     {
       "hash": "sha256-IoPKglmiT5eCByhfDNIfmjigUX+fEjBFyR7ex5C+sII=",
@@ -833,6 +1617,10 @@
       "url": "data\/Images\/Deftness.png"
     },
     {
+      "hash": "sha256-Yaso2YMwIVqhj2NGzZLFYz4a3LGiEWu9IeHEw7imMd0=",
+      "url": "data\/Images\/Dehydrate.png"
+    },
+    {
       "hash": "sha256-MDBMToJhtD5NCOC0TtlKi9Ayk8muw9YfhSRaOMqxHj4=",
       "url": "data\/Images\/DiscordLogo.png"
     },
@@ -881,6 +1669,18 @@
       "url": "data\/Images\/EmptyRoll.png"
     },
     {
+      "hash": "sha256-ajzOvT4TeX+7qX8XmDWM5w\/nEZhXAvXISWxgjjW\/mAQ=",
+      "url": "data\/Images\/Enchant.png"
+    },
+    {
+      "hash": "sha256-mZKszkxOC6gPbvN3ftiGexbWNffHnm9wZ\/DtbmspNrU=",
+      "url": "data\/Images\/Endure.png"
+    },
+    {
+      "hash": "sha256-bNbVUu3Dq5Tq98OjWxfXFCq+yXzO6wMU6nB6SQA1HM0=",
+      "url": "data\/Images\/Entangle.png"
+    },
+    {
       "hash": "sha256-+3mazB6\/xeufOko2fVeUpEhI8NP9StxLk07Hksju\/ac=",
       "url": "data\/Images\/Equipment.png"
     },
@@ -895,6 +1695,10 @@
     {
       "hash": "sha256-MclvKbZMqHSHr7JkrZ3KjFL3njkb6b+kYPrABn9FByY=",
       "url": "data\/Images\/EXP.png"
+    },
+    {
+      "hash": "sha256-8VkiyFj25RTdikgtrZo3EexWJHIm8OBvgGXKViL8LBI=",
+      "url": "data\/Images\/Extract.png"
     },
     {
       "hash": "sha256-YTPIEuspgvwCDYh6YajEQDAD0JQeTdxoUPWQrXqM+Lw=",
@@ -1089,6 +1893,10 @@
       "url": "data\/Images\/IceCastle.png"
     },
     {
+      "hash": "sha256-hZ6AGqUUfYzqOlaanBjGv5g7QXkq0\/VrDq\/cWeLZLfU=",
+      "url": "data\/Images\/Introspect.png"
+    },
+    {
       "hash": "sha256-lINXKkV7xbI7sy5n4L2pRYpswIOKMkNz0+7nc39uIz4=",
       "url": "data\/Images\/Inventory.png"
     },
@@ -1137,6 +1945,10 @@
       "url": "data\/Images\/Leatherworking.png"
     },
     {
+      "hash": "sha256-QkTWZKPAcwDEEJrpRyZ43n5W8NGSdsYZ2RKb\/PfpUVQ=",
+      "url": "data\/Images\/Lift.png"
+    },
+    {
       "hash": "sha256-KObR1++31bj\/+PmTN8jfojYi\/VsNi\/VZLUJcW\/UIcFg=",
       "url": "data\/Images\/Lighthouse.png"
     },
@@ -1157,8 +1969,20 @@
       "url": "data\/Images\/Loot.png"
     },
     {
+      "hash": "sha256-v4yGz26q5XmlMmMhP95f1tLcKzuanZrpJGqkQOcY9Kg=",
+      "url": "data\/Images\/Lure.png"
+    },
+    {
       "hash": "sha256-93R6I7lP3IxMGWtjwm8yaUvCz9ZqVA8GJbQVPXE3Moo=",
       "url": "data\/Images\/Madder.png"
+    },
+    {
+      "hash": "sha256-E6dIfQD4esBujGObmsBz8gYB6smRfZnB7zRC6KdViDg=",
+      "url": "data\/Images\/Magic Needle.png"
+    },
+    {
+      "hash": "sha256-qqnRk4ITXb3qG4HnqbC2\/Pnx2Z8bRB3lLIiqPgLHsX8=",
+      "url": "data\/Images\/Magic.png"
     },
     {
       "hash": "sha256-U5Vlh5bZSngGr5GBZ3prv78dJc1RBYvX64yjRQLXDQk=",
@@ -1171,6 +1995,10 @@
     {
       "hash": "sha256-S8bAE5x4g\/kkhTEw+YUAo6YG4rSE\/rcXXJpf7b4ILCE=",
       "url": "data\/Images\/MantaRay.png"
+    },
+    {
+      "hash": "sha256-+Dhdo73TpAElpvUtqLVp7pg+K9pcCxtKYOHGb5qRxxs=",
+      "url": "data\/Images\/Mantle.png"
     },
     {
       "hash": "sha256-eocRUI2x+g6KBGbLb9ml0Z0a3w\/cjxEKd8+kChzR1Pw=",
@@ -1197,12 +2025,20 @@
       "url": "data\/Images\/Milk.png"
     },
     {
+      "hash": "sha256-YPX+jtKTWMAXPlu75+Vc0bZlOeC\/iEX16a4cPz4kocc=",
+      "url": "data\/Images\/Mind Trick.png"
+    },
+    {
       "hash": "sha256-qAcF3OnqOuP5rqWsNldlUc8XImKJatcfcJYspO43tNg=",
       "url": "data\/Images\/Mine.png"
     },
     {
       "hash": "sha256-DEyF35fiqGtdoODXN0p2EgI9kBuVmaoOcPRys\/dwPYw=",
       "url": "data\/Images\/Mining.png"
+    },
+    {
+      "hash": "sha256-jw3mx1QTvPV6kU1KgclbbHhHcCwmcVg\/YoGoy0yofBQ=",
+      "url": "data\/Images\/Molten Swing.png"
     },
     {
       "hash": "sha256-3804yU+Eu5y0CwxMcmYr4ftfwrygUDbgefUZF5nji1Y=",
@@ -1349,12 +2185,28 @@
       "url": "data\/Images\/Raft.png"
     },
     {
+      "hash": "sha256-UPCKa3LkYbH1SZ1GZ5bZ3GsH6WxWYmpTsAzkyHoAhZg=",
+      "url": "data\/Images\/Rain.png"
+    },
+    {
+      "hash": "sha256-EYhfxplZXsvbmGhGOJufOlqSByaZnozgvQaKS85EiZs=",
+      "url": "data\/Images\/Rally.png"
+    },
+    {
       "hash": "sha256-3afZA8ShqFNkp8TcVx771caRhJ7VuIz1hZmPsondRT4=",
       "url": "data\/Images\/Raw Bird.png"
     },
     {
+      "hash": "sha256-q4FFfR35K+daiBIXhpgXRIOR0yR\/zzn6UcJcDMFT3oU=",
+      "url": "data\/Images\/Reflect.png"
+    },
+    {
       "hash": "sha256-MzgHD9ftfjnGENaYqp6oTqjID9agSHqydjrfgAWN+Jo=",
       "url": "data\/Images\/ReversedTrail.png"
+    },
+    {
+      "hash": "sha256-RgXcmm2EP+Rz3BZygAloLrV24IiQPPk\/FjP3kXdT9vo=",
+      "url": "data\/Images\/Rice to Rolls.png"
     },
     {
       "hash": "sha256-oy5GksNLhq5gj7xD24QXIVuT8Qt\/qMlEda+AFOP1gOs=",
@@ -1395,6 +2247,14 @@
     {
       "hash": "sha256-CSbBvY0M05eCEhd45rsZjt4Q20yf2W\/OZ1E0FPOQ4tQ=",
       "url": "data\/Images\/Scallop.png"
+    },
+    {
+      "hash": "sha256-gpF9xTGaaVWWmcBEGAD0Z1XPA29TsS\/BEgml1cGYpHY=",
+      "url": "data\/Images\/Screeching Aur.png"
+    },
+    {
+      "hash": "sha256-eZD7+0cLpd\/Mk9mU7HHRE8LQTBkGybOk31UjSBtQ\/o0=",
+      "url": "data\/Images\/Scroll.png"
     },
     {
       "hash": "sha256-FG5VQ3x3beGaoFPwSOf3gMwiz1VVeXxt1fbNOt0z3p0=",
@@ -1509,6 +2369,10 @@
       "url": "data\/Images\/Sticks.png"
     },
     {
+      "hash": "sha256-Pw3TPfDeTmqt\/jKm0DJ+inPkMY69qRSp3UwyzmLins4=",
+      "url": "data\/Images\/Stinger.png"
+    },
+    {
       "hash": "sha256-xRjuVnf10ft5hduy55T1q2PRsNZbMApC84FXHPCeRa0=",
       "url": "data\/Images\/Stone.png"
     },
@@ -1533,6 +2397,10 @@
       "url": "data\/Images\/Stun.png"
     },
     {
+      "hash": "sha256-5kj9Zo5gXTT4WYprzy+Y0AeBdr8z36GnEMnV+Ha0s1Y=",
+      "url": "data\/Images\/Summoned Chicken.png"
+    },
+    {
       "hash": "sha256-7kt4reGV6O\/QXD+ZfLgMLM\/eWMqh3I6KlUNF0DDPqOs=",
       "url": "data\/Images\/Sushi.png"
     },
@@ -1551,6 +2419,18 @@
     {
       "hash": "sha256-oLL\/P1u3+6Es+oSCrsjxhg72XAvvfzu1WkvPhCBKQ1E=",
       "url": "data\/Images\/TearDropNecklace.png"
+    },
+    {
+      "hash": "sha256-ICfYQXm6LZzGcGJ8SP7iE7hlGNptQ+2q\/9+X2UcDdis=",
+      "url": "data\/Images\/Teleport Branch.png"
+    },
+    {
+      "hash": "sha256-\/yrmw0pmDHJ1RkGLmUfXg\/VOI4e73rzKnPkpjVllGaw=",
+      "url": "data\/Images\/Temporal Leap.png"
+    },
+    {
+      "hash": "sha256-o5Cq5I32CSPz7EOCZdE5jVmQ0huOL2v84k53DADIU3E=",
+      "url": "data\/Images\/Textile Arts.png"
     },
     {
       "hash": "sha256-wTkLFPSws\/pTUFqGMNl3207PvLYUM17LvPSt6BfSqCk=",
@@ -1613,6 +2493,10 @@
       "url": "data\/Images\/UncutGem.png"
     },
     {
+      "hash": "sha256-BPCfLLI1iUhRj95vtk36xeH4L1Va7BAjbu6KZb9T4rI=",
+      "url": "data\/Images\/Undulate.png"
+    },
+    {
       "hash": "sha256-\/RKm\/uPsvQiuGopJoFm5zLGnVu21nRw82MVzvxiGJyU=",
       "url": "data\/Images\/UnleavenedBread.png"
     },
@@ -1673,6 +2557,10 @@
       "url": "data\/Images\/WhiteLog.png"
     },
     {
+      "hash": "sha256-W9b8G5\/cLtqmDft713jNfRmAwgYsAcp\/djb2rxKRP+Y=",
+      "url": "data\/Images\/WhiteMagic.png"
+    },
+    {
       "hash": "sha256-eZHVbU9fNnmW71VmcPK8Q+PNwKR+fjuHjCeLpWQZuYw=",
       "url": "data\/Images\/WhiteQuests.png"
     },
@@ -1721,7 +2609,7 @@
       "url": "data\/Images\/Worm.png"
     },
     {
-      "hash": "sha256-8MkVEaNQcAtIE\/UU8963tXwDnlQi6ASsAludRq4NLm0=",
+      "hash": "sha256-lWTQ3r9m8AFEGgybrUPujH1Sz+2wunXiM30FjhUvJWw=",
       "url": "data\/Items\/Armors.json"
     },
     {
@@ -1749,7 +2637,11 @@
       "url": "data\/Items\/Elements.json"
     },
     {
-      "hash": "sha256-+3w3ROStdtQgoQ0VIxDeIBFXgLUfWkWzBAnxaKq37NU=",
+      "hash": "sha256-SinslVdrxbFSBahpI+sL+aEXoS63QoAEL7hLbEhR4EM=",
+      "url": "data\/Items\/EnchantedNecklaces.json"
+    },
+    {
+      "hash": "sha256-UxdpuLLBIFRUsE9Bqosb3xEeDS+7Z2ab+uBVe7DPoM8=",
       "url": "data\/Items\/Fishing.json"
     },
     {
@@ -1757,7 +2649,7 @@
       "url": "data\/Items\/Gems.json"
     },
     {
-      "hash": "sha256-0I3MEOyIQODyLlzoFWfd8gyRTw+TJoaNmsBgCO7B7i0=",
+      "hash": "sha256-BFcWEFToAF2\/RlhjeYyQSKfGQTTEZXNVM6feWzx6vzk=",
       "url": "data\/Items\/General.json"
     },
     {
@@ -1777,7 +2669,7 @@
       "url": "data\/Items\/Logs.json"
     },
     {
-      "hash": "sha256-dRaUgai0yppUMZZnN0tWi8ijZT+amVjM+3UddsmpcbI=",
+      "hash": "sha256-+fO5ZNievZyGc9yREY3RPMcEyn2R7bfH+ibv7bZC6uM=",
       "url": "data\/Items\/Magic.json"
     },
     {
@@ -1785,11 +2677,11 @@
       "url": "data\/Items\/Necklaces.json"
     },
     {
-      "hash": "sha256-LQn3l8LwkyIBYLBJpT4+EsNIn2Trb2uLsWRTcNINXGw=",
+      "hash": "sha256-ISLNOb0fXCezi5INYC2Q\/VFJx5t0ucnSK73vo1JxSiw=",
       "url": "data\/Items\/Ores.json"
     },
     {
-      "hash": "sha256-4GgupFX4c7QN1BIIgjvMzLXf+fu4lXpFyG8Eety+bg0=",
+      "hash": "sha256-fOjGK5Uk8uaNL8X8fQBqA5P+ZXuDYGEdZdo+beNLm2g=",
       "url": "data\/Items\/QuestItems.json"
     },
     {
@@ -1797,7 +2689,7 @@
       "url": "data\/Items\/Shields.json"
     },
     {
-      "hash": "sha256-NSFIso2WB8RKdTxrfkDkdXKmtGMlJRHtztSPHgjbXa8=",
+      "hash": "sha256-YnuZ2XLfpPkkZXMOrN9nmZ4wx1B28ojrwcnuUJLwXiI=",
       "url": "data\/Items\/Sushi.json"
     },
     {
@@ -1805,7 +2697,7 @@
       "url": "data\/Items\/Textiles.json"
     },
     {
-      "hash": "sha256-P\/dWkZnvPW395GIv9bCVrsleU8ouqYiGOZ5Da9bhkHo=",
+      "hash": "sha256-medysqUFak9SGmEECLfIJYCEmpxspmIMt2IhMQHbCvQ=",
       "url": "data\/Items\/Weapons.json"
     },
     {
@@ -1817,15 +2709,15 @@
       "url": "data\/Lands.json"
     },
     {
-      "hash": "sha256-Jc+oXOimBbvz7YpR9Mf8JmmymB9xwHPSxyfkmsXOnV8=",
+      "hash": "sha256-YMH3k+kMp7v8EWrSNAePYFudyjA7YeLFujpY1EAjBlc=",
       "url": "data\/MinigameDropTables.json"
     },
     {
-      "hash": "sha256-BkDT2Z5rSfmR5ddkiEadc60QzqzlOYHCEvDk\/LcWrkg=",
+      "hash": "sha256-e3edht1uV5T6x5ZqK+ZY9TzeKtwOhZ1O+4orU0oZjao=",
       "url": "data\/Monsters\/Bosses.json"
     },
     {
-      "hash": "sha256-HcF\/D6e6cNkOBj07zcXLaZf55\/qDEH+3+t6H6vsKETE=",
+      "hash": "sha256-2VZ4Rzl8Te3Qny5FiBBX0TrxtdN3iHPNgoNFeuzHRbY=",
       "url": "data\/Monsters\/DojoOpponents.json"
     },
     {
@@ -1833,7 +2725,11 @@
       "url": "data\/Monsters\/EasternLands.json"
     },
     {
-      "hash": "sha256-phCb9XW2mJc27HRJtUC0eVrJcutYfDwIYTypRwObIO8=",
+      "hash": "sha256-heKnN4\/qJS0wOA7+X5q4hS6Jx7aL6Tvd+AIWgFa00Z4=",
+      "url": "data\/Monsters\/Lighthouse.json"
+    },
+    {
+      "hash": "sha256-QDn4Usf79wTZrIUX+TzdLfy9vIJqlVprIa1HV7HwAVs=",
       "url": "data\/Monsters\/Overworld.json"
     },
     {
@@ -1841,12 +2737,16 @@
       "url": "data\/Monsters\/Underworld.json"
     },
     {
-      "hash": "sha256-PeuZQAcFu5wDmuYiXMbR8M1JfOIgwzAOlplUOQz+jTA=",
+      "hash": "sha256-+BGLE0aUdb9DmvYRXdrTnXdhu9rHNYNnI8nXCfreczY=",
       "url": "data\/NPCs.json"
     },
     {
       "hash": "sha256-JCcu6Oz248mqgSFLhvSAND22WTjjnN8C1s0v\/ben2X4=",
       "url": "data\/NPCs\/Anthretagro.json"
+    },
+    {
+      "hash": "sha256-yu2fi7tBSSt1MAW5Wv4UfRpOhIdRor0wKO\/tPqr2ZM8=",
+      "url": "data\/NPCs\/Bavor Starsi.json"
     },
     {
       "hash": "sha256-R20HWXnRfj7YoxUo62e5rH4TETJEwZqQYYvhlIJTWrQ=",
@@ -1885,7 +2785,7 @@
       "url": "data\/NPCs\/Excited Traveller.json"
     },
     {
-      "hash": "sha256-P6HbFhIEm\/wJu9WEpfuJU\/cWGNV3JANnExv6yKXnUL8=",
+      "hash": "sha256-7FSHGHzD8m5GcyETfYvUrq0ry2L4gVe1pomA5+z6biU=",
       "url": "data\/NPCs\/Fen Pilsk.json"
     },
     {
@@ -1925,7 +2825,7 @@
       "url": "data\/NPCs\/Gyoruik.json"
     },
     {
-      "hash": "sha256-IkkQcRUswf5jxpzKBLMkfbg5f3anEigSdJRpKLFpHXg=",
+      "hash": "sha256-ifazD0OY0dLgDZ46Loh76PAMgUNZmnVGuLb15Vp4Yic=",
       "url": "data\/NPCs\/Hadeas Tajek.json"
     },
     {
@@ -2009,7 +2909,11 @@
       "url": "data\/NPCs\/Lazy Traveller.json"
     },
     {
-      "hash": "sha256-uwdv8zf5T3olvVEYQ0K30Lwog9wWlnvXaD\/kBhcPakg=",
+      "hash": "sha256-DQ5tO3JBDTC726ReJnv3k1GycQAhQL76G9rBX72zJlE=",
+      "url": "data\/NPCs\/Lighthouse Wall.json"
+    },
+    {
+      "hash": "sha256-WyQeRiC66jkrvpn+4kukfSx8SSRdKGM5e\/Vvndom1qI=",
       "url": "data\/NPCs\/Linehart Wichperger.json"
     },
     {
@@ -2041,11 +2945,11 @@
       "url": "data\/NPCs\/Nodlesh.json"
     },
     {
-      "hash": "sha256-icOouzK8RYkSNNhqJkeuzaiaXutkR4M42Z76XrqQrn0=",
+      "hash": "sha256-wwUbib2u0Wu4Mrh6tqRlwLK7R3ZriBaSuzyaoMGIW8w=",
       "url": "data\/NPCs\/npc-schema.json"
     },
     {
-      "hash": "sha256-UXc4pKTpZeFfLkGqDm4Slh57aK5g5fWLz0BKxL\/jBws=",
+      "hash": "sha256-pNK2d5Fea27oS8gI\/rAJzBYxvKrd7\/WLYCrVDARAClI=",
       "url": "data\/NPCs\/Oikaaz.json"
     },
     {
@@ -2069,7 +2973,7 @@
       "url": "data\/NPCs\/Quartermaster Argon.json"
     },
     {
-      "hash": "sha256-9JD5r2RdEuu\/CBlXshcYem4OSSRj64USq2BdGc4JyIQ=",
+      "hash": "sha256-yMS2JIZd4R\/Kli+lSWC\/SO0\/pDUBNWuf1SqPAMpXlXU=",
       "url": "data\/NPCs\/Queple's Tomb.json"
     },
     {
@@ -2101,11 +3005,15 @@
       "url": "data\/NPCs\/Ruto.json"
     },
     {
+      "hash": "sha256-MuqTomQI4pEQ5IBzZfxZVZAFlJ1Tp8xPLdceLE6eMf8=",
+      "url": "data\/NPCs\/Sailor.json"
+    },
+    {
       "hash": "sha256-SXKt+iP6CT\/EmAVhlzRyfOCIKa1dKX31JO1AYjrVbb8=",
       "url": "data\/NPCs\/Shop Attendant.json"
     },
     {
-      "hash": "sha256-wY5aIY1PcZqMBLSKDNG27+X8G5pVbhz3L9ZSPGe41Zc=",
+      "hash": "sha256-Q1N\/icpP25XtjCx56dGj2cAsbhG25MxxLciOF1qOiMc=",
       "url": "data\/NPCs\/Sinapius.json"
     },
     {
@@ -2169,7 +3077,7 @@
       "url": "data\/NPCs\/Tired Traveller.json"
     },
     {
-      "hash": "sha256-Imtl72vxcJ25tb7XcPNLkAWgo3wCITIZebZwjdJ9J6A=",
+      "hash": "sha256-9LX7znUIK2gfvctoRO1Fvrgfpv1piiPMoOEF1myoSgc=",
       "url": "data\/NPCs\/Tochtei.json"
     },
     {
@@ -2201,7 +3109,7 @@
       "url": "data\/NPCs\/Wakanidsko.json"
     },
     {
-      "hash": "sha256-p87RZvQjX0s2yp\/dulQ5U2+Csx58INTQn+PDHETHZEo=",
+      "hash": "sha256-EAefRmRrJGy+8Xbm9pD4AaeCQUAOxirAA4OqE\/5\/62E=",
       "url": "data\/ProgressFlags.json"
     },
     {
@@ -2213,7 +3121,7 @@
       "url": "data\/Quests\/CaseOfTheDeadPirate.json"
     },
     {
-      "hash": "sha256-h+S6WAwAquP8LdE4GTzEK0issYu3o0hOozfU4lfpjqs=",
+      "hash": "sha256-kipmd78XVCOGDUeXK3ZoFNECur7ENyg8N5hSnRK2h38=",
       "url": "data\/Quests\/ChrysopoeianCrisis.json"
     },
     {
@@ -2233,7 +3141,7 @@
       "url": "data\/Quests\/OrioleOrnithology.json"
     },
     {
-      "hash": "sha256-F\/ZGy3Fn68Sf6zLtqRS+Wc9\/dp7DUtw65xSa++6jvL4=",
+      "hash": "sha256-BQX2XhXj\/APbjdbCsNefSAt+ZlHAJIEoLwcTO1H35sY=",
       "url": "data\/Quests\/Queple'sSword.json"
     },
     {
@@ -2257,11 +3165,11 @@
       "url": "data\/Recipes\/GemRecipes.json"
     },
     {
-      "hash": "sha256-HKEvRUqU5StG6i9AkNCzVUgjP5eOxxy7an7LT0wmlWY=",
+      "hash": "sha256-64hCHyRqJk+OheWvPnzshyieZ3Pfy6Oif9IdeR6oNEw=",
       "url": "data\/Recipes\/LeatherworkingRecipes.json"
     },
     {
-      "hash": "sha256-1ayIiceucUZNE6WhmEsmTUZAVJ008wd31SPaOmUX3kw=",
+      "hash": "sha256-mVb1h+2ikW+sGUu1P+7i2wQk2FaeNdjwn76z28UoiwI=",
       "url": "data\/Recipes\/MiscRecipes.json"
     },
     {
@@ -2293,7 +3201,7 @@
       "url": "data\/Recipes\/Smithing\/IronSmithingRecipes.json"
     },
     {
-      "hash": "sha256-jMhxJhVB0hlo6FwBhaUrdBGAnFFz08vcLQnur5KhSlA=",
+      "hash": "sha256-ZR6BqcM\/QjpamqEbj+lVR7cG7zKtyLDENh+448d6Rwc=",
       "url": "data\/Recipes\/Smithing\/IseroiteSmithingRecipes.json"
     },
     {
@@ -2317,7 +3225,7 @@
       "url": "data\/Recipes\/Smithing\/PlatinumSmithingRecipes.json"
     },
     {
-      "hash": "sha256-li+bgH27OlrqvoNbQsoTOI8IRPX0\/V0r42lQgbkCAp8=",
+      "hash": "sha256-Md0Li9kguGKckvXkzE\/mYx7m3B8NAG3qnPFivmIF79k=",
       "url": "data\/Recipes\/Smithing\/SahotiteSmithingRecipes.json"
     },
     {
@@ -2329,7 +3237,7 @@
       "url": "data\/Recipes\/Smithing\/SteelSmithingRecipes.json"
     },
     {
-      "hash": "sha256-Vn12bK6CO2mB+rXgrn1s2rciuRBglhd2oAsbM6Xq1JU=",
+      "hash": "sha256-A13NL8x6vx+Sh5ywsoW9C2W3CAMsoC68IBYeukvHgjQ=",
       "url": "data\/Recipes\/Smithing\/StrongtiumSmithingRecipes.json"
     },
     {
@@ -2341,7 +3249,7 @@
       "url": "data\/Recipes\/Smithing\/ZincSmithingRecipes.json"
     },
     {
-      "hash": "sha256-eXH6u0Fpy9wpBmcWsHnHL7ZkoKNT7RGApJm8EloHBtA=",
+      "hash": "sha256-QAoYz5wmvo7W51dM3KQVhjIQXORjOWd9gFgOgV\/C9fI=",
       "url": "data\/Recipes\/SushiRecipes.json"
     },
     {
@@ -2349,7 +3257,7 @@
       "url": "data\/Recipes\/TextileRecipes.json"
     },
     {
-      "hash": "sha256-5WKmIQdN\/OPbP3q78D0JkCfVrROg2k9SAKLFvURx7Ug=",
+      "hash": "sha256-rsoRV1qgxzZi1ucOXiRK0RdwqOrk\/\/wNGjH67VzT8V8=",
       "url": "data\/Recipes\/UnpackingRecipes.json"
     },
     {
@@ -2357,23 +3265,27 @@
       "url": "data\/Recipes\/WoodworkingRecipes.json"
     },
     {
-      "hash": "sha256-RBoDCMWIADiFF8joCHmBfTmqvfwMSN4w0o9rILkdYWw=",
+      "hash": "sha256-Qli5nwD3lwM0CDRQxI7Vvww3VYMvp2CQPzHuma6U8u8=",
       "url": "data\/Regions.json"
     },
     {
-      "hash": "sha256-j7cvRx7xRbRxj1AGxFJi6+Zs5aVCU9zBJemPIeSd\/DI=",
+      "hash": "sha256-DyNFc94xiHinJmWXe0x0UgyTPpJzPJe2zceR0pin11k=",
       "url": "data\/Skills.json"
     },
     {
-      "hash": "sha256-cvx5lYeFzdzxRwY\/9d14K28FA4D2jioHZP8WO2TcGaA=",
+      "hash": "sha256-GHwVzSo\/CvwnV3muT5UxiIDkLCk6K7Xp9CISsq+NhGk=",
       "url": "data\/Smithies.json"
+    },
+    {
+      "hash": "sha256-g5URBsUqCndjfavu30fC\/BLCwyxhVPEgSnGzHiyjYn0=",
+      "url": "data\/Spells.json"
     },
     {
       "hash": "sha256-aV\/Jkw8vCaMEMrn07xrQ1hTjrsogA\/4BLneNHTs2cDA=",
       "url": "data\/Tooltips.json"
     },
     {
-      "hash": "sha256-aBxVfDp7H6f2YFhwFJwIS26zDJOgXQcyI8Y7sDGJpG4=",
+      "hash": "sha256-BUuaFe7Z2+7DmaGiGeWqXqISG+V8vX3f8nuioVed\/QA=",
       "url": "data\/Updates.json"
     },
     {
@@ -2401,5 +3313,5 @@
       "url": "Services\/GameState.cs"
     }
   ],
-  "version": "+bswagKe"
+  "version": "MGqoETZu"
 };

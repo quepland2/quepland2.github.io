@@ -154,6 +154,13 @@
     "icon": "Bone Shard"
   },
   {
+    "name": "Bone Fragment",
+    "description": "A bit of bone dropped by a stormwalker. You could form this into some kind of weapon.",
+    "value": 15000,
+    "icon": "Bone Shard",
+    "secondaryColor": "#ffffff"
+  },
+  {
     "name": "Hemp",
     "description": "A fast-growing weed useful for turning into fiber.",
     "value": 10,
@@ -300,6 +307,15 @@
     "value": 2,
     "icon": "Powder",
     "isStackable": true
+  },
+  {
+    "name": "Ashes",
+    "description": "This used to be something else, probably.",
+    "gatherString": "You get some ashes.",
+    "value": 2,
+    "icon": "Powder",
+    "isStackable": true,
+    "secondaryColor": "#DDDDDD"
   },
   {
     "name": "Sandstone",
@@ -501,6 +517,14 @@
     "experienceGainBonus": 0.15
   },
   {
+    "name": "Stick",
+    "description": "It's a stick.",
+    "gatherString": "You get a stick.",
+    "value": 2,
+    "secondaryColor": "#FFFFFF",
+    "icon": "Sticks"
+  },
+  {
     "name": "Hokibo's Feather",
     "value": 10000,
     "description": "A mystical white feather. Perhaps it goes with something?",
@@ -544,5 +568,15 @@
     "gatherSpeed": 15,
     "icon": "HammerHead",
     "secondaryColor": "#FFD700"
+  },
+  {
+    "name": "Lion's Mane Stingers",
+    "description": "A stinger filled with neurotoxin. It looks a little like a cactus spine...",
+    "gatherString": "You extract some stingers from the lion's mane.",
+    "value": 35,
+    "gatherSpeed": 10,
+    "secondaryColor": "#F25C5C",
+    "icon": "Stinger",
+    "isStackable": true
   }
 ]

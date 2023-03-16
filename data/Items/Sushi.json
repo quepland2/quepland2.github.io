@@ -509,5 +509,21 @@
       "buffedSkill": "Hunting",
       "buffAmount": 10
     }
+  },
+  {
+    "name": "Oar Fish Roll",
+    "description": "It was probably very wasteful making this roll.",
+    "gatherString": "You make an oar fish roll.",
+    "value": 2900,
+    "gatherSpeed": 15,
+    "secondaryColor": "#FF9E42",
+    "icon": "Sushi",
+    "foodInfo": {
+      "healDuration": 360,
+      "healAmount": 50,
+      "healSpeed": 5,
+      "buffedSkill": "Fishing",
+      "buffAmount": 10
+    }
   }
 ]

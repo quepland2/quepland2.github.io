@@ -78,7 +78,8 @@
     "description": "The path leads down through the thick forest to a small set of docks made from stone. The water appears to lead out to the sea on one end. It looks like at least one sailor is still using these ancient docks. A number of green plants with yellow flowers grow along where the docks meet the woods. The path continues along to the north, where the roof of a castle can be seen glowing in the distance. Strange, rectangular stones line the bottom of the shallow, clear water.",
     "areaURL": "AncientDocks",
     "npcs": [
-      "Calm Waters"
+      "Calm Waters",
+      "Sailor"
     ],
     "unlockableAreas": [
       {
@@ -127,6 +128,19 @@
         "description": "The dark long corridors of the building are stuffed with sealed treasures. With the right key, you could probably open some of them.",
         "itemExchange": "Unlock Treasures:Graingilt Castle:Graingilt Treasure Key:You put a key to a lock..."
       }
+    ]
+  },
+  {
+    "name": "Karakni Depths",
+    "id": 185,
+    "image": "Ocean",
+    "description": "The mainland has drifted entirely out of sight. The waves slowly lift the small boat up and down. The sailor is clearly seasick, leaving you to fish on your own.",
+    "areaURL": "KarakniDepths",
+    "actions": [
+      "Go Fishing:Giant Octopus,Eqalussuaq,Lion's Mane Jellyfish,Oar Fish,Colossal Squid:You lower your line down, down, down..."
+    ],
+    "npcs": [
+      "Sailor"
     ]
   }
 ]

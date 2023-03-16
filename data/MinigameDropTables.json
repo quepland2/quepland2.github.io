@@ -820,5 +820,110 @@
         }
       ]
     }
+  },
+  {
+    "areaName": "Lighthouse",
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Coins",
+          "weight": 30,
+          "amount": 7000,
+          "minAmount": 5000
+        },
+        {
+          "itemName": "Ruinous Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Rejuvinal Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Alluvial Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Momentary Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Perpetual Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Alimental Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Fierce Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Warmth Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Corporeal Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Etheral Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Thought Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Frost Seed",
+          "weight": 10,
+          "amount": 100,
+          "minAmount": 50
+        },
+        {
+          "itemName": "Honean Mantle",
+          "weight": 8,
+          "amount": 1
+        },
+        {
+          "itemName": "Honean Pants",
+          "weight": 8,
+          "amount": 1
+        },
+        {
+          "itemName": "Metacarpal Staff",
+          "weight": 4,
+          "amount": 1
+        },
+        {
+          "itemName": "Bone Fragment",
+          "weight": 4,
+          "amount": 1
+        }
+      ]
+    }
   }
 ]

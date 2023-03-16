@@ -1,0 +1,323 @@
+[
+  {
+    "name": "Grassy Stormling",
+    "hp": 2500,
+    "weaknesses": "Hammermanship",
+    "strengths": "Swordsmanship",
+    "attackSpeed": 25,
+    "armor": 35,
+    "damage": 80,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Black Wool Cape",
+          "weight": 3
+        },
+        {
+          "itemName": "Black Bear Hat",
+          "weight": 5
+        },
+        {
+          "itemName": "Black Bear Boots",
+          "weight": 5
+        },
+        {
+          "itemName": "Black Bear Pants",
+          "weight": 5
+        },
+        {
+          "itemName": "Black Bear Shirt",
+          "weight": 5
+        },
+        {
+          "itemName": "Moose Gloves",
+          "weight": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Floral Stormling",
+    "hp": 3000,
+    "weaknesses": "Swordsmanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 20,
+    "armor": 25,
+    "damage": 70,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Milk",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Bucket of Water",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Salt",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Oil",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Chicken Egg",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Sugar",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Yeast",
+          "weight": 3,
+          "amount": 3
+        },
+        {
+          "itemName": "Quern Stone",
+          "weight": 1
+        },
+        {
+          "itemName": "Small Net",
+          "weight": 1
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mossy Stormling",
+    "hp": 2400,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 15,
+    "armor": 15,
+    "damage": 35,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Green Wool Cape",
+          "weight": 3
+        },
+        {
+          "itemName": "Mammoth Hat",
+          "weight": 5
+        },
+        {
+          "itemName": "Mammoth Boots",
+          "weight": 5
+        },
+        {
+          "itemName": "Mammoth Pants",
+          "weight": 5
+        },
+        {
+          "itemName": "Mammoth Shirt",
+          "weight": 5
+        },
+        {
+          "itemName": "Polar Bear Gloves(Clawed)",
+          "weight": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "Withered Stormling",
+    "hp": 1000,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 10,
+    "armor": 5,
+    "damage": 15,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Quern Stone",
+          "weight": 5
+        },
+        {
+          "itemName": "Empty Bucket",
+          "weight": 3
+        },
+        {
+          "itemName": "Small Net",
+          "weight": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "Wilting Stormling",
+    "hp": 1100,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 18,
+    "armor": 3,
+    "damage": 20,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Copper Ore",
+          "weight": 3
+        },
+        {
+          "itemName": "Tin Ore",
+          "weight": 3
+        },
+        {
+          "itemName": "Calamine",
+          "weight": 3
+        },
+        {
+          "itemName": "Pentlandite",
+          "weight": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "Degenerate Stormling",
+    "hp": 1500,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 13,
+    "armor": 18,
+    "damage": 30,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Calamine",
+          "weight": 3
+        },
+        {
+          "itemName": "Pentlandite",
+          "weight": 3
+        },
+        {
+          "itemName": "Iron Ore",
+          "weight": 3
+        },
+        {
+          "itemName": "Coal",
+          "weight": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "Waning Stormling",
+    "hp": 1900,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 12,
+    "armor": 28,
+    "damage": 40,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Iron Ore",
+          "weight": 3
+        },
+        {
+          "itemName": "Coal",
+          "weight": 3
+        },
+        {
+          "itemName": "Bauxite",
+          "weight": 3
+        },
+        {
+          "itemName": "Galena",
+          "weight": 3
+        }
+      ]
+    }
+  },
+  {
+    "name": "Budding Stormling",
+    "hp": 2100,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 10,
+    "armor": 25,
+    "damage": 30,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Milk",
+          "weight": 3,
+          "amount": 2
+        },
+        {
+          "itemName": "Bucket of Water",
+          "weight": 3,
+          "amount": 2
+        },
+        {
+          "itemName": "Empty Bucket",
+          "weight": 3,
+          "amount": 2
+        },
+        {
+          "itemName": "Sugar",
+          "weight": 3,
+          "amount": 2
+        },
+        {
+          "itemName": "Yeast",
+          "weight": 3,
+          "amount": 2
+        },
+        {
+          "itemName": "Quern Stone",
+          "weight": 2
+        },
+        {
+          "itemName": "Small Net",
+          "weight": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "Weakened Stormling",
+    "hp": 1800,
+    "weaknesses": "Axemanship",
+    "strengths": "Hammermanship",
+    "attackSpeed": 15,
+    "armor": 11,
+    "damage": 40,
+    "dropTable": {
+      "drops": [
+        {
+          "itemName": "Deer Hat",
+          "weight": 5
+        },
+        {
+          "itemName": "Deer Boots",
+          "weight": 5
+        },
+        {
+          "itemName": "Deer Pants",
+          "weight": 5
+        },
+        {
+          "itemName": "Deer Shirt",
+          "weight": 5
+        },
+        {
+          "itemName": "Deer Gloves",
+          "weight": 1
+        }
+      ]
+    }
+  }
+]

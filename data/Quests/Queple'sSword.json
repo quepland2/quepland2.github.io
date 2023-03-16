@@ -3,7 +3,7 @@
   "id": 6,
   "completionText": "Congratulations! You solved the mystery of Queple's Sword!",
   "Description": "An ancient sword rests in a tomb. Find it and discover a way to use it, too!",
-  "progressToComplete": 10000,
+  "progressToComplete": 10,
   "flags": [
     {
       "name": "Quest Start",

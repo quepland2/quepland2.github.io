@@ -1118,6 +1118,7 @@
         "skillLevel": 85
       }
     ],
-    "maxOutputsPerAction": 1
+    "maxOutputsPerAction": 1,
+    "preventArtisanTask": true
   }
 ]

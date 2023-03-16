@@ -1,0 +1,454 @@
+[
+  {
+    "Name": "Axe Fletch",
+    "Description": "Imbue an axe with a transformative power.",
+    "Power": 0,
+    "Message": "The axe in your hand begins to quiver. It seems to have taken on a mind of its own.",
+    "Duration": 600,
+    "Target": "Gather",
+    "Data": null,
+    "Cooldown": 300,
+    "Cost": [
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Thought Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Blast",
+    "Description": "Create a burst of energy.",
+    "Power": 7,
+    "Message": " is struck with a powerful force!",
+    "Duration": 1,
+    "Target": "Monster",
+    "Data": null,
+    "Cooldown": 40,
+    "Cost": [
+      {
+        "itemName": "Fierce Seed",
+        "amount": 3
+      },
+      {
+        "itemName": "Alimental Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Breathe",
+    "Description": "Bring forth air in your lungs.",
+    "Power": 0,
+    "Message": "Your lungs are filled in an instant with a popping sound. You feel satisfied. For a while, you don't feel the need to inhale or exhale at all.",
+    "Duration": 600,
+    "Target": "Player",
+    "Data": null,
+    "Cooldown": 300,
+    "Cost": [
+      {
+        "itemName": "Alimental Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Consume",
+    "Description": "Consume the essence of much food at once.",
+    "Power": 0,
+    "Message": "The food trembles and begins to swirl around you. As it fizzles away, you feel it strengthening you!",
+    "Duration": 1,
+    "Target": "Item",
+    "Data": null,
+    "Cooldown": 50,
+    "Cost": [
+      {
+        "itemName": "Alimental Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Dehydrate",
+    "Description": "Withdraw water from objects.",
+    "Power": 0,
+    "Message": "You draw all the water out from the ",
+    "Duration": 0,
+    "Target": "Item",
+    "Data": null,
+    "Cooldown": 30,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Ruinous Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Drain",
+    "Description": "Sap the life from living beings.",
+    "Power": 4,
+    "Message": "",
+    "Duration": 30,
+    "Target": "Monster",
+    "Data": null,
+    "Cooldown": 60,
+    "Cost": [
+      {
+        "itemName": "Fierce Seed",
+        "amount": 2
+      },
+      {
+        "itemName": "Alimental Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Enchant",
+    "Description": "Bring out the magical qualities of certain neckwear.",
+    "Power": 0,
+    "Message": "",
+    "Duration": 0,
+    "Target": "Item",
+    "Data": null,
+    "Cooldown": 20,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Endure",
+    "Description": "Prepare your body to withstand the next hit.",
+    "Power": 0,
+    "Message": "You feel prepared to handle the next hit!",
+    "Duration": 30,
+    "Target": "Player",
+    "Data": null,
+    "Cooldown": 90,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Entangle",
+    "Description": "Grow vines to entrap an opponent.",
+    "Power": 0,
+    "Message": " is entangled by a magical vine!",
+    "Duration": 30,
+    "Target": "Monster",
+    "Data": null,
+    "Cooldown": 90,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Extract",
+    "Description": "Draw the essence out of items, concentrating them into magical seeds.",
+    "Power": 0,
+    "Message": "",
+    "Duration": 0,
+    "Target": "Item",
+    "Data": null,
+    "Cooldown": 5,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Hypnotize",
+    "Description": "Relax an opponent into a sleepy state.",
+    "Power": 15,
+    "Message": " grows drowsy, it's doing everything it can to just stay awake!",
+    "Duration": 30,
+    "Target": "Monster",
+    "Data": null,
+    "Cooldown": 90,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Introspect",
+    "Description": "Discover more about the intrinsic qualities of an item.",
+    "Power": 15,
+    "Message": "",
+    "Duration": 30,
+    "Target": "Item",
+    "Data": null,
+    "Cooldown": 5,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Lift",
+    "Description": "Reduce the weight of your weapon.",
+    "Power": 15,
+    "Message": "",
+    "Duration": 30,
+    "Target": "Player",
+    "Data": null,
+    "Cooldown": 20,
+    "Cost": [
+      {
+        "itemName": "Fierce Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Momentary Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Lure",
+    "Description": "Attract fish to yourself.",
+    "Power": 15,
+    "Message": "Your hands begin to tremble, followed by a horrid smell.",
+    "Duration": 600,
+    "Target": "Gather",
+    "Data": null,
+    "Cooldown": 300,
+    "Cost": [
+      {
+        "itemName": "Etheral Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Magic Needle",
+    "Description": "Conjure a self-propelled needle.",
+    "Power": 0,
+    "Message": "The needle springs to life, quickly sewing together anything it can find in your inventory.",
+    "Duration": 0,
+    "Target": "Recipe",
+    "Data": null,
+    "Cooldown": 30,
+    "Cost": [
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Thought Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Mind Trick",
+    "Description": "Confuse your opponent.",
+    "Power": 0,
+    "Message": "",
+    "Duration": 30,
+    "Target": "Monster",
+    "Data": null,
+    "Cooldown": 60,
+    "Cost": [
+      {
+        "itemName": "Fierce Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Thought Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Molten Swing",
+    "Description": "Infuse your pickaxe with an intense, magical heat.",
+    "Power": 3,
+    "Message": "The pickaxe in your hand begins to glow white hot.",
+    "Duration": 600,
+    "Target": "Gather",
+    "Data": null,
+    "Cooldown": 300,
+    "Cost": [
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Warmth Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Rain",
+    "Description": "Bring about a small, localized rainstorm.",
+    "Power": 0,
+    "Message": "The air grows thick with humidity, enveloping you in a thick fog. A sudden updraft clears your view and it begins to rain.",
+    "Duration": 0,
+    "Target": "Inventory",
+    "Data": null,
+    "Cooldown": 20,
+    "Cost": [
+      {
+        "itemName": "Alluvial Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Rally",
+    "Description": "Increase your strength from your own exhaustion.",
+    "Power": 10,
+    "Message": "Any exhaustion you have seems to melt away. You feel energized.",
+    "Duration": 30,
+    "Target": "Player",
+    "Data": null,
+    "Cooldown": 60,
+    "Cost": [
+      {
+        "itemName": "Fierce Seed",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "Name": "Reflect",
+    "Description": "Return attacks back to their attackers.",
+    "Power": 10,
+    "Message": "A cold shiver runs down your torso. A dim blue glow seems to shimmer from a field around your body.",
+    "Duration": 30,
+    "Target": "Player",
+    "Data": null,
+    "Cooldown": 60,
+    "Cost": [
+      {
+        "itemName": "Fierce Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Alimental Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Rice to Rolls",
+    "Description": "Rolls non-rolled rice into rolled rice.",
+    "Power": 0,
+    "Message": "The rice flies into the air in a flurry of grain, quickly forming spheres. Seaweed seeps out of the bottom of each roll, forming finished rolls.",
+    "Duration": 0,
+    "Target": "Inventory",
+    "Data": null,
+    "Cooldown": 30,
+    "Cost": [
+      {
+        "itemName": "Alimental Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Corporeal Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Teleport Branch",
+    "Description": "Converts regular branches into transit branches.",
+    "Power": 0,
+    "Message": "The branches in your inventory begin to tremble, then pop into the air with a sudden snap.",
+    "Duration": 0,
+    "Target": "Inventory",
+    "Data": null,
+    "Cooldown": 20,
+    "Cost": [
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 1
+      },
+      {
+        "itemName": "Momentary Seed",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "Name": "Temporal Leap",
+    "Description": "Let time wash over you.",
+    "Power": 0,
+    "Message": "The world begins to blur into a fog. Reality flows past you at in incomprehensible speed. You stumble forward, a little bit older.",
+    "Duration": 0,
+    "Target": "None",
+    "Data": null,
+    "Cooldown": 300,
+    "Cost": [
+      {
+        "itemName": "Perpetual Seed",
+        "amount": 5
+      }
+    ]
+  }
+]

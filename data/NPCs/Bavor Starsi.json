@@ -1,0 +1,14 @@
+{
+  "$schema": "npc-schema.json#",
+  "name": "Bavor Starsi",
+  "id": 202,
+  "description": "An old man with a mysterious past.",
+  "dialogs": [
+    {
+      "buttonText": "Hello",
+      "responseText": "",
+      "newDepthOnTalk": 1
+    }
+
+  ]
+}

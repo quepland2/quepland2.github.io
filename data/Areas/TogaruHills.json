@@ -280,9 +280,9 @@
     "afkActions": [
       {
         "buttonText": "Do Yoga",
-        "expPerHour": 10000,
+        "expPerHour": 30000,
         "skillTrained": "HP",
-        "bonusExp": 3000,
+        "bonusExp": 30000,
         "requirements": [
           {
             "item": "Yoga Mat",

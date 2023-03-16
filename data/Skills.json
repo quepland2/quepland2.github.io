@@ -98,5 +98,10 @@
     "name": "Textile Arts",
     "level": 1,
     "description": "Textile arts include the manipulation of fibers into cloths. There are a variety of materials that can be manipulated into some form of clothing in the world of Quepland."
+  },
+  {
+    "name": "Magic",
+    "level": 1,
+    "description": "Magic is a secret art. You'll have to find someone to teach you the basics if you want to learn the many powers to manipulate the world around you."
   }
 ]
