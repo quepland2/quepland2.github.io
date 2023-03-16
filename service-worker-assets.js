@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-rylVAzm51OFbn2FMP2oSMbUhF4k9xZb2IpVvkdMAkP8=",
+      "hash": "sha256-5HIA0MZ+z5rLVAQv9JUDOysrY7X6+gYMZzaMXdApcCw=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -117,7 +117,7 @@
       "url": "_framework\/Pluralize.NET.dll"
     },
     {
-      "hash": "sha256-JVP\/AAsQtmRNlwdturZfJKScD7bHIQ+j6BfHCOnAWts=",
+      "hash": "sha256-nAOJwUAA1K2GT8vYqiR89kJ8b2vh0URhQRpiN2NXjMQ=",
       "url": "_framework\/Quepland_2_DN6.dll"
     },
     {
@@ -3313,5 +3313,5 @@
       "url": "Services\/GameState.cs"
     }
   ],
-  "version": "MGqoETZu"
+  "version": "zwOSHyzA"
 };
