@@ -443,11 +443,11 @@
     "Duration": 0,
     "Target": "None",
     "Data": null,
-    "Cooldown": 300,
+    "Cooldown": 500,
     "Cost": [
       {
         "itemName": "Perpetual Seed",
-        "amount": 5
+        "amount": 10
       }
     ]
   }

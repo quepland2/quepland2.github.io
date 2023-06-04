@@ -219,7 +219,8 @@
           "speed": 3,
           "duration": 15,
           "message": "Your necklace flashes beautifully, you feel refreshed!",
-          "procOdds": 0.15
+          "procOdds": 0.15,
+          "SelfInflicted": true
         }
       ]
     },

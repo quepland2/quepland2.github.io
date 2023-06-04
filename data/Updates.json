@@ -1,5 +1,28 @@
 [
   {
+    "versionNumber": "1.2.1",
+    "updates": [
+      "Added the ability to right click a disabled gather button to get a menu that lets you withdraw the required item from the bank.",
+      "Magic scrolls now handle saving and loading correctly, though Unset Name items probably still are broken.",
+      "Boost tooltips now show the ticks remaining, rather than the ticks that have already passed.",
+      "Artisan taks that involve gold, silver, and platinum now require at least level 50 Artisan",
+      "Magic scrolls now have a different color for their button.",
+      "Magic scrolls now only disappear if you actually take them.",
+      "You can no longer equip items from the combat menu that you shouldn't be able to equip.",
+      "Fixed a bug that caused an exception while descending through the lighthouse.",
+      "Smithing now shows all the items again, since it was hard to know what was needed to smith otherwise.",
+      "Spells cast while still active now should tick down normally, instead of twice as fast.",
+      "You can now right-click the bank to deposit all your items. This may break something I haven't thought of...",
+      "I never reported it, but it's also possible to right click an inaccessible area in the navigation menu to get an option to withdraw the required item if you have it.",
+      "Fixed a bug with Axe Fletch on maple trees.",
+      "Molten Swing now works properly.",
+      "Temporal Leap is now more expensive and scales with the player's magic level.",
+      "Fixed some tooltip texts.",
+      "Made the aquamarine necklace healing target the player.",
+      "There are a few other changes that I failed to record."
+    ]
+  },
+  {
     "versionNumber": "1.2.0",
     "updates": [
       "Added magic skill, find scrolls around the map to learn spells. Definitely open to reworking the skill if it needs it.",
