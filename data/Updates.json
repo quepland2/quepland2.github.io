@@ -1,5 +1,11 @@
 [
   {
+    "versionNumber": "1.2.2",
+    "updates": [
+      "Fixed a bug that made scroll spells break your save if you banked them and didn't use them."
+    ]
+  },
+  {
     "versionNumber": "1.2.1",
     "updates": [
       "Added the ability to right click a disabled gather button to get a menu that lets you withdraw the required item from the bank.",
